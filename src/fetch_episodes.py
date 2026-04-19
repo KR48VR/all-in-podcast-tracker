@@ -91,8 +91,8 @@ def fetch_from_rss() -> list[dict[str, Any]]:
     for url in RSS_CANDIDATES:
         try:
             resp = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=30)
-        resp.raise_for_status()
-        parsed = feedparser.parse(resp.content)
+            resp.raise_for_status()
+            parsed = feedparser.parse(resp.content)
             if parsed.entries:
                 feed = parsed
                 break
