@@ -90,7 +90,9 @@ def fetch_from_rss() -> list[dict[str, Any]]:
     feed = None
     for url in RSS_CANDIDATES:
         try:
-            parsed = feedparser.parse(url)
+            resp = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=30)
+        resp.raise_for_status()
+        parsed = feedparser.parse(resp.content)
             if parsed.entries:
                 feed = parsed
                 break
@@ -150,7 +152,9 @@ def fetch_youtube_index() -> list[dict[str, Any]]:
     cid = os.environ.get("YOUTUBE_CHANNEL_ID") or DEFAULT_YOUTUBE_CHANNEL_ID
     url = YOUTUBE_RSS_TEMPLATE.format(cid=cid)
     try:
-        parsed = feedparser.parse(url)
+        resp = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=30)
+        resp.raise_for_status()
+        parsed = feedparser.parse(resp.content)
     except Exception as e:
         print(f"[youtube] rss parse failed: {e}", file=sys.stderr)
         return []
