@@ -1,0 +1,64 @@
+name: Weekly episode update
+
+# Runs every Saturday at 01:00 UTC = 09:00 Singapore time (SGT = UTC+8).
+# Also runnable manually from the Actions tab.
+on:
+  schedule:
+    - cron: "0 1 * * 6"
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Re-process every episode (slow, costs Groq quota)"
+        type: boolean
+        default: false
+      transcribe_audio:
+        description: "Use Whisper to transcribe episodes with no posted transcript"
+        type: boolean
+        default: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch new episodes
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          python src/fetch_episodes.py \
+            ${{ inputs.backfill && '--backfill' || '' }} \
+            ${{ inputs.transcribe_audio && '--transcribe-audio' || '' }}
+
+      - name: Analyze episodes
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          python src/analyze_episode.py \
+            ${{ inputs.backfill && '--force' || '' }}
+
+      - name: Rebuild site
+        run: python src/build_site.py
+
+      - name: Commit changes
+        run: |
+          git config user.name  "podcast-tracker-bot"
+          git config user.email "actions@github.com"
+          git add data/ site/data.json
+          if git diff --staged --quiet; then
+            echo "No changes — skipping commit."
+          else
+            git commit -m "Weekly update: $(date -u +%Y-%m-%d)"
+            git push
+          fi
