@@ -1,0 +1,567 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>All-In Podcast Tracker</title>
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .fade-in { animation: fadeIn 0.3s ease-out; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+  .prose :is(h1,h2,h3) { margin: 0.75em 0 0.35em; font-weight: 600; }
+  .prose h1 { font-size: 1.35rem; }
+  .prose h2 { font-size: 1.15rem; }
+  .prose ul { list-style: disc; padding-left: 1.25rem; }
+  .prose blockquote { border-left: 3px solid #94a3b8; padding-left: 0.75rem; color: #475569; font-style: italic; }
+</style>
+</head>
+<body class="bg-slate-50 text-slate-900">
+
+<!-- ============ HEADER ============ -->
+<header class="bg-white border-b">
+  <div class="max-w-6xl mx-auto px-5 py-5 flex items-center justify-between">
+    <div>
+      <h1 class="text-xl font-semibold">All-In Podcast Tracker</h1>
+      <p class="text-sm text-slate-500" id="generated-at">Loading…</p>
+    </div>
+    <nav class="text-sm flex gap-4">
+      <a href="#whats-new" class="text-slate-600 hover:text-slate-900">What's new</a>
+      <a href="#trends" class="text-slate-600 hover:text-slate-900">Trends</a>
+      <a href="#archive" class="text-slate-600 hover:text-slate-900">Archive</a>
+      <a href="#chat" class="text-slate-600 hover:text-slate-900">Ask</a>
+    </nav>
+  </div>
+</header>
+
+<main class="max-w-6xl mx-auto px-5 py-8 space-y-12">
+
+  <!-- ============ WHAT'S NEW ============ -->
+  <section id="whats-new">
+    <h2 class="text-lg font-semibold mb-4">This week's brief</h2>
+    <div id="brief" class="bg-white rounded-xl shadow-sm border p-6 prose max-w-none"></div>
+  </section>
+
+  <!-- ============ TRENDS ============ -->
+  <section id="trends">
+    <h2 class="text-lg font-semibold mb-4">Trends across the archive</h2>
+    <div class="grid md:grid-cols-2 gap-4">
+      <div class="bg-white rounded-xl shadow-sm border p-5">
+        <h3 class="text-sm font-medium text-slate-600 mb-3">Most-discussed topics</h3>
+        <canvas id="topicsChart" height="220"></canvas>
+      </div>
+      <div class="bg-white rounded-xl shadow-sm border p-5">
+        <h3 class="text-sm font-medium text-slate-600 mb-3">Recurring guests</h3>
+        <canvas id="guestsChart" height="220"></canvas>
+      </div>
+      <div class="bg-white rounded-xl shadow-sm border p-5 md:col-span-2">
+        <h3 class="text-sm font-medium text-slate-600 mb-3">Sentiment over time</h3>
+        <canvas id="sentimentChart" height="120"></canvas>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ ARCHIVE ============ -->
+  <section id="archive">
+    <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
+      <h2 class="text-lg font-semibold">Episode archive</h2>
+      <div class="flex items-center gap-2">
+        <input
+          id="search"
+          type="search"
+          placeholder="Search titles, topics, guests, takeaways…"
+          class="w-72 max-w-full rounded-lg border px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-slate-400"
+        />
+        <select id="topicFilter" class="rounded-lg border px-2 py-2 text-sm">
+          <option value="">All topics</option>
+        </select>
+      </div>
+    </div>
+    <div id="episodeCount" class="text-xs text-slate-500 mb-3"></div>
+    <div id="episodeList" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+  </section>
+
+  <!-- ============ CHAT ============ -->
+  <section id="chat">
+    <h2 class="text-lg font-semibold mb-4">Ask across all episodes</h2>
+    <div class="bg-white rounded-xl shadow-sm border flex flex-col h-[520px]">
+      <div id="chatLog" class="flex-1 overflow-y-auto p-5 space-y-4 text-sm">
+        <div class="text-slate-500">
+          Ask a question about anything the hosts have discussed across the archive.
+          Examples: <em>"What do Chamath and Sacks disagree on?"</em> ·
+          <em>"Summarize everything they've said about AI regulation in the last 10 episodes."</em>
+        </div>
+      </div>
+      <form id="chatForm" class="border-t p-3 flex gap-2">
+        <input
+          id="chatInput"
+          type="text"
+          class="flex-1 rounded-lg border px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-slate-400"
+          placeholder="Ask anything…"
+          autocomplete="off"
+        />
+        <button class="rounded-lg bg-slate-900 text-white px-4 py-2 text-sm hover:bg-slate-700">
+          Send
+        </button>
+      </form>
+    </div>
+    <p class="text-xs text-slate-400 mt-2">
+      Chatbot uses an open-source model via Groq. Set <code>CHAT_ENDPOINT</code>
+      in <code>site/config.js</code> to your deployed Cloudflare Worker URL.
+    </p>
+  </section>
+
+</main>
+
+<!-- ============ EPISODE MODAL ============ -->
+<div id="episodeModal" class="hidden fixed inset-0 bg-black/50 z-50 items-center justify-center p-4">
+  <div class="bg-white rounded-xl shadow-xl max-w-2xl w-full max-h-[85vh] overflow-y-auto p-6 relative fade-in">
+    <button data-close-modal aria-label="Close"
+            class="absolute top-2 right-3 text-slate-400 hover:text-slate-700 text-2xl leading-none">×</button>
+    <div id="episodeModalBody"></div>
+  </div>
+</div>
+
+<footer class="border-t bg-white mt-16">
+  <div class="max-w-6xl mx-auto px-5 py-6 text-xs text-slate-500">
+    Built from allin.com episodes · Updated weekly via GitHub Actions · Not affiliated with the All-In Podcast.
+  </div>
+</footer>
+
+<script src="config.js"></script>
+<script>
+/* ------------ State ------------ */
+let DATA = { episodes: [], trends: {}, brief_markdown: "", generated_at: "" };
+const CHAT_ENDPOINT = (window.APP_CONFIG && window.APP_CONFIG.CHAT_ENDPOINT) || "";
+
+/* ------------ Load data ------------ */
+async function load() {
+  // 1) If the page embeds data (used by the self-contained preview), use it.
+  const embedded = document.getElementById("embedded-data");
+  if (embedded) {
+    try { DATA = JSON.parse(embedded.textContent); }
+    catch (e) { console.error("Bad embedded data", e); }
+  }
+
+  // 2) Otherwise fetch data.json from the server.
+  if (!DATA.episodes || !DATA.episodes.length) {
+    try {
+      const r = await fetch("data.json", { cache: "no-store" });
+      DATA = await r.json();
+    } catch (e) {
+      console.error("Failed to load data.json", e);
+      document.getElementById("brief").innerHTML =
+        "<p>No data yet — run the pipeline once to populate the site.</p>";
+      return;
+    }
+  }
+  renderHeader();
+  renderBrief();
+  renderCharts();
+  renderArchive();
+}
+
+function renderHeader() {
+  const el = document.getElementById("generated-at");
+  if (!DATA.generated_at) { el.textContent = ""; return; }
+  const d = new Date(DATA.generated_at);
+  el.textContent =
+    `${DATA.episodes.length} episodes · updated ${d.toLocaleString()}`;
+}
+
+/* ------------ Brief ------------ */
+function renderBrief() {
+  const el = document.getElementById("brief");
+  if (!DATA.brief_markdown) {
+    el.innerHTML = "<p>No brief generated yet.</p>";
+    return;
+  }
+  el.innerHTML = marked.parse(DATA.brief_markdown);
+  // Turn `topic-slug` code-looking text and bullet guest names into clickable filters.
+  wireUpBriefFilters(el);
+}
+
+function wireUpBriefFilters(root) {
+  // All topics that exist in the archive — used to detect clickable terms.
+  const allTopics = new Set();
+  const allGuests = new Set();
+  DATA.episodes.forEach((e) => {
+    (e.topics || []).forEach((t) => allTopics.add(t));
+    (e.guests || []).forEach((g) => allGuests.add(g));
+  });
+
+  // Replace inline <code>topic</code> with a clickable span that filters the archive.
+  root.querySelectorAll("code").forEach((code) => {
+    const term = code.textContent.trim();
+    if (allTopics.has(term)) {
+      code.classList.add("cursor-pointer", "hover:bg-slate-200", "rounded", "px-1");
+      code.title = "Filter archive to this topic";
+      code.addEventListener("click", () => filterByTopic(term));
+    }
+  });
+
+  // Make guest names in list items clickable when they match.
+  root.querySelectorAll("li").forEach((li) => {
+    for (const guest of allGuests) {
+      if (li.textContent.includes(guest)) {
+        const re = new RegExp(`(${guest.replace(/[.*+?^${}()|[\\]\\\\]/g, "\\\\$&")})`);
+        li.innerHTML = li.innerHTML.replace(
+          re,
+          `<a href="#archive" data-guest="${guest}" class="underline hover:text-slate-900 cursor-pointer">$1</a>`
+        );
+      }
+    }
+  });
+  root.querySelectorAll("a[data-guest]").forEach((a) => {
+    a.addEventListener("click", (e) => {
+      e.preventDefault();
+      filterByGuest(a.dataset.guest);
+    });
+  });
+}
+
+function filterByTopic(topic) {
+  document.getElementById("search").value = "";
+  const sel = document.getElementById("topicFilter");
+  sel.value = topic;
+  sel.dispatchEvent(new Event("change"));
+  document.getElementById("archive").scrollIntoView({ behavior: "smooth" });
+}
+
+function filterByGuest(guest) {
+  document.getElementById("topicFilter").value = "";
+  const search = document.getElementById("search");
+  search.value = guest;
+  search.dispatchEvent(new Event("input"));
+  document.getElementById("archive").scrollIntoView({ behavior: "smooth" });
+}
+
+/* ------------ Charts ------------ */
+function renderCharts() {
+  const t = DATA.trends || {};
+  const topics = (t.top_topics || []).slice(0, 12);
+  const guests = (t.top_guests || []).slice(0, 8);
+  const sentiment = t.sentiment_timeline || [];
+
+  if (topics.length) {
+    new Chart(document.getElementById("topicsChart"), {
+      type: "bar",
+      data: {
+        labels: topics.map((x) => x[0]),
+        datasets: [{ data: topics.map((x) => x[1]), backgroundColor: "#0f172a" }],
+      },
+      options: {
+        indexAxis: "y",
+        plugins: {
+          legend: { display: false },
+          tooltip: { callbacks: { footer: () => "Click to filter archive" } },
+        },
+        onClick: (_evt, elements) => {
+          if (elements.length) filterByTopic(topics[elements[0].index][0]);
+        },
+        onHover: (e, els) => {
+          e.native.target.style.cursor = els.length ? "pointer" : "default";
+        },
+        scales: { x: { beginAtZero: true, ticks: { precision: 0 } } },
+      },
+    });
+  }
+
+  if (guests.length) {
+    new Chart(document.getElementById("guestsChart"), {
+      type: "bar",
+      data: {
+        labels: guests.map((x) => x[0]),
+        datasets: [{ data: guests.map((x) => x[1]), backgroundColor: "#475569" }],
+      },
+      options: {
+        indexAxis: "y",
+        plugins: {
+          legend: { display: false },
+          tooltip: { callbacks: { footer: () => "Click to filter archive" } },
+        },
+        onClick: (_evt, elements) => {
+          if (elements.length) filterByGuest(guests[elements[0].index][0]);
+        },
+        onHover: (e, els) => {
+          e.native.target.style.cursor = els.length ? "pointer" : "default";
+        },
+        scales: { x: { beginAtZero: true, ticks: { precision: 0 } } },
+      },
+    });
+  }
+
+  if (sentiment.length) {
+    const mapping = { bearish: 1, cautious: 2, mixed: 2.5, optimistic: 4 };
+    new Chart(document.getElementById("sentimentChart"), {
+      type: "line",
+      data: {
+        labels: sentiment.map((s) => s.date),
+        datasets: [{
+          data: sentiment.map((s) => mapping[s.overall] ?? 2.5),
+          label: "Tone",
+          borderColor: "#0f172a",
+          backgroundColor: "rgba(15,23,42,0.08)",
+          fill: true,
+          tension: 0.3,
+          pointRadius: 2,
+        }],
+      },
+      options: {
+        plugins: { legend: { display: false } },
+        scales: {
+          y: {
+            min: 0, max: 5,
+            ticks: {
+              stepSize: 1,
+              callback: (v) => ({1:"bearish",2:"cautious",3:"mixed",4:"optimistic"}[v] || ""),
+            },
+          },
+        },
+      },
+    });
+  }
+}
+
+/* ------------ Archive ------------ */
+function renderArchive() {
+  const list = document.getElementById("episodeList");
+  const countEl = document.getElementById("episodeCount");
+  const search = document.getElementById("search");
+  const topicFilter = document.getElementById("topicFilter");
+
+  // populate topic filter
+  const allTopics = new Set();
+  DATA.episodes.forEach((e) => (e.topics || []).forEach((t) => allTopics.add(t)));
+  [...allTopics].sort().forEach((t) => {
+    const opt = document.createElement("option");
+    opt.value = t; opt.textContent = t;
+    topicFilter.appendChild(opt);
+  });
+
+  const render = () => {
+    const q = search.value.toLowerCase().trim();
+    const topic = topicFilter.value;
+    const filtered = DATA.episodes.filter((ep) => {
+      if (topic && !(ep.topics || []).includes(topic)) return false;
+      if (!q) return true;
+      const takeawayText = (ep.takeaways || [])
+        .map((t) => (typeof t === "string" ? t : t.text || "")).join(" ");
+      const hay = [
+        ep.title, ep.summary, (ep.topics || []).join(" "),
+        (ep.guests || []).join(" "), takeawayText,
+      ].join(" ").toLowerCase();
+      return hay.includes(q);
+    });
+    countEl.textContent = `Showing ${filtered.length} of ${DATA.episodes.length}`;
+    list.innerHTML = filtered.map(cardHtml).join("");
+  };
+
+  search.addEventListener("input", render);
+  topicFilter.addEventListener("change", render);
+  render();
+}
+
+function cardHtml(ep) {
+  const date = ep.date || "";
+  const topicChips = (ep.topics || []).slice(0, 4).map(
+    (t) => `<button data-topic="${escapeHtml(t)}" class="topic-chip text-[11px] bg-slate-100 hover:bg-slate-200 text-slate-700 rounded px-1.5 py-0.5">${escapeHtml(t)}</button>`
+  ).join(" ");
+  const guestLine = (ep.guests || []).length
+    ? `<p class="text-xs text-slate-500 mt-1">Guests: ${ep.guests.map((g) => `<button data-guest="${escapeHtml(g)}" class="guest-link underline hover:text-slate-800">${escapeHtml(g)}</button>`).join(", ")}</p>`
+    : "";
+  const titleHtml = ep.url
+    ? `<a href="${escapeHtml(ep.url)}" target="_blank" rel="noopener" class="hover:underline">${escapeHtml(ep.title || "")}</a>`
+    : escapeHtml(ep.title || "");
+  const ytIcon = ep.youtube_url
+    ? ` <a href="${escapeHtml(ep.youtube_url)}" target="_blank" rel="noopener" class="text-[11px] text-red-600 hover:underline" title="Watch on YouTube">▶ YouTube</a>`
+    : "";
+  return `
+    <article class="bg-white rounded-xl shadow-sm border p-4 fade-in cursor-pointer hover:shadow-md transition" data-ep-id="${escapeHtml(ep.id)}">
+      <div class="text-xs text-slate-400 flex items-center justify-between">
+        <span>${date}${ep.number ? ` · E${ep.number}` : ""}</span>
+        <span>${ytIcon}</span>
+      </div>
+      <h3 class="font-semibold mt-1 leading-snug">${titleHtml}</h3>
+      ${guestLine}
+      <p class="text-sm text-slate-700 mt-2 line-clamp-3">${escapeHtml(ep.summary || "")}</p>
+      <div class="mt-3 flex flex-wrap gap-1">${topicChips}</div>
+      <p class="text-[11px] text-slate-400 mt-2">Click card for takeaways & timestamped moments →</p>
+    </article>
+  `;
+}
+
+function fmtTs(seconds) {
+  if (seconds == null) return "";
+  const s = Math.max(0, Math.floor(+seconds));
+  const mm = Math.floor(s / 60);
+  const ss = String(s % 60).padStart(2, "0");
+  if (mm >= 60) {
+    const h = Math.floor(mm / 60);
+    const m = String(mm % 60).padStart(2, "0");
+    return `${h}:${m}:${ss}`;
+  }
+  return `${mm}:${ss}`;
+}
+
+function tsLink(ytUrl, seconds) {
+  if (!ytUrl || seconds == null) return "";
+  const sep = ytUrl.includes("?") ? "&" : "?";
+  const s = Math.max(0, Math.floor(+seconds));
+  return `<a href="${escapeHtml(ytUrl)}${sep}t=${s}s" target="_blank" rel="noopener"
+     class="ml-1 text-[11px] bg-red-50 text-red-700 rounded px-1.5 py-0.5 hover:bg-red-100"
+     title="Jump to this moment on YouTube">▶ ${fmtTs(seconds)}</a>`;
+}
+
+function openEpisodeModal(ep) {
+  const modal = document.getElementById("episodeModal");
+  const body = document.getElementById("episodeModalBody");
+
+  const takeaways = (ep.takeaways || []).map((t) => {
+    const text = typeof t === "string" ? t : (t.text || "");
+    const ts = typeof t === "object" ? t.timestamp_seconds : null;
+    return `<li>${escapeHtml(text)}${tsLink(ep.youtube_url, ts)}</li>`;
+  }).join("");
+
+  const quotes = (ep.quotes || []).map((q) => `
+    <blockquote class="border-l-2 pl-3 text-slate-700 my-2">
+      "${escapeHtml(q.text || "")}" <span class="text-xs text-slate-500">— ${escapeHtml(q.speaker || "Unknown")}</span>
+      ${tsLink(ep.youtube_url, q.timestamp_seconds)}
+    </blockquote>`).join("");
+
+  const moments = (ep.notable_moments || []).map((m) => `
+    <li>${escapeHtml(m.description || "")}${tsLink(ep.youtube_url, m.timestamp_seconds)}</li>
+  `).join("");
+
+  body.innerHTML = `
+    <div class="flex items-center justify-between mb-4">
+      <div>
+        <div class="text-xs text-slate-400">${ep.date || ""}${ep.number ? ` · E${ep.number}` : ""}</div>
+        <h2 class="text-lg font-semibold mt-1">${escapeHtml(ep.title || "")}</h2>
+      </div>
+      <div class="flex gap-2">
+        ${ep.url ? `<a href="${escapeHtml(ep.url)}" target="_blank" rel="noopener" class="text-xs border rounded px-2 py-1 hover:bg-slate-50">Open on allin.com</a>` : ""}
+        ${ep.youtube_url ? `<a href="${escapeHtml(ep.youtube_url)}" target="_blank" rel="noopener" class="text-xs bg-red-600 text-white rounded px-2 py-1 hover:bg-red-700">▶ YouTube</a>` : ""}
+      </div>
+    </div>
+    <p class="text-sm text-slate-700 mb-4">${escapeHtml(ep.summary || "")}</p>
+    <h3 class="font-semibold text-sm mb-1">Key takeaways</h3>
+    <ul class="list-disc pl-5 text-sm space-y-1">${takeaways || "<li>(none)</li>"}</ul>
+    ${quotes ? `<h3 class="font-semibold text-sm mt-4 mb-1">Notable quotes</h3>${quotes}` : ""}
+    ${moments ? `<h3 class="font-semibold text-sm mt-4 mb-1">Notable moments</h3><ul class="list-disc pl-5 text-sm space-y-1">${moments}</ul>` : ""}
+    ${(ep.topics || []).length ? `<div class="mt-4 flex flex-wrap gap-1">${
+      ep.topics.map((t) => `<button class="topic-chip text-[11px] bg-slate-100 hover:bg-slate-200 rounded px-1.5 py-0.5" data-topic="${escapeHtml(t)}">${escapeHtml(t)}</button>`).join(" ")
+    }</div>` : ""}
+  `;
+  modal.classList.remove("hidden");
+  modal.classList.add("flex");
+}
+
+function closeEpisodeModal() {
+  const modal = document.getElementById("episodeModal");
+  modal.classList.add("hidden");
+  modal.classList.remove("flex");
+}
+
+// Delegate clicks
+document.addEventListener("click", (e) => {
+  // Topic/guest chips filter the archive
+  const topicBtn = e.target.closest(".topic-chip");
+  if (topicBtn) { filterByTopic(topicBtn.dataset.topic); closeEpisodeModal(); return; }
+  const guestBtn = e.target.closest(".guest-link");
+  if (guestBtn) { filterByGuest(guestBtn.dataset.guest); return; }
+
+  // Episode card (but not clicks on inner links/buttons)
+  const card = e.target.closest("[data-ep-id]");
+  if (card && !e.target.closest("a,button")) {
+    const ep = DATA.episodes.find((x) => x.id === card.dataset.epId);
+    if (ep) openEpisodeModal(ep);
+    return;
+  }
+
+  // Modal close
+  if (e.target.id === "episodeModal" || e.target.dataset.closeModal) {
+    closeEpisodeModal();
+  }
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") closeEpisodeModal();
+});
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, (c) =>
+    ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+}
+
+/* ------------ Chat ------------ */
+document.getElementById("chatForm").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const input = document.getElementById("chatInput");
+  const log = document.getElementById("chatLog");
+  const q = input.value.trim();
+  if (!q) return;
+  addMessage(log, "user", q);
+  input.value = "";
+
+  if (!CHAT_ENDPOINT) {
+    addMessage(log, "assistant",
+      "⚠️ Chat endpoint not configured. Edit site/config.js and set CHAT_ENDPOINT to your deployed Cloudflare Worker URL.");
+    return;
+  }
+
+  const loading = addMessage(log, "assistant", "Thinking…");
+  try {
+    const r = await fetch(CHAT_ENDPOINT, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        question: q,
+        // Send trimmed episode context; the Worker decides what to use.
+        episodes: DATA.episodes.map((e) => ({
+          id: e.id, title: e.title, date: e.date,
+          summary: e.summary, takeaways: e.takeaways,
+          quotes: e.quotes, topics: e.topics, guests: e.guests,
+          youtube_url: e.youtube_url,
+        })),
+      }),
+    });
+    const json = await r.json();
+    // Render as Markdown so the model's [▶ mm:ss](url?t=Ns) links become clickable.
+    loading.innerHTML = marked.parse(json.answer || "(no response)");
+    loading.classList.add("prose", "prose-sm", "max-w-none");
+    if (json.citations?.length) {
+      const cites = document.createElement("div");
+      cites.className = "text-xs text-slate-500 mt-1";
+      cites.innerHTML = "Sources: " + json.citations
+        .map((c) => `<a class="underline" href="#archive">${escapeHtml(c)}</a>`).join(", ");
+      loading.appendChild(cites);
+    }
+  } catch (err) {
+    loading.textContent = "Error reaching the chat backend: " + err.message;
+  }
+});
+
+function addMessage(log, role, text) {
+  const row = document.createElement("div");
+  row.className = "flex " + (role === "user" ? "justify-end" : "justify-start");
+  const bubble = document.createElement("div");
+  bubble.className =
+    "max-w-[80%] rounded-xl px-3 py-2 fade-in " +
+    (role === "user"
+      ? "bg-slate-900 text-white"
+      : "bg-slate-100 text-slate-800");
+  bubble.textContent = text;
+  row.appendChild(bubble);
+  log.appendChild(row);
+  log.scrollTop = log.scrollHeight;
+  return bubble;
+}
+
+load();
+</script>
+
+</body>
+</html>
