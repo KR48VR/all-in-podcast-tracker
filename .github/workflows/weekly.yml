@@ -37,6 +37,8 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch new episodes
+        timeout-minutes: 180
+        continue-on-error: true
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
@@ -45,6 +47,8 @@ jobs:
             ${{ inputs.transcribe_audio && '--transcribe-audio' || '' }}
 
       - name: Analyze episodes
+        timeout-minutes: 90
+        continue-on-error: true
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
@@ -52,15 +56,17 @@ jobs:
             ${{ inputs.backfill && '--force' || '' }}
 
       - name: Rebuild site
+        if: always()
         run: python src/build_site.py
 
       - name: Commit changes
+        if: always()
         run: |
           git config user.name  "podcast-tracker-bot"
           git config user.email "actions@github.com"
           git add data/ site/data.json
           if git diff --staged --quiet; then
-            echo "No changes — skipping commit."
+            echo "No changes - skipping commit."
           else
             git commit -m "Weekly update: $(date -u +%Y-%m-%d)"
             git push
