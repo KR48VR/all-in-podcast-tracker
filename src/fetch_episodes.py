@@ -35,8 +35,10 @@ ROOT = Path(__file__).resolve().parent.parent
 EPISODES_DIR = ROOT / "data" / "episodes"
 EPISODES_DIR.mkdir(parents=True, exist_ok=True)
 
-# Audio RSS (Megaphone). Falls back through the list on failure.
+# Audio RSS (Libsyn is the canonical feed). Falls back through the list on failure.
 RSS_CANDIDATES = [
+    "https://allinchamathjason.libsyn.com/rss",
+    "https://feeds.libsyn.com/121508/rss",
     "https://feeds.megaphone.fm/all-in-with-chamath-jason-sacks-friedberg",
     "https://allin.com/rss",
 ]
