@@ -18,7 +18,9 @@ from __future__ import annotations
 import json
 import os
 import re
+import subprocess
 import sys
+import tempfile
 import time
 from datetime import datetime
 from difflib import SequenceMatcher
@@ -226,6 +228,15 @@ def fetch_transcript_from_allin(episode_url: str) -> Optional[str]:
     return None
 
 
+# Groq's free Whisper tier caps uploads ~25MB. All-In episodes are 1.5–2 hours
+# which is ~100MB at normal podcast quality — too big. We compress to 16kHz mono
+# Opus at 24kbps (Whisper's preferred shape) which shrinks a 2-hour file to ~22MB.
+# If a show is still too long after compression, we split into chunks and stitch
+# the timestamps back together.
+GROQ_MAX_UPLOAD_MB = 24
+WHISPER_CHUNK_SECONDS = 25 * 60  # 25-minute chunks when splitting
+
+
 def transcribe_with_groq(
     audio_url: str, api_key: str
 ) -> tuple[str, list[dict[str, Any]]]:
@@ -237,31 +248,90 @@ def transcribe_with_groq(
     """
     if not audio_url or not api_key:
         return "", []
-    try:
-        audio = requests.get(audio_url, headers=HEADERS, timeout=180).content
-    except Exception as e:
-        print(f"[transcribe] audio download failed: {e}", file=sys.stderr)
-        return "", []
 
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp_path = Path(tmp)
+        raw = tmp_path / "raw.mp3"
+        try:
+            audio = requests.get(audio_url, headers=HEADERS, timeout=300).content
+            raw.write_bytes(audio)
+        except Exception as e:
+            print(f"[transcribe] audio download failed: {e}", file=sys.stderr)
+            return "", []
+
+        compressed = tmp_path / "compressed.ogg"
+        if not _compress_audio(raw, compressed):
+            return "", []
+
+        size_mb = compressed.stat().st_size / (1024 * 1024)
+        if size_mb <= GROQ_MAX_UPLOAD_MB:
+            return _transcribe_file(compressed, api_key, offset=0.0)
+
+        # Still too large — chunk into smaller pieces and stitch.
+        return _transcribe_chunked(compressed, api_key, tmp_path)
+
+
+def _compress_audio(src: Path, dst: Path) -> bool:
+    """Shrink audio to 16kHz mono Opus @ 24kbps using ffmpeg."""
     try:
-        r = requests.post(
-            "https://api.groq.com/openai/v1/audio/transcriptions",
-            headers={"Authorization": f"Bearer {api_key}"},
-            files={"file": ("episode.mp3", audio, "audio/mpeg")},
-            data={
-                "model": "whisper-large-v3",
-                "response_format": "verbose_json",
-                "timestamp_granularities[]": "segment",
-            },
-            timeout=900,
+        subprocess.run(
+            [
+                "ffmpeg", "-y", "-loglevel", "error",
+                "-i", str(src),
+                "-ac", "1", "-ar", "16000",
+                "-c:a", "libopus", "-b:a", "24k",
+                str(dst),
+            ],
+            check=True, capture_output=True, timeout=900,
         )
+        return True
+    except Exception as e:
+        print(f"[transcribe] ffmpeg compress failed: {e}", file=sys.stderr)
+        return False
+
+
+def _audio_duration_seconds(path: Path) -> float:
+    """Ask ffprobe how long the audio file is."""
+    try:
+        out = subprocess.run(
+            [
+                "ffprobe", "-v", "error",
+                "-show_entries", "format=duration",
+                "-of", "default=noprint_wrappers=1:nokey=1",
+                str(path),
+            ],
+            check=True, capture_output=True, text=True, timeout=60,
+        )
+        return float(out.stdout.strip())
+    except Exception as e:
+        print(f"[transcribe] ffprobe failed: {e}", file=sys.stderr)
+        return 0.0
+
+
+def _transcribe_file(
+    path: Path, api_key: str, offset: float = 0.0
+) -> tuple[str, list[dict[str, Any]]]:
+    """Send one audio file to Groq Whisper and shift segment timestamps by offset."""
+    try:
+        with open(path, "rb") as f:
+            r = requests.post(
+                "https://api.groq.com/openai/v1/audio/transcriptions",
+                headers={"Authorization": f"Bearer {api_key}"},
+                files={"file": (path.name, f, "audio/ogg")},
+                data={
+                    "model": "whisper-large-v3",
+                    "response_format": "verbose_json",
+                    "timestamp_granularities[]": "segment",
+                },
+                timeout=900,
+            )
         r.raise_for_status()
         data = r.json()
         text = data.get("text", "") or ""
         segments = [
             {
-                "start": round(s.get("start", 0), 2),
-                "end": round(s.get("end", 0), 2),
+                "start": round(s.get("start", 0) + offset, 2),
+                "end": round(s.get("end", 0) + offset, 2),
                 "text": s.get("text", "").strip(),
             }
             for s in data.get("segments", [])
@@ -270,6 +340,46 @@ def transcribe_with_groq(
     except Exception as e:
         print(f"[transcribe] groq failed: {e}", file=sys.stderr)
         return "", []
+
+
+def _transcribe_chunked(
+    compressed: Path, api_key: str, tmp_path: Path
+) -> tuple[str, list[dict[str, Any]]]:
+    """Split compressed audio into chunks, transcribe each, stitch results."""
+    duration = _audio_duration_seconds(compressed)
+    if duration <= 0:
+        return "", []
+
+    texts: list[str] = []
+    segments: list[dict[str, Any]] = []
+    t = 0.0
+    idx = 0
+    while t < duration:
+        chunk_path = tmp_path / f"chunk_{idx:03d}.ogg"
+        try:
+            subprocess.run(
+                [
+                    "ffmpeg", "-y", "-loglevel", "error",
+                    "-ss", str(t),
+                    "-t", str(WHISPER_CHUNK_SECONDS),
+                    "-i", str(compressed),
+                    "-c", "copy",
+                    str(chunk_path),
+                ],
+                check=True, capture_output=True, timeout=600,
+            )
+        except Exception as e:
+            print(f"[transcribe] ffmpeg chunk {idx} failed: {e}", file=sys.stderr)
+            break
+
+        text, segs = _transcribe_file(chunk_path, api_key, offset=t)
+        if text:
+            texts.append(text)
+        segments.extend(segs)
+        t += WHISPER_CHUNK_SECONDS
+        idx += 1
+
+    return " ".join(texts), segments
 
 
 # ---- Orchestration ----------------------------------------------------------
