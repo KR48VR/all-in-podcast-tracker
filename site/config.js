@@ -2,5 +2,5 @@
 // (e.g. https://allin-chat.<your-subdomain>.workers.dev).
 // Leave it as "" to disable the chatbot while you set things up.
 window.APP_CONFIG = {
-  CHAT_ENDPOINT: ""
+  CHAT_ENDPOINT: "https://allin-chat.mentalboy2000.workers.dev"
 };
