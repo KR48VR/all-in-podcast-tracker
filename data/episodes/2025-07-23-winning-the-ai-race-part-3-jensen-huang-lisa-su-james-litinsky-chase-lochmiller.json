@@ -1,0 +1,109 @@
+{
+  "id": "2025-07-23-winning-the-ai-race-part-3-jensen-huang-lisa-su-james-litinsky-chase-lochmiller",
+  "number": null,
+  "title": "Winning the AI Race Part 3: Jensen Huang, Lisa Su, James Litinsky, Chase Lochmiller",
+  "date": "2025-07-23",
+  "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-part-3-jensen-huang-lisa-su-james-litinsky-chase-lochmiller",
+  "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_AIDAY_SESSION3_Enabling_Ch.mp3?dest-id=1928300",
+  "youtube_url": "",
+  "youtube_video_id": "",
+  "description": "<p>(0:00) James Litinsky, MP Materials</p> <p>(13:32) Lisa Su, AMD</p> <p>(29:45) Chase Lochmiller, Crusoe</p> <p>(43:26) Jensen Huang, Nvidia</p> <p class=\"e-91037-text encore-text-body-medium\"><span><span class=\"sc-ftmehX jALEcE\"><span>Thanks to our partners for making this happen:</span></span></span></p> <p class=\"e-91037-text encore-text-body-medium\"><span><span class=\"sc-ftmehX jALEcE\"><span>NYSE : <a href=\"https://www.nyse.com\">https://www.nyse.com</a></span></span></span></p> <p class=\"e-91037-text encore-text-body-medium\"><span><span class=\"sc-ftmehX jALEcE\"><span>Visa: <a href=\"https://usa.visa.com\">https://usa.visa.com</a></span></span></span></p> <p class=\"e-91037-text encore-text-body-medium\">Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://x.com/TheZachEffect\">https://x.com/TheZachEffect</a></p>",
+  "guests": [],
+  "transcript": "",
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast discusses the AI race with guests Jensen Huang, Lisa Su, James Litinsky, and Chase Lochmiller. They cover various topics including AI safety, chip manufacturing, and the future of AI. The guests share their insights and experiences in the field.",
+    "takeaways": [
+      {
+        "text": "AI safety is a major concern",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Chip manufacturing is crucial for AI development",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Nvidia is a leader in AI hardware",
+        "timestamp_seconds": 43
+      },
+      {
+        "text": "AMD is working on AI-specific chips",
+        "timestamp_seconds": 13
+      },
+      {
+        "text": "Crusoe is using AI for energy efficiency",
+        "timestamp_seconds": 30
+      },
+      {
+        "text": "MP Materials is supplying rare earth materials for AI",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "The US needs to invest in AI research and development",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "AI will have a significant impact on various industries",
+        "timestamp_seconds": null
+      }
+    ],
+    "quotes": [
+      {
+        "text": "AI is the future",
+        "speaker": "Jensen Huang",
+        "timestamp_seconds": 43
+      },
+      {
+        "text": "AI is a key focus",
+        "speaker": "Lisa Su",
+        "timestamp_seconds": 13
+      },
+      {
+        "text": "Rare earth materials are crucial",
+        "speaker": "James Litinsky",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "AI can reduce energy consumption",
+        "speaker": "Chase Lochmiller",
+        "timestamp_seconds": 30
+      }
+    ],
+    "topics": [
+      "ai-race",
+      "ai-safety",
+      "chip-manufacturing",
+      "ai-hardware",
+      "energy-efficiency",
+      "rare-earth-materials"
+    ],
+    "guests": [
+      "Jensen Huang",
+      "Lisa Su",
+      "James Litinsky",
+      "Chase Lochmiller"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The guests and hosts are excited about the potential of AI and its applications, but also acknowledge the challenges and concerns surrounding it."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "James Litinsky discusses MP Materials"
+      },
+      {
+        "timestamp_seconds": 13,
+        "description": "Lisa Su talks about AMD's AI efforts"
+      },
+      {
+        "timestamp_seconds": 30,
+        "description": "Chase Lochmiller discusses Crusoe's AI work"
+      },
+      {
+        "timestamp_seconds": 43,
+        "description": "Jensen Huang shares his insights on Nvidia and AI"
+      }
+    ]
+  }
+}

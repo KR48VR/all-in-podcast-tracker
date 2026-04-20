@@ -1,0 +1,366 @@
+{
+  "top_topics": [
+    [
+      "trump-administration",
+      3
+    ],
+    [
+      "stripe",
+      2
+    ],
+    [
+      "ai",
+      2
+    ],
+    [
+      "tariffs",
+      2
+    ],
+    [
+      "social-security",
+      2
+    ],
+    [
+      "economy",
+      2
+    ],
+    [
+      "ai-safety",
+      2
+    ],
+    [
+      "stablecoins",
+      1
+    ],
+    [
+      "doge",
+      1
+    ],
+    [
+      "grok-3",
+      1
+    ],
+    [
+      "ai-models",
+      1
+    ],
+    [
+      "asteroid-update",
+      1
+    ],
+    [
+      "us-defense-budget",
+      1
+    ],
+    [
+      "memecoins",
+      1
+    ],
+    [
+      "epstein-files",
+      1
+    ],
+    [
+      "autonomous-robots",
+      1
+    ],
+    [
+      "state-of-the-market",
+      1
+    ],
+    [
+      "trump",
+      1
+    ],
+    [
+      "gold-card",
+      1
+    ],
+    [
+      "adyen",
+      1
+    ],
+    [
+      "company-building",
+      1
+    ],
+    [
+      "great-reset",
+      1
+    ],
+    [
+      "market-chaos",
+      1
+    ],
+    [
+      "bitcoin-reserve",
+      1
+    ],
+    [
+      "coreweave-ipo",
+      1
+    ]
+  ],
+  "topic_timeline": {
+    "stablecoins": [
+      "2025-02-21"
+    ],
+    "stripe": [
+      "2025-02-21",
+      "2025-03-01"
+    ],
+    "doge": [
+      "2025-02-21"
+    ],
+    "grok-3": [
+      "2025-02-21"
+    ],
+    "ai-models": [
+      "2025-02-21"
+    ],
+    "asteroid-update": [
+      "2025-02-21"
+    ],
+    "us-defense-budget": [
+      "2025-02-21"
+    ],
+    "memecoins": [
+      "2025-02-21"
+    ],
+    "epstein-files": [
+      "2025-03-01"
+    ],
+    "autonomous-robots": [
+      "2025-03-01"
+    ],
+    "state-of-the-market": [
+      "2025-03-01"
+    ],
+    "trump": [
+      "2025-03-01"
+    ],
+    "gold-card": [
+      "2025-03-01"
+    ],
+    "adyen": [
+      "2025-03-01"
+    ],
+    "ai": [
+      "2025-03-01",
+      "2025-03-20"
+    ],
+    "company-building": [
+      "2025-03-01"
+    ],
+    "great-reset": [
+      "2025-03-01"
+    ],
+    "trump-administration": [
+      "2025-03-08",
+      "2025-03-19",
+      "2025-03-20"
+    ],
+    "tariffs": [
+      "2025-03-08",
+      "2025-03-20"
+    ],
+    "market-chaos": [
+      "2025-03-08"
+    ],
+    "bitcoin-reserve": [
+      "2025-03-08"
+    ],
+    "coreweave-ipo": [
+      "2025-03-08"
+    ],
+    "ukraine-russia-conflict": [
+      "2025-03-08"
+    ],
+    "language-models": [
+      "2025-03-08"
+    ],
+    "economic-rebalance": [
+      "2025-03-08"
+    ],
+    "disclosures": [
+      "2025-03-08"
+    ],
+    "american-dream": [
+      "2025-03-15"
+    ],
+    "housing-market": [
+      "2025-03-15"
+    ],
+    "social-security": [
+      "2025-03-15",
+      "2025-03-19"
+    ],
+    "stock-market": [
+      "2025-03-15"
+    ],
+    "comedy": [
+      "2025-03-15"
+    ],
+    "cancel-culture": [
+      "2025-03-15"
+    ],
+    "state-of-america": [
+      "2025-03-15"
+    ],
+    "economy": [
+      "2025-03-19",
+      "2025-03-20"
+    ],
+    "macro-investing": [
+      "2025-03-19"
+    ],
+    "deregulation": [
+      "2025-03-19"
+    ],
+    "energy": [
+      "2025-03-19"
+    ],
+    "debt": [
+      "2025-03-19"
+    ],
+    "main-street": [
+      "2025-03-19"
+    ],
+    "wall-street": [
+      "2025-03-19"
+    ],
+    "irs": [
+      "2025-03-19"
+    ],
+    "politics": [
+      "2025-03-20"
+    ],
+    "government-software": [
+      "2025-03-20"
+    ],
+    "sovereign-wealth-fund": [
+      "2025-03-20"
+    ],
+    "ai-race": [
+      "2025-07-23"
+    ],
+    "ai-safety": [
+      "2025-07-23",
+      "2025-10-31"
+    ],
+    "chip-manufacturing": [
+      "2025-07-23"
+    ],
+    "ai-hardware": [
+      "2025-07-23"
+    ],
+    "energy-efficiency": [
+      "2025-07-23"
+    ],
+    "rare-earth-materials": [
+      "2025-07-23"
+    ],
+    "free-speech": [
+      "2025-10-31"
+    ],
+    "climate-change": [
+      "2025-10-31"
+    ],
+    "self-driving-cars": [
+      "2025-10-31"
+    ],
+    "tesla": [
+      "2025-10-31"
+    ],
+    "openai": [
+      "2025-10-31"
+    ],
+    "information-on-the-internet": [
+      "2025-10-31"
+    ],
+    "confirmation-bias": [
+      "2025-10-31"
+    ]
+  },
+  "top_guests": [
+    [
+      "John Collison",
+      1
+    ],
+    [
+      "Patrick Collison",
+      1
+    ],
+    [
+      "Joe Lonsdale",
+      1
+    ],
+    [
+      "Andrew Schulz",
+      1
+    ],
+    [
+      "Scott Bessent",
+      1
+    ],
+    [
+      "Howard Lutnick",
+      1
+    ],
+    [
+      "Jensen Huang",
+      1
+    ],
+    [
+      "Lisa Su",
+      1
+    ],
+    [
+      "James Litinsky",
+      1
+    ],
+    [
+      "Chase Lochmiller",
+      1
+    ],
+    [
+      "Elon Musk",
+      1
+    ]
+  ],
+  "sentiment_timeline": [
+    {
+      "date": "2025-02-21",
+      "overall": "optimistic"
+    },
+    {
+      "date": "2025-03-01",
+      "overall": "mixed"
+    },
+    {
+      "date": "2025-03-08",
+      "overall": "mixed"
+    },
+    {
+      "date": "2025-03-15",
+      "overall": "mixed"
+    },
+    {
+      "date": "2025-03-19",
+      "overall": "mixed"
+    },
+    {
+      "date": "2025-03-20",
+      "overall": "mixed"
+    },
+    {
+      "date": "2025-07-23",
+      "overall": "optimistic"
+    },
+    {
+      "date": "2025-10-31",
+      "overall": "mixed"
+    }
+  ],
+  "episode_count": 133
+}
