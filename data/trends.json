@@ -1,15 +1,51 @@
 {
   "top_topics": [
     [
+      "economy",
+      6
+    ],
+    [
+      "politics",
+      4
+    ],
+    [
+      "ai-safety",
+      3
+    ],
+    [
+      "ai",
+      3
+    ],
+    [
       "trump-administration",
       3
     ],
     [
-      "stripe",
+      "foreign-policy",
       2
     ],
     [
-      "ai",
+      "government-spending",
+      2
+    ],
+    [
+      "covid-19",
+      2
+    ],
+    [
+      "debt-ceiling",
+      2
+    ],
+    [
+      "ai-hardware",
+      2
+    ],
+    [
+      "immigration",
+      2
+    ],
+    [
+      "stripe",
       2
     ],
     [
@@ -21,87 +57,216 @@
       2
     ],
     [
-      "economy",
-      2
-    ],
-    [
-      "ai-safety",
-      2
-    ],
-    [
-      "stablecoins",
+      "big-tech",
       1
     ],
     [
-      "doge",
+      "ai-adoption",
       1
     ],
     [
-      "grok-3",
+      "lab-grown-meat",
       1
     ],
     [
-      "ai-models",
+      "sf-commercial-real-estate",
       1
     ],
     [
-      "asteroid-update",
+      "rfk-jr-presidential-bid",
       1
     ],
     [
-      "us-defense-budget",
+      "google-cloud",
       1
     ],
     [
-      "memecoins",
+      "alphabet-ai",
       1
     ],
     [
-      "epstein-files",
+      "macroeconomics",
       1
     ],
     [
-      "autonomous-robots",
+      "vaccines",
       1
     ],
     [
-      "state-of-the-market",
+      "energy-policy",
       1
     ],
     [
-      "trump",
-      1
-    ],
-    [
-      "gold-card",
-      1
-    ],
-    [
-      "adyen",
-      1
-    ],
-    [
-      "company-building",
-      1
-    ],
-    [
-      "great-reset",
-      1
-    ],
-    [
-      "market-chaos",
-      1
-    ],
-    [
-      "bitcoin-reserve",
-      1
-    ],
-    [
-      "coreweave-ipo",
+      "culture-wars",
       1
     ]
   ],
   "topic_timeline": {
+    "big-tech": [
+      "2023-04-28"
+    ],
+    "ai-adoption": [
+      "2023-04-28"
+    ],
+    "lab-grown-meat": [
+      "2023-04-28"
+    ],
+    "sf-commercial-real-estate": [
+      "2023-04-28"
+    ],
+    "rfk-jr-presidential-bid": [
+      "2023-04-28"
+    ],
+    "google-cloud": [
+      "2023-04-28"
+    ],
+    "alphabet-ai": [
+      "2023-04-28"
+    ],
+    "macroeconomics": [
+      "2023-04-28"
+    ],
+    "foreign-policy": [
+      "2023-05-05",
+      "2024-06-20"
+    ],
+    "government-spending": [
+      "2023-05-05",
+      "2023-05-26"
+    ],
+    "covid-19": [
+      "2023-05-05",
+      "2024-06-20"
+    ],
+    "vaccines": [
+      "2023-05-05"
+    ],
+    "energy-policy": [
+      "2023-05-05"
+    ],
+    "culture-wars": [
+      "2023-05-05"
+    ],
+    "media-trust": [
+      "2023-05-05"
+    ],
+    "deep-state": [
+      "2023-05-05"
+    ],
+    "agency-capture": [
+      "2023-05-05"
+    ],
+    "ai-regulation": [
+      "2023-05-19"
+    ],
+    "ai-safety": [
+      "2023-05-19",
+      "2025-07-23",
+      "2025-10-31"
+    ],
+    "twitter": [
+      "2023-05-19"
+    ],
+    "apple": [
+      "2023-05-19"
+    ],
+    "real-estate": [
+      "2023-05-19"
+    ],
+    "george-soros": [
+      "2023-05-19"
+    ],
+    "politics": [
+      "2023-05-19",
+      "2023-05-26",
+      "2023-07-09",
+      "2025-03-20"
+    ],
+    "tech-news": [
+      "2023-05-19"
+    ],
+    "debt-ceiling": [
+      "2023-05-26",
+      "2023-06-02"
+    ],
+    "nvidia": [
+      "2023-05-26"
+    ],
+    "silicon-valley": [
+      "2023-05-26"
+    ],
+    "startups": [
+      "2023-05-26"
+    ],
+    "vc": [
+      "2023-05-26"
+    ],
+    "ai": [
+      "2023-05-26",
+      "2025-03-01",
+      "2025-03-20"
+    ],
+    "technology": [
+      "2023-05-26"
+    ],
+    "economy": [
+      "2023-05-26",
+      "2023-06-02",
+      "2023-07-09",
+      "2024-06-20",
+      "2025-03-19",
+      "2025-03-20"
+    ],
+    "us-politics": [
+      "2023-06-02"
+    ],
+    "usd-dominance": [
+      "2023-06-02"
+    ],
+    "ai-hardware": [
+      "2023-06-02",
+      "2025-07-23"
+    ],
+    "book-banning": [
+      "2023-06-02"
+    ],
+    "populism": [
+      "2023-06-02"
+    ],
+    "meta-threads": [
+      "2023-07-09"
+    ],
+    "ai-decline": [
+      "2023-07-09"
+    ],
+    "fed-meeting": [
+      "2023-07-09"
+    ],
+    "immigration-debate": [
+      "2023-07-09"
+    ],
+    "chinese-balloon": [
+      "2023-07-09"
+    ],
+    "heart-health": [
+      "2023-07-09"
+    ],
+    "federal-debt": [
+      "2024-06-20"
+    ],
+    "abortion": [
+      "2024-06-20"
+    ],
+    "border-control": [
+      "2024-06-20"
+    ],
+    "immigration": [
+      "2024-06-20",
+      "2025-07-23"
+    ],
+    "jfk-files": [
+      "2024-06-20"
+    ],
     "stablecoins": [
       "2025-02-21"
     ],
@@ -144,10 +309,6 @@
     ],
     "adyen": [
       "2025-03-01"
-    ],
-    "ai": [
-      "2025-03-01",
-      "2025-03-20"
     ],
     "company-building": [
       "2025-03-01"
@@ -207,10 +368,6 @@
     "state-of-america": [
       "2025-03-15"
     ],
-    "economy": [
-      "2025-03-19",
-      "2025-03-20"
-    ],
     "macro-investing": [
       "2025-03-19"
     ],
@@ -232,26 +389,34 @@
     "irs": [
       "2025-03-19"
     ],
-    "politics": [
-      "2025-03-20"
-    ],
     "government-software": [
       "2025-03-20"
     ],
     "sovereign-wealth-fund": [
       "2025-03-20"
     ],
+    "ai-policy": [
+      "2025-07-23"
+    ],
+    "us-china-relations": [
+      "2025-07-23"
+    ],
+    "ai-impact-on-jobs": [
+      "2025-07-23"
+    ],
+    "national-champions": [
+      "2025-07-23"
+    ],
+    "diplomatic-relations": [
+      "2025-07-23"
+    ],
+    "tech-industry": [
+      "2025-07-23"
+    ],
     "ai-race": [
       "2025-07-23"
     ],
-    "ai-safety": [
-      "2025-07-23",
-      "2025-10-31"
-    ],
     "chip-manufacturing": [
-      "2025-07-23"
-    ],
-    "ai-hardware": [
       "2025-07-23"
     ],
     "energy-efficiency": [
@@ -280,9 +445,38 @@
     ],
     "confirmation-bias": [
       "2025-10-31"
+    ],
+    "ai-revolution": [
+      "2026-01-08"
+    ],
+    "vc-investments": [
+      "2026-01-08"
+    ],
+    "hospital-acquisitions": [
+      "2026-01-08"
+    ],
+    "education-reform": [
+      "2026-01-08"
+    ],
+    "job-market": [
+      "2026-01-08"
+    ],
+    "tech-innovation": [
+      "2026-01-08"
+    ],
+    "cfo-cio-collaboration": [
+      "2026-01-08"
     ]
   },
   "top_guests": [
+    [
+      "Robert F. Kennedy Jr.",
+      1
+    ],
+    [
+      "President Trump",
+      1
+    ],
     [
       "John Collison",
       1
@@ -308,6 +502,10 @@
       1
     ],
     [
+      "JD Vance",
+      1
+    ],
+    [
       "Jensen Huang",
       1
     ],
@@ -326,9 +524,45 @@
     [
       "Elon Musk",
       1
+    ],
+    [
+      "Bob Sternfels",
+      1
+    ],
+    [
+      "Hemant Taneja",
+      1
     ]
   ],
   "sentiment_timeline": [
+    {
+      "date": "2023-04-28",
+      "overall": "cautious"
+    },
+    {
+      "date": "2023-05-05",
+      "overall": "cautious"
+    },
+    {
+      "date": "2023-05-19",
+      "overall": "cautious"
+    },
+    {
+      "date": "2023-05-26",
+      "overall": "cautious"
+    },
+    {
+      "date": "2023-06-02",
+      "overall": "cautious"
+    },
+    {
+      "date": "2023-07-09",
+      "overall": "mixed"
+    },
+    {
+      "date": "2024-06-20",
+      "overall": "mixed"
+    },
     {
       "date": "2025-02-21",
       "overall": "optimistic"
@@ -358,9 +592,17 @@
       "overall": "optimistic"
     },
     {
+      "date": "2025-07-23",
+      "overall": "optimistic"
+    },
+    {
       "date": "2025-10-31",
       "overall": "mixed"
+    },
+    {
+      "date": "2026-01-08",
+      "overall": "optimistic"
     }
   ],
-  "episode_count": 133
+  "episode_count": 230
 }

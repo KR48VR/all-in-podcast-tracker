@@ -113,11 +113,11 @@
       "notable_moments": []
     },
     {
-      "id": "2026-03-23-how-matt-mahan-thinks-he-can-save-california",
+      "id": "2026-03-23-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren",
       "number": null,
-      "title": "How Matt Mahan Thinks He Can Save California",
+      "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
       "date": "2026-03-23",
-      "url": "https://allinchamathjason.libsyn.com/how-matt-mahan-thinks-he-can-save-california",
+      "url": "https://allinchamathjason.libsyn.com/four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren",
       "youtube_url": "",
       "youtube_video_id": "",
       "summary": "",
@@ -129,11 +129,11 @@
       "notable_moments": []
     },
     {
-      "id": "2026-03-23-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren",
+      "id": "2026-03-23-how-matt-mahan-thinks-he-can-save-california",
       "number": null,
-      "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+      "title": "How Matt Mahan Thinks He Can Save California",
       "date": "2026-03-23",
-      "url": "https://allinchamathjason.libsyn.com/four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren",
+      "url": "https://allinchamathjason.libsyn.com/how-matt-mahan-thinks-he-can-save-california",
       "youtube_url": "",
       "youtube_video_id": "",
       "summary": "",
@@ -568,13 +568,76 @@
       "url": "https://allinchamathjason.libsyn.com/why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses the rapid pace of innovation, the role of VC's in buying hospitals, and the impact of AI on the job market and education. Guests Bob Sternfels and Hemant Taneja share their insights on unlocking growth and the future of tech. The episode also touches on the broken education system and the need for change.",
+      "takeaways": [
+        {
+          "text": "AI will dwarf every tech revolution before it",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "VC's are buying hospitals to drive innovation",
+          "timestamp_seconds": 2
+        },
+        {
+          "text": "CFOs and CIOs have different priorities",
+          "timestamp_seconds": 9
+        },
+        {
+          "text": "Graduates are not getting hired due to skills mismatch",
+          "timestamp_seconds": 20
+        },
+        {
+          "text": "Education system is broken and needs reform",
+          "timestamp_seconds": 27
+        },
+        {
+          "text": "Tech innovation is happening at an unprecedented pace",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Unlocking growth requires collaboration between CFOs and CIOs",
+          "timestamp_seconds": 9
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI will change everything",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Innovation is key",
+          "speaker": "Hemant Taneja",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "ai-revolution",
+        "vc-investments",
+        "hospital-acquisitions",
+        "education-reform",
+        "job-market",
+        "tech-innovation",
+        "cfo-cio-collaboration"
+      ],
+      "guests": [
+        "Bob Sternfels",
+        "Hemant Taneja"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has an overall optimistic tone, with guests and hosts discussing the potential of AI and tech innovation to drive growth and change."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Guest intros"
+        },
+        {
+          "timestamp_seconds": 40,
+          "description": "Tech time capsule discussion"
+        }
+      ]
     },
     {
       "id": "2025-12-31-massive-somali-fraud-in-minnesota-with-nick-shirley-california-asset-seizure-20b",
@@ -1160,22 +1223,6 @@
       "notable_moments": []
     },
     {
-      "id": "2025-09-30-science-corner-special-david-friedberg-cleo-abram-alex-filippenko-and-keller-rin",
-      "number": null,
-      "title": "Science Corner Special: David Friedberg, Cleo Abram, Alex Filippenko, and Keller Rinaudo Cliffton",
-      "date": "2025-09-30",
-      "url": "https://allinchamathjason.libsyn.com/science-corner-special-david-friedberg-cleo-abram-alex-filippenko-and-keller-rinaudo-cliffton",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
-    },
-    {
       "id": "2025-09-30-rick-caruso-on-californias-collapse-broken-leadership-la-wildfire-failures-the-f",
       "number": null,
       "title": "Rick Caruso on California's Collapse: Broken Leadership, LA Wildfire Failures & the Fix",
@@ -1197,6 +1244,22 @@
       "title": "Arm CEO Rene Haas on AI: Nvidia Lessons, Intel's Decline and the US-China Chip War",
       "date": "2025-09-30",
       "url": "https://allinchamathjason.libsyn.com/arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2025-09-30-science-corner-special-david-friedberg-cleo-abram-alex-filippenko-and-keller-rin",
+      "number": null,
+      "title": "Science Corner Special: David Friedberg, Cleo Abram, Alex Filippenko, and Keller Rinaudo Cliffton",
+      "date": "2025-09-30",
+      "url": "https://allinchamathjason.libsyn.com/science-corner-special-david-friedberg-cleo-abram-alex-filippenko-and-keller-rinaudo-cliffton",
       "youtube_url": "",
       "youtube_video_id": "",
       "summary": "",
@@ -1384,22 +1447,6 @@
       "notable_moments": []
     },
     {
-      "id": "2025-09-09-the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-202",
-      "number": null,
-      "title": "The New Era of the Stock Market with Nasdaq CEO Adena Friedman | All-In Summit 2025",
-      "date": "2025-09-09",
-      "url": "https://allinchamathjason.libsyn.com/the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-2025",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
-    },
-    {
       "id": "2025-09-09-how-to-save-america-mark-cuban-and-tucker-carlson-debate-all-in-summit-2025",
       "number": null,
       "title": "How to Save America: Mark Cuban and Tucker Carlson Debate | All-In Summit 2025",
@@ -1421,6 +1468,22 @@
       "title": "Palantir CEO Alex Karp: Why the West is Destroying Itself, Data Empire, Skeptics, How to Win",
       "date": "2025-09-09",
       "url": "https://allinchamathjason.libsyn.com/palantir-ceo-alex-karp-why-the-west-is-destroying-itself-data-empire-skeptics-how-to-win",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2025-09-09-the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-202",
+      "number": null,
+      "title": "The New Era of the Stock Market with Nasdaq CEO Adena Friedman | All-In Summit 2025",
+      "date": "2025-09-09",
+      "url": "https://allinchamathjason.libsyn.com/the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-2025",
       "youtube_url": "",
       "youtube_video_id": "",
       "summary": "",
@@ -1608,22 +1671,6 @@
       "notable_moments": []
     },
     {
-      "id": "2025-07-23-winning-the-ai-race-part-2-vice-president-jd-vance",
-      "number": null,
-      "title": "Winning the AI Race Part 2: Vice President JD Vance",
-      "date": "2025-07-23",
-      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-vice-president-jd-vance",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
-    },
-    {
       "id": "2025-07-23-winning-the-ai-race-part-3-jensen-huang-lisa-su-james-litinsky-chase-lochmiller",
       "number": null,
       "title": "Winning the AI Race Part 3: Jensen Huang, Lisa Su, James Litinsky, Chase Lochmiller",
@@ -1722,6 +1769,92 @@
         {
           "timestamp_seconds": 43,
           "description": "Jensen Huang shares his insights on Nvidia and AI"
+        }
+      ]
+    },
+    {
+      "id": "2025-07-23-winning-the-ai-race-part-2-vice-president-jd-vance",
+      "number": null,
+      "title": "Winning the AI Race Part 2: Vice President JD Vance",
+      "date": "2025-07-23",
+      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-vice-president-jd-vance",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Podcast discusses the AI race with JD Vance, covering topics such as immigration, AI policy, and diplomatic relations. They also delve into the impact of AI on jobs and the concept of 'National Champions' in strategic industries. The conversation touches on Vance's experience working at the White House with David Sacks.",
+      "takeaways": [
+        {
+          "text": "AI policy is crucial for the US to stay competitive",
+          "timestamp_seconds": 6
+        },
+        {
+          "text": "Immigration can help the US attract top AI talent",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "The US needs to strike a balance in its relationship with China",
+          "timestamp_seconds": 9
+        },
+        {
+          "text": "AI will significantly impact jobs, requiring a new approach to work",
+          "timestamp_seconds": 16
+        },
+        {
+          "text": "The concept of 'National Champions' can help the US stay competitive in strategic industries",
+          "timestamp_seconds": 22
+        },
+        {
+          "text": "Diplomatic relations will be affected by the widespread adoption of AI",
+          "timestamp_seconds": 12
+        },
+        {
+          "text": "The US needs to facilitate the growth of its tech industry to stay competitive",
+          "timestamp_seconds": 24
+        },
+        {
+          "text": "The White House is taking steps to address the impact of AI on the US economy",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI is a game-changer",
+          "speaker": "JD Vance",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "National Champions",
+          "speaker": "Unknown",
+          "timestamp_seconds": 22
+        }
+      ],
+      "topics": [
+        "ai-policy",
+        "immigration",
+        "us-china-relations",
+        "ai-impact-on-jobs",
+        "national-champions",
+        "diplomatic-relations",
+        "tech-industry"
+      ],
+      "guests": [
+        "JD Vance"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is focused on finding solutions to the challenges posed by AI, and the tone is generally positive and forward-looking."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "JD Vance is introduced as the guest"
+        },
+        {
+          "timestamp_seconds": 6,
+          "description": "The discussion on AI policy begins"
+        },
+        {
+          "timestamp_seconds": 16,
+          "description": "The impact of AI on jobs is discussed"
         }
       ]
     },
@@ -2683,20 +2816,2086 @@
           "description": "Arc Institute's Evo 2 AI model discussion starts"
         }
       ]
+    },
+    {
+      "id": "2025-02-15-jd-vances-ai-speech-techno-optimists-vs-doomers-tariffs-ai-court-cases-with-nava",
+      "number": null,
+      "title": "JD Vance's AI Speech, Techno-Optimists vs Doomers, Tariffs, AI Court Cases with Naval Ravikant",
+      "date": "2025-02-15",
+      "url": "https://allinchamathjason.libsyn.com/jd-vances-ai-speech-techno-optimists-vs-doomers-tariffs-ai-court-cases-with-naval-ravikant",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2025-02-07-doge-vs-usaid-crypto-framework-googles-75b-ai-spend-us-sovereign-wealth-fund-glp",
+      "number": null,
+      "title": "DOGE vs USAID, Crypto Framework, Google's $75B AI Spend, US Sovereign Wealth Fund, GLP-1s",
+      "date": "2025-02-07",
+      "url": "https://allinchamathjason.libsyn.com/doge-vs-usaid-crypto-framework-googles-75b-ai-spend-us-sovereign-wealth-fund-glp-1s",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2025-01-31-deepseek-panic-us-vs-china-openai-40b-and-doge-delivers-with-travis-kalanick-and",
+      "number": null,
+      "title": "DeepSeek Panic, US vs China, OpenAI $40B?, and Doge Delivers with Travis Kalanick and David Sacks",
+      "date": "2025-01-31",
+      "url": "https://allinchamathjason.libsyn.com/deepseek-panic-us-vs-china-openai-40b-and-doge-delivers-with-travis-kalanick-and-david-sacks",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2025-01-28-ray-dalio-the-all-in-interview",
+      "number": null,
+      "title": "Ray Dalio | The All-In Interview",
+      "date": "2025-01-28",
+      "url": "https://allinchamathjason.libsyn.com/ray-dalio-the-all-in-interview",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2025-01-25-trumps-first-week-inauguration-recap-executive-actions-tiktok-stargate-sacks-is-",
+      "number": null,
+      "title": "Trump's First Week: Inauguration Recap, Executive Actions, TikTok, Stargate + Sacks is Back!",
+      "date": "2025-01-25",
+      "url": "https://allinchamathjason.libsyn.com/trumps-first-week-inauguration-recap-executive-actions-tiktok-stargate-sacks-is-back",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2025-01-20-inauguration-interviews-trumps-talent-democratic-rebrand-more-with-house-whip-em",
+      "number": null,
+      "title": "Inauguration Interviews: Trump's Talent, Democratic Rebrand & more with House Whip Emmer, Reps Swalwell & Khanna",
+      "date": "2025-01-20",
+      "url": "https://allinchamathjason.libsyn.com/inauguration-interviews-trumps-talent-democratic-rebrand-more-with-house-whip-emmer-reps-swalwell-khanna",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2025-01-19-senator-ted-cruz-the-all-in-inauguration-series",
+      "number": null,
+      "title": "Senator Ted Cruz | The All-In Inauguration Series",
+      "date": "2025-01-19",
+      "url": "https://allinchamathjason.libsyn.com/senator-ted-cruz-the-all-in-inauguration-series",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2025-01-18-red-pilled-billionaires-la-fire-update-newsoms-price-caps-tiktok-ban-jobless-mba",
+      "number": null,
+      "title": "Red-pilled Billionaires, LA Fire Update, Newsom's Price Caps, TikTok Ban, Jobless MBAs",
+      "date": "2025-01-18",
+      "url": "https://allinchamathjason.libsyn.com/red-pilled-billionaires-la-fire-update-newsoms-price-caps-tiktok-ban-jobless-mbas",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2025-01-11-las-wildfire-disaster-zuck-flips-on-free-speech-why-trump-wants-greenland",
+      "number": null,
+      "title": "LA's Wildfire Disaster, Zuck Flips on Free Speech, Why Trump Wants Greenland",
+      "date": "2025-01-11",
+      "url": "https://allinchamathjason.libsyn.com/las-wildfire-disaster-zuck-flips-on-free-speech-why-trump-wants-greenland",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2025-01-04-2025-predictions-with-bestie-gavin-baker",
+      "number": null,
+      "title": "2025 Predictions with bestie Gavin Baker",
+      "date": "2025-01-04",
+      "url": "https://allinchamathjason.libsyn.com/2025-predictions-with-bestie-gavin-baker",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-12-20-doge-kills-its-first-bill-zuck-vs-openai-googles-ai-comeback-with-bestie-aaron-l",
+      "number": null,
+      "title": "DOGE kills its first bill, Zuck vs OpenAI, Google's AI comeback with bestie Aaron Levie",
+      "date": "2024-12-20",
+      "url": "https://allinchamathjason.libsyn.com/doge-kills-its-first-bill-zuck-vs-openai-googles-ai-comeback-with-bestie-aaron-levie",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-12-13-trumps-cabinet-googles-quantum-chip-apples-flop-tiktok-state-of-vc-with-bestie-k",
+      "number": null,
+      "title": "Trump's Cabinet, Google's Quantum Chip, Apple's Flop, TikTok, State of VC with bestie Keith Rabois",
+      "date": "2024-12-13",
+      "url": "https://allinchamathjason.libsyn.com/trumps-cabinet-googles-quantum-chip-apples-ios-flop-tiktok-ban-state-of-vc-with-keith-rabois",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-12-07-new-sec-chair-bitcoin-xai-supercomputer-unitedhealth-ceo-murder-with-gavin-baker",
+      "number": null,
+      "title": "New SEC Chair, Bitcoin, xAI Supercomputer, UnitedHealth CEO murder, with Gavin Baker & Joe Lonsdale",
+      "date": "2024-12-07",
+      "url": "https://allinchamathjason.libsyn.com/new-sec-chair-bitcoin-xai-supercomputer-unitedhealth-ceo-murder-with-gavin-baker-joe-lonsdale",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-11-23-doge-unveils-a-roadmap-unlocking-gdp-growth-ww3-escalation-fat-cell-memory",
+      "number": null,
+      "title": "DOGE unveils a roadmap, Unlocking GDP Growth, WW3 escalation, Fat cell memory",
+      "date": "2024-11-23",
+      "url": "https://allinchamathjason.libsyn.com/doge-unveils-a-roadmap-unlocking-gdp-growth-ww3-escalation-fat-cell-memory",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-11-16-trumps-market-impact-bitcoin-ma-ipos-transition-picks-polymarket-ceo-raided-by-f",
+      "number": null,
+      "title": "Trump's market impact: Bitcoin, M&A, IPOs + transition picks; Polymarket CEO raided by FBI",
+      "date": "2024-11-16",
+      "url": "https://allinchamathjason.libsyn.com/trumps-market-impact-bitcoin-ma-ipos-transition-picks-polymarket-ceo-raided-by-fbi",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-11-08-trump-wins-how-it-happened-and-whats-next",
+      "number": null,
+      "title": "Trump wins! How it happened and what's next",
+      "date": "2024-11-08",
+      "url": "https://allinchamathjason.libsyn.com/trump-wins-how-it-happened-and-whats-next",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-11-01-inflated-gdp-google-earnings-how-the-media-lost-trust-rogantrump-search-controve",
+      "number": null,
+      "title": "Inflated GDP?, Google earnings, How the media lost trust, Rogan/Trump search controversy, Election!",
+      "date": "2024-11-01",
+      "url": "https://allinchamathjason.libsyn.com/inflated-gdp-google-earnings-how-the-media-lost-trust-rogantrump-search-controversy-election",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-10-25-markets-turn-trump-long-rates-spike-election-home-stretch-influencer-mania-savin",
+      "number": null,
+      "title": "Markets turn Trump, Long rates spike, Election home stretch, Influencer mania, Saving Starbucks",
+      "date": "2024-10-25",
+      "url": "https://allinchamathjason.libsyn.com/markets-turn-trump-long-rates-spike-election-home-stretch-influencer-mania-saving-starbucks",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-10-18-dueling-presidential-interviews-spacexs-big-catch-robotaxis-uber-buying-expedia-",
+      "number": null,
+      "title": "Dueling Presidential interviews, SpaceX's big catch, Robotaxis, Uber buying Expedia?, Nuclear NIMBY",
+      "date": "2024-10-18",
+      "url": "https://allinchamathjason.libsyn.com/dueling-presidential-interviews-spacexs-big-catch-robotaxis-uber-buying-expedia-nuclear-nimby",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-10-15-jd-vance-all-in-summit-2024",
+      "number": null,
+      "title": "JD Vance | All-In Summit 2024",
+      "date": "2024-10-15",
+      "url": "https://allinchamathjason.libsyn.com/jd-vance-all-in-summit-2024",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-10-11-hurricane-fallout-alphafold-google-breakup-trump-surge-vc-giveback-tiktok-survey",
+      "number": null,
+      "title": "Hurricane fallout, AlphaFold, Google breakup, Trump surge, VC giveback, TikTok survey",
+      "date": "2024-10-11",
+      "url": "https://allinchamathjason.libsyn.com/hurricane-fallout-alphafold-google-breakup-jayters-ball-vc-giveback-tiktok-survey",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-10-08-elon-musk-all-in-summit-2024",
+      "number": null,
+      "title": "Elon Musk | All-In Summit 2024",
+      "date": "2024-10-08",
+      "url": "https://allinchamathjason.libsyn.com/elon-musk-all-in-summit-2024",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-10-03-in-conversation-with-mark-cuban",
+      "number": null,
+      "title": "In conversation with Mark Cuban",
+      "date": "2024-10-03",
+      "url": "https://allinchamathjason.libsyn.com/in-conversation-with-mark-cuban",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-10-01-john-mearsheimer-and-jeffrey-sachs-all-in-summit-2024",
+      "number": null,
+      "title": "John Mearsheimer and Jeffrey Sachs | All-In Summit 2024",
+      "date": "2024-10-01",
+      "url": "https://allinchamathjason.libsyn.com/john-mearsheimer-and-jeffrey-sachs-all-in-summit-2024",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-09-27-openais-150b-conversion-metas-ar-glasses-blue-collar-boom-risk-of-nuclear-war",
+      "number": null,
+      "title": "OpenAI's $150B conversion, Meta's AR glasses, Blue-collar boom, Risk of nuclear war",
+      "date": "2024-09-27",
+      "url": "https://allinchamathjason.libsyn.com/openais-150b-conversion-metas-ar-glasses-blue-collar-boom-risk-of-nuclear-war",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-09-20-big-fed-rate-cuts-ai-killing-call-centers-50b-govt-boondoggle-vcs-rough-years-tr",
+      "number": null,
+      "title": "Big Fed rate cuts, AI killing call centers, $50B govt boondoggle, VC's rough years, Trump/Kamala",
+      "date": "2024-09-20",
+      "url": "https://allinchamathjason.libsyn.com/big-fed-rate-cuts-ai-killing-call-centers-50b-govt-boondoggle-vcs-rough-years-trumpkamala",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-09-06-founder-mode-doj-alleges-russian-podcast-op-kamala-flips-proposals-tech-loses-se",
+      "number": null,
+      "title": "\"Founder Mode,\" DOJ alleges Russian podcast op, Kamala flips proposals, Tech loses Section 230?",
+      "date": "2024-09-06",
+      "url": "https://allinchamathjason.libsyn.com/founder-mode-doj-alleges-russian-media-op-kamala-flips-proposals-tech-loses-section-230",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-08-30-in-conversation-with-reid-hoffman-robert-f-kennedy-jr",
+      "number": null,
+      "title": "In conversation with Reid Hoffman & Robert F. Kennedy Jr.",
+      "date": "2024-08-30",
+      "url": "https://allinchamathjason.libsyn.com/in-conversation-with-reid-hoffman-robert-f-kennedy-jr",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-08-23-massive-jobs-revision-kamalas-wealth-tax-polls-vs-prediction-markets-end-of-race",
+      "number": null,
+      "title": "Massive jobs revision, Kamala's wealth tax, polls vs prediction markets, end of race-based admissions",
+      "date": "2024-08-23",
+      "url": "https://allinchamathjason.libsyn.com/massive-jobs-revision-kamalas-wealth-tax-polls-vs-prediction-markets-end-of-race-based-admissions",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-08-16-break-up-google-starbucks-ceo-out-kamalas-price-controls-boeing-disaster-kursk-o",
+      "number": null,
+      "title": "Break up Google, Starbucks CEO out, Kamala's price controls, Boeing disaster, Kursk offensive",
+      "date": "2024-08-16",
+      "url": "https://allinchamathjason.libsyn.com/break-up-google-starbucks-ceo-out-kamalas-price-controls-boeing-disaster-kursk-offensive",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-08-09-yen-carry-trade-recession-odds-grow-buffett-cash-pile-google-ruled-monopoly-kama",
+      "number": null,
+      "title": "Yen Carry Trade, Recession odds grow, Buffett cash pile, Google ruled monopoly, Kamala picks Walz",
+      "date": "2024-08-09",
+      "url": "https://allinchamathjason.libsyn.com/yen-carry-trade-recession-odds-grow-buffett-cash-pile-google-ruled-monopoly-kamala-picks-walz",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-08-02-kamala-surges-trump-at-nabj-recession-fears-middle-east-escalation-ackman-postpo",
+      "number": null,
+      "title": "Kamala surges, Trump at NABJ, recession fears, Middle East escalation, Ackman postpones IPO",
+      "date": "2024-08-02",
+      "url": "https://allinchamathjason.libsyn.com/kamala-surges-trump-at-nabj-recession-fears-middle-east-escalation-ackman-postpones-ipo",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-07-26-mag-7-sell-off-wiz-rejects-google-ubi-kamala-in-chinas-nuclear-buildout-sacks-re",
+      "number": null,
+      "title": "Mag 7 sell-off, Wiz rejects Google, UBI, Kamala in, China's nuclear buildout, Sacks responds to PG",
+      "date": "2024-07-26",
+      "url": "https://allinchamathjason.libsyn.com/mag-7-sell-off-wiz-rejects-google-ubi-kamala-in-chinas-nuclear-buildout-sacks-responds-to-pg",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-07-19-trump-assassination-attempt-secret-service-failure-inside-the-rnc-vc-liquidity-p",
+      "number": null,
+      "title": "Trump assassination attempt, Secret Service failure, Inside the RNC, VC liquidity problem",
+      "date": "2024-07-19",
+      "url": "https://allinchamathjason.libsyn.com/trump-assassination-attempt-secret-service-failure-inside-the-rnc-vc-liquidity-problem",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-07-12-biden-chaos-soft-landing-secured-ai-sentiment-turns-bearish-french-elections",
+      "number": null,
+      "title": "Biden chaos, Soft landing secured? AI sentiment turns bearish, French elections",
+      "date": "2024-07-12",
+      "url": "https://allinchamathjason.libsyn.com/biden-chaos-soft-landing-secured-ai-sentiment-turns-bearish-french-elections",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-07-10-jonathan-haidt-the-all-in-interview",
+      "number": null,
+      "title": "Jonathan Haidt | The All-In Interview",
+      "date": "2024-07-10",
+      "url": "https://allinchamathjason.libsyn.com/the-jonathan-haidt-interview",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-07-04-hot-swap-growing-donors-revolt-president-kamala-scotus-breakdown-immunity-chevro",
+      "number": null,
+      "title": "Hot Swap growing, donors revolt, President Kamala? SCOTUS breakdown: Immunity, Chevron, Censorship",
+      "date": "2024-07-04",
+      "url": "https://allinchamathjason.libsyn.com/hot-swap-growing-donors-revolt-president-kamala-scotus-breakdown-immunity-chevron-censorship",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-06-29-presidential-debate-reaction-biden-hot-swap-tech-unemployment-openai-considers-f",
+      "number": null,
+      "title": "Presidential Debate Reaction, Biden Hot Swap?, Tech unemployment, OpenAI considers for-profit & more",
+      "date": "2024-06-29",
+      "url": "https://allinchamathjason.libsyn.com/presidential-debate-reaction-biden-hot-swap-tech-unemployment-openai-considers-for-profit-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-06-20-in-conversation-with-president-trump",
+      "number": null,
+      "title": "In conversation with President Trump",
+      "date": "2024-06-20",
+      "url": "https://allinchamathjason.libsyn.com/in-conversation-with-president-trump",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Podcast hosts interview President Trump, discussing various topics including the economy, federal debt, foreign policy, abortion, and COVID-19. They also touch on border control, the JFK Files, and debate predictions. The conversation covers a wide range of issues, with President Trump sharing his stance on several key topics.",
+      "takeaways": [
+        {
+          "text": "President Trump discusses his economic policies",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "Federal debt growth is a major concern",
+          "timestamp_seconds": 12
+        },
+        {
+          "text": "President Trump shares his views on foreign policy",
+          "timestamp_seconds": 20
+        },
+        {
+          "text": "Abortion is a highly debated topic",
+          "timestamp_seconds": 28
+        },
+        {
+          "text": "President Trump talks about COVID-19 origins",
+          "timestamp_seconds": 32
+        },
+        {
+          "text": "Border control and immigration are key issues",
+          "timestamp_seconds": 39
+        },
+        {
+          "text": "President Trump predicts debate outcomes",
+          "timestamp_seconds": 48
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Taming inflation",
+          "speaker": "President Trump",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "Cut spending",
+          "speaker": "President Trump",
+          "timestamp_seconds": 12
+        }
+      ],
+      "topics": [
+        "economy",
+        "federal-debt",
+        "foreign-policy",
+        "abortion",
+        "covid-19",
+        "border-control",
+        "immigration",
+        "jfk-files"
+      ],
+      "guests": [
+        "President Trump"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The conversation covers a wide range of topics, with both optimistic and cautious views expressed. President Trump's stance on various issues is discussed, with some topics being more contentious than others."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 20,
+          "description": "President Trump discusses foreign policy"
+        },
+        {
+          "timestamp_seconds": 28,
+          "description": "Abortion debate"
+        },
+        {
+          "timestamp_seconds": 48,
+          "description": "Debate prediction"
+        }
+      ]
+    },
+    {
+      "id": "2024-06-14-elon-gets-paid-apples-ai-pop-openai-revenue-rip-macro-debate-inside-trump-fundra",
+      "number": null,
+      "title": "Elon gets paid, Apple's AI pop, OpenAI revenue rip, Macro debate & Inside Trump Fundraiser",
+      "date": "2024-06-14",
+      "url": "https://allinchamathjason.libsyn.com/elon-gets-paid-apples-ai-pop-openai-revenue-rip-macro-debate-inside-trump-fundraiser",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-06-07-doj-targets-nvidia-meme-stock-comeback-trump-fundraiser-in-sf-appleopenai-texas-",
+      "number": null,
+      "title": "DOJ targets Nvidia, Meme stock comeback, Trump fundraiser in SF, Apple/OpenAI, Texas stock market",
+      "date": "2024-06-07",
+      "url": "https://allinchamathjason.libsyn.com/doj-targets-nvidia-meme-stock-comeback-trump-fundraiser-in-sf-appleopenai-texas-stock-market",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-05-31-trump-verdict-covid-cover-up-crypto-corner-salesforce-drops-20-ai-correction",
+      "number": null,
+      "title": "Trump verdict, COVID Cover-up, Crypto Corner, Salesforce drops 20%, AI correction?",
+      "date": "2024-05-31",
+      "url": "https://allinchamathjason.libsyn.com/trump-verdict-covid-cover-up-crypto-corner-salesforce-drops-20-ai-correction",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-05-24-scarlett-johansson-vs-openai-nvidias-trillion-dollar-problem-the-vibecession-pla",
+      "number": null,
+      "title": "Scarlett Johansson vs OpenAI, Nvidia's trillion-dollar problem, the \"vibecession,\" plastic in our balls",
+      "date": "2024-05-24",
+      "url": "https://allinchamathjason.libsyn.com/scarlett-johansson-vs-openai-nvidias-trillion-dollar-problem-the-vibecession-plastic-in-our-balls",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-05-17-gpt-4o-launches-glue-demo-ohalo-breakthrough-drucks-argentina-bet-did-google-kil",
+      "number": null,
+      "title": "GPT-4o launches, Glue demo, Ohalo breakthrough, Druck's Argentina bet, did Google kill Perplexity?",
+      "date": "2024-05-17",
+      "url": "https://allinchamathjason.libsyn.com/gpt-4o-launches-glue-demo-ohalo-breakthrough-drucks-argentina-bet-did-google-kill-perplexity",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-05-10-in-conversation-with-sam-altman",
+      "number": null,
+      "title": "In conversation with Sam Altman",
+      "date": "2024-05-10",
+      "url": "https://allinchamathjason.libsyn.com/in-conversation-with-sam-altman",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-05-03-in-conversation-with-sheryl-sandberg-plus-open-source-ai-gene-editing-explained",
+      "number": null,
+      "title": "In conversation with Sheryl Sandberg, plus open-source AI gene editing explained",
+      "date": "2024-05-03",
+      "url": "https://allinchamathjason.libsyn.com/in-conversation-with-sheryl-sandberg-plus-open-source-ai-gene-editing-explained",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-04-26-metas-scorched-earth-approach-to-ai-teslas-future-tiktok-bill-ftc-bans-noncompet",
+      "number": null,
+      "title": "Meta's scorched earth approach to AI, Tesla's future, TikTok bill, FTC bans noncompetes, wealth tax",
+      "date": "2024-04-26",
+      "url": "https://allinchamathjason.libsyn.com/metas-scorched-earth-approach-to-ai-teslas-future-tiktok-bill-ftc-bans-non-competes-wealth-tax",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-04-19-google-fires-protestors-npr-chaos-humanes-ai-pin-startup-tax-crisis-sports-betti",
+      "number": null,
+      "title": "Google fires protestors, NPR chaos, Humane's AI Pin, Startup tax crisis, sports betting scandal",
+      "date": "2024-04-19",
+      "url": "https://allinchamathjason.libsyn.com/google-fires-protestors-npr-chaos-humanes-ai-pin-startup-tax-crisis-sports-betting-scandal",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-04-12-inflation-stays-hot-ai-disclosure-bill-drone-warfare-defense-startups-more",
+      "number": 174,
+      "title": "Inflation stays hot, AI disclosure bill, Drone warfare, defense startups & more",
+      "date": "2024-04-12",
+      "url": "https://allinchamathjason.libsyn.com/e174-inflation-stays-hot-ai-disclosure-bill-drone-warfare-defense-startups-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-04-05-google-buying-hubspot-ftx-depositors-not-made-whole-ai-job-fears-ukraine-joining",
+      "number": 173,
+      "title": "Google buying HubSpot? FTX depositors not made whole, AI job fears, Ukraine joining NATO",
+      "date": "2024-04-05",
+      "url": "https://allinchamathjason.libsyn.com/e173-google-buying-hubspot-ftx-depositors-not-made-whole-ai-job-fears-ukraine-joining-nato",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-03-29-sbf-gets-25-years-trumps-meme-stock-rfk-jr-picks-vp-bidens-2025-budget-more",
+      "number": 172,
+      "title": "SBF gets 25 years, Trump's meme stock, RFK Jr picks VP, Biden's 2025 budget & more",
+      "date": "2024-03-29",
+      "url": "https://allinchamathjason.libsyn.com/e172-sbf-gets-25-years-trumps-meme-stock-rfk-jr-picks-vp-bidens-2025-budget-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-03-22-doj-sues-apple-ai-arms-race-reddit-ipo-realtor-settlement-more",
+      "number": 171,
+      "title": "DOJ sues Apple, AI arms race, Reddit IPO, Realtor settlement & more",
+      "date": "2024-03-22",
+      "url": "https://allinchamathjason.libsyn.com/e171-doj-sues-apple-ai-arms-race-reddit-ipo-nar-settlement-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-03-15-techs-vibe-shift-tiktok-ban-debate-vertical-ai-boom-florida-bans-lab-grown-meat-",
+      "number": 170,
+      "title": "Tech's Vibe Shift, TikTok ban debate, Vertical AI boom, Florida bans lab-grown meat & more",
+      "date": "2024-03-15",
+      "url": "https://allinchamathjason.libsyn.com/e170-techs-vibe-shift-tiktok-ban-debate-vertical-ai-boom-florida-bans-lab-grown-meat-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-03-08-elon-sues-openai-apples-decline-tiktok-ban-bitcoin-100k-science-corner-microplas",
+      "number": 169,
+      "title": "Elon sues OpenAI, Apple's decline, TikTok ban, Bitcoin $100K?, Science corner: Microplastics",
+      "date": "2024-03-08",
+      "url": "https://allinchamathjason.libsyn.com/e169-elon-sues-openai-apples-decline-tiktok-ban-bitcoin-100k-science-corner-microplastics",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-03-01-can-google-save-itself-ai-takes-over-customer-support-reddit-ipo-teardown",
+      "number": 168,
+      "title": "Can Google save itself? AI takes over Customer Support, Reddit IPO teardown",
+      "date": "2024-03-01",
+      "url": "https://allinchamathjason.libsyn.com/e168-can-google-save-itself-ai-takes-over-customer-support-reddit-ipo-teardown",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-02-23-nvidia-smashes-earnings-again-googles-woke-ai-disaster-groqs-lpu-breakthrough-mo",
+      "number": 167,
+      "title": "Nvidia smashes earnings (again), Google's Woke AI disaster, Groq's LPU breakthrough & more",
+      "date": "2024-02-23",
+      "url": "https://allinchamathjason.libsyn.com/e167-nvidia-smashes-earnings-again-googles-woke-ai-disaster-groqs-lpu-breakthrough-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-02-16-mind-blowing-ai-video-openai-launches-sora-is-biden-too-old-tuckerputin-intervie",
+      "number": 166,
+      "title": "Mind-blowing AI Video: OpenAI launches Sora + Is Biden too old? Tucker/Putin interview & more",
+      "date": "2024-02-16",
+      "url": "https://allinchamathjason.libsyn.com/e166-mind-blowing-ai-video-openai-launches-sora-biden-too-old-tuckerputin-interview-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-02-09-vision-pro-use-or-lose-meta-vs-snap-saas-recovery-ai-investing-rolling-real-esta",
+      "number": 165,
+      "title": "Vision Pro: use or lose? Meta vs Snap, SaaS recovery, AI investing, rolling real estate crisis",
+      "date": "2024-02-09",
+      "url": "https://allinchamathjason.libsyn.com/e165-vision-pro-use-or-lose-meta-vs-snap-saas-recovery-ai-investing-rolling-real-estate-crisis",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-02-02-zucks-senate-apology-elons-comp-package-voided-crony-capitalism-reddit-ipo-drone",
+      "number": 164,
+      "title": "Zuck's Senate apology, Elon's comp package voided, crony capitalism, Reddit IPO, drone attack",
+      "date": "2024-02-02",
+      "url": "https://allinchamathjason.libsyn.com/e164-zucks-senate-apology-elons-comp-package-voided-crony-capitalism-reddit-ipo-drone-attack",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-01-26-market-rips-media-rifs-texas-defies-biden-fintech-reckoning-arkstorm-20-more",
+      "number": 163,
+      "title": "Market rips, Media RIFs, Texas defies Biden, Fintech reckoning, ARkStorm 2.0 & more",
+      "date": "2024-01-26",
+      "url": "https://allinchamathjason.libsyn.com/e163-market-rips-media-rifs-texas-defies-biden-fintech-reckoning-arkstorm-20-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-01-19-live-from-davos-milei-goes-viral-adam-neumanns-headwinds-streamings-broken-model",
+      "number": 162,
+      "title": "Live from Davos! Milei goes viral, Adam Neumann's headwinds, streaming's broken model, microplastics & more",
+      "date": "2024-01-19",
+      "url": "https://allinchamathjason.libsyn.com/e162-live-from-davos-milei-goes-viral-adam-neumanns-headwinds-streamings-broken-model-microplastics-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-01-13-us-strikes-houthis-market-instability-q1-rate-cuts-in-doubt-cartas-major-mishap-",
+      "number": 161,
+      "title": "US strikes Houthis, market instability, Q1 rate cuts in doubt, Carta's major mishap, DEI",
+      "date": "2024-01-13",
+      "url": "https://allinchamathjason.libsyn.com/e161-us-strikes-houthis-market-instability-q1-rate-cuts-in-doubt-cartas-major-mishap-dei",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2024-01-06-2024-predictions-markets-tech-politics-and-more",
+      "number": 160,
+      "title": "2024 Predictions! Markets, tech, politics, and more",
+      "date": "2024-01-06",
+      "url": "https://allinchamathjason.libsyn.com/e160-2024-predictions-markets-tech-politics-and-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-12-29-the-bestie-awards-recapping-the-best-and-worst-of-2023",
+      "number": 159,
+      "title": "The Bestie Awards! Recapping the best and worst of 2023",
+      "date": "2023-12-29",
+      "url": "https://allinchamathjason.libsyn.com/e159-the-bestie-awards-recapping-the-best-and-worst-of-2023",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-12-23-global-trade-disrupted-adobefigma-canceled-realtors-sued-trump-blocked",
+      "number": 158,
+      "title": "Global trade disrupted, Adobe/Figma canceled, realtors sued, Trump blocked",
+      "date": "2023-12-23",
+      "url": "https://allinchamathjason.libsyn.com/e158-global-trade-disrupted-adobefigma-canceled-realtors-sued-trump-blocked",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-12-16-epic-legal-win-openai-licensing-deals-fcc-targets-elon-alex-jones-reinstated-mor",
+      "number": 157,
+      "title": "Epic legal win, OpenAI licensing deals, FCC targets Elon, Alex Jones reinstated & more",
+      "date": "2023-12-16",
+      "url": "https://allinchamathjason.libsyn.com/e157-epic-legal-win-openai-licensing-deals-fcc-targets-elon-alex-jones-reinstated-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-12-08-ivy-league-antisemitism-macro-saas-recovery-gemini-figma-deal-delay-big-friedber",
+      "number": 156,
+      "title": "Ivy League antisemitism, macro, SaaS recovery, Gemini, Figma deal delay + big Friedberg update",
+      "date": "2023-12-08",
+      "url": "https://allinchamathjason.libsyn.com/e156-ivy-league-antisemitism-macro-saas-recovery-gemini-figma-deal-delay-big-friedberg-update",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-12-01-in-conversation-with-tucker-carlson-plus-openai-chaos-explained",
+      "number": 155,
+      "title": "In conversation with Tucker Carlson, plus OpenAI chaos explained",
+      "date": "2023-12-01",
+      "url": "https://allinchamathjason.libsyn.com/e155-in-conversation-with-tucker-carlson-plus-openai-chaos-explained",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-11-17-presidential-candidate-dean-phillips-in-conversation-with-the-besties-xis-sf-vis",
+      "number": 154,
+      "title": "Presidential Candidate Dean Phillips in conversation with the Besties + Xi's SF visit & more",
+      "date": "2023-11-17",
+      "url": "https://allinchamathjason.libsyn.com/e154-presidential-candidate-dean-phillips-in-conversation-with-the-besties-xis-sf-visit-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-11-11-in-conversation-with-jared-kushner-israel-hamas-war-paths-forward-macro-picture-",
+      "number": 153,
+      "title": "In conversation with Jared Kushner: Israel-Hamas War, paths forward, macro picture, AI",
+      "date": "2023-11-11",
+      "url": "https://allinchamathjason.libsyn.com/e153-in-conversation-with-jared-kushner-israel-hamas-war-paths-forward-macro-picture-ai",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-11-03-real-estate-chaos-wework-bankruptcy-biden-regulates-ai-ukraines-cronkite-moment-",
+      "number": 152,
+      "title": "Real estate chaos, WeWork bankruptcy, Biden regulates AI, Ukraine's \"Cronkite Moment\" & more",
+      "date": "2023-11-03",
+      "url": "https://allinchamathjason.libsyn.com/e152-real-estate-chaos-wework-bankruptcy-biden-regulates-ai-ukraines-cronkite-moment-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-10-27-ww3-risk-war-with-iran-49-gdp-startup-failures-growing-new-speaker-more",
+      "number": 151,
+      "title": "WW3 risk, War with Iran?, 4.9% GDP, startup failures growing, new Speaker & more",
+      "date": "2023-10-27",
+      "url": "https://allinchamathjason.libsyn.com/e151-ww3-risk-war-with-iran-49-gdp-startup-failures-growing-new-speaker-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-10-20-israelgaza-escalating-or-not-eu-censorship-regime-penn-donors-revolt-glp-1-hype-",
+      "number": 150,
+      "title": "Israel/Gaza escalating or not? EU censorship regime, Penn donors revolt, GLP-1 hype cycle",
+      "date": "2023-10-20",
+      "url": "https://allinchamathjason.libsyn.com/e150-israelgaza-escalating-or-not-eu-censorship-regime-penn-donors-revolt-glp-1-hype-cycle",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-10-13-hamas-terror-attacks-in-israel-fallout-reaction-next-steps",
+      "number": 149,
+      "title": "Hamas terror attacks in Israel: fallout, reaction, next steps",
+      "date": "2023-10-13",
+      "url": "https://allinchamathjason.libsyn.com/e149-hamas-terror-attacks-in-israel-fallout-reaction-next-steps",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-10-07-mccarthy-ousted-border-chaos-cruises-robotaxi-accident-more",
+      "number": 148,
+      "title": "McCarthy ousted, border chaos, Cruise's robotaxi \"accident\" & more",
+      "date": "2023-10-07",
+      "url": "https://allinchamathjason.libsyn.com/e148-mccarthy-ousted-border-chaos-cruises-robotaxi-accident-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-09-29-ted-goes-woke-canadas-nazi-blunder-ai-adds-vision-plus-who-owns-openai",
+      "number": 147,
+      "title": "TED goes woke, Canada's Nazi blunder, AI adds vision, plus: who owns OpenAI?",
+      "date": "2023-09-29",
+      "url": "https://allinchamathjason.libsyn.com/e147-ted-goes-woke-canadas-nazi-blunder-ai-adds-vision-plus-who-owns-openai",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-09-22-did-the-fed-break-the-vc-model-plus-ipos-ma-revaluing-unicorns-more",
+      "number": 146,
+      "title": "Did the Fed break the VC model? Plus IPOs, M&A, revaluing unicorns & more",
+      "date": "2023-09-22",
+      "url": "https://allinchamathjason.libsyn.com/e146-did-the-fed-break-the-vc-model-plus-ipos-ma-revaluing-unicorns-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-09-08-presidential-candidate-chris-christie-in-conversation-with-the-besties",
+      "number": 145,
+      "title": "Presidential Candidate Chris Christie in conversation with the Besties",
+      "date": "2023-09-08",
+      "url": "https://allinchamathjason.libsyn.com/e145-presidential-candidate-chris-christie-in-conversation-with-the-besties",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-09-01-biden-targets-elon-brics-challenges-the-west-tiger-hit-piece-more",
+      "number": 144,
+      "title": "Biden targets Elon, BRICS challenges the West, Tiger hit piece & more",
+      "date": "2023-09-01",
+      "url": "https://allinchamathjason.libsyn.com/e144-biden-targets-elon-brics-challenges-the-west-tiger-hit-piece-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-08-25-nvidia-smashes-earnings-arm-walks-the-plank-ma-market-vivek-dominates-gop-debate",
+      "number": 143,
+      "title": "Nvidia smashes earnings, Arm walks the plank, M&A market, Vivek dominates GOP debate & more",
+      "date": "2023-08-25",
+      "url": "https://allinchamathjason.libsyn.com/e143-nvidia-smashes-earnings-arm-walks-the-plank-ma-market-vivek-dominates-gop-debate-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-08-18-rich-men-north-of-richmond-hits-1-upward-mobility-real-estate-capital-crunch-tru",
+      "number": 142,
+      "title": "\"Rich Men North of Richmond\" hits #1, upward mobility, real estate capital crunch, Trump RICO",
+      "date": "2023-08-18",
+      "url": "https://allinchamathjason.libsyn.com/e142-rich-men-north-of-richmond-hits-1-upward-mobility-real-estate-capital-crunch-trump-rico",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-08-11-state-of-series-as-vc-dry-powder-ipo-window-opens-more-with-bill-gurley-brad-ger",
+      "number": 141,
+      "title": "State of Series A's, VC dry powder, IPO window opens + more with Bill Gurley & Brad Gerstner",
+      "date": "2023-08-11",
+      "url": "https://allinchamathjason.libsyn.com/e141-state-of-series-as-vc-dry-powder-ipo-window-opens-more-with-bill-gurley-brad-gerstner",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-08-04-lk-99-sclerotic-establishments-fitch-downgrades-us-debt-trump-indicted-again",
+      "number": 140,
+      "title": "LK-99, Sclerotic establishments, Fitch downgrades US debt, Trump indicted... again",
+      "date": "2023-08-04",
+      "url": "https://allinchamathjason.libsyn.com/e140-lk-99-sclerotic-establishments-fitch-downgrades-us-debt-trump-indicted-again",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-07-27-recapping-chamaths-wedding-vc-surplus-unions-vs-hollywood-room-temp-superconduct",
+      "number": 139,
+      "title": "Recapping Chamath's wedding, VC surplus, unions vs Hollywood, room-temp superconductors & more",
+      "date": "2023-07-27",
+      "url": "https://allinchamathjason.libsyn.com/e139-recapping-chamaths-wedding-vc-surplus-unions-vs-hollywood-room-temp-superconductors-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-07-21-presidential-candidate-vivek-ramaswamy-in-conversation-with-the-besties",
+      "number": 138,
+      "title": "Presidential Candidate Vivek Ramaswamy in conversation with the Besties",
+      "date": "2023-07-21",
+      "url": "https://allinchamathjason.libsyn.com/e138-presidential-candidate-vivek-ramaswamy-in-conversation-with-the-besties",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-07-14-inflation-cools-market-rips-ripplemsft-beat-regulators-nato-summit-cocktails-of-",
+      "number": 137,
+      "title": "Inflation cools, market rips, Ripple/MSFT beat regulators, NATO summit, cocktails of youth",
+      "date": "2023-07-14",
+      "url": "https://allinchamathjason.libsyn.com/e137-jcal-strikes-back-inflation-cools-market-rips-ripplemsft-beat-regulators-nato-summit-fountain-of-youth",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-07-09-e136-hacking-the-pod-threads-launches-fed-minutes-immigration-debate-balloon-far",
+      "number": null,
+      "title": "E136 Hacking the pod, Threads launches, Fed minutes, immigration debate, balloon farce, heart health",
+      "date": "2023-07-09",
+      "url": "https://allinchamathjason.libsyn.com/e136-hacking-the-pod-threads-launches-fed-minutes-immigration-debate-balloon-farce-heart-health",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Podcast discusses various topics including Meta's Threads launch, the decline of chat AI interest, Fed meeting minutes, immigration debate, and preventative heart health. The hosts also touch on the Chinese balloon incident and the Florida Senate Bill 1718. The episode is marked by the absence of Jason Calacanis, who is on vacation.",
+      "takeaways": [
+        {
+          "text": "Meta launches Threads",
+          "timestamp_seconds": 334
+        },
+        {
+          "text": "Chat AI interest is in decline",
+          "timestamp_seconds": 1035
+        },
+        {
+          "text": "Fed meeting minutes indicate economic uncertainty",
+          "timestamp_seconds": 1700
+        },
+        {
+          "text": "Immigration debate is a complex issue",
+          "timestamp_seconds": 3367
+        },
+        {
+          "text": "Chinese balloon incident is a political farce",
+          "timestamp_seconds": 4868
+        },
+        {
+          "text": "Preventative heart health is crucial",
+          "timestamp_seconds": 5714
+        },
+        {
+          "text": "Florida Senate Bill 1718 sparks controversy",
+          "timestamp_seconds": 3367
+        },
+        {
+          "text": "EU risk is a concern for the economy",
+          "timestamp_seconds": 1700
+        }
+      ],
+      "quotes": [
+        {
+          "text": "We hacked the pod",
+          "speaker": "Unknown",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "Jcal is on vaca",
+          "speaker": "Unknown",
+          "timestamp_seconds": 0
+        }
+      ],
+      "topics": [
+        "meta-threads",
+        "ai-decline",
+        "fed-meeting",
+        "immigration-debate",
+        "chinese-balloon",
+        "heart-health",
+        "economy",
+        "politics"
+      ],
+      "guests": [],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The hosts discuss a range of topics with varying levels of optimism and concern, resulting in a mixed sentiment. The tone is generally informative and analytical, with some moments of humor and lightheartedness."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "The hosts announce that they 'hacked the pod' and Jason Calacanis is on vacation"
+        },
+        {
+          "timestamp_seconds": 334,
+          "description": "Meta launches Threads"
+        },
+        {
+          "timestamp_seconds": 4868,
+          "description": "The hosts discuss the Chinese balloon incident as a political farce"
+        }
+      ]
+    },
+    {
+      "id": "2023-07-01-wagner-rebels-scotus-ends-aa-ai-ma-startups-gone-bad-spacetime-warps-more",
+      "number": 135,
+      "title": "Wagner rebels, SCOTUS ends AA, AI M&A, startups gone bad, spacetime warps & more",
+      "date": "2023-07-01",
+      "url": "https://allinchamathjason.libsyn.com/e135-wagner-rebels-scotus-ends-aa-ai-ma-startups-gone-bad-spacetime-warps-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-06-24-ukraine-counteroffensive-china-tensions-covid-patient-zero-rfk-jr-reaction-more",
+      "number": 134,
+      "title": "Ukraine counteroffensive, China tensions, COVID Patient Zero, RFK Jr reaction & more",
+      "date": "2023-06-24",
+      "url": "https://allinchamathjason.libsyn.com/e134-ukraine-counteroffensive-china-tensions-covid-patient-zero-rfk-jr-reaction-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-06-16-market-melt-up-ipo-update-ai-startups-overheat-reddit-revolts-more-with-brad-ger",
+      "number": 133,
+      "title": "Market melt-up, IPO update, AI startups overheat, Reddit revolts & more with Brad Gerstner",
+      "date": "2023-06-16",
+      "url": "https://allinchamathjason.libsyn.com/e133-market-melt-up-ipo-update-ai-startups-overheat-reddit-revolts-more-with-brad-gerstner",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-06-10-sec-goes-after-crypto-giants-sequoia-splits-livpga-messis-deal-live-qa",
+      "number": 132,
+      "title": "SEC goes after crypto giants, Sequoia splits, LIV/PGA, Messi's deal + LIVE Q&A!",
+      "date": "2023-06-10",
+      "url": "https://allinchamathjason.libsyn.com/e132-sec-goes-after-crypto-giants-sequoia-splits-livpga-messis-deal-live-qa",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-06-02-2024-fantasy-president-picks-debt-ceiling-agreement-dollar-dominance-more",
+      "number": 131,
+      "title": "2024 Fantasy President picks, debt ceiling agreement, Dollar dominance & more",
+      "date": "2023-06-02",
+      "url": "https://allinchamathjason.libsyn.com/e131-2024-fantasy-president-picks-debt-ceiling-agreement-dollar-dominance-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Podcast discusses the 2024 fantasy president picks, debt ceiling agreement, and the potential threat to the US dollar's dominance. They also touch on book banning, Nvidia's move towards a vertically integrated monopoly in AI hardware, and Biden's recent fall. The hosts share their insights on the current state of politics and the economy.",
+      "takeaways": [
+        {
+          "text": "USD dominance may be in trouble",
+          "timestamp_seconds": 3043
+        },
+        {
+          "text": "Debt ceiling agreement reached",
+          "timestamp_seconds": 3043
+        },
+        {
+          "text": "Nvidia going for AI hardware monopoly",
+          "timestamp_seconds": 7190
+        },
+        {
+          "text": "Book banning is a growing concern",
+          "timestamp_seconds": 4264
+        },
+        {
+          "text": "Biden's mental acuity is a concern",
+          "timestamp_seconds": 241
+        },
+        {
+          "text": "Populism is rising in both parties",
+          "timestamp_seconds": 7851
+        },
+        {
+          "text": "US debt situation is a major issue",
+          "timestamp_seconds": 3043
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Biden's uncomfortable truth",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 241
+        }
+      ],
+      "topics": [
+        "us-politics",
+        "economy",
+        "debt-ceiling",
+        "usd-dominance",
+        "ai-hardware",
+        "book-banning",
+        "populism"
+      ],
+      "guests": [],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express concern over the US debt situation, the potential threat to the USD's dominance, and the rise of populism in both parties."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 241,
+          "description": "Discussion on Biden's mental acuity"
+        },
+        {
+          "timestamp_seconds": 3043,
+          "description": "Debt ceiling agreement discussion"
+        },
+        {
+          "timestamp_seconds": 7190,
+          "description": "Nvidia's AI hardware monopoly plans"
+        }
+      ]
+    },
+    {
+      "id": "2023-05-26-desantiss-twitter-spaces-debt-ceiling-nvidia-rips-state-of-vc-startup-failure-mo",
+      "number": 130,
+      "title": "DeSantis's Twitter Spaces, debt ceiling, Nvidia rips, state of VC, startup failure & more",
+      "date": "2023-05-26",
+      "url": "https://allinchamathjason.libsyn.com/e130-desantiss-twitter-spaces-debt-ceiling-nvidia-rips-state-of-vc-startup-failure-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Podcast discusses various topics including DeSantis's Twitter Spaces experience, debt ceiling, government spending, Nvidia's Q2 guidance, and the state of Silicon Valley and startups. They also touch on Adobe's new AI product and the importance of understanding phases of value creation in technology. The hosts share their insights on dealing with failure and the current state of the VC and startup ecosystem.",
+      "takeaways": [
+        {
+          "text": "Nvidia's stock surges 30% due to strong Q2 guidance",
+          "timestamp_seconds": 3436
+        },
+        {
+          "text": "DeSantis's Twitter Spaces experience was a unique campaign move",
+          "timestamp_seconds": 183
+        },
+        {
+          "text": "Government accountability is lacking, leading to inefficient spending",
+          "timestamp_seconds": 1688
+        },
+        {
+          "text": "Understanding phases of value creation is crucial in technology",
+          "timestamp_seconds": 3436
+        },
+        {
+          "text": "Adobe's acquisition of Figma may have been overpriced",
+          "timestamp_seconds": 4000
+        },
+        {
+          "text": "Dealing with failure is essential for startups and entrepreneurs",
+          "timestamp_seconds": 4253
+        },
+        {
+          "text": "The current state of Silicon Valley and VC is uncertain",
+          "timestamp_seconds": 4253
+        },
+        {
+          "text": "Higher taxes may not be the solution to government spending issues",
+          "timestamp_seconds": 2436
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Lack of accountability",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 1688
+        },
+        {
+          "text": "Phases of value creation",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 3436
+        }
+      ],
+      "topics": [
+        "government-spending",
+        "debt-ceiling",
+        "nvidia",
+        "silicon-valley",
+        "startups",
+        "vc",
+        "ai",
+        "technology",
+        "politics",
+        "economy"
+      ],
+      "guests": [],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express concern over government spending and the debt ceiling, but also discuss the potential for growth in the tech industry."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 183,
+          "description": "Sacks discusses DeSantis's Twitter Spaces experience"
+        },
+        {
+          "timestamp_seconds": 3436,
+          "description": "Nvidia's Q2 guidance is discussed"
+        },
+        {
+          "timestamp_seconds": 4253,
+          "description": "The hosts discuss the state of Silicon Valley and startups"
+        }
+      ]
+    },
+    {
+      "id": "2023-05-19-sam-altman-plays-chess-with-regulators-ais-nuclear-potential-big-pharma-bundling",
+      "number": 129,
+      "title": "Sam Altman plays chess with regulators, AI's \"nuclear\" potential, big pharma bundling & more",
+      "date": "2023-05-19",
+      "url": "https://allinchamathjason.libsyn.com/e129-sam-altman-plays-chess-with-regulators-ais-nuclear-potential-big-pharma-bundling-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The episode discusses Sam Altman's appearance at an AI Senate hearing, the potential risks and regulations of AI, and other topics such as Elon Musk hiring a new Twitter CEO and Apple's upcoming AR goggles. The hosts also touch on residential and commercial real estate headwinds and unrest in SF and NYC. Additionally, they discuss George Soros' political motivations and his son's visits to the White House.",
+      "takeaways": [
+        {
+          "text": "AI has 'nuclear' potential",
+          "timestamp_seconds": 21
+        },
+        {
+          "text": "Sam Altman is playing chess with regulators",
+          "timestamp_seconds": 6
+        },
+        {
+          "text": "Elon Musk hires new Twitter CEO",
+          "timestamp_seconds": 43
+        },
+        {
+          "text": "Apple's AR goggles to be unveiled at WWDC",
+          "timestamp_seconds": 62
+        },
+        {
+          "text": "Real estate headwinds are coming",
+          "timestamp_seconds": 67
+        },
+        {
+          "text": "George Soros' son visited White House multiple times",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Lina Khan moves to block Amgen's $27.8B acquisition",
+          "timestamp_seconds": 48
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI is like nuclear",
+          "speaker": "Unknown",
+          "timestamp_seconds": 21
+        }
+      ],
+      "topics": [
+        "ai-regulation",
+        "ai-safety",
+        "twitter",
+        "apple",
+        "real-estate",
+        "george-soros",
+        "politics",
+        "tech-news"
+      ],
+      "guests": [],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express caution about the potential risks of AI and the need for regulation. They also discuss the challenges facing the real estate market and the potential consequences of George Soros' political motivations."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 6,
+          "description": "Sam Altman's appearance at AI Senate hearing"
+        },
+        {
+          "timestamp_seconds": 43,
+          "description": "Elon Musk hires new Twitter CEO"
+        },
+        {
+          "timestamp_seconds": 62,
+          "description": "Apple's AR goggles to be unveiled at WWDC"
+        }
+      ]
+    },
+    {
+      "id": "2023-05-12-google-enters-ai-wars-drucks-warning-trump-crushes-cnn-more",
+      "number": 128,
+      "title": "Google enters AI wars, Druck's warning, Trump crushes CNN & more",
+      "date": "2023-05-12",
+      "url": "https://allinchamathjason.libsyn.com/e128-google-enters-ai-wars-drucks-warning-trump-crushes-cnn-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2023-05-05-presidential-candidate-robert-f-kennedy-jr-in-conversation-with-the-besties",
+      "number": 127,
+      "title": "Presidential Candidate Robert F. Kennedy Jr. in conversation with the Besties",
+      "date": "2023-05-05",
+      "url": "https://allinchamathjason.libsyn.com/e127-all-in-us-presidential-candidate-confidential-with-robert-f-kennedy-jr",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Robert F. Kennedy Jr. discusses various topics with the All-In Podcast hosts, including foreign policy, government spending, COVID-19, vaccines, energy policy, culture wars, and media trust. He shares his thoughts on the 'Deep State' and 'agency capture'. The conversation covers a wide range of issues, from fiscal responsibility to declining trust in mainstream media.",
+      "takeaways": [
+        {
+          "text": "RFK Jr. advocates for fiscal responsibility",
+          "timestamp_seconds": 18
+        },
+        {
+          "text": "He criticizes 'Deep State' and 'agency capture'",
+          "timestamp_seconds": 33
+        },
+        {
+          "text": "RFK Jr. questions COVID-19 vaccine policy",
+          "timestamp_seconds": 46
+        },
+        {
+          "text": "He supports nuclear energy",
+          "timestamp_seconds": 390
+        },
+        {
+          "text": "RFK Jr. discusses culture wars and trans issues",
+          "timestamp_seconds": 509
+        },
+        {
+          "text": "He talks about declining trust in mainstream media",
+          "timestamp_seconds": 828
+        },
+        {
+          "text": "RFK Jr. emphasizes the need for accountability in government",
+          "timestamp_seconds": 33
+        },
+        {
+          "text": "He highlights the importance of evolving with new information",
+          "timestamp_seconds": 544
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Deep State",
+          "speaker": "Robert F. Kennedy Jr.",
+          "timestamp_seconds": 33
+        },
+        {
+          "text": "Fiscal responsibility",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 19
+        }
+      ],
+      "topics": [
+        "foreign-policy",
+        "government-spending",
+        "covid-19",
+        "vaccines",
+        "energy-policy",
+        "culture-wars",
+        "media-trust",
+        "deep-state",
+        "agency-capture"
+      ],
+      "guests": [
+        "Robert F. Kennedy Jr."
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation is cautious and critical, with RFK Jr. expressing concerns about various issues, including government spending and media trust."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to the episode"
+        },
+        {
+          "timestamp_seconds": 49,
+          "description": "Introduction to Robert F. Kennedy Jr."
+        },
+        {
+          "timestamp_seconds": 3940,
+          "description": "Discussion on energy policy and nuclear energy"
+        },
+        {
+          "timestamp_seconds": 544,
+          "description": "RFK Jr. talks about evolving with new information"
+        }
+      ]
+    },
+    {
+      "id": "2023-04-28-big-tech-blow-out-powells-recession-warning-lab-grown-meat-rfk-jr-shakes-up-race",
+      "number": 126,
+      "title": "Big Tech blow-out, Powell's recession warning, lab-grown meat, RFK Jr shakes up race & more",
+      "date": "2023-04-28",
+      "url": "https://allinchamathjason.libsyn.com/e126-big-tech-enters-new-phase-financial-engineering-lab-grown-meat-constraints-rfk-jr-more",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Podcast discusses Big Tech's mixed earnings, the macroeconomic picture, AI updates, and lab-grown meat. They also touch on SF's commercial real estate collapse and RFK Jr's presidential bid. The hosts analyze the current state of the tech industry and its potential impact on the economy.",
+      "takeaways": [
+        {
+          "text": "Big Tech is leaving the growth phase",
+          "timestamp_seconds": 70
+        },
+        {
+          "text": "AI adoption is increasing globally",
+          "timestamp_seconds": 1441
+        },
+        {
+          "text": "Lab-grown meat faces significant constraints",
+          "timestamp_seconds": 2872
+        },
+        {
+          "text": "SF commercial real estate is collapsing",
+          "timestamp_seconds": 2268
+        },
+        {
+          "text": "RFK Jr's presidential bid shakes up the race",
+          "timestamp_seconds": 3997
+        },
+        {
+          "text": "Google's cloud business turns profitable",
+          "timestamp_seconds": 70
+        },
+        {
+          "text": "Alphabet merges AI-focused groups",
+          "timestamp_seconds": 70
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Big Tech leaves growth phase",
+          "speaker": "Unknown",
+          "timestamp_seconds": 70
+        }
+      ],
+      "topics": [
+        "big-tech",
+        "ai-adoption",
+        "lab-grown-meat",
+        "sf-commercial-real-estate",
+        "rfk-jr-presidential-bid",
+        "google-cloud",
+        "alphabet-ai",
+        "macroeconomics"
+      ],
+      "guests": [],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts are cautious about the current state of the tech industry and its potential impact on the economy. They discuss the challenges faced by Big Tech and the potential risks of AI adoption."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 70,
+          "description": "Discussion of Big Tech's mixed earnings"
+        },
+        {
+          "timestamp_seconds": 1441,
+          "description": "AI update and global adoption"
+        },
+        {
+          "timestamp_seconds": 2872,
+          "description": "Lab-grown meat possibilities and constraints"
+        }
+      ]
+    },
+    {
+      "id": "2023-04-21-spacex-launch-fox-news-settlement-zombie-corn-exodus-to-ai-late-stage-implosion",
+      "number": 125,
+      "title": "SpaceX launch, Fox News settlement, \"Zombie-corn\" exodus to AI, late-stage implosion",
+      "date": "2023-04-21",
+      "url": "https://allinchamathjason.libsyn.com/e125-spacex-launch-fox-news-settlement-zombie-corn-exodus-to-ai-late-stage-implosion",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
     }
   ],
   "trends": {
     "top_topics": [
       [
+        "economy",
+        6
+      ],
+      [
+        "politics",
+        4
+      ],
+      [
+        "ai-safety",
+        3
+      ],
+      [
+        "ai",
+        3
+      ],
+      [
         "trump-administration",
         3
       ],
       [
-        "stripe",
+        "foreign-policy",
         2
       ],
       [
-        "ai",
+        "government-spending",
+        2
+      ],
+      [
+        "covid-19",
+        2
+      ],
+      [
+        "debt-ceiling",
+        2
+      ],
+      [
+        "ai-hardware",
+        2
+      ],
+      [
+        "immigration",
+        2
+      ],
+      [
+        "stripe",
         2
       ],
       [
@@ -2708,87 +4907,216 @@
         2
       ],
       [
-        "economy",
-        2
-      ],
-      [
-        "ai-safety",
-        2
-      ],
-      [
-        "stablecoins",
+        "big-tech",
         1
       ],
       [
-        "doge",
+        "ai-adoption",
         1
       ],
       [
-        "grok-3",
+        "lab-grown-meat",
         1
       ],
       [
-        "ai-models",
+        "sf-commercial-real-estate",
         1
       ],
       [
-        "asteroid-update",
+        "rfk-jr-presidential-bid",
         1
       ],
       [
-        "us-defense-budget",
+        "google-cloud",
         1
       ],
       [
-        "memecoins",
+        "alphabet-ai",
         1
       ],
       [
-        "epstein-files",
+        "macroeconomics",
         1
       ],
       [
-        "autonomous-robots",
+        "vaccines",
         1
       ],
       [
-        "state-of-the-market",
+        "energy-policy",
         1
       ],
       [
-        "trump",
-        1
-      ],
-      [
-        "gold-card",
-        1
-      ],
-      [
-        "adyen",
-        1
-      ],
-      [
-        "company-building",
-        1
-      ],
-      [
-        "great-reset",
-        1
-      ],
-      [
-        "market-chaos",
-        1
-      ],
-      [
-        "bitcoin-reserve",
-        1
-      ],
-      [
-        "coreweave-ipo",
+        "culture-wars",
         1
       ]
     ],
     "topic_timeline": {
+      "big-tech": [
+        "2023-04-28"
+      ],
+      "ai-adoption": [
+        "2023-04-28"
+      ],
+      "lab-grown-meat": [
+        "2023-04-28"
+      ],
+      "sf-commercial-real-estate": [
+        "2023-04-28"
+      ],
+      "rfk-jr-presidential-bid": [
+        "2023-04-28"
+      ],
+      "google-cloud": [
+        "2023-04-28"
+      ],
+      "alphabet-ai": [
+        "2023-04-28"
+      ],
+      "macroeconomics": [
+        "2023-04-28"
+      ],
+      "foreign-policy": [
+        "2023-05-05",
+        "2024-06-20"
+      ],
+      "government-spending": [
+        "2023-05-05",
+        "2023-05-26"
+      ],
+      "covid-19": [
+        "2023-05-05",
+        "2024-06-20"
+      ],
+      "vaccines": [
+        "2023-05-05"
+      ],
+      "energy-policy": [
+        "2023-05-05"
+      ],
+      "culture-wars": [
+        "2023-05-05"
+      ],
+      "media-trust": [
+        "2023-05-05"
+      ],
+      "deep-state": [
+        "2023-05-05"
+      ],
+      "agency-capture": [
+        "2023-05-05"
+      ],
+      "ai-regulation": [
+        "2023-05-19"
+      ],
+      "ai-safety": [
+        "2023-05-19",
+        "2025-07-23",
+        "2025-10-31"
+      ],
+      "twitter": [
+        "2023-05-19"
+      ],
+      "apple": [
+        "2023-05-19"
+      ],
+      "real-estate": [
+        "2023-05-19"
+      ],
+      "george-soros": [
+        "2023-05-19"
+      ],
+      "politics": [
+        "2023-05-19",
+        "2023-05-26",
+        "2023-07-09",
+        "2025-03-20"
+      ],
+      "tech-news": [
+        "2023-05-19"
+      ],
+      "debt-ceiling": [
+        "2023-05-26",
+        "2023-06-02"
+      ],
+      "nvidia": [
+        "2023-05-26"
+      ],
+      "silicon-valley": [
+        "2023-05-26"
+      ],
+      "startups": [
+        "2023-05-26"
+      ],
+      "vc": [
+        "2023-05-26"
+      ],
+      "ai": [
+        "2023-05-26",
+        "2025-03-01",
+        "2025-03-20"
+      ],
+      "technology": [
+        "2023-05-26"
+      ],
+      "economy": [
+        "2023-05-26",
+        "2023-06-02",
+        "2023-07-09",
+        "2024-06-20",
+        "2025-03-19",
+        "2025-03-20"
+      ],
+      "us-politics": [
+        "2023-06-02"
+      ],
+      "usd-dominance": [
+        "2023-06-02"
+      ],
+      "ai-hardware": [
+        "2023-06-02",
+        "2025-07-23"
+      ],
+      "book-banning": [
+        "2023-06-02"
+      ],
+      "populism": [
+        "2023-06-02"
+      ],
+      "meta-threads": [
+        "2023-07-09"
+      ],
+      "ai-decline": [
+        "2023-07-09"
+      ],
+      "fed-meeting": [
+        "2023-07-09"
+      ],
+      "immigration-debate": [
+        "2023-07-09"
+      ],
+      "chinese-balloon": [
+        "2023-07-09"
+      ],
+      "heart-health": [
+        "2023-07-09"
+      ],
+      "federal-debt": [
+        "2024-06-20"
+      ],
+      "abortion": [
+        "2024-06-20"
+      ],
+      "border-control": [
+        "2024-06-20"
+      ],
+      "immigration": [
+        "2024-06-20",
+        "2025-07-23"
+      ],
+      "jfk-files": [
+        "2024-06-20"
+      ],
       "stablecoins": [
         "2025-02-21"
       ],
@@ -2831,10 +5159,6 @@
       ],
       "adyen": [
         "2025-03-01"
-      ],
-      "ai": [
-        "2025-03-01",
-        "2025-03-20"
       ],
       "company-building": [
         "2025-03-01"
@@ -2894,10 +5218,6 @@
       "state-of-america": [
         "2025-03-15"
       ],
-      "economy": [
-        "2025-03-19",
-        "2025-03-20"
-      ],
       "macro-investing": [
         "2025-03-19"
       ],
@@ -2919,26 +5239,34 @@
       "irs": [
         "2025-03-19"
       ],
-      "politics": [
-        "2025-03-20"
-      ],
       "government-software": [
         "2025-03-20"
       ],
       "sovereign-wealth-fund": [
         "2025-03-20"
       ],
+      "ai-policy": [
+        "2025-07-23"
+      ],
+      "us-china-relations": [
+        "2025-07-23"
+      ],
+      "ai-impact-on-jobs": [
+        "2025-07-23"
+      ],
+      "national-champions": [
+        "2025-07-23"
+      ],
+      "diplomatic-relations": [
+        "2025-07-23"
+      ],
+      "tech-industry": [
+        "2025-07-23"
+      ],
       "ai-race": [
         "2025-07-23"
       ],
-      "ai-safety": [
-        "2025-07-23",
-        "2025-10-31"
-      ],
       "chip-manufacturing": [
-        "2025-07-23"
-      ],
-      "ai-hardware": [
         "2025-07-23"
       ],
       "energy-efficiency": [
@@ -2967,9 +5295,38 @@
       ],
       "confirmation-bias": [
         "2025-10-31"
+      ],
+      "ai-revolution": [
+        "2026-01-08"
+      ],
+      "vc-investments": [
+        "2026-01-08"
+      ],
+      "hospital-acquisitions": [
+        "2026-01-08"
+      ],
+      "education-reform": [
+        "2026-01-08"
+      ],
+      "job-market": [
+        "2026-01-08"
+      ],
+      "tech-innovation": [
+        "2026-01-08"
+      ],
+      "cfo-cio-collaboration": [
+        "2026-01-08"
       ]
     },
     "top_guests": [
+      [
+        "Robert F. Kennedy Jr.",
+        1
+      ],
+      [
+        "President Trump",
+        1
+      ],
       [
         "John Collison",
         1
@@ -2995,6 +5352,10 @@
         1
       ],
       [
+        "JD Vance",
+        1
+      ],
+      [
         "Jensen Huang",
         1
       ],
@@ -3013,9 +5374,45 @@
       [
         "Elon Musk",
         1
+      ],
+      [
+        "Bob Sternfels",
+        1
+      ],
+      [
+        "Hemant Taneja",
+        1
       ]
     ],
     "sentiment_timeline": [
+      {
+        "date": "2023-04-28",
+        "overall": "cautious"
+      },
+      {
+        "date": "2023-05-05",
+        "overall": "cautious"
+      },
+      {
+        "date": "2023-05-19",
+        "overall": "cautious"
+      },
+      {
+        "date": "2023-05-26",
+        "overall": "cautious"
+      },
+      {
+        "date": "2023-06-02",
+        "overall": "cautious"
+      },
+      {
+        "date": "2023-07-09",
+        "overall": "mixed"
+      },
+      {
+        "date": "2024-06-20",
+        "overall": "mixed"
+      },
       {
         "date": "2025-02-21",
         "overall": "optimistic"
@@ -3045,12 +5442,20 @@
         "overall": "optimistic"
       },
       {
+        "date": "2025-07-23",
+        "overall": "optimistic"
+      },
+      {
         "date": "2025-10-31",
         "overall": "mixed"
+      },
+      {
+        "date": "2026-01-08",
+        "overall": "optimistic"
       }
     ],
-    "episode_count": 133
+    "episode_count": 230
   },
-  "brief_markdown": "# Weekly Brief — 2026-04-20\n\n**Latest episode:** OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out — 2026-04-17\n\n## What this episode covered\n_No summary available_\n\n## Top takeaways\n\n## Notable quotes\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `trump-administration` — mentioned in 3 episodes\n- `stripe` — mentioned in 2 episodes\n- `ai` — mentioned in 2 episodes\n- `tariffs` — mentioned in 2 episodes\n- `social-security` — mentioned in 2 episodes\n- `economy` — mentioned in 2 episodes\n- `ai-safety` — mentioned in 2 episodes\n- `stablecoins` — mentioned in 1 episodes\n- `doge` — mentioned in 1 episodes\n- `grok-3` — mentioned in 1 episodes\n\n**Most frequent non-host guests:**\n- John Collison (1 appearance)\n- Patrick Collison (1 appearance)\n- Joe Lonsdale (1 appearance)\n- Andrew Schulz (1 appearance)\n- Scott Bessent (1 appearance)\n\n**Recent tone trajectory:**\n- 2025-03-08: mixed\n- 2025-03-15: mixed\n- 2025-03-19: mixed\n- 2025-03-20: mixed\n- 2025-07-23: optimistic\n- 2025-10-31: mixed\n\n---\n_Generated 2026-04-20 from 133 episodes_",
-  "generated_at": "2026-04-20T02:36:01.496066+00:00"
+  "brief_markdown": "# Weekly Brief — 2026-04-22\n\n**Latest episode:** OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out — 2026-04-17\n\n## What this episode covered\n_No summary available_\n\n## Top takeaways\n\n## Notable quotes\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `economy` — mentioned in 6 episodes\n- `politics` — mentioned in 4 episodes\n- `ai-safety` — mentioned in 3 episodes\n- `ai` — mentioned in 3 episodes\n- `trump-administration` — mentioned in 3 episodes\n- `foreign-policy` — mentioned in 2 episodes\n- `government-spending` — mentioned in 2 episodes\n- `covid-19` — mentioned in 2 episodes\n- `debt-ceiling` — mentioned in 2 episodes\n- `ai-hardware` — mentioned in 2 episodes\n\n**Most frequent non-host guests:**\n- Robert F. Kennedy Jr. (1 appearance)\n- President Trump (1 appearance)\n- John Collison (1 appearance)\n- Patrick Collison (1 appearance)\n- Joe Lonsdale (1 appearance)\n\n**Recent tone trajectory:**\n- 2025-03-19: mixed\n- 2025-03-20: mixed\n- 2025-07-23: optimistic\n- 2025-07-23: optimistic\n- 2025-10-31: mixed\n- 2026-01-08: optimistic\n\n---\n_Generated 2026-04-22 from 231 episodes_",
+  "generated_at": "2026-04-22T01:30:26.544094+00:00"
 }
