@@ -16,12 +16,62 @@ from __future__ import annotations
 
 import json
 import os
+import random
 import sys
+import time
 from collections import Counter, defaultdict
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 
 import requests
+
+
+def _post_with_retry(
+    request_fn: Callable[[], requests.Response],
+    *,
+    max_attempts: int = 5,
+    backoff_base: float = 15.0,
+    label: str = "request",
+) -> requests.Response:
+    """
+    Call request_fn() (which must return a requests.Response) and retry on
+    429 rate limits or 5xx errors. Respects the Retry-After header when the
+    server sets it, otherwise uses exponential backoff with a small jitter.
+    """
+    for attempt in range(1, max_attempts + 1):
+        try:
+            r = request_fn()
+        except requests.exceptions.RequestException as e:
+            if attempt == max_attempts:
+                raise
+            wait = backoff_base * (2 ** (attempt - 1)) + random.uniform(0, 2)
+            print(
+                f"[retry] {label}: network error {e} "
+                f"(attempt {attempt}/{max_attempts}), sleeping {wait:.1f}s",
+                file=sys.stderr,
+            )
+            time.sleep(wait)
+            continue
+        if r.status_code == 429 or 500 <= r.status_code < 600:
+            if attempt == max_attempts:
+                return r  # caller's raise_for_status() will surface it
+            retry_after = (r.headers.get("Retry-After") or "").strip()
+            wait = backoff_base * (2 ** (attempt - 1))
+            if retry_after:
+                try:
+                    wait = float(retry_after)
+                except ValueError:
+                    pass
+            wait += random.uniform(0, 2)
+            print(
+                f"[retry] {label}: HTTP {r.status_code} "
+                f"(attempt {attempt}/{max_attempts}), sleeping {wait:.1f}s",
+                file=sys.stderr,
+            )
+            time.sleep(wait)
+            continue
+        return r
+    raise RuntimeError("unreachable")
 
 ROOT = Path(__file__).resolve().parent.parent
 EPISODES_DIR = ROOT / "data" / "episodes"
@@ -101,14 +151,17 @@ def call_groq(prompt: str, body: str, api_key: str) -> dict[str, Any]:
         "temperature": 0.2,
         "response_format": {"type": "json_object"},
     }
-    r = requests.post(
-        GROQ_URL,
-        headers={
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json",
-        },
-        json=payload,
-        timeout=180,
+    r = _post_with_retry(
+        lambda: requests.post(
+            GROQ_URL,
+            headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json",
+            },
+            json=payload,
+            timeout=180,
+        ),
+        label="groq.chat",
     )
     r.raise_for_status()
     content = r.json()["choices"][0]["message"]["content"]

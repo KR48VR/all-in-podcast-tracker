@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import json
 import os
+import random
 import re
 import subprocess
 import sys
@@ -25,11 +26,60 @@ import time
 from datetime import datetime
 from difflib import SequenceMatcher
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any, Callable, Optional
 
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+
+
+def _post_with_retry(
+    request_fn: Callable[[], requests.Response],
+    *,
+    max_attempts: int = 5,
+    backoff_base: float = 15.0,
+    label: str = "request",
+) -> requests.Response:
+    """
+    Call request_fn() (must return a requests.Response) and retry on 429
+    rate limits or 5xx errors. Respects Retry-After when present, otherwise
+    uses exponential backoff with jitter. The caller's closure is responsible
+    for re-opening any file handles on each attempt.
+    """
+    for attempt in range(1, max_attempts + 1):
+        try:
+            r = request_fn()
+        except requests.exceptions.RequestException as e:
+            if attempt == max_attempts:
+                raise
+            wait = backoff_base * (2 ** (attempt - 1)) + random.uniform(0, 2)
+            print(
+                f"[retry] {label}: network error {e} "
+                f"(attempt {attempt}/{max_attempts}), sleeping {wait:.1f}s",
+                file=sys.stderr,
+            )
+            time.sleep(wait)
+            continue
+        if r.status_code == 429 or 500 <= r.status_code < 600:
+            if attempt == max_attempts:
+                return r
+            retry_after = (r.headers.get("Retry-After") or "").strip()
+            wait = backoff_base * (2 ** (attempt - 1))
+            if retry_after:
+                try:
+                    wait = float(retry_after)
+                except ValueError:
+                    pass
+            wait += random.uniform(0, 2)
+            print(
+                f"[retry] {label}: HTTP {r.status_code} "
+                f"(attempt {attempt}/{max_attempts}), sleeping {wait:.1f}s",
+                file=sys.stderr,
+            )
+            time.sleep(wait)
+            continue
+        return r
+    raise RuntimeError("unreachable")
 
 # ---- Config -----------------------------------------------------------------
 
@@ -317,18 +367,22 @@ def _transcribe_file(
 ) -> tuple[str, list[dict[str, Any]]]:
     """Send one audio file to Groq Whisper and shift segment timestamps by offset."""
     try:
-        with open(path, "rb") as f:
-            r = requests.post(
-                "https://api.groq.com/openai/v1/audio/transcriptions",
-                headers={"Authorization": f"Bearer {api_key}"},
-                files={"file": (path.name, f, "audio/ogg")},
-                data={
-                    "model": "whisper-large-v3",
-                    "response_format": "verbose_json",
-                    "timestamp_granularities[]": "segment",
-                },
-                timeout=900,
-            )
+        def _do_post() -> requests.Response:
+            # Re-open on each attempt so retries don't send a consumed handle.
+            with open(path, "rb") as f:
+                return requests.post(
+                    "https://api.groq.com/openai/v1/audio/transcriptions",
+                    headers={"Authorization": f"Bearer {api_key}"},
+                    files={"file": (path.name, f, "audio/ogg")},
+                    data={
+                        "model": "whisper-large-v3",
+                        "response_format": "verbose_json",
+                        "timestamp_granularities[]": "segment",
+                    },
+                    timeout=900,
+                )
+
+        r = _post_with_retry(_do_post, label="groq.whisper")
         r.raise_for_status()
         data = r.json()
         text = data.get("text", "") or ""
