@@ -12,5 +12,81 @@
     "Brad Gerstner"
   ],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast discusses the current market melt-up, IPO updates, AI startups overheating, and Reddit's revolt against API changes. They also cover topics like Jay Trading, CalPERS mistakes, and the funding landscape for AI startups. Guest Brad Gerstner joins the conversation to share his insights on these topics.",
+    "takeaways": [
+      {
+        "text": "Market melt-up continues",
+        "timestamp_seconds": 8
+      },
+      {
+        "text": "IPO window is open",
+        "timestamp_seconds": 8
+      },
+      {
+        "text": "AI's impact on tech and growth stocks is surging",
+        "timestamp_seconds": 33
+      },
+      {
+        "text": "Jay Trading is beating the market",
+        "timestamp_seconds": 50
+      },
+      {
+        "text": "Funding landscape for AI startups is overheating",
+        "timestamp_seconds": 75
+      },
+      {
+        "text": "Reddit moderators are in revolt over API changes",
+        "timestamp_seconds": 64
+      },
+      {
+        "text": "CalPERS mistakes in handling distributions",
+        "timestamp_seconds": 50
+      }
+    ],
+    "quotes": [
+      {
+        "text": "AI is a $20T question",
+        "speaker": "Chamath Palihapitiya",
+        "timestamp_seconds": 33
+      }
+    ],
+    "topics": [
+      "market-trends",
+      "ipo",
+      "ai-startups",
+      "reddit-api",
+      "jay-trading",
+      "calpers-mistakes",
+      "funding-landscape",
+      "ai-safety",
+      "tech-growth"
+    ],
+    "guests": [
+      "Brad Gerstner"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The hosts seem optimistic about the market melt-up and the potential of AI startups, but also cautious about the funding landscape and Reddit's revolt."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 8,
+        "description": "Discussion on market melt-up and IPO updates"
+      },
+      {
+        "timestamp_seconds": 33,
+        "description": "Conversation on AI's impact on tech and growth stocks"
+      },
+      {
+        "timestamp_seconds": 50,
+        "description": "Jay Trading and CalPERS mistakes discussion"
+      },
+      {
+        "timestamp_seconds": 64,
+        "description": "Reddit moderators' revolt over API changes"
+      }
+    ]
+  }
 }

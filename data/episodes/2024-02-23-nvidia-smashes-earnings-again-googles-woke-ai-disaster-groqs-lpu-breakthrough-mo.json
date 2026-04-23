@@ -10,5 +10,81 @@
   "description": "<p>(0:00) Bestie intros: Banana boat!</p> <p>(2:34) Nvidia smashes expectations again: understanding its terminal value and bull/bear cases in the context of the history of the internet</p> <p>(27:26) Groq's big week, training vs. inference, LPUs vs. GPUs, how to succeed in deep tech</p> <p>(49:37) Google's AI disaster: Is Google too woke to function as search gets disrupted by AI?</p> <p>(1:17:17) War Corner with Sacks</p> <p>Follow the besties: </p> <p><a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p><a href=\"https://twitter.com/Jason\">https://twitter.com/Jason</a></p> <p><a href=\"https://twitter.com/DavidSacks\">https://twitter.com/DavidSacks</a></p> <p><a href=\"https://twitter.com/friedberg\">https://twitter.com/friedberg</a></p> <p>Follow the pod:</p> <p><a href=\"https://twitter.com/theallinpod\">https://twitter.com/theallinpod</a></p> <p><a href=\"https://linktr.ee/allinpodcast\">https://linktr.ee/allinpodcast</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://twitter.com/yung_spielburg\">https://twitter.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://twitter.com/TheZachEffect\">https://twitter.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href=\"https://www.google.com/finance/quote/NVDA:NASDAQ\">https://www.google.com/finance/quote/NVDA:NASDAQ</a></p> <p><a href=\"https://twitter.com/KobeissiLetter/status/1760680756689748478\">https://twitter.com/KobeissiLetter/status/1760680756689748478</a></p> <p><a href=\"https://investor.nvidia.com/news/press-release-details/2024/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2024\"> https://investor.nvidia.com/news/press-release-details/2024/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2024</a></p> <p><a href=\"https://www.statista.com/statistics/1120484/nvidia-quarterly-revenue-by-specialized-market\"> https://www.statista.com/statistics/1120484/nvidia-quarterly-revenue-by-specialized-market</a></p> <p><a href=\"https://www.google.com/finance/quote/SPY:NYSEARCA?comparison=NASDAQ%3AQQQ&amp;window=5D\"> https://www.google.com/finance/quote/SPY:NYSEARCA?comparison=NASDAQ%3AQQQ&amp;window=5D</a></p> <p><a href=\"https://www.marketwatch.com/story/wall-street-keeps-likening-nvidia-to-dot-com-era-cisco-is-the-comparison-justified-eed307c1\"> https://www.marketwatch.com/story/wall-street-keeps-likening-nvidia-to-dot-com-era-cisco-is-the-comparison-justified-eed307c1</a></p> <p><a href=\"https://twitter.com/JayScambler/status/1759372542530261154\">https://twitter.com/JayScambler/status/1759372542530261154</a></p> <p><a href=\"https://twitter.com/chamath/status/1760343973632291212\">https://twitter.com/chamath/status/1760343973632291212</a></p> <p><a href=\"https://x.ai\">https://x.ai</a></p> <p><a href=\"https://twitter.com/TheTranscript_/status/1760436281438314545\">https://twitter.com/TheTranscript_/status/1760436281438314545</a></p> <p><a href=\"https://artificialanalysis.ai\">https://artificialanalysis.ai</a></p> <p><a href=\"https://www.contraline.com/product\">https://www.contraline.com/product</a></p> <p><a href=\"https://www.cafexapp.com/commercial\">https://www.cafexapp.com/commercial</a></p> <p><a href=\"https://blog.google/technology/ai/google-gemini-ai\">https://blog.google/technology/ai/google-gemini-ai</a></p> <p><a href=\"https://blog.google/products/gemini/bard-gemini-advanced-app\">https://blog.google/products/gemini/bard-gemini-advanced-app</a></p> <p><a href=\"https://workspace.google.com/blog/product-announcements/gemini-for-google-workspace\"> https://workspace.google.com/blog/product-announcements/gemini-for-google-workspace</a></p> <p><a href=\"https://twitter.com/benthompson/status/1760452419627233610\">https://twitter.com/benthompson/status/1760452419627233610</a></p> <p><a href=\"https://twitter.com/Patworx/status/1760189582870536408\">https://twitter.com/Patworx/status/1760189582870536408</a></p> <p><a href=\"https://twitter.com/micsolana/status/1760163801893339565\">https://twitter.com/micsolana/status/1760163801893339565</a></p> <p><a href=\"https://ai.google/responsibility/principles\">https://ai.google/responsibility/principles</a></p> <p><a href=\"https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback\"> https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback</a></p> <p><a href=\"https://twitter.com/Jason/status/1760780139476992062\">https://twitter.com/Jason/status/1760780139476992062</a></p> <p><a href=\"https://twitter.com/paulg/status/1760416051181793361\">https://twitter.com/paulg/status/1760416051181793361</a></p> <p><a href=\"https://twitter.com/chamath/status/1760729719094563019\">https://twitter.com/chamath/status/1760729719094563019</a></p> <p><a href=\"https://twitter.com/Jason/status/1760780139476992062\">https://twitter.com/Jason/status/1760780139476992062</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The episode discusses Nvidia's recent earnings, Groq's LPU breakthrough, and Google's AI disaster. The hosts also touch on the topic of wokeness in AI and its potential impact on search. Additionally, they cover the War Corner with Sacks.",
+    "takeaways": [
+      {
+        "text": "Nvidia's terminal value is high due to its dominance in AI computing",
+        "timestamp_seconds": 2
+      },
+      {
+        "text": "Groq's LPU is a potential game-changer for deep tech",
+        "timestamp_seconds": 27
+      },
+      {
+        "text": "Google's AI disaster is a result of its wokeness",
+        "timestamp_seconds": 49
+      },
+      {
+        "text": "Training vs. inference is a key consideration for AI companies",
+        "timestamp_seconds": 27
+      },
+      {
+        "text": "LPUs vs. GPUs is a crucial debate in the AI industry",
+        "timestamp_seconds": 27
+      },
+      {
+        "text": "Success in deep tech requires a strong understanding of the technology",
+        "timestamp_seconds": 27
+      },
+      {
+        "text": "Wokeness in AI can disrupt search and have significant consequences",
+        "timestamp_seconds": 49
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Nvidia is a winner",
+        "speaker": "Chamath Palihapitiya",
+        "timestamp_seconds": 2
+      },
+      {
+        "text": "Google is too woke",
+        "speaker": "Jason Calacanis",
+        "timestamp_seconds": 49
+      }
+    ],
+    "topics": [
+      "ai-computing",
+      "deep-tech",
+      "nvidia",
+      "google",
+      "wokeness",
+      "lpus",
+      "gpus",
+      "training",
+      "inference",
+      "search"
+    ],
+    "guests": [],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The hosts are bullish on Nvidia and the potential of AI, but cautious about Google's wokeness and its impact on search."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 2,
+        "description": "Discussion of Nvidia's earnings"
+      },
+      {
+        "timestamp_seconds": 27,
+        "description": "Groq's LPU breakthrough"
+      },
+      {
+        "timestamp_seconds": 49,
+        "description": "Google's AI disaster"
+      }
+    ]
+  }
 }

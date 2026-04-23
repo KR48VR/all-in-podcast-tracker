@@ -10,5 +10,75 @@
   "description": "<p>(0:00) Bestie intros! Jato Caelin</p> <p>(1:36) Groq update!: The key metric developer platforms should care about</p> <p>(5:55) Google's make or break moment: Should Sundar be fired, AI safety team's power, RIF potential, stock pressure, and more</p> <p>(29:17) How bloated HR departments slow down companies</p> <p>(40:15) Google's licensing deals: Is this TAC 2.0? How can Reddit capitalize on its data?</p> <p>(53:50) Klarna's huge AI innovation: AI disruption, open-source benefits, a new class of billion-dollar startups</p> <p>(1:13:06) Reddit S-1 breakdown</p> <p>(1:22:52) The Apple Car is dead: Apple cancels Project Titan</p> <p>Follow the besties:</p> <p><a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p><a href=\"https://twitter.com/Jason\">https://twitter.com/Jason</a></p> <p><a href=\"https://twitter.com/DavidSacks\">https://twitter.com/DavidSacks</a></p> <p><a href=\"https://twitter.com/friedberg\">https://twitter.com/friedberg</a></p> <p>Follow the pod:</p> <p><a href=\"https://twitter.com/theallinpod\">https://twitter.com/theallinpod</a></p> <p><a href=\"https://linktr.ee/allinpodcast\">https://linktr.ee/allinpodcast</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://twitter.com/yung_spielburg\">https://twitter.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://twitter.com/TheZachEffect\">https://twitter.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href=\"https://www.google.com/finance/quote/GOOG:NASDAQ\">https://www.google.com/finance/quote/GOOG:NASDAQ</a></p> <p><a href=\"https://twitter.com/PirateWires/status/1762842476744708171\">https://twitter.com/PirateWires/status/1762842476744708171</a></p> <p><a href=\"https://twitter.com/lulumeservey/status/1762864255437516932\">https://twitter.com/lulumeservey/status/1762864255437516932</a></p> <p><a href=\"https://x.com/pmarca/status/1762532979317043515\">https://x.com/pmarca/status/1762532979317043515</a></p> <p><a href=\"https://twitter.com/shellenberger/status/1762900581134557636\">https://twitter.com/shellenberger/status/1762900581134557636</a></p> <p><a href=\"https://twitter.com/shaunmmaguire/status/1760885099984261564\">https://twitter.com/shaunmmaguire/status/1760885099984261564</a></p> <p><a href=\"https://www.reuters.com/technology/reddit-ai-content-licensing-deal-with-google-sources-say-2024-02-22\"> https://www.reuters.com/technology/reddit-ai-content-licensing-deal-with-google-sources-say-2024-02-22</a></p> <p><a href=\"https://techcrunch.com/2024/02/29/google-brings-stack-overflows-knowledge-base-to-gemini\"> https://techcrunch.com/2024/02/29/google-brings-stack-overflows-knowledge-base-to-gemini</a></p> <p><a href=\"https://www.sec.gov/Archives/edgar/data/1713445/000162828024006294/reddits-1q423.htm\"> https://www.sec.gov/Archives/edgar/data/1713445/000162828024006294/reddits-1q423.htm</a></p> <p><a href=\"https://static01.nyt.com/newsgraphics/documenttools/82a013b9ba852548/9d4b1790-full.pdf\"> https://static01.nyt.com/newsgraphics/documenttools/82a013b9ba852548/9d4b1790-full.pdf</a></p> <p><a href=\"https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month\"> https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month</a></p> <p><a href=\"https://www.google.com/finance/quote/TLPFY:OTCMKTS\">https://www.google.com/finance/quote/TLPFY:OTCMKTS</a></p> <p><a href=\"https://tech.facebook.com/artificial-intelligence/2022/10/ai-translation-unwritten-language\"> https://tech.facebook.com/artificial-intelligence/2022/10/ai-translation-unwritten-language</a></p> <p><a href=\"https://www.engadget.com/metas-new-multimodal-translator-uses-a-single-model-to-speak-100-languages-133040214.html\"> https://www.engadget.com/metas-new-multimodal-translator-uses-a-single-model-to-speak-100-languages-133040214.html</a></p> <p><a href=\"https://twitter.com/balajis/status/1763067849218850939\">https://twitter.com/balajis/status/1763067849218850939</a></p> <p><a href=\"https://old.reddit.com/r/AskReddit/comments/3cs78i/whats_the_best_long_con_you_ever_pulled/cszjqg2\"> https://old.reddit.com/r/AskReddit/comments/3cs78i/whats_the_best_long_con_you_ever_pulled/cszjqg2</a></p> <p><a href=\"https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai\"> https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast discusses Google's struggles, AI's impact on customer support, and Reddit's IPO. They also touch on Klarna's AI innovation and Apple's canceled electric car project. The hosts analyze Google's licensing deals and Reddit's S-1 breakdown, highlighting key takeaways and insights.",
+    "takeaways": [
+      {
+        "text": "Google's AI safety team has significant power",
+        "timestamp_seconds": 5
+      },
+      {
+        "text": "Bloated HR departments slow down companies",
+        "timestamp_seconds": 29
+      },
+      {
+        "text": "Klarna's AI assistant handles two-thirds of customer service chats",
+        "timestamp_seconds": 53
+      },
+      {
+        "text": "Reddit's S-1 breakdown reveals key insights",
+        "timestamp_seconds": 73
+      },
+      {
+        "text": "Apple cancels electric car project, shifts team to generative AI",
+        "timestamp_seconds": 82
+      },
+      {
+        "text": "AI disruption creates new class of billion-dollar startups",
+        "timestamp_seconds": 53
+      },
+      {
+        "text": "Google's licensing deals may be TAC 2.0",
+        "timestamp_seconds": 40
+      }
+    ],
+    "quotes": [
+      {
+        "text": "AI takes over",
+        "speaker": "Unknown",
+        "timestamp_seconds": null
+      }
+    ],
+    "topics": [
+      "ai-safety",
+      "google-struggles",
+      "customer-support",
+      "reddit-ipo",
+      "klarna-innovation",
+      "apple-electric-car",
+      "generative-ai",
+      "licensing-deals",
+      "hr-departments"
+    ],
+    "guests": [],
+    "sentiment": {
+      "overall": "mixed",
+      "notes": "The hosts express both optimism and caution regarding Google's future and AI's impact on various industries."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 5,
+        "description": "Discussion on Google's make or break moment"
+      },
+      {
+        "timestamp_seconds": 53,
+        "description": "Klarna's huge AI innovation"
+      },
+      {
+        "timestamp_seconds": 73,
+        "description": "Reddit S-1 breakdown"
+      }
+    ]
+  }
 }
