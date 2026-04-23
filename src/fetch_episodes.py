@@ -116,7 +116,30 @@ def slugify(text: str) -> str:
 
 
 def save_episode(ep: dict[str, Any]) -> Path:
+    """
+    Save an episode file, preserving fields that downstream steps own.
+
+    If a file already exists at the target path, we merge in:
+      * ``analysis`` — always owned by analyze_episode.py, never by the fetcher
+      * ``transcript`` / ``transcript_segments`` — only preserved if the new
+        payload is empty, so a rate-limited Whisper run doesn't wipe good data.
+
+    Without this merge, a re-fetch (or a workflow where fetch simply re-touches
+    existing episodes) silently destroys analysis work that the analyzer may
+    have spent significant Groq quota producing.
+    """
     path = EPISODES_DIR / f"{ep['id']}.json"
+    if path.exists():
+        try:
+            existing = json.loads(path.read_text())
+        except Exception:
+            existing = {}
+        if existing.get("analysis") and "analysis" not in ep:
+            ep["analysis"] = existing["analysis"]
+        if not ep.get("transcript") and existing.get("transcript"):
+            ep["transcript"] = existing["transcript"]
+        if not ep.get("transcript_segments") and existing.get("transcript_segments"):
+            ep["transcript_segments"] = existing["transcript_segments"]
     path.write_text(json.dumps(ep, indent=2, ensure_ascii=False))
     return path
 
