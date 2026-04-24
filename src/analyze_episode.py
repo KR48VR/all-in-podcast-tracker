@@ -80,7 +80,7 @@ TRENDS_PATH = ROOT / "data" / "trends.json"
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile")
 
-MAX_TRANSCRIPT_CHARS = 120_000
+MAX_TRANSCRIPT_CHARS = 60_000
 
 # --- Prompt ------------------------------------------------------------------
 
