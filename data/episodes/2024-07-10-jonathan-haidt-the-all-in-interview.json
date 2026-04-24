@@ -10,5 +10,81 @@
   "description": "<p>(0:00) New format: The All-In Interview!</p> <p>(0:59) Jonathan Haidt joins Jason and Friedberg: broader themes of his work, gamification and supercharged social media</p> <p>(12:39) Understanding how humans are wired from an evolutionary biology perspective</p> <p>(27:22) Haidt's proposals to help younger generations</p> <p>(33:12) Linking themes and trends in Haidt's books with recent college protests</p> <p>(48:17) Explaining traditional liberalism and conservatism</p> <p>(56:55) Lightning Round: Parenting tips, Gen Z employees</p> <p>Jonathan's website:</p> <p><a href=\"https://jonathanhaidt.com\">https://jonathanhaidt.com</a></p> <p>Buy The Anxious Generation:</p> <p><a href=\"https://www.anxiousgeneration.com/book\">https://www.anxiousgeneration.com/book</a></p> <p>Follow the besties:</p> <p><a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p><a href=\"https://twitter.com/Jason\">https://twitter.com/Jason</a></p> <p><a href=\"https://twitter.com/DavidSacks\">https://twitter.com/DavidSacks</a></p> <p><a href=\"https://twitter.com/friedberg\">https://twitter.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://twitter.com/theallinpod\">https://twitter.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@all_in_tok\">https://www.tiktok.com/@all_in_tok</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://twitter.com/yung_spielburg\">https://twitter.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://twitter.com/TheZachEffect\">https://twitter.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href=\"https://www.anxiousgeneration.com/take-action\">https://www.anxiousgeneration.com/take-action</a></p> <p><a href=\"https://www.azquotes.com/quote/1385350\">https://www.azquotes.com/quote/1385350</a></p> <p><a href=\"https://www.azquotes.com/quote/926752\">https://www.azquotes.com/quote/926752</a></p> <p><a href=\"https://www.thecoddling.com/chapter-1-antifragility\">https://www.thecoddling.com/chapter-1-antifragility</a></p> <p><a href=\"https://www.anxiousgeneration.com\">https://www.anxiousgeneration.com</a></p> <p><a href=\"https://www.afterbabel.com\">https://www.afterbabel.com</a></p> <p><a href=\"https://letgrow.org\">https://letgrow.org</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "Jonathan Haidt joins Jason and Friedberg to discuss broader themes of his work, gamification, supercharged social media, and proposals to help younger generations. They also explore understanding humans from an evolutionary biology perspective and linking themes in Haidt's books with recent college protests. The conversation covers traditional liberalism, conservatism, and a lightning round on parenting tips and Gen Z employees.",
+    "takeaways": [
+      {
+        "text": "Humans are wired from an evolutionary biology perspective",
+        "timestamp_seconds": 12
+      },
+      {
+        "text": "Supercharged social media affects younger generations",
+        "timestamp_seconds": 59
+      },
+      {
+        "text": "Proposals are needed to help younger generations",
+        "timestamp_seconds": 27
+      },
+      {
+        "text": "Traditional liberalism and conservatism are explained",
+        "timestamp_seconds": 48
+      },
+      {
+        "text": "Parenting tips and Gen Z employees are discussed",
+        "timestamp_seconds": 56
+      },
+      {
+        "text": "Gamification is a significant theme in Haidt's work",
+        "timestamp_seconds": 59
+      },
+      {
+        "text": "Recent college protests are linked to Haidt's book themes",
+        "timestamp_seconds": 33
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Understanding human wiring",
+        "speaker": "Jonathan Haidt",
+        "timestamp_seconds": 12
+      },
+      {
+        "text": "Asking about parenting tips",
+        "speaker": "Jason",
+        "timestamp_seconds": 56
+      }
+    ],
+    "topics": [
+      "evolutionary-biology",
+      "social-media",
+      "gamification",
+      "liberalism",
+      "conservatism",
+      "parenting",
+      "gen-z",
+      "college-protests"
+    ],
+    "guests": [
+      "Jonathan Haidt"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The conversation is informative and solution-focused, with a positive tone towards finding ways to help younger generations."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "New format: The All-In Interview"
+      },
+      {
+        "timestamp_seconds": 59,
+        "description": "Jonathan Haidt joins the conversation"
+      },
+      {
+        "timestamp_seconds": 56,
+        "description": "Lightning Round starts"
+      }
+    ]
+  }
 }

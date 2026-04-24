@@ -12,5 +12,82 @@
     "Sheryl Sandberg"
   ],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The episode features a conversation with Sheryl Sandberg about her involvement with 'Screams Before Silence' and her reaction to sexual violence. The hosts also discuss open-source AI gene editing with OpenCRISPR-1 in the Science Corner segment. The conversation covers various topics including women's involvement in protests and documentary decisions.",
+    "takeaways": [
+      {
+        "text": "Sheryl Sandberg is involved with 'Screams Before Silence'",
+        "timestamp_seconds": 11
+      },
+      {
+        "text": "OpenCRISPR-1 is an open-source AI gene editing tool",
+        "timestamp_seconds": 59
+      },
+      {
+        "text": "Women's involvement in protests is crucial for creating change",
+        "timestamp_seconds": 28
+      },
+      {
+        "text": "Documentary decisions can impact the narrative and message",
+        "timestamp_seconds": 28
+      },
+      {
+        "text": "AI gene editing has the potential to revolutionize various fields",
+        "timestamp_seconds": 59
+      },
+      {
+        "text": "Sexual violence is a serious issue that needs to be addressed",
+        "timestamp_seconds": 11
+      },
+      {
+        "text": "Open-source AI tools can accelerate innovation and progress",
+        "timestamp_seconds": 59
+      },
+      {
+        "text": "Collaboration and awareness are key to creating positive change",
+        "timestamp_seconds": null
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Something we can all agree on",
+        "speaker": "Sheryl Sandberg",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Screams Before Silence",
+        "speaker": "Unknown",
+        "timestamp_seconds": 11
+      }
+    ],
+    "topics": [
+      "sexual-violence",
+      "ai-gene-editing",
+      "open-source-tools",
+      "women-in-protests",
+      "documentary-decisions",
+      "collaboration",
+      "awareness",
+      "innovation",
+      "progress"
+    ],
+    "guests": [
+      "Sheryl Sandberg"
+    ],
+    "sentiment": {
+      "overall": "mixed",
+      "notes": "The conversation covers serious topics like sexual violence, but also highlights the potential for positive change and innovation through open-source AI tools and collaboration."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "Introduction to Sheryl Sandberg and the topic of 'Screams Before Silence'"
+      },
+      {
+        "timestamp_seconds": 59,
+        "description": "Introduction to the Science Corner segment on open-source AI gene editing with OpenCRISPR-1"
+      }
+    ]
+  }
 }

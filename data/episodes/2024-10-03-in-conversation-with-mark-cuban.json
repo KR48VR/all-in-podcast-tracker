@@ -12,5 +12,78 @@
     "Mark Cuban"
   ],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast features Mark Cuban, discussing his voting record, Trump's presidency, Biden's performance, and international conflict. Cuban also shares his thoughts on AI, crypto regulation, and his business ventures. The conversation covers various topics, including politics, business, and technology.",
+    "takeaways": [
+      {
+        "text": "Mark Cuban has a complex relationship with Trump",
+        "timestamp_seconds": 5
+      },
+      {
+        "text": "Cuban criticizes Trump's presidency",
+        "timestamp_seconds": 19
+      },
+      {
+        "text": "Kamala Harris may share blame for Biden's failures",
+        "timestamp_seconds": 55
+      },
+      {
+        "text": "Cuban is working on Cost Plus Drugs",
+        "timestamp_seconds": 91
+      },
+      {
+        "text": "Cuban has thoughts on AI and crypto regulation",
+        "timestamp_seconds": 67
+      },
+      {
+        "text": "Cuban sold a majority of his Mavericks stake",
+        "timestamp_seconds": 112
+      },
+      {
+        "text": "Cuban re-evaluates the Twitter deal",
+        "timestamp_seconds": 119
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Love/hate relationship with Trump",
+        "speaker": "Mark Cuban",
+        "timestamp_seconds": 5
+      },
+      {
+        "text": "Trump got some things right",
+        "speaker": "Mark Cuban",
+        "timestamp_seconds": 19
+      }
+    ],
+    "topics": [
+      "politics",
+      "trump",
+      "biden",
+      "kamala-harris",
+      "ai",
+      "crypto-regulation",
+      "business",
+      "nba",
+      "twitter"
+    ],
+    "guests": [
+      "Mark Cuban"
+    ],
+    "sentiment": {
+      "overall": "mixed",
+      "notes": "The conversation has a mix of positive and negative sentiments, with Cuban criticizing Trump's presidency and Biden's performance, but also sharing his thoughts on AI and business ventures."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 40,
+        "description": "Discussion on party nominations"
+      },
+      {
+        "timestamp_seconds": 67,
+        "description": "Cuban shares thoughts on international conflict and national debt"
+      }
+    ]
+  }
 }

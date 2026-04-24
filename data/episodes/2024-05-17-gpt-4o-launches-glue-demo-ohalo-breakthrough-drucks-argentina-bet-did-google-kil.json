@@ -10,5 +10,91 @@
   "description": "<p>(0:00) Bestie Intros: Recapping Phil Hellmuth's birthday weekend</p> <p>(7:38) OpenAI launches GPT-4o: better, faster, cheaper</p> <p>(29:40) Sacks demos Glue: How AI unlocked his Slack killer</p> <p>(40:12) Friedberg walks through his major breakthrough at Ohalo</p> <p>(1:01:35) Stanley Druckenmiller bets on Argentina and Javier Milei: strategy, roadmap for the US</p> <p>(1:13:54) Jason's bet on Athena, how AI will change company building</p> <p>(1:22:21) Google launches AI summaries in search</p> <p>Follow the besties:</p> <p><a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p><a href=\"https://twitter.com/Jason\">https://twitter.com/Jason</a></p> <p><a href=\"https://twitter.com/DavidSacks\">https://twitter.com/DavidSacks</a></p> <p><a href=\"https://twitter.com/friedberg\">https://twitter.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://twitter.com/theallinpod\">https://twitter.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@all_in_tok\">https://www.tiktok.com/@all_in_tok</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://twitter.com/yung_spielburg\">https://twitter.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://twitter.com/TheZachEffect\">https://twitter.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href=\"https://www.pokernews.com/news/2024/05/phil-hellmuth-60th-birthday-bash-las-vegas-45984.htm\"> https://www.pokernews.com/news/2024/05/phil-hellmuth-60th-birthday-bash-las-vegas-45984.htm</a></p> <p><a href=\"https://x.com/OpenAI/status/1790130703721521305\">https://x.com/OpenAI/status/1790130703721521305</a></p> <p><a href=\"https://x.com/OpenAI/status/1790089513387143469\">https://x.com/OpenAI/status/1790089513387143469</a></p> <p>https://crfm.stanford.edu/helm/mmlu/v1.3.0/#</p> <p><a href=\"https://www.businessinsider.com/inflection-implosion-chatgpt-stall-ai-consumer-chatbot-problem-2024-3\"> https://www.businessinsider.com/inflection-implosion-chatgpt-stall-ai-consumer-chatbot-problem-2024-3</a></p> <p><a href=\"https://www.opencompute.org\">https://www.opencompute.org</a></p> <p><a href=\"https://glue.ai\">https://glue.ai</a></p> <p><a href=\"https://ragie.ai\">https://ragie.ai</a></p> <p><a href=\"https://ohalo.com\">https://ohalo.com</a></p> <p><a href=\"https://www.cnbc.com/2024/05/07/cnbc-exclusive-cnbc-transcript-billionaire-investor-stanley-druckenmiller-speaks-with-cnbcs-squawk-box-today.html\"> https://www.cnbc.com/2024/05/07/cnbc-exclusive-cnbc-transcript-billionaire-investor-stanley-druckenmiller-speaks-with-cnbcs-squawk-box-today.html</a></p> <p><a href=\"https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula\"> https://www.forbes.com/sites/theapothecary/2024/03/23/summers-inflation-reached-18-in-2022-using-the-governments-previous-formula</a></p> <p><a href=\"https://twitter.com/DavidSacks/status/1378034932006592512\">https://twitter.com/DavidSacks/status/1378034932006592512</a></p> <p><a href=\"https://www.athenawow.com/jcal\">https://www.athenawow.com/jcal</a></p> <p><a href=\"https://calacanis.substack.com/p/startup-productivity-in-the-age-of\"> https://calacanis.substack.com/p/startup-productivity-in-the-age-of</a></p> <p><a href=\"https://blog.google/products/search/generative-ai-google-search-may-2024\"> https://blog.google/products/search/generative-ai-google-search-may-2024</a></p> <p><a href=\"https://www.youtube.com/watch?v=XEzRZ35urlk\">https://www.youtube.com/watch?v=XEzRZ35urlk</a></p> <p><a href=\"https://finance.yahoo.com/quote/GOOG\">https://finance.yahoo.com/quote/GOOG</a></p> <p><a href=\"https://startuptalky.com/apple-failed-products\">https://startuptalky.com/apple-failed-products</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast discusses OpenAI's GPT-4o launch, Glue demo, Ohalo breakthrough, and Stanley Druckenmiller's Argentina bet. They also touch on Google's AI summaries in search and Jason's bet on Athena.",
+    "takeaways": [
+      {
+        "text": "GPT-4o is better, faster, and cheaper",
+        "timestamp_seconds": 438
+      },
+      {
+        "text": "Glue is a potential Slack killer",
+        "timestamp_seconds": 1760
+      },
+      {
+        "text": "Ohalo has made a major breakthrough",
+        "timestamp_seconds": 2412
+      },
+      {
+        "text": "Stanley Druckenmiller is betting on Argentina",
+        "timestamp_seconds": 3695
+      },
+      {
+        "text": "Jason is betting on Athena",
+        "timestamp_seconds": 4364
+      },
+      {
+        "text": "Google has launched AI summaries in search",
+        "timestamp_seconds": 5061
+      },
+      {
+        "text": "AI will change company building",
+        "timestamp_seconds": 5061
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Glue is a game-changer",
+        "speaker": "David Sacks",
+        "timestamp_seconds": 1760
+      },
+      {
+        "text": "Athena is the future",
+        "speaker": "Jason Calacanis",
+        "timestamp_seconds": 4364
+      }
+    ],
+    "topics": [
+      "ai-launches",
+      "glue-demo",
+      "ohalo-breakthrough",
+      "argentina-bet",
+      "google-ai",
+      "athena-bet",
+      "company-building",
+      "ai-summaries"
+    ],
+    "guests": [],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The hosts are excited about the potential of AI and its applications, but also cautious about the challenges and risks involved."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 438,
+        "description": "OpenAI launches GPT-4o"
+      },
+      {
+        "timestamp_seconds": 1760,
+        "description": "David Sacks demos Glue"
+      },
+      {
+        "timestamp_seconds": 2412,
+        "description": "Friedberg walks through Ohalo breakthrough"
+      },
+      {
+        "timestamp_seconds": 3695,
+        "description": "Stanley Druckenmiller bets on Argentina"
+      },
+      {
+        "timestamp_seconds": 4364,
+        "description": "Jason bets on Athena"
+      },
+      {
+        "timestamp_seconds": 5061,
+        "description": "Google launches AI summaries in search"
+      }
+    ]
+  }
 }
