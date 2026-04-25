@@ -251,7 +251,9 @@ def run(force: bool = False) -> None:
         print("ERROR: GROQ_API_KEY not set", file=sys.stderr)
         sys.exit(1)
 
-    episode_files = sorted(EPISODES_DIR.glob("*.json"))
+    # Process newest episodes first so rate limits eat the oldest backlog
+    # (which users care about least), not the most recent episodes.
+    episode_files = sorted(EPISODES_DIR.glob("*.json"), reverse=True)
     all_eps: list[dict[str, Any]] = []
 
     for path in episode_files:
