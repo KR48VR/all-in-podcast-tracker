@@ -1,0 +1,101 @@
+{
+  "id": "2021-01-30-breaking-down-robinhoods-gamestop-decision-why-did-it-happen-and-how-can-it-be-p",
+  "number": 19,
+  "title": "Breaking down Robinhood's GameStop decision: Why did it happen and how can it be prevented in the future?",
+  "date": "2021-01-30",
+  "url": "https://allinchamathjason.libsyn.com/e19-breaking-down-robinhoods-gamestop-decision-why-did-it-happen-and-how-can-it-be-prevented-in-the-future",
+  "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E019.mp3?dest-id=1928300",
+  "youtube_url": "",
+  "youtube_video_id": "",
+  "description": "<p>Follow the crew:</p> <p><a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p><a href=\"https://linktr.ee/calacanis\">https://linktr.ee/calacanis</a></p> <p><a href=\"https://twitter.com/DavidSacks\">https://twitter.com/DavidSacks</a></p> <p><a href=\"https://twitter.com/friedberg\">https://twitter.com/friedberg</a></p> <p>Follow the pod:</p> <p><a href=\"https://twitter.com/theallinpod\">https://twitter.com/theallinpod</a></p> <p><a href=\"https://linktr.ee/allinpodcast\">https://linktr.ee/allinpodcast</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://twitter.com/yung_spielburg\">https://twitter.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://twitter.com/MikeSylvan\">https://twitter.com/MikeSylvan</a></p> <p>Referenced in the show:</p> <p>David Sacks on Bloomberg</p> <p><a href=\"https://www.youtube.com/watch?v=K2lJg4sxl2U\">https://www.youtube.com/watch?v=K2lJg4sxl2U</a></p> <p>Chamath for Governor</p> <p><a href=\"https://www.chamathforca.com\">https://www.chamathforca.com</a></p> <p>DeepFuckingValue's Reddit page</p> <p><a href=\"https://www.reddit.com/user/DeepFuckingValue\">https://www.reddit.com/user/DeepFuckingValue</a></p> <p>Show Notes:</p> <p>0:26 Besties intro</p> <p>2:11 Chamath breaks down the entire WallStreetBets/GameStop saga</p> <p>15:38 Jason responds, debating Robinhood's liquidity crisis, Citadel's potential involvement & more</p> <p>39:18 How can this be prevented in the future? Restructuring capital gains tax, censorship, where Robinhood can go from here</p> <p>53:02 Major learnings from this week's events, risks of decentralization, do stocks need to be reflexive of the underlying business? GameStop's endgame</p> <p>1:15:01 Chamath for Governor of California, Friedberg on leaders vs. managers & the problem with career politicians</p>",
+  "guests": [],
+  "transcript": "",
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast crew breaks down the Robinhood and GameStop saga, discussing the events that led to the liquidity crisis and potential ways to prevent it in the future. They also touch on topics such as decentralization, capital gains tax, and the role of leaders vs. managers. The episode concludes with a discussion on Chamath's potential governorship and the problems with career politicians.",
+    "takeaways": [
+      {
+        "text": "Robinhood's liquidity crisis was caused by a perfect storm of events",
+        "timestamp_seconds": 2
+      },
+      {
+        "text": "Citadel's involvement in the saga is still unclear",
+        "timestamp_seconds": 15
+      },
+      {
+        "text": "Decentralization can be a double-edged sword",
+        "timestamp_seconds": 53
+      },
+      {
+        "text": "Capital gains tax restructuring could help prevent similar events",
+        "timestamp_seconds": 39
+      },
+      {
+        "text": "Leaders and managers have different roles in times of crisis",
+        "timestamp_seconds": 75
+      },
+      {
+        "text": "Career politicians can be a problem in governance",
+        "timestamp_seconds": 4500
+      },
+      {
+        "text": "Stock prices should reflect the underlying business",
+        "timestamp_seconds": 53
+      },
+      {
+        "text": "GameStop's endgame is still uncertain",
+        "timestamp_seconds": 53
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Perfect storm of events",
+        "speaker": "Chamath Palihapitiya",
+        "timestamp_seconds": 2
+      },
+      {
+        "text": "Liquidity crisis",
+        "speaker": "Jason Calacanis",
+        "timestamp_seconds": 15
+      },
+      {
+        "text": "Leaders vs managers",
+        "speaker": "David Friedberg",
+        "timestamp_seconds": 75
+      }
+    ],
+    "topics": [
+      "gamestop",
+      "robinhood",
+      "decentralization",
+      "capital-gains-tax",
+      "leadership",
+      "governance",
+      "stock-market",
+      "liquidity-crisis"
+    ],
+    "guests": [],
+    "sentiment": {
+      "overall": "cautious",
+      "notes": "The crew is cautious about the potential consequences of the Robinhood and GameStop saga, and they discuss the need for regulatory changes to prevent similar events in the future."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 2,
+        "description": "Chamath breaks down the WallStreetBets/GameStop saga"
+      },
+      {
+        "timestamp_seconds": 15,
+        "description": "Jason responds, debating Robinhood's liquidity crisis"
+      },
+      {
+        "timestamp_seconds": 75,
+        "description": "Friedberg discusses leaders vs. managers"
+      },
+      {
+        "timestamp_seconds": 4500,
+        "description": "Chamath discusses his potential governorship"
+      }
+    ]
+  }
+}

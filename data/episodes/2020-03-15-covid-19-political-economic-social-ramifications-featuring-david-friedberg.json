@@ -1,0 +1,96 @@
+{
+  "id": "2020-03-15-covid-19-political-economic-social-ramifications-featuring-david-friedberg",
+  "number": 0,
+  "title": "COVID-19 Political, Economic & Social Ramifications featuring David Friedberg",
+  "date": "2020-03-15",
+  "url": "https://www.allinpodcast.co/",
+  "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E000.mp3?dest-id=1928300",
+  "youtube_url": "",
+  "youtube_video_id": "",
+  "description": "<p>Follow @chamath: <a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p>Follow @jason: <a href=\"https://twitter.com/Jason\">https://twitter.com/Jason</a></p> <p> </p> <p><a href=\"https://linktr.ee/calacanis\">https://linktr.ee/calacanis</a></p> <p> </p> <p>0:01 Jason intros Chamath and Episode 0 of All-In and they discuss their current self-quarantine</p> <p><br /> 0:55 Jason intros David Friedberg</p> <p><br /> 1:35 Chamath gives the inaugural (& potentially final) All-In ad read</p> <p><br /> 2:17 As a Warriors owner, Chamath gives his reaction to the NBA postponing & uncoordinated actions of government & private sectors</p> <p><br /> 4:37 Why was the US so slow to react on both an individual & governmental level? What did the OpenTable data show?</p> <p><br /> 9:03 David explains the actions he would take if he was president</p> <p><br /> 12:37 Thoughts on Trump's private sector involvement</p> <p><br /> 16:58 Has the press failed in its coverage, or are they just feeding people what they want?</p> <p><br /> 23:52 What will the next few weeks in the US look like? Why has the virus spread severely in Italy, but not yet in India?</p> <p><br /> 37:20 How the COVID-19 viral coefficient compares to the early days of Facebook's numbers</p> <p><br /> 40:26 Chances of Trump testing positive for the virus? What effect would that have on markets?</p> <p><br /> 48:53 What should we do differently next time?</p> <p><br /> 53:13 Will there both more deaths due to second order effects of the virus than direct deaths?</p> <p><br /> 1:01:06 Should there be a global stimulus package? Effect of low-volatility during recent bull run?</p> <p><br /> 1:11:26 Chances of a quick resolution?</p> <p><br /> 1:16:48 How are Jason & Chamath advising their portfolio companies? How are IPO's of companies like Airbnb & DoorDash being effected?</p> <p><br /> 1:21:17 How to approach the next year in startups & VC?</p>",
+  "guests": [],
+  "transcript": "",
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The episode discusses the COVID-19 pandemic's impact on politics, economy, and society. The hosts, Chamath Palihapitiya and Jason Calacanis, are joined by David Friedberg to share their thoughts on the US's slow reaction, government and private sector responses, and potential future outcomes. They also touch on the effects on startups, VC, and the global economy.",
+    "takeaways": [
+      {
+        "text": "US was slow to react to COVID-19",
+        "timestamp_seconds": 4
+      },
+      {
+        "text": "OpenTable data showed significant decline in bookings",
+        "timestamp_seconds": 4
+      },
+      {
+        "text": "Private sector involvement is crucial in crisis",
+        "timestamp_seconds": 12
+      },
+      {
+        "text": "Viral coefficient of COVID-19 is high",
+        "timestamp_seconds": 37
+      },
+      {
+        "text": "Global stimulus package may be necessary",
+        "timestamp_seconds": 61
+      },
+      {
+        "text": "Startups and VC should be cautious in the next year",
+        "timestamp_seconds": 81
+      },
+      {
+        "text": "IPOs of companies like Airbnb and DoorDash are affected",
+        "timestamp_seconds": 106
+      },
+      {
+        "text": "Low-volatility during recent bull run may have an impact",
+        "timestamp_seconds": 61
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Uncoordinated actions",
+        "speaker": "Chamath Palihapitiya",
+        "timestamp_seconds": 2
+      },
+      {
+        "text": "Actions as president",
+        "speaker": "David Friedberg",
+        "timestamp_seconds": 9
+      }
+    ],
+    "topics": [
+      "covid-19",
+      "us-politics",
+      "economy",
+      "global-stimulus",
+      "startups",
+      "vc",
+      "ipos",
+      "viral-coefficient",
+      "private-sector",
+      "government-response"
+    ],
+    "guests": [
+      "David Friedberg"
+    ],
+    "sentiment": {
+      "overall": "cautious",
+      "notes": "The hosts and guest express concern about the pandemic's impact and the need for coordinated action. They also discuss potential long-term effects on the economy and startups."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "Introduction to the podcast and discussion of self-quarantine"
+      },
+      {
+        "timestamp_seconds": 9,
+        "description": "David Friedberg shares his actions as president"
+      },
+      {
+        "timestamp_seconds": 37,
+        "description": "Comparison of COVID-19 viral coefficient to Facebook's numbers"
+      }
+    ]
+  }
+}
