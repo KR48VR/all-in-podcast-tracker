@@ -10,5 +10,84 @@
   "description": "<p>(0:00) Bestie intros</p> <p>(0:12) OpenAI declares \"Code Red\" as competitors eat away ChatGPT market share</p> <p>(28:14) David Sacks vs. New York Times</p> <p>(51:24) New poverty line, America's slow descent into socialism</p> <p>Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://x.com/TheZachEffect\">https://x.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p>Sacks's AI waiver:</p> <p><a href=\"https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf\"> https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf</a></p> <p>Sacks's Crypto waiver:</p> <p><a href=\"https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf\"> https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf</a></p> <p><a href=\"https://www.theinformation.com/articles/openai-ceo-declares-code-red-combat-threats-chatgpt-delays-ads-effort?rc=f8fu8f\"> https://www.theinformation.com/articles/openai-ceo-declares-code-red-combat-threats-chatgpt-delays-ads-effort?rc=f8fu8f</a></p> <p><a href=\"https://www.cnbc.com/2025/11/19/nvidia-says-no-assurance-of-deal-with-openai-after-100-billion-pact.html\"> https://www.cnbc.com/2025/11/19/nvidia-says-no-assurance-of-deal-with-openai-after-100-billion-pact.html</a></p> <p><a href=\"https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html\"> https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html</a></p> <p><a href=\"https://www.nytimes.com/2021/07/23/us/politics/anita-dunn-biden-white-house.html\"> https://www.nytimes.com/2021/07/23/us/politics/anita-dunn-biden-white-house.html</a></p> <p><a href=\"https://www.yesigiveafig.com/p/part-1-my-life-is-a-lie\">https://www.yesigiveafig.com/p/part-1-my-life-is-a-lie</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The episode discusses OpenAI's 'Code Red' due to competitors eating away at ChatGPT's market share, David Sacks' disagreement with the New York Times, and the concept of a new poverty line in America. The hosts also touch on the country's slow descent into socialism. The conversation covers various topics, including AI, technology, and politics.",
+    "takeaways": [
+      {
+        "text": "OpenAI declares Code Red",
+        "timestamp_seconds": 12
+      },
+      {
+        "text": "ChatGPT faces market share threats",
+        "timestamp_seconds": 12
+      },
+      {
+        "text": "David Sacks disagrees with New York Times",
+        "timestamp_seconds": 28
+      },
+      {
+        "text": "New poverty line concept discussed",
+        "timestamp_seconds": 51
+      },
+      {
+        "text": "America's slow descent into socialism",
+        "timestamp_seconds": 51
+      },
+      {
+        "text": "Nvidia's deal with OpenAI uncertain",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "AI waiver and crypto waiver discussed",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Hosts discuss US politics and technology",
+        "timestamp_seconds": null
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Code Red",
+        "speaker": "Unknown",
+        "timestamp_seconds": 12
+      },
+      {
+        "text": "Disagree with NYT",
+        "speaker": "David Sacks",
+        "timestamp_seconds": 28
+      }
+    ],
+    "topics": [
+      "ai-safety",
+      "chatgpt",
+      "openai",
+      "nvidia",
+      "us-politics",
+      "socialism",
+      "poverty-line",
+      "technology",
+      "crypto"
+    ],
+    "guests": [],
+    "sentiment": {
+      "overall": "cautious",
+      "notes": "The hosts express concern over OpenAI's market share and the potential consequences of America's slow descent into socialism."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 12,
+        "description": "OpenAI declares Code Red"
+      },
+      {
+        "timestamp_seconds": 28,
+        "description": "David Sacks vs New York Times discussion starts"
+      },
+      {
+        "timestamp_seconds": 51,
+        "description": "New poverty line concept introduced"
+      }
+    ]
+  }
 }

@@ -10,5 +10,76 @@
   "description": "<p>(0:00) Introducing Ari Emanuel</p> <p>(1:03) Ari's background in the content business and Hollywood</p> <p>(4:14) How infinite distribution is changing Hollywood, the future of podcasting, creators owning advertising products</p> <p>(9:21) AI's impact: anticipating the 3-day workweek</p> <p>(12:13) Splitting time between TKO and WME, YouTube vs Netflix for creators, modern IP ownership</p> <p>(18:20) How he got a fighter's reputation, relationship with Michael Ovitz, how he built on Ovitz's vision</p> <p>(22:12) Future of sports entertainment: adapting to attention spans, clip culture, going global</p> <p>(24:21) Ari's relationship with his brothers and Elon Musk</p> <p>Thanks to our partners for making this happen!</p> <p>Solana - Solana is the high performance network powering internet capital markets, payments, and crypto applications. Connect with investors, crypto founders, and entrepreneurs at Solana's global flagship event during Abu Dhabi Finance Week & F1: <a href=\"https://solana.com/breakpoint\">https://solana.com/breakpoint</a></p> <p>OKX - The new way to build your crypto portfolio and use it in daily life. We call it the new money app. <a href=\"https://www.okx.com/\">https://www.okx.com/</a></p> <p>Google Cloud - The next generation of unicorns is building on Google Cloud's industry-leading, fully integrated AI stack: infrastructure, platform, models, agents, and data. <a href=\"https://cloud.google.com/\">https://cloud.google.com/</a></p> <p>IREN - IREN AI Cloud, powered by NVIDIA GPUs, provides the scale, performance, and reliability to accelerate your AI journey. <a href=\"https://iren.com/\">https://iren.com/</a></p> <p>Oracle - Step into the future of enterprise productivity at Oracle AI Experience Live. <a href=\"https://www.oracle.com/artificial-intelligence/data-ai-events/\">https://www.oracle.com/artificial-intelligence/data-ai-events/</a></p> <p>Circle - The America-based company behind USDC — a fully-reserved, enterprise-grade stablecoin at the core of the emerging internet financial system. <a href=\"https://www.circle.com/\">https://www.circle.com/</a></p> <p>BVNK - Building stablecoin-powered financial infrastructure that helps businesses send, store, and spend value instantly, anywhere in the world. <a href=\"https://www.bvnk.com/\">https://www.bvnk.com/</a></p> <p>Polymarket - The world's largest prediction market. <a href=\"https://www.polymarket.com/\">https://www.polymarket.com/</a></p> <p>Follow Ari:</p> <p><a href=\"https://x.com/AriEmanuel\">https://x.com/AriEmanuel</a></p> <p>Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "Ari Emanuel discusses the future of entertainment, including the impact of infinite distribution, AI, and the creator economy on Hollywood. He also shares his background and experiences in the industry. The conversation covers topics such as the future of sports entertainment, modern IP ownership, and the role of YouTube and Netflix in the creator economy.",
+    "takeaways": [
+      {
+        "text": "Infinite distribution is changing Hollywood",
+        "timestamp_seconds": 4
+      },
+      {
+        "text": "AI may lead to a 3-day workweek",
+        "timestamp_seconds": 9
+      },
+      {
+        "text": "Creators will own advertising products",
+        "timestamp_seconds": 4
+      },
+      {
+        "text": "Modern IP ownership is crucial for creators",
+        "timestamp_seconds": 12
+      },
+      {
+        "text": "Attention spans are adapting in sports entertainment",
+        "timestamp_seconds": 22
+      },
+      {
+        "text": "Clip culture is going global",
+        "timestamp_seconds": 22
+      },
+      {
+        "text": "YouTube and Netflix have different roles in the creator economy",
+        "timestamp_seconds": 12
+      },
+      {
+        "text": "Ari Emanuel built on Michael Ovitz's vision",
+        "timestamp_seconds": 18
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Anticipating the 3-day workweek",
+        "speaker": "Ari Emanuel",
+        "timestamp_seconds": 9
+      }
+    ],
+    "topics": [
+      "entertainment-industry",
+      "infinite-distribution",
+      "ai-impact",
+      "creator-economy",
+      "ip-ownership",
+      "sports-entertainment",
+      "clip-culture",
+      "youtube-vs-netflix"
+    ],
+    "guests": [
+      "Ari Emanuel"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The conversation is forward-looking and focuses on the opportunities and adaptations in the entertainment industry. Ari Emanuel's experiences and insights contribute to a positive and enthusiastic tone."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 9,
+        "description": "Ari Emanuel discusses the potential impact of AI on workweeks"
+      },
+      {
+        "timestamp_seconds": 18,
+        "description": "Ari Emanuel shares his relationship with Michael Ovitz and building on his vision"
+      }
+    ]
+  }
 }

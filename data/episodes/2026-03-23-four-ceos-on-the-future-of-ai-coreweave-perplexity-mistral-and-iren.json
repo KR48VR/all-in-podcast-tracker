@@ -10,5 +10,73 @@
   "description": "<p>(0:00) Intro live from Nvidia GTC</p> <p>(0:37) CoreWeave CEO, Michael Intrator</p> <p>(32:58) Perplexity CEO, Aravind Srinivas</p> <p>(1:07:11) Mistral CEO, Arthur Mensch</p> <p>(1:18:57) IREN CEO, Daniel Roberts</p> <p>Our episode is sponsored by the New York Stock Exchange - a modern marketplace and exchange for building the future.<br /> It all happens at the NYSE - <a href=\"https://nyse.com\">https://nyse.com</a></p> <p>Follow the besties: </p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://x.com/TheZachEffect\">https://x.com/TheZachEffect</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast features four CEOs discussing the future of AI, including CoreWeave, Perplexity, Mistral, and IREN. They share their insights and experiences in the AI industry. The episode is sponsored by the New York Stock Exchange.",
+    "takeaways": [
+      {
+        "text": "AI is transforming industries",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "CoreWeave focuses on AI infrastructure",
+        "timestamp_seconds": 37
+      },
+      {
+        "text": "Perplexity aims to make AI more accessible",
+        "timestamp_seconds": 2088
+      },
+      {
+        "text": "Mistral works on AI for edge devices",
+        "timestamp_seconds": 4021
+      },
+      {
+        "text": "IREN develops AI for industrial automation",
+        "timestamp_seconds": 4307
+      },
+      {
+        "text": "NYSE sponsors the episode",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "AI CEOs share their visions for the future",
+        "timestamp_seconds": null
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Building the future",
+        "speaker": "Unknown",
+        "timestamp_seconds": null
+      }
+    ],
+    "topics": [
+      "ai-industry",
+      "ai-infrastructure",
+      "edge-devices",
+      "industrial-automation",
+      "ai-accessibility",
+      "future-of-ai"
+    ],
+    "guests": [
+      "Michael Intrator",
+      "Aravind Srinivas",
+      "Arthur Mensch",
+      "Daniel Roberts"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The episode has a positive tone, with the CEOs sharing their visions for the future of AI and its potential to transform industries."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "Intro live from Nvidia GTC"
+      },
+      {
+        "timestamp_seconds": 37,
+        "description": "CoreWeave CEO, Michael Intrator, joins the conversation"
+      }
+    ]
+  }
 }

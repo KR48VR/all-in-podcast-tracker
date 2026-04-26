@@ -10,5 +10,91 @@
   "description": "<p>(0:00) Intro!</p> <p>(2:47) Tony Hinchcliffe roasts the Besties</p> <p>(15:01) Interview: Kill Tony success, MSG rally, origin story, free speech in Europe</p> <p>(36:03) The Besties play Kill Tony!</p> <p>(50:14) The 2025 Bestie Awards: Business, Politics, Tech, and more</p> <p>Thanks to our partners for making this happen!</p> <p>IREN: <a href=\"https://iren.com\">https://iren.com</a></p> <p>OKX: <a href=\"https://okx.com\">https://okx.com</a></p> <p>Google Cloud: <a href=\"https://cloud.google.com\">https://cloud.google.com</a></p> <p>Follow Tony:</p> <p><a href=\"https://www.youtube.com/@killtony\">https://www.youtube.com/@killtony</a></p> <p><a href=\"https://x.com/TonyHinchcliffe\">https://x.com/TonyHinchcliffe</a></p> <p>Follow the besties: </p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://x.com/TheZachEffect\">https://x.com/TheZachEffect</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast hosts a hilarious holiday special with Tony Hinchcliffe, discussing his success with Kill Tony, free speech in Europe, and playing a game. They also give out the 2025 Bestie Awards in various categories. The episode is filled with humor and lighthearted conversations.",
+    "takeaways": [
+      {
+        "text": "Tony Hinchcliffe's Kill Tony has been successful",
+        "timestamp_seconds": 15
+      },
+      {
+        "text": "Free speech is a concern in Europe",
+        "timestamp_seconds": 15
+      },
+      {
+        "text": "The Besties played Kill Tony",
+        "timestamp_seconds": 36
+      },
+      {
+        "text": "The 2025 Bestie Awards were given out",
+        "timestamp_seconds": 50
+      },
+      {
+        "text": "The episode was a lighthearted holiday special",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "The hosts discussed various topics including business and politics",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Tony Hinchcliffe was roasted by the Besties",
+        "timestamp_seconds": 2
+      },
+      {
+        "text": "The episode featured multiple games and awards",
+        "timestamp_seconds": null
+      }
+    ],
+    "quotes": [
+      {
+        "text": "roasting the Besties",
+        "speaker": "Tony Hinchcliffe",
+        "timestamp_seconds": 2
+      },
+      {
+        "text": "Happy Holidays",
+        "speaker": "Unknown",
+        "timestamp_seconds": null
+      }
+    ],
+    "topics": [
+      "holiday-special",
+      "kill-tony",
+      "free-speech",
+      "europe",
+      "bestie-awards",
+      "business",
+      "politics",
+      "tech",
+      "comedy",
+      "games"
+    ],
+    "guests": [
+      "Tony Hinchcliffe"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The episode was lighthearted and humorous, with a focus on entertainment and comedy. The hosts and guest had a positive and playful tone throughout the episode."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 2,
+        "description": "Tony Hinchcliffe roasts the Besties"
+      },
+      {
+        "timestamp_seconds": 15,
+        "description": "Interview with Tony Hinchcliffe"
+      },
+      {
+        "timestamp_seconds": 36,
+        "description": "The Besties play Kill Tony"
+      },
+      {
+        "timestamp_seconds": 50,
+        "description": "The 2025 Bestie Awards"
+      }
+    ]
+  }
 }

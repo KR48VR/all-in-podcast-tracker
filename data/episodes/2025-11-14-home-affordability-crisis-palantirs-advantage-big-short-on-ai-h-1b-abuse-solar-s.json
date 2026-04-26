@@ -10,5 +10,80 @@
   "description": "<p dir=\"ltr\">(0:00) Michael Burry's big short against AI</p> <p dir=\"ltr\">(12:00) Why Palantir is so richly valued vs other tech companies</p> <p dir=\"ltr\">(20:07) Home affordability crisis: Mortgage innovation, building, top priorities to win mid-terms</p> <p dir=\"ltr\">(36:18) H-1B debate flares up again after Trump's comments on Fox News</p> <p dir=\"ltr\">(42:37) Science Corner: Solar storms, coronal mass ejection, risks</p> <p dir=\"ltr\">(51:14) Rich Americans fleeing \"the great confiscation\"</p> <p><strong> </strong></p> <p dir=\"ltr\">Join us at the All-In Holiday Spectacular!:</p> <p dir=\"ltr\">https://allin.com/events</p> <p><strong> </strong></p> <p dir=\"ltr\">Follow the besties: </p> <p dir=\"ltr\">https://x.com/chamath</p> <p dir=\"ltr\">https://x.com/Jason</p> <p dir=\"ltr\">https://x.com/DavidSacks</p> <p dir=\"ltr\">https://x.com/friedberg</p> <p><strong> </strong></p> <p dir=\"ltr\">Follow on X:</p> <p dir=\"ltr\">https://x.com/theallinpod</p> <p><strong> </strong></p> <p dir=\"ltr\">Follow on Instagram:</p> <p dir=\"ltr\">https://www.instagram.com/theallinpod</p> <p><strong> </strong></p> <p dir=\"ltr\">Follow on TikTok:</p> <p dir=\"ltr\">https://www.tiktok.com/@theallinpod</p> <p><strong> </strong></p> <p dir=\"ltr\">Follow on LinkedIn: </p> <p dir=\"ltr\">https://www.linkedin.com/company/allinpod</p> <p><strong> </strong></p> <p dir=\"ltr\">Intro Music Credit:</p> <p dir=\"ltr\">https://rb.gy/tppkzl</p> <p dir=\"ltr\">https://x.com/yung_spielburg</p> <p><strong> </strong></p> <p dir=\"ltr\">Intro Video Credit:</p> <p dir=\"ltr\">https://x.com/TheZachEffect</p> <p><strong> </strong></p> <p dir=\"ltr\">Referenced in the show:</p> <p dir=\"ltr\"> https://x.com/michaeljburry/status/1988778952299802818</p> <p dir=\"ltr\"> https://x.com/_Investinq/status/1988847716613365845</p> <p dir=\"ltr\"> https://x.com/michaeljburry/status/1987918650104283372</p> <p dir=\"ltr\"> https://www.nytimes.com/2025/11/06/realestate/first-time-home-buyers.html</p> <p dir=\"ltr\"> https://x.com/jatanackov/status/1988256651103592564</p> <p dir=\"ltr\"> https://x.com/omapproach/status/1988410644907856075</p> <p dir=\"ltr\"> https://x.com/latestinspace/status/1988606899932299700</p> <p dir=\"ltr\">https://www.swpc.noaa.gov/</p> <p> </p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The episode discusses various topics including Michael Burry's short against AI, Palantir's high valuation, the home affordability crisis, H-1B debate, and solar storms. The hosts also touch on the 'great confiscation' and rich Americans fleeing. The conversation covers a range of subjects from tech and economics to science and politics.",
+    "takeaways": [
+      {
+        "text": "Michael Burry is shorting AI",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "Palantir's valuation is high due to its unique position",
+        "timestamp_seconds": 720
+      },
+      {
+        "text": "Home affordability crisis is a major issue",
+        "timestamp_seconds": 1207
+      },
+      {
+        "text": "H-1B debate is ongoing",
+        "timestamp_seconds": 2178
+      },
+      {
+        "text": "Solar storms pose risks",
+        "timestamp_seconds": 2537
+      },
+      {
+        "text": "Rich Americans are fleeing 'the great confiscation'",
+        "timestamp_seconds": 3074
+      },
+      {
+        "text": "Mortgage innovation and building are top priorities",
+        "timestamp_seconds": 1207
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Big short against AI",
+        "speaker": "Unknown",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "Great confiscation",
+        "speaker": "Unknown",
+        "timestamp_seconds": 3074
+      }
+    ],
+    "topics": [
+      "ai-short",
+      "palantir",
+      "home-affordability",
+      "h-1b-debate",
+      "solar-storms",
+      "economics",
+      "politics",
+      "science",
+      "tech"
+    ],
+    "guests": [],
+    "sentiment": {
+      "overall": "mixed",
+      "notes": "The hosts discuss a range of topics with varying levels of optimism and concern, resulting in a mixed sentiment."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "Michael Burry's big short against AI is discussed"
+      },
+      {
+        "timestamp_seconds": 1207,
+        "description": "Home affordability crisis is discussed"
+      },
+      {
+        "timestamp_seconds": 3074,
+        "description": "Rich Americans fleeing 'the great confiscation' is mentioned"
+      }
+    ]
+  }
 }

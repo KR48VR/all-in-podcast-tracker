@@ -10,5 +10,81 @@
   "description": "<p>(0:00) Bestie intros: Brad Gerstner joins the show!</p> <p>(4:22) Anthropic blocks Mythos release for security concerns: serious or marketing stunt?</p> <p>(24:07) Are OpenAI and Anthropic trying to kill OpenClaw? Does Anthropic already have market dominance in AI coding?</p> <p>(42:20) Anthropic $30B run rate, fastest revenue ramp ever, the TAM for intelligence</p> <p>(58:01) Major vibe shift: Anthropic ripping, OpenAI reeling</p> <p>(1:10:12) Iran War: Ceasefire, Israel's influence, market impact</p> <p>Apply for Summit 2026:</p> <p><a href=\"https://allin.com/events\">https://allin.com/events</a></p> <p>Follow Brad:</p> <p><a href=\"https://x.com/altcap\">https://x.com/altcap</a></p> <p>Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://x.com/TheZachEffect\">https://x.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href=\"https://www.youtube.com/watch?v=INGOC6-LLv0\">https://www.youtube.com/watch?v=INGOC6-LLv0</a></p> <p><a href=\"https://openai.com/index/better-language-models\">https://openai.com/index/better-language-models</a></p> <p><a href=\"https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf\"> https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf</a></p> <p><a href=\"https://x.com/steipete/status/2040811558427648357\">https://x.com/steipete/status/2040811558427648357</a></p> <p><a href=\"https://x.com/juliusai/status/2041292301234999668\">https://x.com/juliusai/status/2041292301234999668</a></p> <p><a href=\"https://polymarket.com/event/ipos-before-2027\">https://polymarket.com/event/ipos-before-2027</a></p> <p><a href=\"https://www.google.com/finance/quote/IGV:BATS\">https://www.google.com/finance/quote/IGV:BATS</a></p> <p><a href=\"https://polymarket.com/event/anthropic-ipo-closing-market-cap-119\"> https://polymarket.com/event/anthropic-ipo-closing-market-cap-119</a></p> <p><a href=\"https://truthsocial.com/@realDonaldTrump/posts/116351998782539414\"> https://truthsocial.com/@realDonaldTrump/posts/116351998782539414</a></p> <p><a href=\"https://truthsocial.com/@realDonaldTrump/posts/116363336033995961\"> https://truthsocial.com/@realDonaldTrump/posts/116363336033995961</a></p> <p><a href=\"https://truthsocial.com/@realDonaldTrump/posts/116365796713313030\"> https://truthsocial.com/@realDonaldTrump/posts/116365796713313030</a></p> <p><a href=\"https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war.html\"> https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war.html</a></p> <p><a href=\"https://www.state.gov/releases/office-of-the-spokesperson/2026/03/secretary-of-state-marco-rubio-remarks-to-press-6\"> https://www.state.gov/releases/office-of-the-spokesperson/2026/03/secretary-of-state-marco-rubio-remarks-to-press-6</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast discusses Anthropic's $30B run rate, the blocking of Mythos release, and the potential dominance of Anthropic in AI coding. The episode also covers the Iran War ceasefire, Israel's influence, and the market impact. Guest Brad Gerstner joins the show to share his insights.",
+    "takeaways": [
+      {
+        "text": "Anthropic blocks Mythos release due to security concerns",
+        "timestamp_seconds": 262
+      },
+      {
+        "text": "Anthropic may have market dominance in AI coding",
+        "timestamp_seconds": 1447
+      },
+      {
+        "text": "Anthropic achieves $30B run rate, fastest revenue ramp ever",
+        "timestamp_seconds": 2520
+      },
+      {
+        "text": "OpenClaw may be at risk due to Anthropic and OpenAI's actions",
+        "timestamp_seconds": 907
+      },
+      {
+        "text": "Iran War ceasefire has significant market impact",
+        "timestamp_seconds": 4212
+      },
+      {
+        "text": "Israel's influence on the Iran War ceasefire is notable",
+        "timestamp_seconds": 4212
+      },
+      {
+        "text": "Anthropic's success may lead to a major vibe shift in the AI industry",
+        "timestamp_seconds": 3481
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Major vibe shift",
+        "speaker": "Unknown",
+        "timestamp_seconds": 3481
+      },
+      {
+        "text": "Fastest revenue ramp ever",
+        "speaker": "Unknown",
+        "timestamp_seconds": 2520
+      }
+    ],
+    "topics": [
+      "ai-dominance",
+      "anthropic",
+      "iran-war",
+      "israel-influence",
+      "market-impact",
+      "mythos-release",
+      "openclaw",
+      "revenue-ramp"
+    ],
+    "guests": [
+      "Brad Gerstner"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The episode has a generally optimistic tone, with discussions of Anthropic's success and the potential for a major vibe shift in the AI industry."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "Brad Gerstner joins the show"
+      },
+      {
+        "timestamp_seconds": 262,
+        "description": "Anthropic blocks Mythos release"
+      },
+      {
+        "timestamp_seconds": 4212,
+        "description": "Discussion of Iran War ceasefire and Israel's influence"
+      }
+    ]
+  }
 }

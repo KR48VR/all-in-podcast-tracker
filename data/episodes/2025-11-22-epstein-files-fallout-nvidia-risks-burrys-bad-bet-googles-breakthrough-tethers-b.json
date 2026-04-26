@@ -10,5 +10,75 @@
   "description": "<p>(0:00) Bestie intros LIVE from The Venetian Las Vegas</p> <p>(1:13) Epstein Files breakdown</p> <p>(10:06) Biggest Epstein questions: where did his money come from?</p> <p>(14:44) Tether's booming business</p> <p>(23:50) Michael Burry vs. Friedberg, Nvidia's blowout quarter and risks for 2026</p> <p>(35:25) Google's Gemini 3 and TPU breakthrough</p> <p>(42:51) Investing your own money vs. LP capital, why Friedberg returned as a CEO</p> <p>(48:57) Alan Keating joins the show to talk poker strategy, thriving in chaos, risk psychology</p> <p>Special thanks to The Venetian Las Vegas for hosting us!:</p> <p><a href=\"https://x.com/VenetianVegas\">https://x.com/VenetianVegas</a></p> <p>Join us at the All-In Holiday Spectacular!:</p> <p><a href=\"https://allin.com/events\">https://allin.com/events</a></p> <p>Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://x.com/TheZachEffect\">https://x.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href=\"https://x.com/RepClayHiggins/status/1990868089056219267\">https://x.com/RepClayHiggins/status/1990868089056219267</a></p> <p><a href=\"https://x.com/michaeljburry/status/1991289193037746579\">https://x.com/michaeljburry/status/1991289193037746579</a></p> <p><a href=\"https://polymarket.com/event/which-company-has-best-ai-model-end-of-2025\"> https://polymarket.com/event/which-company-has-best-ai-model-end-of-2025</a></p> <p><a href=\"https://x.com/Similarweb/status/1988879389992386897\">https://x.com/Similarweb/status/1988879389992386897</a></p> <p><a href=\"https://x.com/PokerGO/status/1987406318832132256\">https://x.com/PokerGO/status/1987406318832132256</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast discusses various topics including the Epstein Files, Tether's booming business, Nvidia's risks, and Google's breakthrough in AI. They also talk to Alan Keating about poker strategy and thriving in chaos. The hosts share their insights on investing and risk psychology.",
+    "takeaways": [
+      {
+        "text": "Epstein's money source remains unknown",
+        "timestamp_seconds": 10
+      },
+      {
+        "text": "Tether's business is booming",
+        "timestamp_seconds": 14
+      },
+      {
+        "text": "Nvidia's risks in 2026",
+        "timestamp_seconds": 23
+      },
+      {
+        "text": "Google's Gemini 3 breakthrough",
+        "timestamp_seconds": 35
+      },
+      {
+        "text": "Importance of risk psychology in investing",
+        "timestamp_seconds": 48
+      },
+      {
+        "text": "Thriving in chaos with poker strategy",
+        "timestamp_seconds": 48
+      },
+      {
+        "text": "Friedberg returned as CEO to invest his own money",
+        "timestamp_seconds": 42
+      },
+      {
+        "text": "Differences between investing personal and LP capital",
+        "timestamp_seconds": 42
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Thriving in chaos",
+        "speaker": "Unknown",
+        "timestamp_seconds": 48
+      }
+    ],
+    "topics": [
+      "epstein-files",
+      "tether",
+      "nvidia",
+      "google-ai",
+      "poker-strategy",
+      "risk-psychology",
+      "investing"
+    ],
+    "guests": [
+      "Alan Keating"
+    ],
+    "sentiment": {
+      "overall": "mixed",
+      "notes": "The hosts discuss both positive and negative topics, ranging from Google's AI breakthrough to Nvidia's risks in 2026."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "Bestie intros LIVE from The Venetian Las Vegas"
+      },
+      {
+        "timestamp_seconds": 48,
+        "description": "Alan Keating joins the show"
+      }
+    ]
+  }
 }

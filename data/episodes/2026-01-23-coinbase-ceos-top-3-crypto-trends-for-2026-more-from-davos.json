@@ -10,5 +10,87 @@
   "description": "<p>(0:00) Intro</p> <p>(0:37) Coinbase CEO, Brian Armstrong on Crypto Adoption</p> <p>(38:51) Cerebras CEO, Andrew Feldman on Compute Power</p> <p>(1:18:50) Gecko Robotics CEO, Jake Loosararian on AI and Physical Robots</p> <p>This episode is sponsored by the New York Stock Exchange - a modern marketplace and exchange for building the future. It all happens at the NYSE.</p> <p><a href=\"https://www.nyse.com/\">https://www.nyse.com/</a></p> <p>Featuring Brian Armstrong (CEO, Coinbase), Andrew Feldman (CEO, Cerebras), and Jake Loosararian (CEO, Gecko), this conversation explores how AI is changing work, infrastructure, and productivity in real time- from the builders shaping what comes next.</p> <p>Follow Brian:</p> <p><a href=\"https://x.com/brian_armstrong\">https://x.com/brian_armstrong</a></p> <p>Follow Andrew:</p> <p><a href=\"https://x.com/andrewdfeldman\">https://x.com/andrewdfeldman</a></p> <p>Follow Jake:</p> <p><a href=\"https://x.com/jakeloosy\">https://x.com/jakeloosy</a></p> <p>Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://x.com/TheZachEffect\">https://x.com/TheZachEffect</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The episode features interviews with Brian Armstrong, Andrew Feldman, and Jake Loosararian, discussing crypto adoption, compute power, and AI's impact on work and infrastructure. They explore how AI is changing productivity in real-time. The conversation highlights the builders shaping the future of these technologies.",
+    "takeaways": [
+      {
+        "text": "Crypto adoption is increasing",
+        "timestamp_seconds": 37
+      },
+      {
+        "text": "Compute power is crucial for AI",
+        "timestamp_seconds": 3891
+      },
+      {
+        "text": "AI is changing work and infrastructure",
+        "timestamp_seconds": 7090
+      },
+      {
+        "text": "Physical robots are being integrated with AI",
+        "timestamp_seconds": 4380
+      },
+      {
+        "text": "Productivity is being impacted by AI in real-time",
+        "timestamp_seconds": 7090
+      },
+      {
+        "text": "Builders are shaping the future of AI and crypto",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "AI is transforming industries",
+        "timestamp_seconds": null
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Crypto is adopted",
+        "speaker": "Brian Armstrong",
+        "timestamp_seconds": 37
+      },
+      {
+        "text": "Compute power matters",
+        "speaker": "Andrew Feldman",
+        "timestamp_seconds": 3891
+      },
+      {
+        "text": "AI and robots",
+        "speaker": "Jake Loosararian",
+        "timestamp_seconds": 7090
+      }
+    ],
+    "topics": [
+      "crypto-adoption",
+      "ai-safety",
+      "compute-power",
+      "productivity",
+      "physical-robots",
+      "infrastructure",
+      "future-of-work"
+    ],
+    "guests": [
+      "Brian Armstrong",
+      "Andrew Feldman",
+      "Jake Loosararian"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The episode has an optimistic tone, with guests discussing the potential of AI and crypto to transform industries and improve productivity."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 37,
+        "description": "Brian Armstrong discusses crypto adoption"
+      },
+      {
+        "timestamp_seconds": 3891,
+        "description": "Andrew Feldman talks about compute power"
+      },
+      {
+        "timestamp_seconds": 7090,
+        "description": "Jake Loosararian discusses AI and physical robots"
+      }
+    ]
+  }
 }

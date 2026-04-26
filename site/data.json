@@ -8,13 +8,85 @@
       "url": "https://allinchamathjason.libsyn.com/spacex-cursor-deal-saas-debt-bomb-new-apple-ceo-splc-indictment-colon-cancer-spike",
       "youtube_url": "https://www.youtube.com/watch?v=1bCXCxrDsCs",
       "youtube_video_id": "1bCXCxrDsCs",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses various topics including the SpaceX-Cursor deal, the SaaS debt bomb, Apple's new CEO John Ternus, the SPLC indictment, and a potential cause for the colon cancer spike in young people. The hosts analyze the implications of these events and provide their insights. The podcast also touches on the current state of the tech industry and the potential consequences of the SaaS debt bomb.",
+      "takeaways": [
+        {
+          "text": "SpaceX acquires Cursor for $60 billion",
+          "timestamp_seconds": 295
+        },
+        {
+          "text": "SaaS companies face debt bomb",
+          "timestamp_seconds": 1113
+        },
+        {
+          "text": "John Ternus becomes new Apple CEO",
+          "timestamp_seconds": 2780
+        },
+        {
+          "text": "SPLC indicted for wire fraud",
+          "timestamp_seconds": 3632
+        },
+        {
+          "text": "Potential cause for colon cancer spike discovered",
+          "timestamp_seconds": 4593
+        },
+        {
+          "text": "Compute as leverage in the tech industry",
+          "timestamp_seconds": 295
+        },
+        {
+          "text": "Buy the dip in SaaS companies",
+          "timestamp_seconds": 1113
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Compute as leverage",
+          "speaker": "Unknown",
+          "timestamp_seconds": 295
+        },
+        {
+          "text": "Buy the dip",
+          "speaker": "Unknown",
+          "timestamp_seconds": 1113
+        }
+      ],
+      "topics": [
+        "space-tech",
+        "saas-industry",
+        "apple",
+        "ngos",
+        "colon-cancer",
+        "tech-debt",
+        "ipo"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts are cautious about the SaaS debt bomb and its potential implications for the tech industry. They are also concerned about the SPLC indictment and its impact on NGOs."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 295,
+          "description": "SpaceX-Cursor deal discussion starts"
+        },
+        {
+          "timestamp_seconds": 1113,
+          "description": "SaaS debt bomb discussion starts"
+        },
+        {
+          "timestamp_seconds": 2780,
+          "description": "New Apple CEO discussion starts"
+        },
+        {
+          "timestamp_seconds": 3632,
+          "description": "SPLC indictment discussion starts"
+        },
+        {
+          "timestamp_seconds": 4593,
+          "description": "Colon cancer spike discussion starts"
+        }
+      ]
     },
     {
       "id": "2026-04-17-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-ta",
@@ -40,13 +112,80 @@
       "url": "https://allinchamathjason.libsyn.com/anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence",
       "youtube_url": "https://www.youtube.com/watch?v=DVBJQQCjgXU",
       "youtube_video_id": "DVBJQQCjgXU",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses Anthropic's $30B run rate, the blocking of Mythos release, and the potential dominance of Anthropic in AI coding. The episode also covers the Iran War ceasefire, Israel's influence, and the market impact. Guest Brad Gerstner joins the show to share his insights.",
+      "takeaways": [
+        {
+          "text": "Anthropic blocks Mythos release due to security concerns",
+          "timestamp_seconds": 262
+        },
+        {
+          "text": "Anthropic may have market dominance in AI coding",
+          "timestamp_seconds": 1447
+        },
+        {
+          "text": "Anthropic achieves $30B run rate, fastest revenue ramp ever",
+          "timestamp_seconds": 2520
+        },
+        {
+          "text": "OpenClaw may be at risk due to Anthropic and OpenAI's actions",
+          "timestamp_seconds": 907
+        },
+        {
+          "text": "Iran War ceasefire has significant market impact",
+          "timestamp_seconds": 4212
+        },
+        {
+          "text": "Israel's influence on the Iran War ceasefire is notable",
+          "timestamp_seconds": 4212
+        },
+        {
+          "text": "Anthropic's success may lead to a major vibe shift in the AI industry",
+          "timestamp_seconds": 3481
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Major vibe shift",
+          "speaker": "Unknown",
+          "timestamp_seconds": 3481
+        },
+        {
+          "text": "Fastest revenue ramp ever",
+          "speaker": "Unknown",
+          "timestamp_seconds": 2520
+        }
+      ],
+      "topics": [
+        "ai-dominance",
+        "anthropic",
+        "iran-war",
+        "israel-influence",
+        "market-impact",
+        "mythos-release",
+        "openclaw",
+        "revenue-ramp"
+      ],
+      "guests": [
+        "Brad Gerstner"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has a generally optimistic tone, with discussions of Anthropic's success and the potential for a major vibe shift in the AI industry."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Brad Gerstner joins the show"
+        },
+        {
+          "timestamp_seconds": 262,
+          "description": "Anthropic blocks Mythos release"
+        },
+        {
+          "timestamp_seconds": 4212,
+          "description": "Discussion of Iran War ceasefire and Israel's influence"
+        }
+      ]
     },
     {
       "id": "2026-04-08-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race",
@@ -56,13 +195,82 @@
       "url": "https://allinchamathjason.libsyn.com/josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race",
       "youtube_url": "https://www.youtube.com/watch?v=MPAsUZEJHiM",
       "youtube_video_id": "MPAsUZEJHiM",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "PA Governor Josh Shapiro joins the All-In Podcast to discuss his blueprint for Pennsylvania, the wealth tax debate, and the future of the Democratic party. He also shares his thoughts on the Iran War, antisemitism, and Netanyahu's failures. The conversation covers various topics, including the economy, political corruption, and the 2028 presidential race.",
+      "takeaways": [
+        {
+          "text": "Shapiro's blueprint for PA is pro-growth and pro-freedom",
+          "timestamp_seconds": 100
+        },
+        {
+          "text": "Wealth tax debate is a key issue for Democrats",
+          "timestamp_seconds": 785
+        },
+        {
+          "text": "2024 Democratic collapse may impact the party's future",
+          "timestamp_seconds": 1217
+        },
+        {
+          "text": "Congress has become 'pathetic' due to political corruption",
+          "timestamp_seconds": 2292
+        },
+        {
+          "text": "Antisemitism and Netanyahu's failures are significant concerns",
+          "timestamp_seconds": 2838
+        },
+        {
+          "text": "Shapiro has a unique perspective on the Iran War",
+          "timestamp_seconds": 2838
+        },
+        {
+          "text": "The 2028 presidential race is already being discussed",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Shapiro's views on business and the economy are distinct from other Democrats",
+          "timestamp_seconds": 785
+        }
+      ],
+      "quotes": [
+        {
+          "text": "pro-growth, pro-freedom",
+          "speaker": "Josh Shapiro",
+          "timestamp_seconds": 100
+        },
+        {
+          "text": "pathetic",
+          "speaker": "Josh Shapiro",
+          "timestamp_seconds": 2292
+        }
+      ],
+      "topics": [
+        "us-politics",
+        "economy",
+        "iran-war",
+        "antisemitism",
+        "democratic-party",
+        "2028-presidential-race",
+        "political-corruption",
+        "wealth-tax",
+        "pro-growth",
+        "pro-freedom"
+      ],
+      "guests": [
+        "Josh Shapiro"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation is cautious and critical, with Shapiro and the hosts discussing various challenges and concerns. The tone is mostly serious and analytical."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Jason intros PA Governor Josh Shapiro"
+        },
+        {
+          "timestamp_seconds": 2838,
+          "description": "Discussion on antisemitism and Netanyahu's failures"
+        }
+      ]
     },
     {
       "id": "2026-04-06-the-companies-changing-warfare-forever-palantir-anduril-execs-on-drones-ai-the-f",
@@ -72,13 +280,83 @@
       "url": "https://allinchamathjason.libsyn.com/the-state-of-modern-war-palantir-anduril-execs-on-drones-ai-and-the-end-of-traditional-warfare",
       "youtube_url": "https://www.youtube.com/watch?v=mjNP5IOzCbA",
       "youtube_video_id": "mjNP5IOzCbA",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses the future of warfare with Palantir's Shyam Sankar and Anduril's Trae Stephens, covering topics such as drones, AI, and the US-China drone gap. They also delve into the ethics of AI in combat and the cultural shift in Silicon Valley's approach to defense technology. The conversation touches on the potential risks and benefits of autonomous weapons and the role of companies like Palantir and Anduril in shaping the future of warfare.",
+      "takeaways": [
+        {
+          "text": "US is behind China in drone technology",
+          "timestamp_seconds": 8
+        },
+        {
+          "text": "Anduril's Arsenal-1 factory aims to fix US munitions supply chain",
+          "timestamp_seconds": 12
+        },
+        {
+          "text": "Autonomous weapons raise ethical concerns",
+          "timestamp_seconds": 41
+        },
+        {
+          "text": "Palantir's origins in CIA analysis",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "Silicon Valley's defense tech taboo is shifting",
+          "timestamp_seconds": 3
+        },
+        {
+          "text": "AI decision-making in combat is a growing concern",
+          "timestamp_seconds": 47
+        },
+        {
+          "text": "2027 Taiwan threat is a significant concern for US-China relations",
+          "timestamp_seconds": 9
+        },
+        {
+          "text": "Anduril and Palantir are changing the face of modern warfare",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Warfare is changing",
+          "speaker": "Shyam Sankar",
+          "timestamp_seconds": 2
+        },
+        {
+          "text": "We need to fix supply chain",
+          "speaker": "Trae Stephens",
+          "timestamp_seconds": 13
+        }
+      ],
+      "topics": [
+        "ai-safety",
+        "drone-technology",
+        "us-china-relations",
+        "autonomous-weapons",
+        "silicon-valley",
+        "defense-tech",
+        "palantir",
+        "anduril",
+        "future-of-war",
+        "ai-ethics"
+      ],
+      "guests": [
+        "Shyam Sankar",
+        "Trae Stephens"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation is cautious due to the sensitive nature of the topics discussed, including the ethics of AI in combat and the potential risks of autonomous weapons."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 41,
+          "description": "Discussion on autonomous weapons and AI decision-making"
+        },
+        {
+          "timestamp_seconds": 8,
+          "description": "US-China drone gap discussion"
+        }
+      ]
     },
     {
       "id": "2026-04-03-spacex-ipo-iran-war-fallout-quantum-bitcoin-hack-the-space-opportunity",
@@ -88,13 +366,74 @@
       "url": "https://allinchamathjason.libsyn.com/spacex-ipo-iran-war-fallout-quantum-bitcoin-hack-the-space-opportunity",
       "youtube_url": "https://www.youtube.com/watch?v=N-pust8qtGI",
       "youtube_video_id": "N-pust8qtGI",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses SpaceX's potential IPO, the economic opportunities of space, the Iran War's costs and implications, and the possibilities of a quantum Bitcoin hack. The hosts also touch on OpenAI's down round and Trump's Iran messaging problems. The episode explores various topics, including the space industry, geopolitics, and cryptocurrency.",
+      "takeaways": [
+        {
+          "text": "SpaceX may IPO in 2026",
+          "timestamp_seconds": 12
+        },
+        {
+          "text": "OpenAI's demand sinks on secondary market",
+          "timestamp_seconds": 2100
+        },
+        {
+          "text": "Iran War costs and fertilizer crisis",
+          "timestamp_seconds": 3633
+        },
+        {
+          "text": "Quantum Bitcoin hack possibilities",
+          "timestamp_seconds": 3888
+        },
+        {
+          "text": "US involvement in Iran",
+          "timestamp_seconds": 2988
+        },
+        {
+          "text": "2026 IPO explosion expected",
+          "timestamp_seconds": 2100
+        },
+        {
+          "text": "Crypto should react to quantum hack possibilities",
+          "timestamp_seconds": 3888
+        }
+      ],
+      "quotes": [
+        {
+          "text": "New industrial frontier",
+          "speaker": "Unknown",
+          "timestamp_seconds": 12
+        }
+      ],
+      "topics": [
+        "space-industry",
+        "iran-war",
+        "quantum-computing",
+        "bitcoin",
+        "ipo",
+        "geopolitics",
+        "fertilizer-crisis",
+        "openai",
+        "trump-administration"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts discuss various sensitive and complex topics, including war and economic instability, with a cautious tone. They also explore the potential risks and implications of emerging technologies like quantum computing."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 12,
+          "description": "Discussion of SpaceX IPO"
+        },
+        {
+          "timestamp_seconds": 3633,
+          "description": "Iran War costs and fertilizer crisis"
+        },
+        {
+          "timestamp_seconds": 3888,
+          "description": "Quantum Bitcoin hack possibilities"
+        }
+      ]
     },
     {
       "id": "2026-03-27-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits",
@@ -104,13 +443,66 @@
       "url": "https://allinchamathjason.libsyn.com/anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses Anthropic's generational run, OpenAI's potential panic mode, AI valuation impacts, and Meta's loss in landmark social media verdicts. The hosts also touch on AI moats, disruption, and the 100x AI moment. Additionally, they mention Sacks and Friedberg joining PCAST.",
+      "takeaways": [
+        {
+          "text": "Anthropic is on a generational run",
+          "timestamp_seconds": 165
+        },
+        {
+          "text": "OpenAI may be in panic mode",
+          "timestamp_seconds": 905
+        },
+        {
+          "text": "AI valuation impacts are significant",
+          "timestamp_seconds": 2216
+        },
+        {
+          "text": "AI moats are crucial for companies",
+          "timestamp_seconds": 2338
+        },
+        {
+          "text": "Meta lost landmark social media verdicts",
+          "timestamp_seconds": 3035
+        },
+        {
+          "text": "Sacks and Friedberg join PCAST",
+          "timestamp_seconds": 4316
+        },
+        {
+          "text": "100x AI moment is approaching",
+          "timestamp_seconds": 2638
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Bestie intros!",
+          "speaker": "Unknown",
+          "timestamp_seconds": 0
+        }
+      ],
+      "topics": [
+        "ai-safety",
+        "ai-valuation",
+        "openai",
+        "anthropic",
+        "meta",
+        "social-media",
+        "ai-moats",
+        "disruption",
+        "pcast"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The hosts discuss both positive and negative developments in the AI space, leading to a mixed sentiment. They express excitement about Anthropic's generational run and the 100x AI moment, but also concern about OpenAI's potential panic mode and Meta's loss in landmark social media verdicts."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 4316,
+          "description": "Sacks and Friedberg join PCAST"
+        }
+      ]
     },
     {
       "id": "2026-03-26-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-",
@@ -136,13 +528,66 @@
       "url": "https://allinchamathjason.libsyn.com/how-matt-mahan-thinks-he-can-save-california",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Matt Mahan discusses his run for California governor, covering topics such as public sector unions, the housing crisis, energy crisis, and pension time bomb. He also touches on Trump, tariffs, and immigration reform. The conversation highlights the challenges facing California and potential solutions.",
+      "takeaways": [
+        {
+          "text": "California's housing crisis is exacerbated by regulation and fees",
+          "timestamp_seconds": 1905
+        },
+        {
+          "text": "Public sector unions have significant influence in Sacramento",
+          "timestamp_seconds": 1205
+        },
+        {
+          "text": "California faces a $1 trillion pension time bomb",
+          "timestamp_seconds": 4375
+        },
+        {
+          "text": "The state's energy crisis is linked to gas taxes and green policy",
+          "timestamp_seconds": 3452
+        },
+        {
+          "text": "Immigration reform is needed to provide a path to legal status",
+          "timestamp_seconds": 4105
+        },
+        {
+          "text": "Trump and tariffs have contributed to the rise of dangerous populism",
+          "timestamp_seconds": 3727
+        },
+        {
+          "text": "California's problems have worsened over time due to various factors",
+          "timestamp_seconds": 115
+        }
+      ],
+      "quotes": [
+        {
+          "text": "California went from bad to worse",
+          "speaker": "Matt Mahan",
+          "timestamp_seconds": 115
+        }
+      ],
+      "topics": [
+        "california-politics",
+        "public-sector-unions",
+        "housing-crisis",
+        "energy-crisis",
+        "pension-reform",
+        "immigration-reform",
+        "us-politics"
+      ],
+      "guests": [
+        "Matt Mahan"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation highlights the significant challenges facing California, and while potential solutions are discussed, the overall tone is cautious due to the complexity and severity of the issues."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 4375,
+          "description": "Discussion of the $1 trillion pension time bomb"
+        }
+      ]
     },
     {
       "id": "2026-03-23-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren",
@@ -152,13 +597,72 @@
       "url": "https://allinchamathjason.libsyn.com/four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast features four CEOs discussing the future of AI, including CoreWeave, Perplexity, Mistral, and IREN. They share their insights and experiences in the AI industry. The episode is sponsored by the New York Stock Exchange.",
+      "takeaways": [
+        {
+          "text": "AI is transforming industries",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "CoreWeave focuses on AI infrastructure",
+          "timestamp_seconds": 37
+        },
+        {
+          "text": "Perplexity aims to make AI more accessible",
+          "timestamp_seconds": 2088
+        },
+        {
+          "text": "Mistral works on AI for edge devices",
+          "timestamp_seconds": 4021
+        },
+        {
+          "text": "IREN develops AI for industrial automation",
+          "timestamp_seconds": 4307
+        },
+        {
+          "text": "NYSE sponsors the episode",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "AI CEOs share their visions for the future",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Building the future",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "ai-industry",
+        "ai-infrastructure",
+        "edge-devices",
+        "industrial-automation",
+        "ai-accessibility",
+        "future-of-ai"
+      ],
+      "guests": [
+        "Michael Intrator",
+        "Aravind Srinivas",
+        "Arthur Mensch",
+        "Daniel Roberts"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has a positive tone, with the CEOs sharing their visions for the future of AI and its potential to transform industries."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Intro live from Nvidia GTC"
+        },
+        {
+          "timestamp_seconds": 37,
+          "description": "CoreWeave CEO, Michael Intrator, joins the conversation"
+        }
+      ]
     },
     {
       "id": "2026-03-19-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosi",
@@ -168,13 +672,90 @@
       "url": "https://allinchamathjason.libsyn.com/jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Jensen Huang joins the All-In Podcast to discuss Nvidia's future, physical AI, the rise of the agent, and the inference explosion. He also addresses AI's PR crisis and shares his thoughts on the industry's growth and potential. The conversation covers various topics, including OpenClaw, Anthropic, and the future of AI computing.",
+      "takeaways": [
+        {
+          "text": "Nvidia acquired Groq",
+          "timestamp_seconds": 26
+        },
+        {
+          "text": "Physical AI's $50T market",
+          "timestamp_seconds": 1047
+        },
+        {
+          "text": "AI's PR crisis",
+          "timestamp_seconds": 1638
+        },
+        {
+          "text": "Revenue capacity and token allocation",
+          "timestamp_seconds": 2048
+        },
+        {
+          "text": "Self-driving platform and competition",
+          "timestamp_seconds": 3945
+        },
+        {
+          "text": "Datacenters in space and AI healthcare",
+          "timestamp_seconds": 4732
+        },
+        {
+          "text": "OpenAI/Anthropic revenue potential",
+          "timestamp_seconds": 5610
+        },
+        {
+          "text": "Building an AI moat",
+          "timestamp_seconds": 5904
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI's PR crisis",
+          "speaker": "Jensen Huang",
+          "timestamp_seconds": 1638
+        },
+        {
+          "text": "Physical AI",
+          "speaker": "Jensen Huang",
+          "timestamp_seconds": 1047
+        }
+      ],
+      "topics": [
+        "ai-safety",
+        "physical-ai",
+        "inference-explosion",
+        "ai-pr-crisis",
+        "nvidia",
+        "groq",
+        "openclaw",
+        "anthropic",
+        "autoresearch",
+        "agentic-future",
+        "self-driving",
+        "datacenters",
+        "ai-healthcare",
+        "robotics"
+      ],
+      "guests": [
+        "Jensen Huang"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is generally positive, with Jensen Huang sharing his enthusiasm for the future of AI and Nvidia's role in it. However, he also acknowledges the industry's challenges and criticisms."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Jensen Huang joins the show"
+        },
+        {
+          "timestamp_seconds": 1047,
+          "description": "Discussion of physical AI's $50T market"
+        },
+        {
+          "timestamp_seconds": 1638,
+          "description": "Addressing AI's PR crisis"
+        }
+      ]
     },
     {
       "id": "2026-03-18-john-fetterman-the-rogue-democrat-who-broke-party-ranks",
@@ -184,13 +765,82 @@
       "url": "https://allinchamathjason.libsyn.com/john-fetterman-the-rogue-democrat-who-broke-party-ranks",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Senator John Fetterman discusses his views on the Democratic Party, bipartisanship, and various policy issues, including the SAVE Act, voter ID, and government shutdown. He also shares his thoughts on Iran, Israel, and the state of agriculture. Fetterman explains why he remains a Democrat despite his unconventional views.",
+      "takeaways": [
+        {
+          "text": "Fetterman supports voter ID",
+          "timestamp_seconds": 20
+        },
+        {
+          "text": "He opposes the SAVE Act",
+          "timestamp_seconds": 20
+        },
+        {
+          "text": "Fetterman criticizes the Democratic Party's shift",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "He discusses the need for bipartisanship",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "Fetterman talks about the US exit strategy from Iran",
+          "timestamp_seconds": 11
+        },
+        {
+          "text": "He mentions growing anti-Israel sentiment",
+          "timestamp_seconds": 17
+        },
+        {
+          "text": "Fetterman explains his stance on government shutdown and immigration",
+          "timestamp_seconds": 26
+        }
+      ],
+      "quotes": [
+        {
+          "text": "TDS",
+          "speaker": "John Fetterman",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "losing bipartisanship",
+          "speaker": "John Fetterman",
+          "timestamp_seconds": 1
+        }
+      ],
+      "topics": [
+        "democratic-party",
+        "bipartisanship",
+        "voter-id",
+        "government-shutdown",
+        "iran-exit-strategy",
+        "israel-influence",
+        "aipac",
+        "anti-israel-sentiment",
+        "immigration",
+        "election-fraud"
+      ],
+      "guests": [
+        "John Fetterman"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The conversation covers a range of topics, with Fetterman expressing both criticism and support for various policies and parties. The tone is generally neutral, with a focus on discussing complex issues."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "David Friedberg welcomes Senator John Fetterman"
+        },
+        {
+          "timestamp_seconds": 11,
+          "description": "Discussion on Iran exit strategy begins"
+        },
+        {
+          "timestamp_seconds": 17,
+          "description": "Fetterman talks about Israel's influence and AIPAC"
+        }
+      ]
     },
     {
       "id": "2026-03-17-travis-kalanick-michael-dell-live-from-austin-texas",
@@ -200,13 +850,84 @@
       "url": "https://allinchamathjason.libsyn.com/travis-kalanick-michael-dell-live-from-austin-texas",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The episode features Travis Kalanick and Michael Dell, discussing their latest ventures and the future of technology. Kalanick talks about automating the physical world and his return to self-driving, while Dell shares his journey from a dorm room to a $140B company. The conversation also covers AI infrastructure, Texas as a hub for founders, and Dell's $6.25B gift for a 401k program for kids.",
+      "takeaways": [
+        {
+          "text": "Travis Kalanick is working on automating the physical world",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "Markets to go after include self-driving and robotics",
+          "timestamp_seconds": 5
+        },
+        {
+          "text": "Tesla and Waymo are leading the autonomous race",
+          "timestamp_seconds": 11
+        },
+        {
+          "text": "Austin is attracting founders due to its business-friendly environment",
+          "timestamp_seconds": 16
+        },
+        {
+          "text": "Michael Dell is betting $50B on AI infrastructure",
+          "timestamp_seconds": 43
+        },
+        {
+          "text": "Dell's $6.25B gift aims to provide a 401k for 25M kids",
+          "timestamp_seconds": 3820
+        },
+        {
+          "text": "Texas is becoming a hub for founders and entrepreneurs",
+          "timestamp_seconds": 36
+        },
+        {
+          "text": "Capital can be used as a weapon in business and geopolitics",
+          "timestamp_seconds": 25
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Capital as a weapon",
+          "speaker": "Travis Kalanick",
+          "timestamp_seconds": 25
+        },
+        {
+          "text": "Dorm room to $140B",
+          "speaker": "Michael Dell",
+          "timestamp_seconds": 36
+        }
+      ],
+      "topics": [
+        "ai-infrastructure",
+        "self-driving",
+        "robotics",
+        "texas-startups",
+        "ai-safety",
+        "geopolitics",
+        "entrepreneurship"
+      ],
+      "guests": [
+        "Travis Kalanick",
+        "Michael Dell"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is upbeat, with a focus on innovation and the potential for technology to drive positive change. The guests share their enthusiasm for their respective ventures and the future of tech."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Travis Kalanick announces his new venture"
+        },
+        {
+          "timestamp_seconds": 36,
+          "description": "Michael Dell shares his story of building a $140B company"
+        },
+        {
+          "timestamp_seconds": 3820,
+          "description": "Michael Dell announces his $6.25B gift for a 401k program"
+        }
+      ]
     },
     {
       "id": "2026-03-13-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare",
@@ -216,13 +937,84 @@
       "url": "https://allinchamathjason.libsyn.com/iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses the economic fallout of the Iran War, potential off-ramp strategies, and the rapid growth of AI companies like Anthropic and OpenAI. They also touch on AI's PR disaster and the impact of a 'Millionaire Tax' in Washington. Guest Brad Gerstner joins the conversation.",
+      "takeaways": [
+        {
+          "text": "Iran War may lead to oil shock",
+          "timestamp_seconds": 3
+        },
+        {
+          "text": "AI companies are scaling revenue rapidly",
+          "timestamp_seconds": 27
+        },
+        {
+          "text": "Off-ramp strategies are crucial in the Iran War",
+          "timestamp_seconds": 19
+        },
+        {
+          "text": "AI's PR disaster is a growing concern",
+          "timestamp_seconds": 46
+        },
+        {
+          "text": "Washington passes 'Millionaire Tax'",
+          "timestamp_seconds": 67
+        },
+        {
+          "text": "Howard Schultz leaves Seattle due to tax",
+          "timestamp_seconds": 68
+        },
+        {
+          "text": "Gulf state involvement is key in the Iran War",
+          "timestamp_seconds": 19
+        },
+        {
+          "text": "China's angle in the Iran War is important",
+          "timestamp_seconds": 19
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI's growth is unprecedented",
+          "speaker": "Unknown",
+          "timestamp_seconds": 27
+        },
+        {
+          "text": "Iran War is a major risk",
+          "speaker": "Unknown",
+          "timestamp_seconds": 3
+        }
+      ],
+      "topics": [
+        "iran-war",
+        "oil-shock",
+        "ai-growth",
+        "off-ramp-strategies",
+        "millionaire-tax",
+        "gulf-state-involvement",
+        "china-angle",
+        "ai-pr-disaster"
+      ],
+      "guests": [
+        "Brad Gerstner"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The podcast discusses the potential risks and consequences of the Iran War and the rapid growth of AI companies, leading to a cautious tone."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 3,
+          "description": "Discussion of Iran War's economic fallout begins"
+        },
+        {
+          "timestamp_seconds": 27,
+          "description": "Conversation about AI companies' rapid growth starts"
+        },
+        {
+          "timestamp_seconds": 67,
+          "description": "Washington's 'Millionaire Tax' is discussed"
+        }
+      ]
     },
     {
       "id": "2026-03-11-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets",
@@ -232,13 +1024,82 @@
       "url": "https://allinchamathjason.libsyn.com/rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses the future of American markets with SEC's Paul Atkins and CFTC's Michael Selig, covering topics such as crypto regulation, IPO drought, and AI trading bots. They also touch on the 'Turf War' between the SEC and CFTC, prediction markets, and the biggest risks facing the markets. The conversation highlights the need for regulatory clarity and cooperation to foster innovation and growth.",
+      "takeaways": [
+        {
+          "text": "IPO drought needs to be addressed",
+          "timestamp_seconds": 3
+        },
+        {
+          "text": "Crypto regulation is a top priority",
+          "timestamp_seconds": 3
+        },
+        {
+          "text": "AI trading bots are changing the market landscape",
+          "timestamp_seconds": 8
+        },
+        {
+          "text": "Ending the 'Turf War' between SEC and CFTC is crucial",
+          "timestamp_seconds": 15
+        },
+        {
+          "text": "Prediction markets pose regulatory challenges",
+          "timestamp_seconds": 19
+        },
+        {
+          "text": "Market manipulation and crypto scams are significant risks",
+          "timestamp_seconds": 52
+        },
+        {
+          "text": "Changing accreditation rules is a priority for 2026",
+          "timestamp_seconds": 30
+        },
+        {
+          "text": "US markets need to adapt to compete with the world",
+          "timestamp_seconds": 46
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Fixing the IPO drought",
+          "speaker": "Paul Atkins",
+          "timestamp_seconds": 3
+        },
+        {
+          "text": "Crypto regulation",
+          "speaker": "Michael Selig",
+          "timestamp_seconds": 3
+        }
+      ],
+      "topics": [
+        "crypto-regulation",
+        "ipo-drought",
+        "ai-trading",
+        "sec-cftc",
+        "prediction-markets",
+        "market-manipulation",
+        "crypto-scams",
+        "accreditation-rules",
+        "us-markets"
+      ],
+      "guests": [
+        "Paul Atkins",
+        "Michael Selig"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation highlights the need for regulatory clarity and cooperation, but also acknowledges the significant risks facing the markets, resulting in a cautious tone."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 15,
+          "description": "Discussion on ending the 'Turf War' between SEC and CFTC"
+        },
+        {
+          "timestamp_seconds": 52,
+          "description": "Conversation on the biggest risks facing the markets"
+        }
+      ]
     },
     {
       "id": "2026-03-09-graham-allison-on-the-global-realignment-iran-china-israel-greenland",
@@ -248,13 +1109,84 @@
       "url": "https://allinchamathjason.libsyn.com/graham-allison-on-the-global-realignment-iran-china-israel-greenland",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses global realignment with guest Graham Allison, covering topics such as the Iran conflict, China's potential invasion of Taiwan, and the importance of Greenland. They also touch on rising socialism in America and nuclear proliferation. The conversation explores various endgame scenarios and the implications of these global events.",
+      "takeaways": [
+        {
+          "text": "Iran conflict has multiple endgame scenarios",
+          "timestamp_seconds": 11
+        },
+        {
+          "text": "Netanyahu's influence on Israel's democracy",
+          "timestamp_seconds": 21
+        },
+        {
+          "text": "China's potential invasion of Taiwan",
+          "timestamp_seconds": 24
+        },
+        {
+          "text": "Greenland's importance in global politics",
+          "timestamp_seconds": 39
+        },
+        {
+          "text": "Rising socialism in America is a growing concern",
+          "timestamp_seconds": 56
+        },
+        {
+          "text": "Nuclear proliferation is a significant global risk",
+          "timestamp_seconds": 48
+        },
+        {
+          "text": "Wealth inequality contributes to political risk",
+          "timestamp_seconds": 56
+        },
+        {
+          "text": "Global events are interconnected and complex",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Democracy in Iran",
+          "speaker": "Graham Allison",
+          "timestamp_seconds": 11
+        },
+        {
+          "text": "Israel's democracy at risk",
+          "speaker": "Unknown",
+          "timestamp_seconds": 21
+        }
+      ],
+      "topics": [
+        "iran-conflict",
+        "china-taiwan",
+        "israel-democracy",
+        "greenland-importance",
+        "nuclear-proliferation",
+        "rising-socialism",
+        "global-realignment",
+        "wealth-inequality"
+      ],
+      "guests": [
+        "Graham Allison"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation is cautious due to the complex and interconnected nature of global events, with a focus on potential risks and negative outcomes."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 1,
+          "description": "Graham Allison introduction"
+        },
+        {
+          "timestamp_seconds": 11,
+          "description": "Iran endgame scenarios discussion"
+        },
+        {
+          "timestamp_seconds": 39,
+          "description": "Greenland's importance explained"
+        }
+      ]
     },
     {
       "id": "2026-03-07-exiled-iranian-prince-reza-pahlavi-transition-plan-and-the-fight-for-irans-freed",
@@ -264,13 +1196,85 @@
       "url": "https://allinchamathjason.libsyn.com/exiled-iranian-prince-reza-pahlavi-transition-plan-and-the-fight-for-irans-freedom",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast features an interview with Reza Pahlavi, an exiled Iranian prince, who discusses his vision for Iran's future, democracy, and a potential transition plan. He also shares his thoughts on the current regime and the people of Iran. Shervin Pishevar joins the conversation, discussing the current state of the Middle East and the future of Iran. The episode covers topics such as leadership, government, and the fight for Iran's freedom.",
+      "takeaways": [
+        {
+          "text": "Reza Pahlavi has a vision for Iran's future democracy",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "Trump's surrender conditions are discussed",
+          "timestamp_seconds": 8
+        },
+        {
+          "text": "The current regime has killed 40k+ protestors",
+          "timestamp_seconds": 21
+        },
+        {
+          "text": "A transition plan for Iran's government is proposed",
+          "timestamp_seconds": 33
+        },
+        {
+          "text": "The people and spirit of Iran are discussed",
+          "timestamp_seconds": 17
+        },
+        {
+          "text": "The future leader and government of Iran are debated",
+          "timestamp_seconds": 33
+        },
+        {
+          "text": "Shervin Pishevar joins to discuss the Middle East",
+          "timestamp_seconds": 21
+        },
+        {
+          "text": "Reza Pahlavi's role in a potential transition is explored",
+          "timestamp_seconds": 8
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Democracy for Iran",
+          "speaker": "Reza Pahlavi",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "40k+ protestors killed",
+          "speaker": "Shervin Pishevar",
+          "timestamp_seconds": 21
+        }
+      ],
+      "topics": [
+        "iranian-politics",
+        "middle-east",
+        "democracy",
+        "leadership",
+        "transition-plan",
+        "human-rights",
+        "protest",
+        "regime-change"
+      ],
+      "guests": [
+        "Reza Pahlavi",
+        "Shervin Pishevar"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has an optimistic tone, with discussions focused on a potential transition to democracy in Iran and the fight for freedom. However, the conversation also acknowledges the challenges and atrocities faced by the Iranian people."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 1,
+          "description": "Reza Pahlavi introduces his vision for Iran's future"
+        },
+        {
+          "timestamp_seconds": 21,
+          "description": "Shervin Pishevar joins the conversation"
+        },
+        {
+          "timestamp_seconds": 33,
+          "description": "A transition plan for Iran's government is proposed"
+        }
+      ]
     },
     {
       "id": "2026-03-06-inside-the-iran-war-and-the-pentagons-feud-with-anthropic-with-under-secretary-o",
@@ -280,13 +1284,82 @@
       "url": "https://allinchamathjason.libsyn.com/inside-the-iran-war-and-the-pentagons-feud-with-anthropic-with-under-secretary-of-war-emil-michael",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses the US war with Iran, Trump's new approach to warfare, and the Pentagon's feud with Anthropic. Under Secretary of War Emil Michael joins the conversation. The episode also covers Israel's role in the conflict, oil prices, and the US defense supply chain.",
+      "takeaways": [
+        {
+          "text": "US war with Iran is escalating",
+          "timestamp_seconds": 150
+        },
+        {
+          "text": "Trump's new approach to warfare involves AI and drones",
+          "timestamp_seconds": 796
+        },
+        {
+          "text": "Anthropic labeled a supply-chain risk by the Pentagon",
+          "timestamp_seconds": 2479
+        },
+        {
+          "text": "Israel plays a significant role in the US-Iran conflict",
+          "timestamp_seconds": 1699
+        },
+        {
+          "text": "Oil prices affected by Trump's maritime insurance play",
+          "timestamp_seconds": 2244
+        },
+        {
+          "text": "US defense supply chain is a concern",
+          "timestamp_seconds": 3724
+        },
+        {
+          "text": "DARPA and China's military are relevant to the US defense industry",
+          "timestamp_seconds": 4034
+        }
+      ],
+      "quotes": [
+        {
+          "text": "War with Iran",
+          "speaker": "Emil Michael",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "AI in warfare",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "us-iran-war",
+        "trump-administration",
+        "ai-in-warfare",
+        "israel-us-relations",
+        "oil-prices",
+        "pentagon-feud",
+        "anthropic",
+        "us-defense-supply-chain",
+        "darpa",
+        "china-military"
+      ],
+      "guests": [
+        "Emil Michael"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation is cautious due to the sensitive nature of the topics discussed, including war and international relations."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction of Under Secretary of War Emil Michael"
+        },
+        {
+          "timestamp_seconds": 150,
+          "description": "Discussion of the US war with Iran"
+        },
+        {
+          "timestamp_seconds": 2479,
+          "description": "Pentagon's feud with Anthropic"
+        }
+      ]
     },
     {
       "id": "2026-03-03-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome",
@@ -296,13 +1369,76 @@
       "url": "https://allinchamathjason.libsyn.com/ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Ray Dalio joins the All-In Podcast to discuss America's debt crisis, the five forces reshaping the global order, and the potential for US collapse. He also covers topics such as gold vs. Bitcoin, tariffs, and trade deficits. Dalio believes the US debt crisis is worse than most people realize and that the country may be approaching a collapse.",
+      "takeaways": [
+        {
+          "text": "US debt crisis is worse than most people realize",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Five forces are reshaping the global order",
+          "timestamp_seconds": 89
+        },
+        {
+          "text": "Gold is driving to all-time highs while Bitcoin stumbles",
+          "timestamp_seconds": 679
+        },
+        {
+          "text": "Tariffs and trade deficits have a real story behind them",
+          "timestamp_seconds": 1696
+        },
+        {
+          "text": "US might be approaching a collapse",
+          "timestamp_seconds": 2471
+        },
+        {
+          "text": "Government reform is nearly impossible",
+          "timestamp_seconds": 446
+        },
+        {
+          "text": "DOGE faced structural limits",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Economists got tariffs wrong",
+          "timestamp_seconds": 1696
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Our system is in jeopardy",
+          "speaker": "Ray Dalio",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "debt-crisis",
+        "global-order",
+        "gold",
+        "bitcoin",
+        "tariffs",
+        "trade-deficits",
+        "us-economy",
+        "government-reform",
+        "cryptocurrency"
+      ],
+      "guests": [
+        "Ray Dalio"
+      ],
+      "sentiment": {
+        "overall": "bearish",
+        "notes": "The overall sentiment of the episode is bearish, with Ray Dalio expressing concerns about the US debt crisis and the potential for collapse. The hosts also discuss the challenges facing the US economy and the difficulties of government reform."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Friedberg introduces Ray Dalio"
+        },
+        {
+          "timestamp_seconds": 41,
+          "description": "Discussion on whether America is heading towards collapse"
+        }
+      ]
     },
     {
       "id": "2026-02-28-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tar",
@@ -312,13 +1448,83 @@
       "url": "https://allinchamathjason.libsyn.com/software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tariff-pivot",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The episode covers the recent implosion of software stocks, Claude's hit list, and reactions to the State of the Union address. The hosts also discuss the Rate Payer Protection Pledge, datacenter opposition, and Trump's tariff pivot. Additionally, they touch on the potential cure for blindness via Yamanaka Factors and the impact of AI on various industries.",
+      "takeaways": [
+        {
+          "text": "Software stocks are imploding due to AI disruption fears",
+          "timestamp_seconds": 82
+        },
+        {
+          "text": "Doomer narratives are more popular",
+          "timestamp_seconds": 2059
+        },
+        {
+          "text": "New AI jobs are emerging",
+          "timestamp_seconds": 2089
+        },
+        {
+          "text": "Datacenter opposition is driven by concerns over energy consumption",
+          "timestamp_seconds": 2419
+        },
+        {
+          "text": "Trump's tariff pivot is a significant shift in policy",
+          "timestamp_seconds": 4217
+        },
+        {
+          "text": "Yamanaka Factors may hold the key to curing blindness",
+          "timestamp_seconds": 3948
+        },
+        {
+          "text": "The Rate Payer Protection Pledge aims to protect consumers from rising energy costs",
+          "timestamp_seconds": 2419
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Nobody knows anything",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 457
+        },
+        {
+          "text": "AI is disrupting everything",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 82
+        },
+        {
+          "text": "We're in a period of great change",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 2089
+        }
+      ],
+      "topics": [
+        "software-stocks",
+        "ai-disruption",
+        "state-of-the-union",
+        "tariffs",
+        "datacenters",
+        "energy-consumption",
+        "blindness-cure",
+        "yamanaka-factors"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express caution about the impact of AI on various industries and the potential consequences of Trump's tariff pivot."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 82,
+          "description": "Discussion of software stocks imploding due to AI disruption fears"
+        },
+        {
+          "timestamp_seconds": 2419,
+          "description": "Explanation of the Rate Payer Protection Pledge and datacenter opposition"
+        },
+        {
+          "timestamp_seconds": 3948,
+          "description": "Discussion of the potential cure for blindness via Yamanaka Factors"
+        }
+      ]
     },
     {
       "id": "2026-02-20-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffm",
@@ -328,13 +1534,81 @@
       "url": "https://allinchamathjason.libsyn.com/prince-andrew-arrested-epstein-mythology-reid-hoffman-files-with-saagar-enjeti-michael-tracey",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The episode discusses the arrest of Prince Andrew in the UK, Jeffrey Epstein's global finance network, and the mythology surrounding Epstein. Guests Saagar Enjeti, Michael Tracey, and Kevin Bass join to share their insights. The conversation also touches on Reid Hoffman's history with Epstein.",
+      "takeaways": [
+        {
+          "text": "Prince Andrew arrested in the UK",
+          "timestamp_seconds": 64
+        },
+        {
+          "text": "Epstein's global finance network",
+          "timestamp_seconds": 64
+        },
+        {
+          "text": "Epstein mythology explained",
+          "timestamp_seconds": 3410
+        },
+        {
+          "text": "Reid Hoffman's history with Epstein",
+          "timestamp_seconds": 4343
+        },
+        {
+          "text": "Criticism of Epstein coverage",
+          "timestamp_seconds": 5120
+        },
+        {
+          "text": "Global network implications",
+          "timestamp_seconds": 64
+        },
+        {
+          "text": "Epstein's story and its significance",
+          "timestamp_seconds": 682
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Epstein mythology",
+          "speaker": "Michael Tracey",
+          "timestamp_seconds": 3410
+        },
+        {
+          "text": "Global network",
+          "speaker": "Saagar Enjeti",
+          "timestamp_seconds": 64
+        }
+      ],
+      "topics": [
+        "epstein-arrest",
+        "global-finance-network",
+        "epstein-mythology",
+        "reid-hoffman",
+        "prince-andrew",
+        "uk-arrest",
+        "jeffrey-epstein"
+      ],
+      "guests": [
+        "Saagar Enjeti",
+        "Michael Tracey",
+        "Kevin Bass"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The mood is cautious as the hosts and guests discuss the complex and sensitive topic of Epstein's arrest and network. The conversation is informative and insightful, but also acknowledges the uncertainty and potential implications of the situation."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 64,
+          "description": "Prince Andrew's arrest discussed"
+        },
+        {
+          "timestamp_seconds": 3410,
+          "description": "Michael Tracey explains Epstein mythology"
+        },
+        {
+          "timestamp_seconds": 4343,
+          "description": "Reid Hoffman's history with Epstein discussed"
+        }
+      ]
     },
     {
       "id": "2026-02-13-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-f",
@@ -344,13 +1618,78 @@
       "url": "https://allinchamathjason.libsyn.com/debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-ferraris-new-ev",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses the potential for a new golden age, Super Bowl insider trading, booming token budgets, and Ferrari's new electric vehicle. The hosts also delve into the state of the economy, US jobs, and the CBO report. The episode covers various topics, including AI updates, prediction markets, and the All-In Liquidity investor conference.",
+      "takeaways": [
+        {
+          "text": "Token budgets surpass salaries",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "Insider trading in Super Bowl prediction markets",
+          "timestamp_seconds": 1129
+        },
+        {
+          "text": "Ferrari's fully electric car goes viral",
+          "timestamp_seconds": 3792
+        },
+        {
+          "text": "CBO report sparks debate on debt spiral or golden age",
+          "timestamp_seconds": 1978
+        },
+        {
+          "text": "US jobs and economy show signs of growth",
+          "timestamp_seconds": 2886
+        },
+        {
+          "text": "All-In Liquidity investor conference announced",
+          "timestamp_seconds": 1724
+        },
+        {
+          "text": "AI updates: on-prem comeback",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "Prediction markets require policing",
+          "timestamp_seconds": 1129
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Debt spiral or new golden age?",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "ai-updates",
+        "prediction-markets",
+        "token-budgets",
+        "electric-vehicles",
+        "us-economy",
+        "jobs",
+        "cbo-report",
+        "all-in-liquidity",
+        "investor-conference"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The hosts discuss both positive and negative aspects of the economy and technology, resulting in a mixed sentiment. The debate on the CBO report and the potential for a new golden age contributes to this mixed sentiment."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 23,
+          "description": "AI updates: on-prem comeback and token budgets surpassing salaries"
+        },
+        {
+          "timestamp_seconds": 1129,
+          "description": "Discussion on insider trading in Super Bowl prediction markets"
+        },
+        {
+          "timestamp_seconds": 3792,
+          "description": "Ferrari's fully electric car goes viral"
+        }
+      ]
     },
     {
       "id": "2026-02-10-czs-untold-story-the-rise-fall-and-redemption-of-binances-founder",
@@ -360,13 +1699,76 @@
       "url": "https://allinchamathjason.libsyn.com/czs-untold-story-the-rise-fall-and-redemption-of-binances-founder",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The episode covers the life story of CZ, the founder of Binance, from his early days in China to the founding and rise of Binance, as well as his experiences with the FTX collapse and facing legal challenges. CZ shares his journey of discovering Bitcoin and going all-in on crypto. The episode also touches on his life after Binance and new ventures.",
+      "takeaways": [
+        {
+          "text": "CZ's early career was surprisingly normal",
+          "timestamp_seconds": 6
+        },
+        {
+          "text": "CZ discovered Bitcoin in his early days",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "CZ went all-in on crypto after discovering its potential",
+          "timestamp_seconds": 30
+        },
+        {
+          "text": "Binance was founded by CZ",
+          "timestamp_seconds": 41
+        },
+        {
+          "text": "CZ had a relationship with SBF before FTX's collapse",
+          "timestamp_seconds": 63
+        },
+        {
+          "text": "CZ faced legal challenges from the Biden administration",
+          "timestamp_seconds": 69
+        },
+        {
+          "text": "CZ has new ventures after his time at Binance",
+          "timestamp_seconds": 100
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Going all-in",
+          "speaker": "CZ",
+          "timestamp_seconds": 30
+        },
+        {
+          "text": "Redemption of Binance's founder",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "binance",
+        "cz",
+        "bitcoin",
+        "crypto",
+        "ftx",
+        "sbf",
+        "legal-challenges",
+        "entrepreneurship"
+      ],
+      "guests": [
+        "CZ"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has an overall optimistic tone as CZ shares his story of perseverance and redemption. Despite facing challenges, CZ remains positive and focused on his new ventures."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 63,
+          "description": "CZ discusses his relationship with SBF before FTX's collapse"
+        },
+        {
+          "timestamp_seconds": 69,
+          "description": "CZ shares his experiences facing legal challenges from the Biden administration"
+        }
+      ]
     },
     {
       "id": "2026-02-07-epstein-files-is-saas-dead-moltbook-panic-spacex-xai-merger-trumps-fed-pick",
@@ -376,13 +1778,93 @@
       "url": "https://allinchamathjason.libsyn.com/epstein-files-is-saas-dead-moltbook-panic-spacex-xai-merger-trumps-fed-pick-0",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses various topics including the Epstein files, the decline of SaaS stocks, Moltbook panic, SpaceX's merger with xAI, and Trump's new Fed Chair pick. The episode features guest Brad Gerstner, who shares his insights on these topics. The hosts also discuss their thoughts on the current state of the economy and technology.",
+      "takeaways": [
+        {
+          "text": "SaaS stocks are experiencing a decline",
+          "timestamp_seconds": 906
+        },
+        {
+          "text": "Moltbook is causing panic in the market",
+          "timestamp_seconds": 2111
+        },
+        {
+          "text": "SpaceX and xAI are merging",
+          "timestamp_seconds": 3650
+        },
+        {
+          "text": "Trump has selected Kevin Warsh as the new Fed Chair",
+          "timestamp_seconds": 2862
+        },
+        {
+          "text": "Brad Gerstner had a major win with Trump Accounts",
+          "timestamp_seconds": 3945
+        },
+        {
+          "text": "The hosts discuss the implications of the Epstein files",
+          "timestamp_seconds": 196
+        },
+        {
+          "text": "The current state of the economy is uncertain",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "The merger between SpaceX and xAI could have significant implications for the tech industry",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "SaaS is dead",
+          "speaker": "Unknown",
+          "timestamp_seconds": 906
+        },
+        {
+          "text": "Big win with Trump Accounts",
+          "speaker": "Brad Gerstner",
+          "timestamp_seconds": 3945
+        }
+      ],
+      "topics": [
+        "epstein-files",
+        "saas-stocks",
+        "moltbook-panic",
+        "spacex-merger",
+        "trump-administration",
+        "fed-chair",
+        "economy",
+        "technology",
+        "ai-merger"
+      ],
+      "guests": [
+        "Brad Gerstner"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express caution about the current state of the economy and the implications of the Epstein files. However, they also discuss potential opportunities and wins, such as Brad Gerstner's success with Trump Accounts."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 906,
+          "description": "Discussion of SaaS stocks decline"
+        },
+        {
+          "timestamp_seconds": 2111,
+          "description": "Moltbook panic discussion"
+        },
+        {
+          "timestamp_seconds": 3650,
+          "description": "SpaceX and xAI merger announcement"
+        },
+        {
+          "timestamp_seconds": 2862,
+          "description": "Trump's new Fed Chair pick announcement"
+        },
+        {
+          "timestamp_seconds": 3945,
+          "description": "Brad Gerstner's win with Trump Accounts"
+        }
+      ]
     },
     {
       "id": "2026-01-30-ice-chaos-in-minneapolis-clawdbot-takeover-why-the-dollar-is-dropping",
@@ -392,13 +1874,74 @@
       "url": "https://allinchamathjason.libsyn.com/ice-chaos-in-minneapolis-clawdbot-takeover-why-the-dollar-is-dropping",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses the ICE chaos in Minneapolis, the Clawdbot takeover, and the de-dollarization trend. They also touch on the California governor race and the recent deaths in Minneapolis. The hosts share their insights on the current state of AI, gold and silver prices, and the potential implications of these trends.",
+      "takeaways": [
+        {
+          "text": "ICE chaos in Minneapolis leads to deaths and protests",
+          "timestamp_seconds": 955
+        },
+        {
+          "text": "Clawdbot takeover marks the next phase of AI",
+          "timestamp_seconds": 4594
+        },
+        {
+          "text": "De-dollarization trend gains momentum",
+          "timestamp_seconds": 7098
+        },
+        {
+          "text": "Gold and silver prices surge",
+          "timestamp_seconds": 7098
+        },
+        {
+          "text": "California governor race heats up",
+          "timestamp_seconds": 7205
+        },
+        {
+          "text": "AI safety concerns grow",
+          "timestamp_seconds": 4594
+        },
+        {
+          "text": "US dollar drops in value",
+          "timestamp_seconds": 7098
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Next phase of AI",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 4594
+        }
+      ],
+      "topics": [
+        "ice-chaos",
+        "clawdbot",
+        "ai-safety",
+        "de-dollarization",
+        "gold-and-silver",
+        "california-governor-race",
+        "us-dollar",
+        "protests",
+        "ai-trends"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express concern over the current trends and their potential implications. They discuss the need for caution and careful consideration in the face of these developments."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 955,
+          "description": "Discussion of ICE chaos in Minneapolis"
+        },
+        {
+          "timestamp_seconds": 4594,
+          "description": "Jason demos his OpenClawd instances"
+        },
+        {
+          "timestamp_seconds": 7098,
+          "description": "De-dollarization trend and gold and silver prices discussed"
+        }
+      ]
     },
     {
       "id": "2026-01-25-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026",
@@ -408,13 +1951,101 @@
       "url": "https://allinchamathjason.libsyn.com/the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The episode covers the future of various industries, including stablecoins, cybersecurity, eVTOLs, and AI, with insights from CEOs of Circle, CrowdStrike, Archer, and Crusoe. The guests share their expectations for 2026 and the impact of AI on their respective fields. The hosts and guests discuss the potential growth and challenges in these areas.",
+      "takeaways": [
+        {
+          "text": "Stablecoins will grow in 2026",
+          "timestamp_seconds": 50
+        },
+        {
+          "text": "AI increases cybersecurity risks",
+          "timestamp_seconds": 5233
+        },
+        {
+          "text": "eVTOLs expected to launch soon",
+          "timestamp_seconds": 7073
+        },
+        {
+          "text": "AI buildout will require massive power",
+          "timestamp_seconds": 10227
+        },
+        {
+          "text": "Interest rates impact stablecoin growth",
+          "timestamp_seconds": 100
+        },
+        {
+          "text": "Cybersecurity is a major concern in AI era",
+          "timestamp_seconds": 5400
+        },
+        {
+          "text": "Custom indexes with AI are available",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Investing in stocks, options, bonds, and crypto is possible",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Future of money",
+          "speaker": "Jeremy Allaire",
+          "timestamp_seconds": 50
+        },
+        {
+          "text": "Hacker nations",
+          "speaker": "George Kurtz",
+          "timestamp_seconds": 5233
+        },
+        {
+          "text": "eVTOLs launch",
+          "speaker": "Adam Goldstein",
+          "timestamp_seconds": 7073
+        },
+        {
+          "text": "Powering AI",
+          "speaker": "Chase Lochmiller",
+          "timestamp_seconds": 10227
+        }
+      ],
+      "topics": [
+        "stablecoins",
+        "cybersecurity",
+        "evtol",
+        "ai",
+        "investing",
+        "future-of-money",
+        "interest-rates",
+        "custom-indexes"
+      ],
+      "guests": [
+        "Jeremy Allaire",
+        "George Kurtz",
+        "Adam Goldstein",
+        "Chase Lochmiller"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has a positive tone, with guests and hosts discussing the potential growth and opportunities in various industries. However, they also acknowledge the challenges and risks associated with these areas."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 50,
+          "description": "Jeremy Allaire discusses stablecoins"
+        },
+        {
+          "timestamp_seconds": 5233,
+          "description": "George Kurtz talks about cybersecurity in AI era"
+        },
+        {
+          "timestamp_seconds": 7073,
+          "description": "Adam Goldstein shares expectations for eVTOLs"
+        },
+        {
+          "timestamp_seconds": 10227,
+          "description": "Chase Lochmiller discusses powering AI buildout"
+        }
+      ]
     },
     {
       "id": "2026-01-24-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos",
@@ -424,13 +2055,79 @@
       "url": "https://allinchamathjason.libsyn.com/healthcare-needs-builders-not-bureaucrats-dr-mehmet-oz-live-from-davos",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast features Dr. Mehmet Oz discussing American healthcare, AI in self-directed healthcare, and the medical fraud crisis. They also touch on Trump's vision for healthcare and the future of GLP-1s. The conversation covers various topics, including immigration and addiction.",
+      "takeaways": [
+        {
+          "text": "AI can improve self-directed healthcare",
+          "timestamp_seconds": 13
+        },
+        {
+          "text": "Medical fraud is a significant crisis",
+          "timestamp_seconds": 35
+        },
+        {
+          "text": "GLP-1s have a promising future",
+          "timestamp_seconds": 30
+        },
+        {
+          "text": "Immigration and addiction are interconnected issues",
+          "timestamp_seconds": 56
+        },
+        {
+          "text": "Accountability is key to addressing medical fraud",
+          "timestamp_seconds": 44
+        },
+        {
+          "text": "Trump's healthcare vision is still unclear",
+          "timestamp_seconds": 3
+        },
+        {
+          "text": "Affordability of healthcare is a major concern",
+          "timestamp_seconds": 30
+        },
+        {
+          "text": "California is taking steps to address medical fraud",
+          "timestamp_seconds": 44
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Healthcare is broken",
+          "speaker": "Dr. Oz",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "We need accountability",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "healthcare-reform",
+        "ai-in-medicine",
+        "medical-fraud",
+        "immigration-policy",
+        "addiction-treatment",
+        "pharmaceutical-affordability",
+        "accountability-in-medicine"
+      ],
+      "guests": [
+        "Dr. Mehmet Oz"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation is cautious due to the complexity and severity of the issues discussed, but there is a sense of hope for potential solutions."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction of Dr. Oz"
+        },
+        {
+          "timestamp_seconds": 35,
+          "description": "Discussion of the medical fraud crisis begins"
+        }
+      ]
     },
     {
       "id": "2026-01-23-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition",
@@ -456,13 +2153,86 @@
       "url": "https://allinchamathjason.libsyn.com/coinbase-ceo-brian-armstrong-breaks-down-the-three-biggest-trends-in-crypto-more-from-davos",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The episode features interviews with Brian Armstrong, Andrew Feldman, and Jake Loosararian, discussing crypto adoption, compute power, and AI's impact on work and infrastructure. They explore how AI is changing productivity in real-time. The conversation highlights the builders shaping the future of these technologies.",
+      "takeaways": [
+        {
+          "text": "Crypto adoption is increasing",
+          "timestamp_seconds": 37
+        },
+        {
+          "text": "Compute power is crucial for AI",
+          "timestamp_seconds": 3891
+        },
+        {
+          "text": "AI is changing work and infrastructure",
+          "timestamp_seconds": 7090
+        },
+        {
+          "text": "Physical robots are being integrated with AI",
+          "timestamp_seconds": 4380
+        },
+        {
+          "text": "Productivity is being impacted by AI in real-time",
+          "timestamp_seconds": 7090
+        },
+        {
+          "text": "Builders are shaping the future of AI and crypto",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "AI is transforming industries",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Crypto is adopted",
+          "speaker": "Brian Armstrong",
+          "timestamp_seconds": 37
+        },
+        {
+          "text": "Compute power matters",
+          "speaker": "Andrew Feldman",
+          "timestamp_seconds": 3891
+        },
+        {
+          "text": "AI and robots",
+          "speaker": "Jake Loosararian",
+          "timestamp_seconds": 7090
+        }
+      ],
+      "topics": [
+        "crypto-adoption",
+        "ai-safety",
+        "compute-power",
+        "productivity",
+        "physical-robots",
+        "infrastructure",
+        "future-of-work"
+      ],
+      "guests": [
+        "Brian Armstrong",
+        "Andrew Feldman",
+        "Jake Loosararian"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has an optimistic tone, with guests discussing the potential of AI and crypto to transform industries and improve productivity."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 37,
+          "description": "Brian Armstrong discusses crypto adoption"
+        },
+        {
+          "timestamp_seconds": 3891,
+          "description": "Andrew Feldman talks about compute power"
+        },
+        {
+          "timestamp_seconds": 7090,
+          "description": "Jake Loosararian discusses AI and physical robots"
+        }
+      ]
     },
     {
       "id": "2026-01-22-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial",
@@ -472,13 +2242,75 @@
       "url": "https://allinchamathjason.libsyn.com/under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses free speech and censorship with Under Secretary of State Sarah B. Rogers, covering topics like EU censorship, AI deepfakes, and the 'Censorship Industrial Complex'. They also touch on the DSA as a 'censorship tariff' and Biden-era censorship. The conversation revolves around the importance of giving freedom the benefit of the doubt.",
+      "takeaways": [
+        {
+          "text": "The DSA can be seen as a 'censorship tariff'",
+          "timestamp_seconds": 13
+        },
+        {
+          "text": "AI deepfakes pose a threat to free speech",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "The 'Censorship Industrial Complex' is a concern in America",
+          "timestamp_seconds": 35
+        },
+        {
+          "text": "EU censorship laws may overreach",
+          "timestamp_seconds": 2
+        },
+        {
+          "text": "Biden-era censorship is a topic of discussion",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "Giving freedom the benefit of the doubt is crucial",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "Major fines against US companies for censorship non-compliance",
+          "timestamp_seconds": 14
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Censorship Industrial Complex",
+          "speaker": "Sarah B. Rogers",
+          "timestamp_seconds": 35
+        },
+        {
+          "text": "Free speech matters",
+          "speaker": "Jason",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "free-speech",
+        "censorship",
+        "eu-censorship",
+        "ai-deepfakes",
+        "censorship-industrial-complex",
+        "biden-era-censorship",
+        "dsa-overreach"
+      ],
+      "guests": [
+        "Sarah B. Rogers"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The mood is cautious due to the discussion of censorship and its potential impact on free speech. The hosts and guest express concern about the 'Censorship Industrial Complex' and its implications."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction of Under Secretary of State Sarah B. Rogers"
+        },
+        {
+          "timestamp_seconds": 35,
+          "description": "Discussion of the 'Censorship Industrial Complex' in America"
+        }
+      ]
     },
     {
       "id": "2026-01-21-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-open",
@@ -488,13 +2320,80 @@
       "url": "https://allinchamathjason.libsyn.com/microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Microsoft CEO Satya Nadella discusses the business revolution brought about by AI, its impact on SaaS, OpenAI, and Microsoft. He shares insights on the future of AI copilots and agents, and the extreme competition in the AI space. The conversation also covers the US tech stack's potential for global success and the role of open-source AI.",
+      "takeaways": [
+        {
+          "text": "AI will revolutionize white collar work",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "Microsoft has scaled revenue with flat headcount",
+          "timestamp_seconds": 8
+        },
+        {
+          "text": "Extreme competition exists in AI",
+          "timestamp_seconds": 10
+        },
+        {
+          "text": "US tech stack can win globally",
+          "timestamp_seconds": 12
+        },
+        {
+          "text": "OpenAI deal is crucial for Microsoft",
+          "timestamp_seconds": 19
+        },
+        {
+          "text": "SaaS adoption will change with AI",
+          "timestamp_seconds": 26
+        },
+        {
+          "text": "Open-source AI has potential",
+          "timestamp_seconds": 19
+        },
+        {
+          "text": "Microsoft's AI stack is evolving",
+          "timestamp_seconds": 19
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI copilots",
+          "speaker": "Satya Nadella",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "US tech stack",
+          "speaker": "Satya Nadella",
+          "timestamp_seconds": 12
+        }
+      ],
+      "topics": [
+        "ai-revolution",
+        "saas-adoption",
+        "openai",
+        "microsoft",
+        "us-tech-stack",
+        "open-source-ai",
+        "ai-competition",
+        "white-collar-work"
+      ],
+      "guests": [
+        "Satya Nadella"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is forward-looking and highlights the potential of AI to drive business growth and revolutionize industries. Satya Nadella's insights and Microsoft's strategies convey a sense of excitement and opportunity."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Jason and Sacks welcome Satya Nadella"
+        },
+        {
+          "timestamp_seconds": 19,
+          "description": "Discussion on OpenAI deal and Microsoft's AI stack"
+        }
+      ]
     },
     {
       "id": "2026-01-17-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs",
@@ -504,13 +2403,72 @@
       "url": "https://allinchamathjason.libsyn.com/irans-breaking-point-trumps-greenland-acquisition-solving-energy-costs-billionaire-tax-backlash",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The episode discusses Iran's potential regime change, Microsoft's efforts to reduce energy costs, OpenAI's compute deal with Cerebras, and the potential acquisition of Greenland. The hosts also touch on the billionaire backlash in California due to the wealth tax. The conversation covers various topics, including energy prices, AI, and geopolitics.",
+      "takeaways": [
+        {
+          "text": "Iran's regime may be nearing its breaking point",
+          "timestamp_seconds": 418
+        },
+        {
+          "text": "Microsoft is subsidizing residential electric costs",
+          "timestamp_seconds": 1428
+        },
+        {
+          "text": "OpenAI has partnered with Cerebras for a multibillion-dollar compute deal",
+          "timestamp_seconds": 3118
+        },
+        {
+          "text": "Billionaires are leaving California due to the wealth tax",
+          "timestamp_seconds": 3509
+        },
+        {
+          "text": "The acquisition of Greenland could be crucial for the US",
+          "timestamp_seconds": 5613
+        },
+        {
+          "text": "The renaissance in decode silicon is underway",
+          "timestamp_seconds": 3118
+        },
+        {
+          "text": "Energy prices can be reduced through hyperscalers like Microsoft",
+          "timestamp_seconds": 1428
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Regime change coming?",
+          "speaker": "Unknown",
+          "timestamp_seconds": 418
+        }
+      ],
+      "topics": [
+        "iran-regime-change",
+        "energy-prices",
+        "ai-compute",
+        "greenland-acquisition",
+        "wealth-tax",
+        "hyperscalers",
+        "decode-silicon"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The hosts discuss both positive and negative topics, including the potential for regime change in Iran and the billionaire backlash in California. The conversation is informative and speculative, with a mix of optimistic and cautious tones."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 418,
+          "description": "Discussion of Iran's regime change begins"
+        },
+        {
+          "timestamp_seconds": 3118,
+          "description": "OpenAI's compute deal with Cerebras is announced"
+        },
+        {
+          "timestamp_seconds": 5613,
+          "description": "The importance of acquiring Greenland is discussed"
+        }
+      ]
     },
     {
       "id": "2026-01-15-supercharging-a-new-fda-marty-makary-on-science-power-patients",
@@ -520,13 +2478,76 @@
       "url": "https://allinchamathjason.libsyn.com/can-we-trust-the-fda-marty-makary-on-science-power-patients",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses FDA reforms and the future of healthcare with Commissioner Marty Makary, covering topics such as accelerating drug approvals and rethinking vaccines. They also touch on the China race in biotech and the potential of AI in healthcare. The conversation includes various aspects of healthcare, including obesity, autism, and the power of AI.",
+      "takeaways": [
+        {
+          "text": "FDA implemented 42 major reforms in 10 months",
+          "timestamp_seconds": 321
+        },
+        {
+          "text": "Accelerating drug approvals safely is crucial",
+          "timestamp_seconds": 1314
+        },
+        {
+          "text": "Reshaping the failed Food Pyramid is necessary",
+          "timestamp_seconds": 3313
+        },
+        {
+          "text": "GLP-1s can help with America's Obesity Epidemic",
+          "timestamp_seconds": 4129
+        },
+        {
+          "text": "Rethinking vaccines from first principles is important",
+          "timestamp_seconds": 4954
+        },
+        {
+          "text": "AI can help lower drug prices",
+          "timestamp_seconds": 5940
+        },
+        {
+          "text": "Understanding the causes of autism is essential",
+          "timestamp_seconds": 7097
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Winning back biotech leadership",
+          "speaker": "Marty Makary",
+          "timestamp_seconds": 751
+        },
+        {
+          "text": "Power of AI for healthcare",
+          "speaker": "Marty Makary",
+          "timestamp_seconds": 5940
+        }
+      ],
+      "topics": [
+        "fda-reforms",
+        "biotech",
+        "drug-approvals",
+        "ai-in-healthcare",
+        "obesity-epidemic",
+        "vaccines",
+        "autism",
+        "healthcare-leadership"
+      ],
+      "guests": [
+        "Marty Makary"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is forward-looking and focused on finding solutions to various healthcare challenges, indicating an optimistic tone."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction of FDA Commissioner Marty Makary"
+        },
+        {
+          "timestamp_seconds": 751,
+          "description": "Discussion on the China race in biotech"
+        }
+      ]
     },
     {
       "id": "2026-01-13-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism",
@@ -536,13 +2557,81 @@
       "url": "https://allinchamathjason.libsyn.com/adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Adam Carolla joins the All-In Podcast to discuss California's collapse, including the Palisades Fire, gyno-fascism, and media bias. The conversation also touches on DEI, socialism, and the potential for two Americas to coexist. The episode concludes with a discussion on Big Tech, AI, and the 2028 Election.",
+      "takeaways": [
+        {
+          "text": "California is struggling to rebuild after the Palisades Fire",
+          "timestamp_seconds": 92
+        },
+        {
+          "text": "Gyno-fascism is a growing concern in safety culture",
+          "timestamp_seconds": 439
+        },
+        {
+          "text": "Media bias is a significant issue in modern society",
+          "timestamp_seconds": 949
+        },
+        {
+          "text": "DEI and socialism are transforming Hollywood",
+          "timestamp_seconds": 1721
+        },
+        {
+          "text": "The concept of two Americas coexisting is a topic of debate",
+          "timestamp_seconds": 2174
+        },
+        {
+          "text": "Big Tech and AI will play a significant role in the 2028 Election",
+          "timestamp_seconds": 3484
+        },
+        {
+          "text": "The hosts discuss potential candidates for California's next governor",
+          "timestamp_seconds": 3073
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Gyno-fascism",
+          "speaker": "Adam Carolla",
+          "timestamp_seconds": 439
+        },
+        {
+          "text": "Hard times make strong men",
+          "speaker": "Unknown",
+          "timestamp_seconds": 2174
+        }
+      ],
+      "topics": [
+        "california-crisis",
+        "media-bias",
+        "safety-culture",
+        "dei",
+        "socialism",
+        "big-tech",
+        "ai",
+        "politics",
+        "election-2028"
+      ],
+      "guests": [
+        "Adam Carolla"
+      ],
+      "sentiment": {
+        "overall": "bearish",
+        "notes": "The episode has a predominantly bearish tone, with the hosts and guest discussing various issues plaguing California and society at large. The conversation is critical of current trends and leadership."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Adam Carolla is introduced"
+        },
+        {
+          "timestamp_seconds": 439,
+          "description": "Gyno-fascism is discussed"
+        },
+        {
+          "timestamp_seconds": 3484,
+          "description": "Big Tech and AI's role in the 2028 Election is discussed"
+        }
+      ]
     },
     {
       "id": "2026-01-10-all-ins-2026-predictions",
@@ -552,13 +2641,77 @@
       "url": "https://allinchamathjason.libsyn.com/all-ins-2026-predictions",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In podcast discusses their 2026 predictions, covering various topics such as the California exodus, biggest political and business winners and losers, and anticipated trends. They also share their most contrarian beliefs and predictions for best and worst performing assets. The hosts provide their insights and opinions on the current state of the economy and technology.",
+      "takeaways": [
+        {
+          "text": "California exodus may continue due to asset seizure tax",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "Besties predict a big year for Austin",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "Biggest business winner may be a company that adapts to AI",
+          "timestamp_seconds": 32
+        },
+        {
+          "text": "Biggest business loser may be a company that fails to adapt to AI",
+          "timestamp_seconds": 41
+        },
+        {
+          "text": "Most anticipated trend is the growth of AI",
+          "timestamp_seconds": 75
+        },
+        {
+          "text": "Most contrarian belief is that AI will not replace human workers",
+          "timestamp_seconds": 56
+        },
+        {
+          "text": "Best performing asset may be a tech stock",
+          "timestamp_seconds": 63
+        },
+        {
+          "text": "Worst performing asset may be a traditional industry stock",
+          "timestamp_seconds": 68
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI is coming",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 56
+        },
+        {
+          "text": "We're all in",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 0
+        }
+      ],
+      "topics": [
+        "ai-adoption",
+        "california-exodus",
+        "asset-seizure-tax",
+        "austin-texas",
+        "business-predictions",
+        "economic-trends",
+        "tech-industry"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The hosts seem excited about the potential of AI and its impact on the economy, but also cautious about the potential risks and challenges."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to the podcast and discussion of the California exodus"
+        },
+        {
+          "timestamp_seconds": 56,
+          "description": "Discussion of the most contrarian belief about AI"
+        }
+      ]
     },
     {
       "id": "2026-01-09-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026",
@@ -568,13 +2721,76 @@
       "url": "https://allinchamathjason.libsyn.com/howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Commerce Secretary Howard Lutnick discusses the full scope of the Commerce Department, US trade deals, and the potential for 6% GDP growth in 2026. He shares stories about the Trump administration's tariff agenda and the revamped CHIPS Act. Lutnick also talks about pharma deals, lowering costs for Americans, and the focus on fraud and immigration.",
+      "takeaways": [
+        {
+          "text": "US could see 6% GDP growth in 2026",
+          "timestamp_seconds": 3938
+        },
+        {
+          "text": "Trump's tariff agenda was planned to protect US industries",
+          "timestamp_seconds": 779
+        },
+        {
+          "text": "US-Japan trade deal aims to increase US exports",
+          "timestamp_seconds": 1189
+        },
+        {
+          "text": "India deal has not happened due to various issues",
+          "timestamp_seconds": 2214
+        },
+        {
+          "text": "Pharma deals aim to lower costs for Americans",
+          "timestamp_seconds": 2628
+        },
+        {
+          "text": "Focus on fraud and immigration is crucial for economic growth",
+          "timestamp_seconds": 3208
+        },
+        {
+          "text": "CHIPS Act was revamped to support US semiconductor industry",
+          "timestamp_seconds": 4309
+        }
+      ],
+      "quotes": [
+        {
+          "text": "6% GDP growth",
+          "speaker": "Howard Lutnick",
+          "timestamp_seconds": 3938
+        },
+        {
+          "text": "protect US industries",
+          "speaker": "Howard Lutnick",
+          "timestamp_seconds": 779
+        }
+      ],
+      "topics": [
+        "us-economy",
+        "trade-deals",
+        "gdp-growth",
+        "tariff-agenda",
+        "pharma-deals",
+        "immigration",
+        "fraud",
+        "chips-act"
+      ],
+      "guests": [
+        "Howard Lutnick"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has an optimistic tone, with Secretary Lutnick discussing the potential for high GDP growth and the successes of the Trump administration's trade policies."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Secretary Lutnick tells a story about Air Force One"
+        },
+        {
+          "timestamp_seconds": 3938,
+          "description": "Discussion about potential 6% GDP growth in 2026"
+        }
+      ]
     },
     {
       "id": "2026-01-08-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasse",
@@ -663,13 +2879,80 @@
       "url": "https://allinchamathjason.libsyn.com/massive-somali-fraud-in-minnesota-with-nick-shirley-california-asset-seizure-20b-groq-nvidia-deal",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The episode discusses a potential daycare fraud in Minnesota with investigative reporter Nick Shirley, California's asset seizure, and the $20B Groq-Nvidia deal. The hosts delve into the scale of the fraud, its implications for America, and possible connections to Al-Shabaab. They also explore the normalization of private property seizure in California.",
+      "takeaways": [
+        {
+          "text": "Minnesota's daycare fraud may be linked to Al-Shabaab",
+          "timestamp_seconds": 30
+        },
+        {
+          "text": "California's wealth tax normalizes private property seizure",
+          "timestamp_seconds": 4096
+        },
+        {
+          "text": "The $20B Groq-Nvidia deal has significant implications for the tech industry",
+          "timestamp_seconds": 6136
+        },
+        {
+          "text": "The scale of the Minnesota fraud may indicate a larger patronage scheme",
+          "timestamp_seconds": 2955
+        },
+        {
+          "text": "The national press initially avoided covering the Minnesota fraud story",
+          "timestamp_seconds": 996
+        },
+        {
+          "text": "Investigative reporting is crucial for uncovering large-scale fraud",
+          "timestamp_seconds": 212
+        },
+        {
+          "text": "The Minnesota fraud case may have far-reaching consequences for the state's future",
+          "timestamp_seconds": 2955
+        },
+        {
+          "text": "The hosts express concern over the normalization of asset seizure in California",
+          "timestamp_seconds": 4096
+        }
+      ],
+      "quotes": [
+        {
+          "text": "This story is bigger than just Minnesota",
+          "speaker": "Nick Shirley",
+          "timestamp_seconds": 16
+        },
+        {
+          "text": "This deal is a game-changer",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 6136
+        }
+      ],
+      "topics": [
+        "minnesota-fraud",
+        "california-wealth-tax",
+        "groq-nvidia-deal",
+        "investigative-reporting",
+        "al-shabaab",
+        "private-property-seizure",
+        "patronage-scheme",
+        "tech-industry"
+      ],
+      "guests": [
+        "Nick Shirley"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express concern over the implications of the Minnesota fraud and the normalization of asset seizure in California, but also acknowledge the significance of the Groq-Nvidia deal."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to the episode and guest Nick Shirley"
+        },
+        {
+          "timestamp_seconds": 6136,
+          "description": "Chamath breaks down the $20B Groq-Nvidia deal"
+        }
+      ]
     },
     {
       "id": "2025-12-24-all-in-x-kill-tony-a-hilarious-holiday-special",
@@ -679,13 +2962,90 @@
       "url": "https://allinchamathjason.libsyn.com/all-in-x-kill-tony-a-hilarious-holiday-special",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast hosts a hilarious holiday special with Tony Hinchcliffe, discussing his success with Kill Tony, free speech in Europe, and playing a game. They also give out the 2025 Bestie Awards in various categories. The episode is filled with humor and lighthearted conversations.",
+      "takeaways": [
+        {
+          "text": "Tony Hinchcliffe's Kill Tony has been successful",
+          "timestamp_seconds": 15
+        },
+        {
+          "text": "Free speech is a concern in Europe",
+          "timestamp_seconds": 15
+        },
+        {
+          "text": "The Besties played Kill Tony",
+          "timestamp_seconds": 36
+        },
+        {
+          "text": "The 2025 Bestie Awards were given out",
+          "timestamp_seconds": 50
+        },
+        {
+          "text": "The episode was a lighthearted holiday special",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "The hosts discussed various topics including business and politics",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Tony Hinchcliffe was roasted by the Besties",
+          "timestamp_seconds": 2
+        },
+        {
+          "text": "The episode featured multiple games and awards",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "roasting the Besties",
+          "speaker": "Tony Hinchcliffe",
+          "timestamp_seconds": 2
+        },
+        {
+          "text": "Happy Holidays",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "holiday-special",
+        "kill-tony",
+        "free-speech",
+        "europe",
+        "bestie-awards",
+        "business",
+        "politics",
+        "tech",
+        "comedy",
+        "games"
+      ],
+      "guests": [
+        "Tony Hinchcliffe"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode was lighthearted and humorous, with a focus on entertainment and comedy. The hosts and guest had a positive and playful tone throughout the episode."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 2,
+          "description": "Tony Hinchcliffe roasts the Besties"
+        },
+        {
+          "timestamp_seconds": 15,
+          "description": "Interview with Tony Hinchcliffe"
+        },
+        {
+          "timestamp_seconds": 36,
+          "description": "The Besties play Kill Tony"
+        },
+        {
+          "timestamp_seconds": 50,
+          "description": "The 2025 Bestie Awards"
+        }
+      ]
     },
     {
       "id": "2025-12-22-scott-bessent-fixing-the-fed-tariffs-for-national-security-solving-affordability",
@@ -695,13 +3055,80 @@
       "url": "https://allinchamathjason.libsyn.com/scott-bessent-fixing-the-fed-tariffs-for-national-security-solving-affordability-in-2026",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Treasury Secretary Scott Bessent joins the show to discuss the state of the economy, tariffs, affordability, and the Fed. They cover topics such as inflation, interest rates, and the biggest mistakes made by the Fed. The conversation also touches on taking equity stakes in American companies and tax cuts.",
+      "takeaways": [
+        {
+          "text": "Tariffs can be used as leverage",
+          "timestamp_seconds": 3
+        },
+        {
+          "text": "Inflation is a major concern for affordability",
+          "timestamp_seconds": 15
+        },
+        {
+          "text": "The Fed's biggest mistakes led to a 15-year asset bubble",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "Taking equity stakes in American companies can help Main Street",
+          "timestamp_seconds": 42
+        },
+        {
+          "text": "Tax cuts can have a significant impact on the economy",
+          "timestamp_seconds": 50
+        },
+        {
+          "text": "The Fed Chair candidates will play a crucial role in shaping the economy",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "Interest rates are a key factor in affordability",
+          "timestamp_seconds": 15
+        },
+        {
+          "text": "The economy is facing significant challenges in 2026",
+          "timestamp_seconds": 0
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Fixing the Fed",
+          "speaker": "Scott Bessent",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "Solving Affordability",
+          "speaker": "Scott Bessent",
+          "timestamp_seconds": 15
+        }
+      ],
+      "topics": [
+        "economy",
+        "tariffs",
+        "affordability",
+        "inflation",
+        "interest-rates",
+        "fed",
+        "main-street",
+        "tax-cuts"
+      ],
+      "guests": [
+        "Scott Bessent"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation is cautious due to the significant challenges facing the economy in 2026, but there are also discussions about potential solutions and a sense of optimism about the possibility of positive change."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Treasury Secretary Scott Bessent joins the show"
+        },
+        {
+          "timestamp_seconds": 23,
+          "description": "Discussion about the Fed's biggest mistakes and the 15-year asset bubble"
+        }
+      ]
     },
     {
       "id": "2025-12-19-bernie-sanders-stop-all-ai-chinas-euv-breakthrough-inflation-down-golden-age-in-",
@@ -711,13 +3138,69 @@
       "url": "https://allinchamathjason.libsyn.com/bernie-sanders-stop-all-ai-chinas-euv-breakthrough-inflation-down-golden-age-in-2026",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses Bernie Sanders' call for an AI datacenter moratorium, the potential for manufactured AI sentiment, and China's breakthrough in EUV lithography. They also touch on the economy, unemployment, and the possibility of a 'Golden Age' in 2026. The hosts share their thoughts on the implications of these developments and the future of AI.",
+      "takeaways": [
+        {
+          "text": "Bernie Sanders calls for AI datacenter moratorium",
+          "timestamp_seconds": 19
+        },
+        {
+          "text": "Anti-AI sentiment may be manufactured by special interests",
+          "timestamp_seconds": 1035
+        },
+        {
+          "text": "China achieves major AI breakthrough with EUV lithography",
+          "timestamp_seconds": 3596
+        },
+        {
+          "text": "US economy shows signs of improvement with low unemployment",
+          "timestamp_seconds": 1959
+        },
+        {
+          "text": "Potential for a 'Golden Age' in 2026 due to technological advancements",
+          "timestamp_seconds": 1959
+        },
+        {
+          "text": "Importance of critical thinking in evaluating AI information",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Impact of China's EUV breakthrough on the global AI landscape",
+          "timestamp_seconds": 3596
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Stop all AI",
+          "speaker": "Unknown",
+          "timestamp_seconds": 19
+        }
+      ],
+      "topics": [
+        "ai-regulation",
+        "ai-safety",
+        "china-tech",
+        "euv-lithography",
+        "us-economy",
+        "unemployment",
+        "golden-age",
+        "technological-advancements"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The hosts express both optimism and caution regarding the developments in AI and the economy, highlighting the potential benefits and risks of these advancements."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 19,
+          "description": "Bernie Sanders calls for AI datacenter moratorium"
+        },
+        {
+          "timestamp_seconds": 3596,
+          "description": "China's major AI breakthrough: EUV lithography"
+        }
+      ]
     },
     {
       "id": "2025-12-13-tucker-carlson-rise-of-nick-fuentes-paramount-vs-netflix-anti-ai-sentiment-hotte",
@@ -727,13 +3210,90 @@
       "url": "https://allinchamathjason.libsyn.com/tucker-carlson-rise-of-nick-fuentes-paramount-vs-netflix-anti-ai-sentiment-hottest-takes",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses Paramount vs Netflix, the rise of Nick Fuentes, anti-AI sentiment, and various global issues with guest Tucker Carlson. They also touch on the bidding war over Warner Bros Discovery and the fall of Europe. The conversation covers a range of topics, from media and politics to technology and economics.",
+      "takeaways": [
+        {
+          "text": "Paramount and Netflix are in a bidding war over Warner Bros Discovery",
+          "timestamp_seconds": 251
+        },
+        {
+          "text": "Nick Fuentes' rise is attributed to his America First movement",
+          "timestamp_seconds": 1540
+        },
+        {
+          "text": "Anti-AI sentiment is growing due to concerns over job displacement",
+          "timestamp_seconds": 2953
+        },
+        {
+          "text": "Tucker Carlson discusses the potential fall of Europe",
+          "timestamp_seconds": 4862
+        },
+        {
+          "text": "The US midterm issues and Venezuela's situation are also discussed",
+          "timestamp_seconds": 4862
+        },
+        {
+          "text": "Tucker Carlson talks about leaving NATO and supporting Israel",
+          "timestamp_seconds": 4862
+        },
+        {
+          "text": "Data centers are creating a gold rush for construction workers",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "The rise of Nick Fuentes may be manufactured",
+          "timestamp_seconds": 1540
+        }
+      ],
+      "quotes": [
+        {
+          "text": "America First",
+          "speaker": "Tucker Carlson",
+          "timestamp_seconds": 1540
+        },
+        {
+          "text": "Gold rush for construction workers",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "paramount-vs-netflix",
+        "nick-fuentes",
+        "anti-ai-sentiment",
+        "warner-bros-discovery",
+        "us-midterm-issues",
+        "fall-of-europe",
+        "leaving-nato",
+        "supporting-israel",
+        "data-centers",
+        "construction-workers"
+      ],
+      "guests": [
+        "Tucker Carlson"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The conversation covers a range of topics with varying sentiment, from cautious discussions about anti-AI sentiment to more optimistic talks about the growth of data centers."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Tucker Carlson joins the podcast"
+        },
+        {
+          "timestamp_seconds": 251,
+          "description": "Paramount vs Netflix discussion begins"
+        },
+        {
+          "timestamp_seconds": 1540,
+          "description": "Nick Fuentes and America First movement discussion"
+        },
+        {
+          "timestamp_seconds": 4862,
+          "description": "Tucker Carlson discusses US midterm issues and the fall of Europe"
+        }
+      ]
     },
     {
       "id": "2025-12-06-openais-code-red-sacks-vs-new-york-times-new-poverty-line",
@@ -743,13 +3303,83 @@
       "url": "https://allinchamathjason.libsyn.com/openais-code-red-sacks-vs-new-york-times-new-poverty-line",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The episode discusses OpenAI's 'Code Red' due to competitors eating away at ChatGPT's market share, David Sacks' disagreement with the New York Times, and the concept of a new poverty line in America. The hosts also touch on the country's slow descent into socialism. The conversation covers various topics, including AI, technology, and politics.",
+      "takeaways": [
+        {
+          "text": "OpenAI declares Code Red",
+          "timestamp_seconds": 12
+        },
+        {
+          "text": "ChatGPT faces market share threats",
+          "timestamp_seconds": 12
+        },
+        {
+          "text": "David Sacks disagrees with New York Times",
+          "timestamp_seconds": 28
+        },
+        {
+          "text": "New poverty line concept discussed",
+          "timestamp_seconds": 51
+        },
+        {
+          "text": "America's slow descent into socialism",
+          "timestamp_seconds": 51
+        },
+        {
+          "text": "Nvidia's deal with OpenAI uncertain",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "AI waiver and crypto waiver discussed",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Hosts discuss US politics and technology",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Code Red",
+          "speaker": "Unknown",
+          "timestamp_seconds": 12
+        },
+        {
+          "text": "Disagree with NYT",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 28
+        }
+      ],
+      "topics": [
+        "ai-safety",
+        "chatgpt",
+        "openai",
+        "nvidia",
+        "us-politics",
+        "socialism",
+        "poverty-line",
+        "technology",
+        "crypto"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express concern over OpenAI's market share and the potential consequences of America's slow descent into socialism."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 12,
+          "description": "OpenAI declares Code Red"
+        },
+        {
+          "timestamp_seconds": 28,
+          "description": "David Sacks vs New York Times discussion starts"
+        },
+        {
+          "timestamp_seconds": 51,
+          "description": "New poverty line concept introduced"
+        }
+      ]
     },
     {
       "id": "2025-11-26-mollys-game-uncensored-the-truth-behind-the-worlds-most-infamous-poker-game",
@@ -759,13 +3389,79 @@
       "url": "https://allinchamathjason.libsyn.com/mollys-game-uncensored-the-truth-behind-the-worlds-most-infamous-poker-game",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Molly Bloom joins the All-In Podcast to discuss her experience running the world's most infamous poker game, including its origins, notable players, and the legal troubles that followed. The conversation also covers her memoir and the movie adaptation of her story. Additionally, the hosts and Molly discuss celebrity poker players and high-stakes poker archetypes.",
+      "takeaways": [
+        {
+          "text": "Molly Bloom's poker game started in LA and later moved to NYC",
+          "timestamp_seconds": 3
+        },
+        {
+          "text": "A famous actor strong-armed Molly for $250K",
+          "timestamp_seconds": 3
+        },
+        {
+          "text": "Molly wrote a memoir about her experience and a movie was made",
+          "timestamp_seconds": 17
+        },
+        {
+          "text": "Molly discusses high-stakes poker archetypes",
+          "timestamp_seconds": 31
+        },
+        {
+          "text": "Molly provides sales coaching advice",
+          "timestamp_seconds": 34
+        },
+        {
+          "text": "The game involved mob figures and led to legal troubles",
+          "timestamp_seconds": 17
+        },
+        {
+          "text": "Molly's game attracted many celebrity poker players",
+          "timestamp_seconds": 31
+        },
+        {
+          "text": "Molly's story was adapted into a movie",
+          "timestamp_seconds": 17
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I got stiffed for $250K",
+          "speaker": "Molly Bloom",
+          "timestamp_seconds": 3
+        }
+      ],
+      "topics": [
+        "poker",
+        "celebrity-culture",
+        "memoir",
+        "movie-adaptation",
+        "high-stakes-poker",
+        "sales-coaching",
+        "mob-involvement",
+        "legal-troubles"
+      ],
+      "guests": [
+        "Molly Bloom"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The conversation has a lighthearted tone when discussing celebrity poker players, but turns serious when discussing the legal troubles and mob involvement."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Molly Bloom joins the podcast"
+        },
+        {
+          "timestamp_seconds": 3,
+          "description": "Molly discusses her background and starting the poker game"
+        },
+        {
+          "timestamp_seconds": 17,
+          "description": "Molly talks about moving the game to NYC and the legal troubles that followed"
+        }
+      ]
     },
     {
       "id": "2025-11-22-epstein-files-fallout-nvidia-risks-burrys-bad-bet-googles-breakthrough-tethers-b",
@@ -775,13 +3471,74 @@
       "url": "https://allinchamathjason.libsyn.com/epstein-files-fallout-nvidia-risks-burrys-bad-bet-googles-breakthrough-tethers-boom",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses various topics including the Epstein Files, Tether's booming business, Nvidia's risks, and Google's breakthrough in AI. They also talk to Alan Keating about poker strategy and thriving in chaos. The hosts share their insights on investing and risk psychology.",
+      "takeaways": [
+        {
+          "text": "Epstein's money source remains unknown",
+          "timestamp_seconds": 10
+        },
+        {
+          "text": "Tether's business is booming",
+          "timestamp_seconds": 14
+        },
+        {
+          "text": "Nvidia's risks in 2026",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "Google's Gemini 3 breakthrough",
+          "timestamp_seconds": 35
+        },
+        {
+          "text": "Importance of risk psychology in investing",
+          "timestamp_seconds": 48
+        },
+        {
+          "text": "Thriving in chaos with poker strategy",
+          "timestamp_seconds": 48
+        },
+        {
+          "text": "Friedberg returned as CEO to invest his own money",
+          "timestamp_seconds": 42
+        },
+        {
+          "text": "Differences between investing personal and LP capital",
+          "timestamp_seconds": 42
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Thriving in chaos",
+          "speaker": "Unknown",
+          "timestamp_seconds": 48
+        }
+      ],
+      "topics": [
+        "epstein-files",
+        "tether",
+        "nvidia",
+        "google-ai",
+        "poker-strategy",
+        "risk-psychology",
+        "investing"
+      ],
+      "guests": [
+        "Alan Keating"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The hosts discuss both positive and negative topics, ranging from Google's AI breakthrough to Nvidia's risks in 2026."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Bestie intros LIVE from The Venetian Las Vegas"
+        },
+        {
+          "timestamp_seconds": 48,
+          "description": "Alan Keating joins the show"
+        }
+      ]
     },
     {
       "id": "2025-11-14-home-affordability-crisis-palantirs-advantage-big-short-on-ai-h-1b-abuse-solar-s",
@@ -791,13 +3548,79 @@
       "url": "https://allinchamathjason.libsyn.com/home-affordability-crisis-palantirs-advantage-big-short-on-ai-h-1b-abuse-solar-storm-hits-earth",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The episode discusses various topics including Michael Burry's short against AI, Palantir's high valuation, the home affordability crisis, H-1B debate, and solar storms. The hosts also touch on the 'great confiscation' and rich Americans fleeing. The conversation covers a range of subjects from tech and economics to science and politics.",
+      "takeaways": [
+        {
+          "text": "Michael Burry is shorting AI",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "Palantir's valuation is high due to its unique position",
+          "timestamp_seconds": 720
+        },
+        {
+          "text": "Home affordability crisis is a major issue",
+          "timestamp_seconds": 1207
+        },
+        {
+          "text": "H-1B debate is ongoing",
+          "timestamp_seconds": 2178
+        },
+        {
+          "text": "Solar storms pose risks",
+          "timestamp_seconds": 2537
+        },
+        {
+          "text": "Rich Americans are fleeing 'the great confiscation'",
+          "timestamp_seconds": 3074
+        },
+        {
+          "text": "Mortgage innovation and building are top priorities",
+          "timestamp_seconds": 1207
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Big short against AI",
+          "speaker": "Unknown",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "Great confiscation",
+          "speaker": "Unknown",
+          "timestamp_seconds": 3074
+        }
+      ],
+      "topics": [
+        "ai-short",
+        "palantir",
+        "home-affordability",
+        "h-1b-debate",
+        "solar-storms",
+        "economics",
+        "politics",
+        "science",
+        "tech"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The hosts discuss a range of topics with varying levels of optimism and concern, resulting in a mixed sentiment."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Michael Burry's big short against AI is discussed"
+        },
+        {
+          "timestamp_seconds": 1207,
+          "description": "Home affordability crisis is discussed"
+        },
+        {
+          "timestamp_seconds": 3074,
+          "description": "Rich Americans fleeing 'the great confiscation' is mentioned"
+        }
+      ]
     },
     {
       "id": "2025-11-07-does-openai-need-a-bailout-mamdani-wins-socialism-rising-filibuster-nuclear-opti",
@@ -807,13 +3630,85 @@
       "url": "https://allinchamathjason.libsyn.com/does-openai-need-a-bailout-mamdani-wins-socialism-rising-filibuster-nuclear-option",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The episode discusses OpenAI's recent controversies, the need for a federal framework on AI, and the rise of socialism in America. The hosts also talk about the state of the market and the potential for a domestic or 'main street' win. Guest Brad Gerstner joins the conversation, sharing his insights on the current state of AI and its potential impact on the future.",
+      "takeaways": [
+        {
+          "text": "OpenAI needs a federal backstop",
+          "timestamp_seconds": 49
+        },
+        {
+          "text": "China is likely to win the AI race",
+          "timestamp_seconds": 1833
+        },
+        {
+          "text": "OpenAI has trust issues",
+          "timestamp_seconds": 3039
+        },
+        {
+          "text": "The consumer is cracking",
+          "timestamp_seconds": 3919
+        },
+        {
+          "text": "Socialism is rising in America",
+          "timestamp_seconds": 3980
+        },
+        {
+          "text": "Republicans should end the filibuster",
+          "timestamp_seconds": 3990
+        },
+        {
+          "text": "Domestic wins are needed",
+          "timestamp_seconds": 3919
+        },
+        {
+          "text": "AI supercycle is coming",
+          "timestamp_seconds": 3039
+        }
+      ],
+      "quotes": [
+        {
+          "text": "China is going to win",
+          "speaker": "Jensen Huang",
+          "timestamp_seconds": 1833
+        },
+        {
+          "text": "Federal backstop",
+          "speaker": "Unknown",
+          "timestamp_seconds": 49
+        }
+      ],
+      "topics": [
+        "ai-safety",
+        "federal-regulation",
+        "openai",
+        "socialism",
+        "market-trends",
+        "china",
+        "ai-supercycle",
+        "domestic-wins",
+        "filibuster"
+      ],
+      "guests": [
+        "Brad Gerstner"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express concern about OpenAI's recent controversies and the potential impact of AI on the future. They also discuss the rise of socialism in America and the need for domestic wins."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Brad Gerstner joins the show"
+        },
+        {
+          "timestamp_seconds": 1833,
+          "description": "Jensen Huang's comment on China winning the AI race"
+        },
+        {
+          "timestamp_seconds": 3919,
+          "description": "Discussion on the state of the market and the consumer"
+        }
+      ]
     },
     {
       "id": "2025-11-05-ari-emanuel-on-the-future-of-entertainment-hollywood-ai-creator-economy-youtube-",
@@ -823,13 +3718,75 @@
       "url": "https://allinchamathjason.libsyn.com/ari-emanuel-on-the-future-of-entertainment-hollywood-ai-creator-economy-youtube-vs-netflix",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Ari Emanuel discusses the future of entertainment, including the impact of infinite distribution, AI, and the creator economy on Hollywood. He also shares his background and experiences in the industry. The conversation covers topics such as the future of sports entertainment, modern IP ownership, and the role of YouTube and Netflix in the creator economy.",
+      "takeaways": [
+        {
+          "text": "Infinite distribution is changing Hollywood",
+          "timestamp_seconds": 4
+        },
+        {
+          "text": "AI may lead to a 3-day workweek",
+          "timestamp_seconds": 9
+        },
+        {
+          "text": "Creators will own advertising products",
+          "timestamp_seconds": 4
+        },
+        {
+          "text": "Modern IP ownership is crucial for creators",
+          "timestamp_seconds": 12
+        },
+        {
+          "text": "Attention spans are adapting in sports entertainment",
+          "timestamp_seconds": 22
+        },
+        {
+          "text": "Clip culture is going global",
+          "timestamp_seconds": 22
+        },
+        {
+          "text": "YouTube and Netflix have different roles in the creator economy",
+          "timestamp_seconds": 12
+        },
+        {
+          "text": "Ari Emanuel built on Michael Ovitz's vision",
+          "timestamp_seconds": 18
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Anticipating the 3-day workweek",
+          "speaker": "Ari Emanuel",
+          "timestamp_seconds": 9
+        }
+      ],
+      "topics": [
+        "entertainment-industry",
+        "infinite-distribution",
+        "ai-impact",
+        "creator-economy",
+        "ip-ownership",
+        "sports-entertainment",
+        "clip-culture",
+        "youtube-vs-netflix"
+      ],
+      "guests": [
+        "Ari Emanuel"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is forward-looking and focuses on the opportunities and adaptations in the entertainment industry. Ari Emanuel's experiences and insights contribute to a positive and enthusiastic tone."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 9,
+          "description": "Ari Emanuel discusses the potential impact of AI on workweeks"
+        },
+        {
+          "timestamp_seconds": 18,
+          "description": "Ari Emanuel shares his relationship with Michael Ovitz and building on his vision"
+        }
+      ]
     },
     {
       "id": "2025-11-04-inside-saudi-arabias-ai-ambition-tareq-amin-on-building-a-new-tech-superpower",
@@ -839,13 +3796,89 @@
       "url": "https://allinchamathjason.libsyn.com/inside-saudi-arabias-ai-ambition-tareq-amin-on-building-a-new-tech-superpower",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses Saudi Arabia's AI ambitions with guest Tareq Amin, exploring the country's evolution, energy and talent advantages, and its relationships with the US and China. The conversation also touches on Vision 2030 and the AI race in the Middle East. Tareq Amin shares insights on Humain's business and how it works with foundational model providers.",
+      "takeaways": [
+        {
+          "text": "Saudi Arabia has energy and talent advantages",
+          "timestamp_seconds": 13
+        },
+        {
+          "text": "Humain works with foundational model providers",
+          "timestamp_seconds": 8
+        },
+        {
+          "text": "Saudi Arabia is in an AI race with other Middle Eastern countries",
+          "timestamp_seconds": 13
+        },
+        {
+          "text": "Vision 2030 is a key part of Saudi Arabia's development plan",
+          "timestamp_seconds": 18
+        },
+        {
+          "text": "The US and Saudi Arabia have a complex AI alliance",
+          "timestamp_seconds": 24
+        },
+        {
+          "text": "Tareq Amin is building Humain to be a major AI player",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "Saudi Arabia must balance relationships with the US and China",
+          "timestamp_seconds": 22
+        },
+        {
+          "text": "The Middle East is becoming a hub for AI development",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Building a new tech superpower",
+          "speaker": "Tareq Amin",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "US-Saudi AI alliance",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 24
+        }
+      ],
+      "topics": [
+        "ai-development",
+        "saudi-arabia",
+        "middle-east",
+        "us-china-relations",
+        "vision-2030",
+        "humain",
+        "energy-advantages",
+        "talent-advantages",
+        "ai-race"
+      ],
+      "guests": [
+        "Tareq Amin"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is generally positive, with a focus on the potential for Saudi Arabia to become a major player in the AI space. However, there are also discussions of the challenges and complexities involved."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction of Tareq Amin"
+        },
+        {
+          "timestamp_seconds": 8,
+          "description": "Discussion of Humain's business model"
+        },
+        {
+          "timestamp_seconds": 18,
+          "description": "Conversation about Vision 2030"
+        },
+        {
+          "timestamp_seconds": 24,
+          "description": "Discussion of the US-Saudi AI alliance"
+        }
+      ]
     },
     {
       "id": "2025-11-03-triple-h-on-wwes-evolution-the-rise-of-the-antihero-and-the-psychology-of-stardo",
@@ -855,13 +3888,76 @@
       "url": "https://allinchamathjason.libsyn.com/triple-h-on-wwes-evolution-the-rise-of-the-antihero-and-the-psychology-of-stardom",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast features Paul 'Triple H' Levesque, discussing his career, the evolution of WWE, and the psychology of stardom. He shares insights on the skills required to be a successful wrestler and the rise of the antihero persona. The conversation also touches on the business side of WWE, including the use of streaming and social media to promote live events.",
+      "takeaways": [
+        {
+          "text": "WWE wrestlers need a combination of physical and mental skills",
+          "timestamp_seconds": 56
+        },
+        {
+          "text": "The antihero persona has become more prominent in modern wrestling",
+          "timestamp_seconds": 341
+        },
+        {
+          "text": "WWE and UFC have different approaches to building stars",
+          "timestamp_seconds": 523
+        },
+        {
+          "text": "The physicality of WWE requires a high level of support for wrestlers",
+          "timestamp_seconds": 683
+        },
+        {
+          "text": "Streaming and social media are crucial for promoting live WWE events",
+          "timestamp_seconds": 851
+        },
+        {
+          "text": "The internet has forced wrestlers to blend their in-ring personas with real-life",
+          "timestamp_seconds": 1418
+        },
+        {
+          "text": "WWE is focused on helping America's youth through physical fitness initiatives",
+          "timestamp_seconds": 1288
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Blend in-ring persona with real-life",
+          "speaker": "Triple H",
+          "timestamp_seconds": 1418
+        },
+        {
+          "text": "Magic of live WWE",
+          "speaker": "Unknown",
+          "timestamp_seconds": 851
+        }
+      ],
+      "topics": [
+        "wwe",
+        "professional-wrestling",
+        "antihero",
+        "ufc",
+        "sports-entertainment",
+        "physical-fitness",
+        "social-media",
+        "streaming"
+      ],
+      "guests": [
+        "Paul 'Triple H' Levesque"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is upbeat and focuses on the positive aspects of WWE and its impact on society."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction of Paul 'Triple H' Levesque"
+        },
+        {
+          "timestamp_seconds": 1418,
+          "description": "Discussion on the impact of the internet on wrestlers' personas"
+        }
+      ]
     },
     {
       "id": "2025-10-31-elon-musk-openai-betrayal-his-future-at-tesla-and-the-next-big-thing-grokipedia",
@@ -16300,6 +19396,6 @@
     ],
     "episode_count": 230
   },
-  "brief_markdown": "# Weekly Brief — 2026-04-25\n\n**Latest episode:** SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer Spike — 2026-04-24\n\n## What this episode covered\n_No summary available_\n\n## Top takeaways\n\n## Notable quotes\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `economy` — mentioned in 6 episodes\n- `politics` — mentioned in 4 episodes\n- `ai-safety` — mentioned in 3 episodes\n- `ai` — mentioned in 3 episodes\n- `trump-administration` — mentioned in 3 episodes\n- `foreign-policy` — mentioned in 2 episodes\n- `government-spending` — mentioned in 2 episodes\n- `covid-19` — mentioned in 2 episodes\n- `debt-ceiling` — mentioned in 2 episodes\n- `ai-hardware` — mentioned in 2 episodes\n\n**Most frequent non-host guests:**\n- Robert F. Kennedy Jr. (1 appearance)\n- President Trump (1 appearance)\n- John Collison (1 appearance)\n- Patrick Collison (1 appearance)\n- Joe Lonsdale (1 appearance)\n\n**Recent tone trajectory:**\n- 2025-03-19: mixed\n- 2025-03-20: mixed\n- 2025-07-23: optimistic\n- 2025-07-23: optimistic\n- 2025-10-31: mixed\n- 2026-01-08: optimistic\n\n---\n_Generated 2026-04-25 from 370 episodes_",
-  "generated_at": "2026-04-25T05:25:52.806748+00:00"
+  "brief_markdown": "# Weekly Brief — 2026-04-26\n\n**Latest episode:** SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer Spike — 2026-04-24\n\n## What this episode covered\nThe All-In Podcast discusses various topics including the SpaceX-Cursor deal, the SaaS debt bomb, Apple's new CEO John Ternus, the SPLC indictment, and a potential cause for the colon cancer spike in young people. The hosts analyze the implications of these events and provide their insights. The podcast also touches on the current state of the tech industry and the potential consequences of the SaaS debt bomb.\n\n## Top takeaways\n- SpaceX acquires Cursor for $60 billion [▶ 4:55](https://www.youtube.com/watch?v=1bCXCxrDsCs&t=295s)\n- SaaS companies face debt bomb [▶ 18:33](https://www.youtube.com/watch?v=1bCXCxrDsCs&t=1113s)\n- John Ternus becomes new Apple CEO [▶ 46:20](https://www.youtube.com/watch?v=1bCXCxrDsCs&t=2780s)\n- SPLC indicted for wire fraud [▶ 1:00:32](https://www.youtube.com/watch?v=1bCXCxrDsCs&t=3632s)\n- Potential cause for colon cancer spike discovered [▶ 1:16:33](https://www.youtube.com/watch?v=1bCXCxrDsCs&t=4593s)\n- Compute as leverage in the tech industry [▶ 4:55](https://www.youtube.com/watch?v=1bCXCxrDsCs&t=295s)\n- Buy the dip in SaaS companies [▶ 18:33](https://www.youtube.com/watch?v=1bCXCxrDsCs&t=1113s)\n\n## Notable quotes\n> \"Compute as leverage\" — Unknown [▶ 4:55](https://www.youtube.com/watch?v=1bCXCxrDsCs&t=295s)\n> \"Buy the dip\" — Unknown [▶ 18:33](https://www.youtube.com/watch?v=1bCXCxrDsCs&t=1113s)\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `economy` — mentioned in 6 episodes\n- `politics` — mentioned in 4 episodes\n- `ai-safety` — mentioned in 3 episodes\n- `ai` — mentioned in 3 episodes\n- `trump-administration` — mentioned in 3 episodes\n- `foreign-policy` — mentioned in 2 episodes\n- `government-spending` — mentioned in 2 episodes\n- `covid-19` — mentioned in 2 episodes\n- `debt-ceiling` — mentioned in 2 episodes\n- `ai-hardware` — mentioned in 2 episodes\n\n**Most frequent non-host guests:**\n- Robert F. Kennedy Jr. (1 appearance)\n- President Trump (1 appearance)\n- John Collison (1 appearance)\n- Patrick Collison (1 appearance)\n- Joe Lonsdale (1 appearance)\n\n**Recent tone trajectory:**\n- 2025-03-19: mixed\n- 2025-03-20: mixed\n- 2025-07-23: optimistic\n- 2025-07-23: optimistic\n- 2025-10-31: mixed\n- 2026-01-08: optimistic\n\n---\n_Generated 2026-04-26 from 370 episodes_",
+  "generated_at": "2026-04-26T03:56:23.817834+00:00"
 }

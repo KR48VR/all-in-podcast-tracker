@@ -10,5 +10,78 @@
   "description": "<p>(0:00) California exodus, asset seizure tax, Besties to Austin?</p> <p>(12:27) Biggest Political Winner</p> <p>(17:45) Biggest Political Loser</p> <p>(32:15) Biggest Business Winner</p> <p>(40:51) Biggest Business Loser</p> <p>(49:34) Biggest Business Deal</p> <p>(56:15) Most Contrarian Belief</p> <p>(1:03:05) Best Performing Asset</p> <p>(1:08:02) Worst Performing Asset</p> <p>(1:15:17) Most Anticipated Trend</p> <p>(1:21:18) Most Anticipated Media</p> <p>Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://x.com/TheZachEffect\">https://x.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href=\"https://x.com/reidhoffman/status/2009015043258552670\">https://x.com/reidhoffman/status/2009015043258552670</a></p> <p><a href=\"https://www.nytimes.com/2026/01/09/technology/google-founders-california-wealth-tax.html\"> https://www.nytimes.com/2026/01/09/technology/google-founders-california-wealth-tax.html</a></p> <p><a href=\"https://x.com/Daily_MailUS/status/2008903817341931618\">https://x.com/Daily_MailUS/status/2008903817341931618</a></p> <p><a href=\"https://fasterplease.substack.com/p/ai-and-the-radiologist-apocalypse\"> https://fasterplease.substack.com/p/ai-and-the-radiologist-apocalypse</a></p> <p><a href=\"https://www.tipranks.com/news/atlanta-fed-doubles-q4-gdp-estimate-to-5-4-as-trade-deficit-plunges\"> https://www.tipranks.com/news/atlanta-fed-doubles-q4-gdp-estimate-to-5-4-as-trade-deficit-plunges</a></p> <p><a href=\"https://www.wsj.com/business/autos/the-160-000-mechanic-job-that-ford-cant-fill-fe6fd121\"> https://www.wsj.com/business/autos/the-160-000-mechanic-job-that-ford-cant-fill-fe6fd121</a></p> <p> </p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In podcast discusses their 2026 predictions, covering various topics such as the California exodus, biggest political and business winners and losers, and anticipated trends. They also share their most contrarian beliefs and predictions for best and worst performing assets. The hosts provide their insights and opinions on the current state of the economy and technology.",
+    "takeaways": [
+      {
+        "text": "California exodus may continue due to asset seizure tax",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "Besties predict a big year for Austin",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "Biggest business winner may be a company that adapts to AI",
+        "timestamp_seconds": 32
+      },
+      {
+        "text": "Biggest business loser may be a company that fails to adapt to AI",
+        "timestamp_seconds": 41
+      },
+      {
+        "text": "Most anticipated trend is the growth of AI",
+        "timestamp_seconds": 75
+      },
+      {
+        "text": "Most contrarian belief is that AI will not replace human workers",
+        "timestamp_seconds": 56
+      },
+      {
+        "text": "Best performing asset may be a tech stock",
+        "timestamp_seconds": 63
+      },
+      {
+        "text": "Worst performing asset may be a traditional industry stock",
+        "timestamp_seconds": 68
+      }
+    ],
+    "quotes": [
+      {
+        "text": "AI is coming",
+        "speaker": "Chamath Palihapitiya",
+        "timestamp_seconds": 56
+      },
+      {
+        "text": "We're all in",
+        "speaker": "Jason Calacanis",
+        "timestamp_seconds": 0
+      }
+    ],
+    "topics": [
+      "ai-adoption",
+      "california-exodus",
+      "asset-seizure-tax",
+      "austin-texas",
+      "business-predictions",
+      "economic-trends",
+      "tech-industry"
+    ],
+    "guests": [],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The hosts seem excited about the potential of AI and its impact on the economy, but also cautious about the potential risks and challenges."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "Introduction to the podcast and discussion of the California exodus"
+      },
+      {
+        "timestamp_seconds": 56,
+        "description": "Discussion of the most contrarian belief about AI"
+      }
+    ]
+  }
 }
