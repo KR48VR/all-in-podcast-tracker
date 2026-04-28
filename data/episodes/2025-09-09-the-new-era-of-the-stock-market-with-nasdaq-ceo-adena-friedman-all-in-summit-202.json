@@ -12,5 +12,68 @@
     "Nasdaq CEO Adena Friedman"
   ],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The episode features Adena Friedman, CEO of Nasdaq, discussing the evolution of the stock market, including tokenized securities and the 24/5 trading schedule. She also shares her thoughts on the IPO market and the role of the NY Fed. The conversation covers various topics, including the future of markets, data issues, and the growth of crypto.",
+    "takeaways": [
+      {
+        "text": "Nasdaq will offer tokenized securities",
+        "timestamp_seconds": 2
+      },
+      {
+        "text": "IPO market needs to change to help companies go public faster",
+        "timestamp_seconds": 7
+      },
+      {
+        "text": "Markets are evolving to include predictions, options, and secondaries",
+        "timestamp_seconds": 13
+      },
+      {
+        "text": "Data issues at the Fed need to be addressed",
+        "timestamp_seconds": 18
+      },
+      {
+        "text": "Crypto is going mainstream with the 24/5 trading schedule",
+        "timestamp_seconds": 2
+      },
+      {
+        "text": "Nasdaq is expanding beyond a stock exchange",
+        "timestamp_seconds": 1
+      },
+      {
+        "text": "The role of the NY Fed is crucial in the stock market",
+        "timestamp_seconds": 18
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Crypto going mainstream",
+        "speaker": "Adena Friedman",
+        "timestamp_seconds": 2
+      }
+    ],
+    "topics": [
+      "stock-market",
+      "tokenized-securities",
+      "ipo-market",
+      "crypto",
+      "ny-fed",
+      "data-issues",
+      "market-evolution",
+      "nasdaq"
+    ],
+    "guests": [
+      "Adena Friedman"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The conversation is forward-looking and excited about the future of the stock market and crypto. The tone is positive and enthusiastic."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 2,
+        "description": "Big announcement about Nasdaq offering tokenized securities"
+      }
+    ]
+  }
 }

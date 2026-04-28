@@ -10,5 +10,81 @@
   "description": "<p>(0:00) Introducing Solana Co-Founder Anatoly Yakovenko</p> <p>(0:55) Crypto under Trump vs Biden, stablecoin boom, what it means for US treasuries</p> <p>(5:56) Traditional exchanges using blockchain vs crypto-native exchanges, how crypto gets mass market</p> <p>(10:02) Most exciting crypto verticals outside of finance: social, IP rights, real estate, CLARITY Act</p> <p>(15:57) Quantum computing, AI's impact on crypto</p> <p>(18:48) Bitcoin: resiliency, market cornering, risks, future</p> <p>(22:45) Ethereum, Visa/Mastercard</p> <p>Thanks to our partners for making this happen!</p> <p>OKX - The new way to build your crypto portfolio and use it in daily life. We call it the new money app. <a href=\"https://www.okx.com/\">https://www.okx.com/</a></p> <p>Google Cloud - The next generation of unicorns is building on Google Cloud's industry-leading, fully integrated AI stack: infrastructure, platform, models, agents, and data. <a href=\"https://cloud.google.com/\">https://cloud.google.com/</a></p> <p>IREN - IREN AI Cloud, powered by NVIDIA GPUs, provides the scale, performance, and reliability to accelerate your AI journey. <a href=\"https://iren.com/\">https://iren.com/</a></p> <p>Oracle - Step into the future of enterprise productivity at Oracle AI Experience Live. <a href=\"https://www.oracle.com/artificial-intelligence/data-ai-events/\">https://www.oracle.com/artificial-intelligence/data-ai-events/</a></p> <p>Circle - The America-based company behind USDC — a fully-reserved, enterprise-grade stablecoin at the core of the emerging internet financial system. <a href=\"https://www.circle.com/\">https://www.circle.com/</a></p> <p>BVNK - Building stablecoin-powered financial infrastructure that helps businesses send, store, and spend value instantly, anywhere in the world. <a href=\"https://www.bvnk.com/\">https://www.bvnk.com/</a></p> <p>Polymarket: <a href=\"https://www.polymarket.com/\">https://www.polymarket.com/</a></p> <p>Follow Anatoly:</p> <p><a href=\"https://x.com/aeyakovenko\">https://x.com/aeyakovenko</a></p> <p>Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast discusses the future of crypto with Solana Co-Founder Anatoly Yakovenko, covering topics such as quantum computing, AI, and the potential impact on traditional finance. They also touch on the most exciting crypto verticals outside of finance and the potential risks and future of Bitcoin. The conversation also explores the role of stablecoins and the potential for mass market adoption of crypto.",
+    "takeaways": [
+      {
+        "text": "Crypto adoption is increasing",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Quantum computing poses risks to crypto",
+        "timestamp_seconds": 15
+      },
+      {
+        "text": "AI will impact crypto",
+        "timestamp_seconds": 16
+      },
+      {
+        "text": "Stablecoins are becoming more prominent",
+        "timestamp_seconds": 1
+      },
+      {
+        "text": "Crypto can disrupt traditional finance",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Bitcoin's resiliency is a key factor",
+        "timestamp_seconds": 19
+      },
+      {
+        "text": "Ethereum and Visa/Mastercard are important players",
+        "timestamp_seconds": 23
+      },
+      {
+        "text": "Mass market adoption is crucial for crypto",
+        "timestamp_seconds": 6
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Crypto is the future",
+        "speaker": "Anatoly Yakovenko",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Stablecoins are key",
+        "speaker": "Unknown",
+        "timestamp_seconds": null
+      }
+    ],
+    "topics": [
+      "crypto-adoption",
+      "quantum-computing",
+      "ai-impact",
+      "stablecoins",
+      "traditional-finance",
+      "bitcoin",
+      "ethereum",
+      "mass-market"
+    ],
+    "guests": [
+      "Anatoly Yakovenko"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The conversation is generally positive about the future of crypto, with a focus on its potential to disrupt traditional finance and the importance of stablecoins."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "Introduction of Anatoly Yakovenko"
+      },
+      {
+        "timestamp_seconds": 16,
+        "description": "Discussion of AI's impact on crypto"
+      }
+    ]
+  }
 }

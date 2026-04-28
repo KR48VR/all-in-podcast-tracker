@@ -10,5 +10,89 @@
   "description": "<p>(0:00) Introducing Cleo Abram</p> <p>(1:12) Why YouTube has become the best platform for creators, techno-optimism at Huge If True</p> <p>(8:35) Astrophysicist Alex Filippenko on the James Webb Space Telescope</p> <p>(23:14) Q&amp;A with Alex Filippenko, Cleo, and Friedberg: The universe, Fermi Paradox, black holes, NIH grants and the \"war on science\"</p> <p>(37:37) Zipline CEO Keller Rinaudo Cliffton on the future of drone delivery</p> <p>(53:29) Q&amp;A with Keller Rinaudo Cliffton, Cleo, and Friedberg: Instant delivery explosion, competitors, impact on healthcare</p> <p>Thanks to our partners for making this happen!</p> <p>Solana - Solana is the high performance network powering internet capital markets, payments, and crypto applications. Connect with investors, crypto founders, and entrepreneurs at Solana's global flagship event during Abu Dhabi Finance Week & F1: <a href=\"https://solana.com/breakpoint\">https://solana.com/breakpoint</a></p> <p>OKX - The new way to build your crypto portfolio and use it in daily life. We call it the new money app. <a href=\"https://www.okx.com/\">https://www.okx.com/</a></p> <p>Google Cloud - The next generation of unicorns is building on Google Cloud's industry-leading, fully integrated AI stack: infrastructure, platform, models, agents, and data. <a href=\"https://cloud.google.com/\">https://cloud.google.com/</a></p> <p>IREN - IREN AI Cloud, powered by NVIDIA GPUs, provides the scale, performance, and reliability to accelerate your AI journey. <a href=\"https://iren.com/\">https://iren.com/</a></p> <p>Oracle - Step into the future of enterprise productivity at Oracle AI Experience Live. <a href=\"https://www.oracle.com/artificial-intelligence/data-ai-events/\">https://www.oracle.com/artificial-intelligence/data-ai-events/</a></p> <p>Circle - The America-based company behind USDC — a fully-reserved, enterprise-grade stablecoin at the core of the emerging internet financial system. <a href=\"https://www.circle.com/\">https://www.circle.com/</a></p> <p>BVNK - Building stablecoin-powered financial infrastructure that helps businesses send, store, and spend value instantly, anywhere in the world. <a href=\"https://www.bvnk.com/\">https://www.bvnk.com/</a></p> <p>Polymarket - <a href=\"https://www.polymarket.com/\">https://www.polymarket.com/</a></p> <p>Follow Cleo:</p> <p><a href=\"https://x.com/cleoabram\">https://x.com/cleoabram</a></p> <p><a href=\"https://www.youtube.com/c/CleoAbram\">https://www.youtube.com/c/CleoAbram</a></p> <p>Follow Keller:</p> <p><a href=\"https://x.com/keller\">https://x.com/keller</a></p> <p>Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast features a Science Corner Special with guests Cleo Abram, Alex Filippenko, and Keller Rinaudo Cliffton, discussing topics such as the James Webb Space Telescope, the universe, and drone delivery. The conversation covers various scientific and technological advancements, including the Fermi Paradox and black holes. The episode also explores the future of instant delivery and its potential impact on healthcare.",
+    "takeaways": [
+      {
+        "text": "YouTube is a great platform for creators",
+        "timestamp_seconds": 72
+      },
+      {
+        "text": "James Webb Space Telescope is a powerful tool",
+        "timestamp_seconds": 535
+      },
+      {
+        "text": "Fermi Paradox remains an open question",
+        "timestamp_seconds": 1394
+      },
+      {
+        "text": "Drone delivery is the future of logistics",
+        "timestamp_seconds": 2257
+      },
+      {
+        "text": "Instant delivery can improve healthcare outcomes",
+        "timestamp_seconds": 3209
+      },
+      {
+        "text": "Science is under attack from various fronts",
+        "timestamp_seconds": 1814
+      },
+      {
+        "text": "Techno-optimism is essential for progress",
+        "timestamp_seconds": 112
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Science is under attack",
+        "speaker": "Cleo Abram",
+        "timestamp_seconds": 1814
+      },
+      {
+        "text": "Universe is full of mysteries",
+        "speaker": "Alex Filippenko",
+        "timestamp_seconds": 1394
+      },
+      {
+        "text": "Drones will change logistics",
+        "speaker": "Keller Rinaudo Cliffton",
+        "timestamp_seconds": 2257
+      }
+    ],
+    "topics": [
+      "space-exploration",
+      "drone-delivery",
+      "science-communication",
+      "techno-optimism",
+      "fermi-paradox",
+      "black-holes",
+      "healthcare-innovation",
+      "logistics",
+      "youtube-creators"
+    ],
+    "guests": [
+      "Cleo Abram",
+      "Alex Filippenko",
+      "Keller Rinaudo Cliffton"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The episode has a positive tone, with guests discussing exciting scientific and technological advancements. The hosts and guests express enthusiasm for the potential of these developments to improve various aspects of life."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 8,
+        "description": "Introduction of Alex Filippenko"
+      },
+      {
+        "timestamp_seconds": 37,
+        "description": "Introduction of Keller Rinaudo Cliffton"
+      },
+      {
+        "timestamp_seconds": 53,
+        "description": "Q&A session with Keller Rinaudo Cliffton, Cleo, and Friedberg"
+      }
+    ]
+  }
 }
