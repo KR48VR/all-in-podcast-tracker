@@ -10,5 +10,85 @@
   "description": "<p>(0:00) The Besties welcome Box's Aaron Levie and Flexport's Ryan Petersen!</p> <p>(4:05) Is Sacks back?</p> <p>(8:19) Reflecting on Trump's first 100 days</p> <p>(28:16) Global trade disruption, how businesses are dealing with tariffs</p> <p>(49:14) Amazon flip-flops on its tariff pricing feature, national security issues</p> <p>(1:04:13) AI agents, 1,000,000X'ing AI, and more</p> <p>Follow Aaron Levie:</p> <p><a href=\"https://x.com/levie\">https://x.com/levie</a></p> <p>Follow Ryan Petersen:</p> <p><a href=\"https://x.com/typesfast\">https://x.com/typesfast</a></p> <p>Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://x.com/TheZachEffect\">https://x.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href=\"https://en.wikipedia.org/wiki/OODA_loop\">https://en.wikipedia.org/wiki/OODA_loop</a></p> <p><a href=\"https://www.nbcnews.com/politics/joe-biden/biden-warns-risk-nuclear-armageddon-highest-cuban-missile-crisis-rcna51146\"> https://www.nbcnews.com/politics/joe-biden/biden-warns-risk-nuclear-armageddon-highest-cuban-missile-crisis-rcna51146</a></p> <p><a href=\"https://www.nytimes.com/2025/03/30/world/europe/us-ukraine-military-war-takeaways.html\"> https://www.nytimes.com/2025/03/30/world/europe/us-ukraine-military-war-takeaways.html</a></p> <p><a href=\"https://x.com/Molson_Hart/status/1915248938753392642\">https://x.com/Molson_Hart/status/1915248938753392642</a></p> <p><a href=\"https://x.com/SecScottBessent/status/1917697018551754802\">https://x.com/SecScottBessent/status/1917697018551754802</a></p> <p><a href=\"https://www.nytimes.com/2025/04/29/us/politics/trump-amazon-tariffs-prices.html\"> https://www.nytimes.com/2025/04/29/us/politics/trump-amazon-tariffs-prices.html</a></p> <p><a href=\"https://x.com/chamath/status/1908239828283777393\">https://x.com/chamath/status/1908239828283777393</a></p> <p><a href=\"https://www.theinformation.com/articles/openai-plots-charging-20-000-a-month-for-phd-level-agents?rc=pxkrxo\"> https://www.theinformation.com/articles/openai-plots-charging-20-000-a-month-for-phd-level-agents?rc=pxkrxo</a></p> <p><a href=\"https://manus.im\">https://manus.im</a></p> <p><a href=\"https://www.theinformation.com/briefings/benchmark-invests-chinese-startup-behind-manus-ai-agent?rc=pxkrxo\"> https://www.theinformation.com/briefings/benchmark-invests-chinese-startup-behind-manus-ai-agent?rc=pxkrxo</a></p> <p><a href=\"https://polymarket.com/event/which-company-has-best-ai-model-end-of-2025?tid=1746130417369\"> https://polymarket.com/event/which-company-has-best-ai-model-end-of-2025?tid=1746130417369</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast discusses Trump's first 100 days, the impact of tariffs on global trade, and the development of AI agents. Guests Aaron Levie and Ryan Petersen join the conversation. The episode also covers Amazon's reversal on its tariff pricing feature and national security concerns.",
+    "takeaways": [
+      {
+        "text": "Tariffs disrupt global trade",
+        "timestamp_seconds": 28
+      },
+      {
+        "text": "AI agents are becoming more powerful",
+        "timestamp_seconds": 64
+      },
+      {
+        "text": "Amazon flip-flops on tariff pricing",
+        "timestamp_seconds": 49
+      },
+      {
+        "text": "Businesses struggle with trade uncertainty",
+        "timestamp_seconds": 28
+      },
+      {
+        "text": "AI development is accelerating",
+        "timestamp_seconds": 64
+      },
+      {
+        "text": "National security is a concern with AI",
+        "timestamp_seconds": 64
+      },
+      {
+        "text": "Trump's policies impact trade and business",
+        "timestamp_seconds": 8
+      },
+      {
+        "text": "AI has the potential to be 1,000,000X more powerful",
+        "timestamp_seconds": 64
+      }
+    ],
+    "quotes": [
+      {
+        "text": "1,000,000X",
+        "speaker": "Unknown",
+        "timestamp_seconds": 64
+      }
+    ],
+    "topics": [
+      "trump-administration",
+      "tariffs",
+      "global-trade",
+      "ai-agents",
+      "amazon",
+      "national-security",
+      "ai-safety",
+      "business-uncertainty"
+    ],
+    "guests": [
+      "Aaron Levie",
+      "Ryan Petersen"
+    ],
+    "sentiment": {
+      "overall": "cautious",
+      "notes": "The hosts and guests express concern about the impact of tariffs and the rapid development of AI agents on global trade and national security."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 8,
+        "description": "Discussion of Trump's first 100 days"
+      },
+      {
+        "timestamp_seconds": 28,
+        "description": "Global trade disruption and tariffs"
+      },
+      {
+        "timestamp_seconds": 49,
+        "description": "Amazon's reversal on tariff pricing"
+      },
+      {
+        "timestamp_seconds": 64,
+        "description": "AI agents and their potential impact"
+      }
+    ]
+  }
 }

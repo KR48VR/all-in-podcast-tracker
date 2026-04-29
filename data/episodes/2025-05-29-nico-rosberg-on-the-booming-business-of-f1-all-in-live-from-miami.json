@@ -10,5 +10,85 @@
   "description": "<p>(0:00) The Besties welcome Nico Rosberg!</p> <p>(0:27) Nico's history with F1, what makes a great driver</p> <p>(6:24) The business of F1</p> <p>(10:05) Teammate rivalries, why \"Drive to Survive\" works, future growth</p> <p>(16:48) Post-F1 career, best angel investments, becoming a VC</p> <p>(22:16) Partner shoutouts: Thanks to OKX, Circle, Polymarket, Solana, BVNK, and Google Cloud!</p> <p>Check out OKX: <a href=\"https://www.okx.com\">https://www.okx.com</a></p> <p>Check out Circle: <a href=\"https://www.circle.com\">https://www.circle.com</a></p> <p>Follow Nico:</p> <p><a href=\"https://x.com/nicorosberg\">https://x.com/nicorosberg</a></p> <p>Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://x.com/TheZachEffect\">https://x.com/TheZachEffect</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast welcomes Nico Rosberg to discuss his history with F1, the business of F1, and his post-F1 career as an angel investor and VC. They also touch on teammate rivalries and the success of 'Drive to Survive'. Nico shares his insights on what makes a great driver and the future growth of F1.",
+    "takeaways": [
+      {
+        "text": "F1 is a booming business",
+        "timestamp_seconds": 6
+      },
+      {
+        "text": "Teammate rivalries drive F1 success",
+        "timestamp_seconds": 10
+      },
+      {
+        "text": "Nico Rosberg is now a VC",
+        "timestamp_seconds": 16
+      },
+      {
+        "text": "F1 has a strong future growth potential",
+        "timestamp_seconds": 10
+      },
+      {
+        "text": "Great drivers need a combination of skills",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "Drive to Survive helps F1's popularity",
+        "timestamp_seconds": 10
+      },
+      {
+        "text": "Nico Rosberg has made successful angel investments",
+        "timestamp_seconds": 16
+      },
+      {
+        "text": "F1 business model is complex",
+        "timestamp_seconds": 6
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Drive to Survive works",
+        "speaker": "Nico Rosberg",
+        "timestamp_seconds": 10
+      },
+      {
+        "text": "F1 is booming",
+        "speaker": "Nico Rosberg",
+        "timestamp_seconds": 6
+      }
+    ],
+    "topics": [
+      "f1",
+      "formula-one",
+      "racing",
+      "business-of-sports",
+      "venture-capital",
+      "angel-investing",
+      "sports-marketing",
+      "entertainment"
+    ],
+    "guests": [
+      "Nico Rosberg"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The conversation is upbeat and enthusiastic, with a focus on the growth and success of F1 and Nico Rosberg's career."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "Nico Rosberg is introduced"
+      },
+      {
+        "timestamp_seconds": 10,
+        "description": "Discussion on teammate rivalries and Drive to Survive"
+      },
+      {
+        "timestamp_seconds": 16,
+        "description": "Nico Rosberg talks about his post-F1 career"
+      }
+    ]
+  }
 }

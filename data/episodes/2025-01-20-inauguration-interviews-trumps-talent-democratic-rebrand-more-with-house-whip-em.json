@@ -12,5 +12,92 @@
     "House Whip Emmer"
   ],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast features interviews with House Whip Tom Emmer, Reps Eric Swalwell, and Ro Khanna, discussing Trump's political talent, Democratic rebranding, and more. The conversations cover various topics, including immigration, party reform, and the role of social media. The guests share their insights on the current state of politics and potential solutions for the Democratic party.",
+    "takeaways": [
+      {
+        "text": "Trump has political talent",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "Democrats need rebranding",
+        "timestamp_seconds": 33
+      },
+      {
+        "text": "Immigration is a key issue",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "Party reform is necessary",
+        "timestamp_seconds": 33
+      },
+      {
+        "text": "Social media plays a significant role",
+        "timestamp_seconds": 33
+      },
+      {
+        "text": "California leadership is important",
+        "timestamp_seconds": 4081
+      },
+      {
+        "text": "TikTok ban is a topic of discussion",
+        "timestamp_seconds": 33
+      },
+      {
+        "text": "Bob Iger as LA Mayor is a possibility",
+        "timestamp_seconds": 4081
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Trump's talent",
+        "speaker": "House Whip Tom Emmer",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "Rebranding needed",
+        "speaker": "Rep. Eric Swalwell",
+        "timestamp_seconds": 33
+      },
+      {
+        "text": "Reform necessary",
+        "speaker": "Rep. Ro Khanna",
+        "timestamp_seconds": 4081
+      }
+    ],
+    "topics": [
+      "politics",
+      "democratic-party",
+      "republican-party",
+      "trump",
+      "immigration",
+      "social-media",
+      "california-leadership",
+      "tiktok-ban"
+    ],
+    "guests": [
+      "House Whip Tom Emmer",
+      "Rep. Eric Swalwell",
+      "Rep. Ro Khanna"
+    ],
+    "sentiment": {
+      "overall": "mixed",
+      "notes": "The mood is mixed, with discussions on both positive and negative aspects of politics and the Democratic party. The guests share their concerns and potential solutions, creating a neutral atmosphere."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "House Whip Tom Emmer discusses Trump's political talent"
+      },
+      {
+        "timestamp_seconds": 33,
+        "description": "Rep. Eric Swalwell talks about Democratic rebranding"
+      },
+      {
+        "timestamp_seconds": 4081,
+        "description": "Rep. Ro Khanna discusses reforming the Democratic party"
+      }
+    ]
+  }
 }

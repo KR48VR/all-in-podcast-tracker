@@ -12,5 +12,81 @@
     "Coinbase CEO Brian Armstrong"
   ],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The episode covers the FTX collapse, election results, macroeconomic updates, and more with Coinbase CEO Brian Armstrong. The hosts discuss the red flags exhibited by Sam Bankman-Fried and FTX, and the potential contagion risk. They also touch on the macroeconomic picture and provide advice for founders.",
+    "takeaways": [
+      {
+        "text": "FTX collapse has whiffs of Enron-like scandal",
+        "timestamp_seconds": 43
+      },
+      {
+        "text": "Red flags exhibited by Sam Bankman-Fried and FTX",
+        "timestamp_seconds": 43
+      },
+      {
+        "text": "Lack of governance and diligence at FTX",
+        "timestamp_seconds": 43
+      },
+      {
+        "text": "Lower than expected CPI print catalyzes market tear",
+        "timestamp_seconds": 3960
+      },
+      {
+        "text": "Founders should be cautious of market volatility",
+        "timestamp_seconds": 3960
+      },
+      {
+        "text": "Regulation is needed to prevent similar collapses",
+        "timestamp_seconds": 1247
+      },
+      {
+        "text": "Republican party flips from Trump to DeSantis",
+        "timestamp_seconds": 380
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Red wave falls flat",
+        "speaker": "Unknown",
+        "timestamp_seconds": 380
+      },
+      {
+        "text": "Regulation is key",
+        "speaker": "Brian Armstrong",
+        "timestamp_seconds": 1247
+      }
+    ],
+    "topics": [
+      "ftx-collapse",
+      "election-results",
+      "macroeconomics",
+      "regulation",
+      "governance",
+      "market-volatility",
+      "cryptocurrency",
+      "politics"
+    ],
+    "guests": [
+      "Brian Armstrong"
+    ],
+    "sentiment": {
+      "overall": "cautious",
+      "notes": "The hosts are cautious about the market and the potential contagion risk, but also optimistic about the potential for regulation to prevent similar collapses."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 20,
+        "description": "Coinbase CEO Brian Armstrong joins the show"
+      },
+      {
+        "timestamp_seconds": 380,
+        "description": "Election recap: Red wave falls flat"
+      },
+      {
+        "timestamp_seconds": 1247,
+        "description": "Brian Armstrong discusses FTX collapse and regulation"
+      }
+    ]
+  }
 }

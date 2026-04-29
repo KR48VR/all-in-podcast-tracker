@@ -12,5 +12,97 @@
     "Ben Shapiro"
   ],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast discusses Trump's recent Middle East trip, the US-China deal, and the 'Big, Beautiful Bill' with guest Ben Shapiro. They also cover Trump's executive order on pharma prices and the ban on cell-based meat in Montana. The episode touches on various topics, including foreign policy, trade, and government intervention in the economy.",
+    "takeaways": [
+      {
+        "text": "Trump's Middle East trip was consequential",
+        "timestamp_seconds": 458
+      },
+      {
+        "text": "US-China deal may turn the tide on tariffs",
+        "timestamp_seconds": 2118
+      },
+      {
+        "text": "GOP is divided over the 'Big, Beautiful Bill'",
+        "timestamp_seconds": 2793
+      },
+      {
+        "text": "Trump's EO on pharma prices aims to lower drug prices",
+        "timestamp_seconds": 4451
+      },
+      {
+        "text": "Montana bans cell-based meat",
+        "timestamp_seconds": 7098
+      },
+      {
+        "text": "Government intervention in the economy is a concern",
+        "timestamp_seconds": 8148
+      },
+      {
+        "text": "The US debt spiral is a major issue",
+        "timestamp_seconds": 2793
+      },
+      {
+        "text": "Foreign policy and trade are interconnected",
+        "timestamp_seconds": 2118
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Big, Beautiful Bill",
+        "speaker": "Ben Shapiro",
+        "timestamp_seconds": 2793
+      },
+      {
+        "text": "New Middle East",
+        "speaker": "Unknown",
+        "timestamp_seconds": 478
+      }
+    ],
+    "topics": [
+      "middle-east-politics",
+      "us-china-relations",
+      "trade-deals",
+      "government-intervention",
+      "pharma-prices",
+      "cell-based-meat",
+      "us-debt",
+      "foreign-policy"
+    ],
+    "guests": [
+      "Ben Shapiro"
+    ],
+    "sentiment": {
+      "overall": "mixed",
+      "notes": "The episode has a mixed sentiment, with both optimistic and cautious views on Trump's policies and their impact on the economy and foreign relations."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "Ben Shapiro joins the podcast"
+      },
+      {
+        "timestamp_seconds": 458,
+        "description": "Discussion on Trump's Middle East trip"
+      },
+      {
+        "timestamp_seconds": 2118,
+        "description": "US-China deal discussion"
+      },
+      {
+        "timestamp_seconds": 2793,
+        "description": "GOP division over the 'Big, Beautiful Bill'"
+      },
+      {
+        "timestamp_seconds": 4451,
+        "description": "Trump's EO on pharma prices"
+      },
+      {
+        "timestamp_seconds": 7098,
+        "description": "Montana bans cell-based meat"
+      }
+    ]
+  }
 }
