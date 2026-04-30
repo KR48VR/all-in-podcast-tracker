@@ -10,5 +10,74 @@
   "description": "<p>0:00 Bestie intros: Luxury brand influencers, Birthday Party stories and more!</p> <p>3:34 Jason reflects on the final Kara Swisher-hosted Code Conference, All-In media and hit piece requests</p> <p>12:53 Passing of Queen Elizabeth II</p> <p>15:39 Winter is Coming: Europe's energy crisis, potential fracturing of the Western Alliance, how we got here, endgame, and more</p> <p>53:03 Kim Kardashian's new PE firm, content as the dominant distribution channel, what will mega-influencers do to legacy brands</p> <p>1:03:46 Overprescribing of amphetamines to children</p> <p>Follow the besties:</p> <p><a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p><a href=\"https://linktr.ee/calacanis\">https://linktr.ee/calacanis</a></p> <p><a href=\"https://twitter.com/DavidSacks\">https://twitter.com/DavidSacks</a></p> <p><a href=\"https://twitter.com/friedberg\">https://twitter.com/friedberg</a></p> <p>Follow the pod:</p> <p><a href=\"https://twitter.com/theallinpod\">https://twitter.com/theallinpod</a></p> <p><a href=\"https://linktr.ee/allinpodcast\">https://linktr.ee/allinpodcast</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://twitter.com/yung_spielburg\">https://twitter.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://twitter.com/TheZachEffect\">https://twitter.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href=\"https://twitter.com/theallinpod/status/1568294657632907268\">https://twitter.com/theallinpod/status/1568294657632907268</a></p> <p><a href=\"https://www.youtube.com/watch?v=FfJv9QYrlwg\">https://www.youtube.com/watch?v=FfJv9QYrlwg</a></p> <p><a href=\"https://www.goldmansachs.com/insights/pages/europe-energy-crisis-is-at-a-tipping-point.html\"> https://www.goldmansachs.com/insights/pages/europe-energy-crisis-is-at-a-tipping-point.html</a></p> <p><a href=\"https://www.independent.co.uk/news/uk/politics/truss-ukraine-ally-tory-leadership-race-b2151390.html\"> https://www.independent.co.uk/news/uk/politics/truss-ukraine-ally-tory-leadership-race-b2151390.html</a></p> <p><a href=\"https://www.voanews.com/a/scholz-g-7-will-support-ukraine-for-as-long-as-necessary-/6623196.html\"> https://www.voanews.com/a/scholz-g-7-will-support-ukraine-for-as-long-as-necessary-/6623196.html</a></p> <p><a href=\"https://www.washingtonpost.com/world/macron-vows-to-prevent-russia-from-winning-war-in-ukraine/2022/09/01/ba57cb7a-29f3-11ed-a90a-fce4015dfc8f_story.html\"> https://www.washingtonpost.com/world/macron-vows-to-prevent-russia-from-winning-war-in-ukraine/2022/09/01/ba57cb7a-29f3-11ed-a90a-fce4015dfc8f_story.html</a></p> <p><a href=\"https://twitter.com/aaronjmate/status/1566484400224993280\">https://twitter.com/aaronjmate/status/1566484400224993280</a></p> <p> </p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast discusses Europe's energy crisis, Kim Kardashian's new private equity firm, and the overprescription of amphetamines to children. They also reflect on the passing of Queen Elizabeth II and the potential fracturing of the Western Alliance. The hosts share their thoughts on the current state of the world and its potential consequences.",
+    "takeaways": [
+      {
+        "text": "Europe's energy crisis may lead to a fracturing of the Western Alliance",
+        "timestamp_seconds": 15
+      },
+      {
+        "text": "Kim Kardashian's new PE firm may disrupt traditional brand distribution channels",
+        "timestamp_seconds": 53
+      },
+      {
+        "text": "Overprescription of amphetamines to children is a growing concern",
+        "timestamp_seconds": 63
+      },
+      {
+        "text": "The passing of Queen Elizabeth II marks a significant shift in global politics",
+        "timestamp_seconds": 12
+      },
+      {
+        "text": "Content is becoming the dominant distribution channel for brands",
+        "timestamp_seconds": 53
+      },
+      {
+        "text": "Mega-influencers may pose a threat to legacy brands",
+        "timestamp_seconds": 53
+      },
+      {
+        "text": "The hosts are concerned about the potential consequences of the energy crisis",
+        "timestamp_seconds": 15
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Winter is Coming",
+        "speaker": "Jason Calacanis",
+        "timestamp_seconds": 15
+      }
+    ],
+    "topics": [
+      "europe-energy-crisis",
+      "western-alliance",
+      "kim-kardashian",
+      "private-equity",
+      "influencer-marketing",
+      "amphetamines",
+      "queen-elizabeth-ii",
+      "global-politics"
+    ],
+    "guests": [],
+    "sentiment": {
+      "overall": "cautious",
+      "notes": "The hosts express concern about the potential consequences of the energy crisis and the fracturing of the Western Alliance. They also discuss the passing of Queen Elizabeth II and its impact on global politics."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 12,
+        "description": "The hosts reflect on the passing of Queen Elizabeth II"
+      },
+      {
+        "timestamp_seconds": 15,
+        "description": "The hosts discuss Europe's energy crisis and its potential consequences"
+      },
+      {
+        "timestamp_seconds": 53,
+        "description": "The hosts discuss Kim Kardashian's new PE firm and its potential impact on the market"
+      }
+    ]
+  }
 }

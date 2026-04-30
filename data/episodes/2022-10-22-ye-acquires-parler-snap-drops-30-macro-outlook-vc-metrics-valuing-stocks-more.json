@@ -10,5 +10,82 @@
   "description": "<p>(0:00) Bestie intros: Brad Gerstner joins in place of Sacks, and brigadoons!</p> <p>(2:02) Ye's current situation and acquisition of Parler</p> <p>(14:17) Snap drops ~30%, corporate misgovernance, super-voting shares</p> <p>(32:53) Macro outlook, Stability AI $101M fundraise, VC fund metrics</p> <p>(1:05:38) The difficulty of active stock picking and valuing businesses</p> <p>(1:21:38) Lyft vs Gavin Newsom on Prop 30, PSA from Chamath</p> <p>Follow the besties:</p> <p><a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p><a href=\"https://linktr.ee/calacanis\">https://linktr.ee/calacanis</a></p> <p><a href=\"https://twitter.com/DavidSacks\">https://twitter.com/DavidSacks</a></p> <p><a href=\"https://twitter.com/friedberg\">https://twitter.com/friedberg</a></p> <p>Follow the pod:</p> <p><a href=\"https://twitter.com/theallinpod\">https://twitter.com/theallinpod</a></p> <p><a href=\"https://linktr.ee/allinpodcast\">https://linktr.ee/allinpodcast</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://twitter.com/yung_spielburg\">https://twitter.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://twitter.com/TheZachEffect\">https://twitter.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href=\"https://www.google.com/finance/quote/SNAP:NYSE\">https://www.google.com/finance/quote/SNAP:NYSE</a></p> <p><a href=\"https://www.statista.com/statistics/545967/snapchat-app-dau\">https://www.statista.com/statistics/545967/snapchat-app-dau</a></p> <p><a href=\"https://www.washingtonpost.com/technology/2022/10/20/musk-twitter-acquisition-staff-cuts\"> https://www.washingtonpost.com/technology/2022/10/20/musk-twitter-acquisition-staff-cuts</a></p> <p><a href=\"https://www.bloomberg.com/news/articles/2022-10-17/digital-media-firm-stability-ai-raises-funds-at-1-billion-value\"> https://www.bloomberg.com/news/articles/2022-10-17/digital-media-firm-stability-ai-raises-funds-at-1-billion-value</a></p> <p><a href=\"https://twitter.com/elonmusk/status/1520643441994387456\">https://twitter.com/elonmusk/status/1520643441994387456</a></p> <p><a href=\"https://www.wsj.com/articles/lyft-battles-gavin-newsom-over-california-measure-to-fund-evs-11665864256\"> https://www.wsj.com/articles/lyft-battles-gavin-newsom-over-california-measure-to-fund-evs-11665864256</a></p> <p><a href=\"https://voterguide.sos.ca.gov/propositions/30\">https://voterguide.sos.ca.gov/propositions/30</a></p> <p><a href=\"https://fred.stlouisfed.org/series/GFDEGDQ188S\">https://fred.stlouisfed.org/series/GFDEGDQ188S</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The episode covers Ye's acquisition of Parler, Snap's 30% drop, macro outlook, VC metrics, and valuing stocks. The hosts also discuss the difficulty of active stock picking and Lyft vs Gavin Newsom on Prop 30. Brad Gerstner joins the podcast in place of David Sacks.",
+    "takeaways": [
+      {
+        "text": "Ye acquires Parler",
+        "timestamp_seconds": 2
+      },
+      {
+        "text": "Snap drops 30% due to corporate misgovernance",
+        "timestamp_seconds": 14
+      },
+      {
+        "text": "Stability AI raises $101M fund",
+        "timestamp_seconds": 32
+      },
+      {
+        "text": "Active stock picking is difficult",
+        "timestamp_seconds": 65
+      },
+      {
+        "text": "Lyft battles Gavin Newsom over Prop 30",
+        "timestamp_seconds": 81
+      },
+      {
+        "text": "VC fund metrics are important",
+        "timestamp_seconds": 33
+      },
+      {
+        "text": "Valuing businesses is challenging",
+        "timestamp_seconds": 66
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Be careful",
+        "speaker": "Chamath",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Stay vigilant",
+        "speaker": "Jason Calacanis",
+        "timestamp_seconds": null
+      }
+    ],
+    "topics": [
+      "ye-acquisition",
+      "snap-drop",
+      "macro-outlook",
+      "vc-metrics",
+      "stock-picking",
+      "lyft-vs-newsom",
+      "parler-acquisition",
+      "stability-ai",
+      "prop-30"
+    ],
+    "guests": [
+      "Brad Gerstner"
+    ],
+    "sentiment": {
+      "overall": "cautious",
+      "notes": "The hosts express caution about the market and the challenges of active stock picking. They also discuss the difficulties of valuing businesses and the importance of VC fund metrics."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 2,
+        "description": "Ye acquires Parler"
+      },
+      {
+        "timestamp_seconds": 14,
+        "description": "Snap drops 30%"
+      },
+      {
+        "timestamp_seconds": 32,
+        "description": "Stability AI raises $101M fund"
+      }
+    ]
+  }
 }

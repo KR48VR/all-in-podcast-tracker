@@ -10,5 +10,88 @@
   "description": "<p>0:00 Bestie intros</p> <p>3:02 Where Masa and SoftBank went wrong, why VC isn't scaleable, Vision Fund impact</p> <p>27:59 Metrics that signify a bubble or the top of a market</p> <p>36:46 US macroeconomic picture</p> <p>50:45 FBI raids Mar-a-Lago, Trump back in news</p> <p>Follow the besties:</p> <p><a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p><a href=\"https://linktr.ee/calacanis\">https://linktr.ee/calacanis</a></p> <p><a href=\"https://twitter.com/DavidSacks\">https://twitter.com/DavidSacks</a></p> <p><a href=\"https://twitter.com/friedberg\">https://twitter.com/friedberg</a></p> <p>Follow the pod:</p> <p><a href=\"https://twitter.com/theallinpod\">https://twitter.com/theallinpod</a></p> <p><a href=\"https://linktr.ee/allinpodcast\">https://linktr.ee/allinpodcast</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://twitter.com/yung_spielburg\">https://twitter.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://twitter.com/TheZachEffect\">https://twitter.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href=\"https://group.softbank/system/files/pdf/ir/presentations/2022/earnings-presentation_q1fy2022_01_en.pdf\"> https://group.softbank/system/files/pdf/ir/presentations/2022/earnings-presentation_q1fy2022_01_en.pdf</a></p> <p><a href=\"https://www.wsj.com/articles/softbank-reports-23-billion-quarterly-loss-as-tech-downturn-hits-11659940047\"> https://www.wsj.com/articles/softbank-reports-23-billion-quarterly-loss-as-tech-downturn-hits-11659940047</a></p> <p><a href=\"https://cloudedjudgement.substack.com/p/clouded-judgement-81222\">https://cloudedjudgement.substack.com/p/clouded-judgement-81222</a></p> <p><a href=\"https://www.wsj.com/articles/u-s-housing-affordability-in-june-was-the-worst-since-1989-11660312801\"> https://www.wsj.com/articles/u-s-housing-affordability-in-june-was-the-worst-since-1989-11660312801</a></p> <p><a href=\"https://fred.stlouisfed.org/series/FIXHAI\">https://fred.stlouisfed.org/series/FIXHAI</a></p> <p><a href=\"https://www.newyorkfed.org/microeconomics/hhdc\">https://www.newyorkfed.org/microeconomics/hhdc</a></p> <p><a href=\"https://twitter.com/AndrewYang/status/1556987104219090945\">https://twitter.com/AndrewYang/status/1556987104219090945</a></p> <p><a href=\"https://twitter.com/andrewcuomo/status/1556990308424028163\">https://twitter.com/andrewcuomo/status/1556990308424028163</a></p> <p><a href=\"https://twitter.com/elonmusk/status/1546669610509799424\">https://twitter.com/elonmusk/status/1546669610509799424</a></p> <p><a href=\"https://twitter.com/michaeljburry/status/1557934401505308672\">https://twitter.com/michaeljburry/status/1557934401505308672</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The episode discusses SoftBank's $21B+ Vision Fund loss, signals of a bubble, the US macroeconomic picture, and the FBI raid on Mar-a-Lago. The hosts analyze the implications of these events and their potential impact on the market. They also touch on the topic of venture capital and its limitations.",
+    "takeaways": [
+      {
+        "text": "SoftBank's Vision Fund loss is a sign of a bubble",
+        "timestamp_seconds": 3
+      },
+      {
+        "text": "VC isn't scaleable",
+        "timestamp_seconds": 3
+      },
+      {
+        "text": "US macroeconomic picture is uncertain",
+        "timestamp_seconds": 36
+      },
+      {
+        "text": "FBI raid on Mar-a-Lago is a significant event",
+        "timestamp_seconds": 50
+      },
+      {
+        "text": "Housing affordability is at its worst since 1989",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Market metrics signify a potential bubble",
+        "timestamp_seconds": 27
+      },
+      {
+        "text": "Trump is back in the news",
+        "timestamp_seconds": 50
+      },
+      {
+        "text": "The hosts discuss the limitations of venture capital",
+        "timestamp_seconds": 3
+      }
+    ],
+    "quotes": [
+      {
+        "text": "VC isn't scaleable",
+        "speaker": "Unknown",
+        "timestamp_seconds": 3
+      },
+      {
+        "text": "Bubble or top of market",
+        "speaker": "Unknown",
+        "timestamp_seconds": 27
+      }
+    ],
+    "topics": [
+      "softbank",
+      "vision-fund",
+      "venture-capital",
+      "macroeconomics",
+      "us-economy",
+      "fbi-raid",
+      "trump",
+      "housing-affordability",
+      "market-bubble"
+    ],
+    "guests": [],
+    "sentiment": {
+      "overall": "cautious",
+      "notes": "The hosts are cautious about the market and the implications of the events discussed. They analyze the potential risks and uncertainties."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 3,
+        "description": "Discussion of SoftBank's Vision Fund loss"
+      },
+      {
+        "timestamp_seconds": 27,
+        "description": "Analysis of market metrics signifying a bubble"
+      },
+      {
+        "timestamp_seconds": 36,
+        "description": "US macroeconomic picture discussion"
+      },
+      {
+        "timestamp_seconds": 50,
+        "description": "FBI raid on Mar-a-Lago discussion"
+      }
+    ]
+  }
 }

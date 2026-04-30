@@ -10,5 +10,75 @@
   "description": "<p>0:00 Bestie intro!</p> <p>0:59 Adobe agrees to acquire Figma for $20B</p> <p>19:21 How Adobe might bundle Figma, regulatory implications</p> <p>38:59 Analyzing Google's \"one off\" acquisition of YouTube</p> <p>49:33 Friedberg breaks down the latest TPB SPAC news</p> <p>1:00:37 Pfizer sued for Title VI violation, substantial legislation change in 2022</p> <p>1:05:07 FedEx drops after CEO says we're in a global recession, Russia/Ukraine update, UN chimes in on global famine</p> <p>Follow the besties:</p> <p><a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p><a href=\"https://linktr.ee/calacanis\">https://linktr.ee/calacanis</a></p> <p><a href=\"https://twitter.com/DavidSacks\">https://twitter.com/DavidSacks</a></p> <p><a href=\"https://twitter.com/friedberg\">https://twitter.com/friedberg</a></p> <p>Follow the pod:</p> <p><a href=\"https://twitter.com/theallinpod\">https://twitter.com/theallinpod</a></p> <p><a href=\"https://linktr.ee/allinpodcast\">https://linktr.ee/allinpodcast</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://twitter.com/yung_spielburg\">https://twitter.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://twitter.com/TheZachEffect\">https://twitter.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href=\"https://www.google.com/finance/quote/ADBE:NASDAQ\">https://www.google.com/finance/quote/ADBE:NASDAQ</a></p> <p><a href=\"https://www.figma.com/blog/a-new-collaboration-with-adobe\">https://www.figma.com/blog/a-new-collaboration-with-adobe</a></p> <p><a href=\"https://www.cnbc.com/2022/09/15/fedex-ceo-says-he-expects-the-economy-to-enter-a-worldwide-recession.html\"> https://www.cnbc.com/2022/09/15/fedex-ceo-says-he-expects-the-economy-to-enter-a-worldwide-recession.html</a></p> <p><a href=\"https://justthenews.com/government/courts-law/pfizer-sued-racial-bias-over-minorities-only-fellowship\"> https://justthenews.com/government/courts-law/pfizer-sued-racial-bias-over-minorities-only-fellowship</a></p> <p><a href=\"https://twitter.com/LizAnnSonders/status/1570711614277419009\">https://twitter.com/LizAnnSonders/status/1570711614277419009</a></p> <p><a href=\"https://www.nytimes.com/2022/09/13/us/politics/ukraine-russia-pentagon.html\"> https://www.nytimes.com/2022/09/13/us/politics/ukraine-russia-pentagon.html</a></p> <p><a href=\"https://www.reuters.com/world/asia-pacific/exclusive-war-began-putin-rejected-ukraine-peace-deal-recommended-by-his-aide-2022-09-14/\"> https://www.reuters.com/world/asia-pacific/exclusive-war-began-putin-rejected-ukraine-peace-deal-recommended-by-his-aide-2022-09-14/</a></p> <p><a href=\"https://www.axios.com/2022/09/16/un-345-million-starvation-risk-ukraine-war-worsens-crisis\"> https://www.axios.com/2022/09/16/un-345-million-starvation-risk-ukraine-war-worsens-crisis</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast discusses Adobe's $20B acquisition of Figma, regulatory implications, and macroeconomic trends. They also analyze Google's acquisition of YouTube and break down the latest TPB SPAC news. Additionally, they touch on FedEx's recession warning and global famine concerns.",
+    "takeaways": [
+      {
+        "text": "Adobe acquires Figma for $20B",
+        "timestamp_seconds": 59
+      },
+      {
+        "text": "Regulatory implications of the acquisition",
+        "timestamp_seconds": 121
+      },
+      {
+        "text": "Google's YouTube acquisition was a 'one off'",
+        "timestamp_seconds": 389
+      },
+      {
+        "text": "TPB SPAC news analysis",
+        "timestamp_seconds": 493
+      },
+      {
+        "text": "FedEx CEO warns of global recession",
+        "timestamp_seconds": 3727
+      },
+      {
+        "text": "Pfizer sued for Title VI violation",
+        "timestamp_seconds": 3037
+      },
+      {
+        "text": "Global famine concerns due to Ukraine war",
+        "timestamp_seconds": 3767
+      }
+    ],
+    "quotes": [
+      {
+        "text": "We're in a global recession",
+        "speaker": "Unknown",
+        "timestamp_seconds": 3727
+      },
+      {
+        "text": "Substantial legislation change",
+        "speaker": "Unknown",
+        "timestamp_seconds": 3037
+      }
+    ],
+    "topics": [
+      "adobe-acquisition",
+      "figma",
+      "regulatory-implications",
+      "macroeconomics",
+      "recession",
+      "global-famine",
+      "ukraine-war",
+      "spac-news"
+    ],
+    "guests": [],
+    "sentiment": {
+      "overall": "cautious",
+      "notes": "The hosts discuss recession warnings and global famine concerns, indicating a cautious tone. However, they also analyze significant acquisitions and SPAC news, showing a mix of optimism and caution."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 59,
+        "description": "Adobe acquires Figma for $20B"
+      },
+      {
+        "timestamp_seconds": 3727,
+        "description": "FedEx CEO warns of global recession"
+      }
+    ]
+  }
 }
