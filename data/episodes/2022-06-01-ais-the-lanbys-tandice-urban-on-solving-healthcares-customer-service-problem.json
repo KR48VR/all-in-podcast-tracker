@@ -10,5 +10,74 @@
   "description": "<p>This talk was recorded LIVE at the All-In Summit in Miami and included slides. To watch on YouTube, check out our All-In Summit playlist: <a href=\"https://bit.ly/aisytplaylist\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://bit.ly/aisytplaylist</a></p> <p>0:00 The Lanby's Tandice Urban breaks down why healthcare has a customer service problem, and how to fix it</p> <p>12:28 Bestie Q&amp;A: changing American's perspective on healthcare, opportunity for DTC health brands, why is medical spend at all-time highs while avg lifespan has flatlined/slightly decreased? </p> <p>Follow The Lanby:</p> <p><a href=\"https://twitter.com/thelanby\">https://twitter.com/thelanby</a></p> <p>Follow the besties:</p> <p><a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p><a href=\"https://linktr.ee/calacanis\">https://linktr.ee/calacanis</a></p> <p><a href=\"https://twitter.com/DavidSacks\">https://twitter.com/DavidSacks</a></p> <p><a href=\"https://twitter.com/friedberg\">https://twitter.com/friedberg</a></p> <p>Follow the pod:</p> <p><a href=\"https://twitter.com/theallinpod\">https://twitter.com/theallinpod</a></p> <p><a href=\"https://linktr.ee/allinpodcast\">https://linktr.ee/allinpodcast</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://twitter.com/yung_spielburg\">https://twitter.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://twitter.com/TheZachEffect\">https://twitter.com/TheZachEffect</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The Lanby's Tandice Urban discusses healthcare's customer service problem and potential solutions. The conversation also covers changing American perspectives on healthcare and the opportunity for DTC health brands. The episode was recorded live at the All-In Summit in Miami.",
+    "takeaways": [
+      {
+        "text": "Healthcare has a customer service problem",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "DTC health brands have opportunities",
+        "timestamp_seconds": 12
+      },
+      {
+        "text": "Medical spend is at all-time highs",
+        "timestamp_seconds": 12
+      },
+      {
+        "text": "Average lifespan has flatlined or decreased",
+        "timestamp_seconds": 12
+      },
+      {
+        "text": "Changing American perspectives on healthcare is key",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Solving customer service issues can improve healthcare",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Healthcare brands need to focus on customer experience",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Technology can help improve healthcare customer service",
+        "timestamp_seconds": null
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Healthcare customer service is broken",
+        "speaker": "Tandice Urban",
+        "timestamp_seconds": 0
+      }
+    ],
+    "topics": [
+      "healthcare",
+      "customer-service",
+      "dtc-brands",
+      "medical-spend",
+      "lifespan",
+      "healthcare-technology"
+    ],
+    "guests": [
+      "Tandice Urban"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The conversation is focused on solving problems and improving healthcare, indicating an optimistic tone. The discussion on opportunities for DTC health brands also contributes to the positive sentiment."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "Tandice Urban introduces the topic of healthcare's customer service problem"
+      },
+      {
+        "timestamp_seconds": 12,
+        "description": "Bestie Q&A session starts, discussing various healthcare-related topics"
+      }
+    ]
+  }
 }

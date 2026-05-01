@@ -10,5 +10,95 @@
   "description": "This conversation was recorded LIVE at the All-In Summit in Miami! <p>0:00 David Sacks explains the origin of this panel on political discourse in America</p> <p>2:56 Understanding the new political divide, how Trump's victory impacted discourse</p> <p>12:37 Can mainstream media ever get back to relative neutrality?</p> <p>29:15 Audience Q&amp;A</p> <p>Follow the guests:</p> <p><a href=\"https://twitter.com/ggreenwald\">https://twitter.com/ggreenwald</a></p> <p><a href=\"https://twitter.com/mtaibbi\">https://twitter.com/mtaibbi</a></p> <p>Follow the besties:</p> <p><a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p><a href=\"https://linktr.ee/calacanis\">https://linktr.ee/calacanis</a></p> <p><a href=\"https://twitter.com/DavidSacks\">https://twitter.com/DavidSacks</a></p> <p><a href=\"https://twitter.com/friedberg\">https://twitter.com/friedberg</a></p> <p>Follow the pod:</p> <p><a href=\"https://twitter.com/theallinpod\">https://twitter.com/theallinpod</a></p> <p><a href=\"https://linktr.ee/allinpodcast\">https://linktr.ee/allinpodcast</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://twitter.com/yung_spielburg\">https://twitter.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://twitter.com/TheZachEffect\">https://twitter.com/TheZachEffect</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Summit hosted a panel discussion with Glenn Greenwald and Matt Taibbi, moderated by David Sacks, on the new political divide in America. They explored how Trump's victory impacted discourse and whether mainstream media can return to relative neutrality. The conversation also included an audience Q&A session.",
+    "takeaways": [
+      {
+        "text": "Trump's victory changed the political discourse",
+        "timestamp_seconds": 2
+      },
+      {
+        "text": "Mainstream media struggles with neutrality",
+        "timestamp_seconds": 12
+      },
+      {
+        "text": "Audience Q&A session covered various topics",
+        "timestamp_seconds": 29
+      },
+      {
+        "text": "New political divide is complex and multifaceted",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Media bias is a significant concern",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Political discourse needs improvement",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Diverse perspectives are essential for understanding",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "The role of media in shaping public opinion is crucial",
+        "timestamp_seconds": null
+      }
+    ],
+    "quotes": [
+      {
+        "text": "New political divide",
+        "speaker": "David Sacks",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "Media bias",
+        "speaker": "Glenn Greenwald",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Complex issues",
+        "speaker": "Matt Taibbi",
+        "timestamp_seconds": null
+      }
+    ],
+    "topics": [
+      "political-discourse",
+      "media-bias",
+      "trump-era",
+      "mainstream-media",
+      "neutrality",
+      "q-and-a",
+      "audience-engagement",
+      "complex-issues"
+    ],
+    "guests": [
+      "Glenn Greenwald",
+      "Matt Taibbi"
+    ],
+    "sentiment": {
+      "overall": "mixed",
+      "notes": "The conversation covered a range of topics, with both optimistic and cautious views expressed. The overall sentiment is mixed, reflecting the complexity of the issues discussed."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "David Sacks introduces the panel discussion"
+      },
+      {
+        "timestamp_seconds": 2,
+        "description": "Discussion on the new political divide begins"
+      },
+      {
+        "timestamp_seconds": 12,
+        "description": "Mainstream media neutrality is questioned"
+      },
+      {
+        "timestamp_seconds": 29,
+        "description": "Audience Q&A session starts"
+      }
+    ]
+  }
 }

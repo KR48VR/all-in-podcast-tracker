@@ -10,5 +10,88 @@
   "description": "<p>0:00 Bestie intro and poker recap</p> <p>3:14 Elizabeth Holmes verdict, origins of the fraud, breakdown of the Theranos promise</p> <p>17:51 Lessons for founders and investors from the Theranos debacle, bad behavior a sign of the top</p> <p>26:09 Implications of \"The Great Markdown\" on public and private markets, confusing FED decisions</p> <p>45:56 Advice for founders on navigating a downturn</p> <p>1:00:01 a16z's new mega funds; should they go public? How does that change partner dynamics?</p> <p>Follow the besties:</p> <p><a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p><a href=\"https://linktr.ee/calacanis\">https://linktr.ee/calacanis</a></p> <p><a href=\"https://twitter.com/DavidSacks\">https://twitter.com/DavidSacks</a></p> <p><a href=\"https://twitter.com/friedberg\">https://twitter.com/friedberg</a></p> <p>Follow the pod:</p> <p><a href=\"https://twitter.com/theallinpod\">https://twitter.com/theallinpod</a></p> <p><a href=\"https://linktr.ee/allinpodcast\">https://linktr.ee/allinpodcast</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://twitter.com/yung_spielburg\">https://twitter.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://twitter.com/TheZachEffect\">https://twitter.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href=\"https://www.wsj.com/articles/the-elizabeth-holmes-verdict-theranos-founder-is-guilty-on-four-of-11-charges-in-fraud-trial-11641255705\"> https://www.wsj.com/articles/the-elizabeth-holmes-verdict-theranos-founder-is-guilty-on-four-of-11-charges-in-fraud-trial-11641255705</a></p> <p><a href=\"https://www.bbc.com/news/technology-58469882\">https://www.bbc.com/news/technology-58469882</a></p> <p><a href=\"https://www.nytimes.com/2022/01/04/technology/elizabeth-holmes-verdict.html\"> https://www.nytimes.com/2022/01/04/technology/elizabeth-holmes-verdict.html</a></p> <p><a href=\"https://www.wsj.com/articles/the-theranos-fraud-elizabeth-holmes-convicted-trial-blood-testing-start-up-11641330471\"> https://www.wsj.com/articles/the-theranos-fraud-elizabeth-holmes-convicted-trial-blood-testing-start-up-11641330471</a></p> <p><a href=\"https://www.businessinsider.com/bill-maris-explains-why-gv-didnt-invest-in-theranos-2015-10\"> https://www.businessinsider.com/bill-maris-explains-why-gv-didnt-invest-in-theranos-2015-10</a></p> <p><a href=\"https://www.skadden.com/insights/publications/2021/06/insights-the-delaware-edition/delaware-courts-expand-plaintiffs-rights\"> https://www.skadden.com/insights/publications/2021/06/insights-the-delaware-edition/delaware-courts-expand-plaintiffs-rights</a></p> <p><a href=\"https://www.cnbc.com/2022/01/05/fed-minutes-december-2021.html\">https://www.cnbc.com/2022/01/05/fed-minutes-december-2021.html</a></p> <p><a href=\"https://fred.stlouisfed.org/series/T10YIE\">https://fred.stlouisfed.org/series/T10YIE</a></p> <p><a href=\"http://www.paulgraham.com/aord.html\">http://www.paulgraham.com/aord.html</a></p> <p><a href=\"https://www.socialcapital.com/annual-letters/2019\">https://www.socialcapital.com/annual-letters/2019</a></p> <p><a href=\"https://medium.com/craft-ventures/the-burn-multiple-51a7e43cb200\">https://medium.com/craft-ventures/the-burn-multiple-51a7e43cb200</a></p> <p><a href=\"https://www.statista.com/statistics/266206/googles-annual-global-revenue\"> https://www.statista.com/statistics/266206/googles-annual-global-revenue</a></p> <p><a href=\"https://techcrunch.com/2022/01/07/andreessen-horowitz-raises-9b-in-new-capital-for-venture-growth-bio-funds\"> https://techcrunch.com/2022/01/07/andreessen-horowitz-raises-9b-in-new-capital-for-venture-growth-bio-funds</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast discusses the Elizabeth Holmes verdict, the origins of the Theranos fraud, and lessons for founders and investors. They also navigate the implications of 'The Great Markdown' on public and private markets and provide advice for founders on navigating a downturn. Additionally, they talk about a16z's new mega funds and whether they should go public.",
+    "takeaways": [
+      {
+        "text": "Bad behavior can be a sign of the top",
+        "timestamp_seconds": 17
+      },
+      {
+        "text": "Founders should focus on unit economics",
+        "timestamp_seconds": 45
+      },
+      {
+        "text": "Investors should be cautious of confusing FED decisions",
+        "timestamp_seconds": 26
+      },
+      {
+        "text": "Theranos debacle provides lessons for founders and investors",
+        "timestamp_seconds": 3
+      },
+      {
+        "text": "Navigating a downturn requires adaptability",
+        "timestamp_seconds": 45
+      },
+      {
+        "text": "a16z's new mega funds raise questions about going public",
+        "timestamp_seconds": 60
+      },
+      {
+        "text": "Partner dynamics may change if a16z goes public",
+        "timestamp_seconds": 60
+      },
+      {
+        "text": "Founders should prioritize transparency and accountability",
+        "timestamp_seconds": null
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Bad behavior is a sign of the top",
+        "speaker": "Chamath Palihapitiya",
+        "timestamp_seconds": 17
+      },
+      {
+        "text": "Focus on unit economics",
+        "speaker": "Jason Calacanis",
+        "timestamp_seconds": 45
+      }
+    ],
+    "topics": [
+      "theranos",
+      "elizabeth-holmes",
+      "fraud",
+      "venture-capital",
+      "startups",
+      "downturn",
+      "fed-decisions",
+      "a16z",
+      "mega-funds"
+    ],
+    "guests": [],
+    "sentiment": {
+      "overall": "cautious",
+      "notes": "The hosts discuss the implications of the Theranos verdict and the current market conditions, advising founders and investors to be cautious and prepared for a potential downturn."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 3,
+        "description": "Discussion of the Elizabeth Holmes verdict and Theranos fraud"
+      },
+      {
+        "timestamp_seconds": 17,
+        "description": "Lessons for founders and investors from the Theranos debacle"
+      },
+      {
+        "timestamp_seconds": 45,
+        "description": "Advice for founders on navigating a downturn"
+      },
+      {
+        "timestamp_seconds": 60,
+        "description": "Discussion of a16z's new mega funds and potential implications of going public"
+      }
+    ]
+  }
 }

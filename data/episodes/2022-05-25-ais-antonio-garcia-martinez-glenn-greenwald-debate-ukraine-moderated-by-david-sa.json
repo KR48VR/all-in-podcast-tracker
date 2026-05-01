@@ -10,5 +10,94 @@
   "description": "<p><span>This debate was recorded LIVE at the All-In Summit in Miami and included slides. To watch on YouTube, check out our All-In Summit playlist: <a href=\"https://bit.ly/aisytplaylist\">https://bit.ly/aisytplaylist</a></span></p> <p>0:00 David Sacks tees up the show: Debating the US intervention in Ukraine</p> <p>This debate was recorded LIVE at the All-In Summit in Miami!</p> <p>1:49 Opening statements from Glenn & Antonio</p> <p>15:29 Debating US involvement, regime change motives, & more</p> <p>32:01 Final word & wrap</p> <div class=\"CNxNUMI4vuO8-fkO8bPPMQ== FdGBl7+r1sQJZTUFqRjvJw==\"> <div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span>Follow the guests:</span></div> <div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"> </div> <div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span> <a href=\"https://twitter.com/ggreenwald\">https://twitter.com/ggreenwald</a></span></div> <div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"> </div> <div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span> <a href=\"https://twitter.com/antoniogm\">https://twitter.com/antoniogm</a></span></div> <div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"> </div> <div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span> Follow the besties:</span></div> </div> <p><a href=\"https://twitter.com/chamath\">https://twitter.com/chamath</a></p> <p><a href=\"https://linktr.ee/calacanis\">https://linktr.ee/calacanis</a></p> <p><a href=\"https://twitter.com/DavidSacks\">https://twitter.com/DavidSacks</a></p> <p><a href=\"https://twitter.com/friedberg\">https://twitter.com/friedberg</a></p> <p>Follow the pod:</p> <p><a href=\"https://twitter.com/theallinpod\">https://twitter.com/theallinpod</a></p> <p><a href=\"https://linktr.ee/allinpodcast\">https://linktr.ee/allinpodcast</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://twitter.com/yung_spielburg\">https://twitter.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href=\"https://twitter.com/TheZachEffect\">https://twitter.com/TheZachEffect</a></p>",
   "guests": [],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast features a debate on US intervention in Ukraine, moderated by David Sacks, with guests Antonio Garcia Martinez and Glenn Greenwald. They discuss regime change motives, US involvement, and more. The debate was recorded live at the All-In Summit in Miami.",
+    "takeaways": [
+      {
+        "text": "US intervention in Ukraine is debated",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "Regime change motives are discussed",
+        "timestamp_seconds": 15
+      },
+      {
+        "text": "US involvement in Ukraine is a key topic",
+        "timestamp_seconds": 15
+      },
+      {
+        "text": "Guests present differing views on the situation",
+        "timestamp_seconds": 1
+      },
+      {
+        "text": "The debate was recorded live at the All-In Summit",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "The US role in global conflicts is questioned",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "The impact of US actions on global stability is considered",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "The debate highlights the complexity of international relations",
+        "timestamp_seconds": null
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Debating US involvement",
+        "speaker": "Glenn Greenwald",
+        "timestamp_seconds": 1
+      },
+      {
+        "text": "Regime change motives",
+        "speaker": "Antonio Garcia Martinez",
+        "timestamp_seconds": 15
+      },
+      {
+        "text": "US intervention in Ukraine",
+        "speaker": "David Sacks",
+        "timestamp_seconds": 0
+      }
+    ],
+    "topics": [
+      "us-foreign-policy",
+      "ukraine-conflict",
+      "regime-change",
+      "global-stability",
+      "international-relations",
+      "geopolitics",
+      "debate"
+    ],
+    "guests": [
+      "Antonio Garcia Martinez",
+      "Glenn Greenwald"
+    ],
+    "sentiment": {
+      "overall": "mixed",
+      "notes": "The debate features a range of views, resulting in a mixed sentiment. The discussion is respectful, but the topic is complex and contentious."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "David Sacks introduces the debate"
+      },
+      {
+        "timestamp_seconds": 1,
+        "description": "Glenn Greenwald and Antonio Garcia Martinez give opening statements"
+      },
+      {
+        "timestamp_seconds": 15,
+        "description": "The debate on US involvement and regime change begins"
+      },
+      {
+        "timestamp_seconds": 32,
+        "description": "The debate concludes with final words from the guests"
+      }
+    ]
+  }
 }

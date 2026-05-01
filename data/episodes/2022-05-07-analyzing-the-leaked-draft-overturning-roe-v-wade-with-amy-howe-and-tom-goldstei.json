@@ -12,5 +12,80 @@
     "Amy Howe"
   ],
   "transcript": "",
-  "transcript_segments": []
+  "transcript_segments": [],
+  "analysis": {
+    "summary": "The All-In Podcast discusses the leaked draft overturning Roe v. Wade with guests Amy Howe and Tom Goldstein, analyzing the potential impacts and the path forward. They also consider the precedent of overturning Roe v. Wade and its potential downstream effects. The conversation touches on the future of the Supreme Court and potential age limits for justices.",
+    "takeaways": [
+      {
+        "text": "Leaked draft overturns Roe v. Wade",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "Precedent of overturning Roe v. Wade may have downstream effects",
+        "timestamp_seconds": 28
+      },
+      {
+        "text": "Leaked draft may impact Supreme Court's future",
+        "timestamp_seconds": 43
+      },
+      {
+        "text": "Age limits for SC justices are considered",
+        "timestamp_seconds": 43
+      },
+      {
+        "text": "Path forward for the Supreme Court is uncertain",
+        "timestamp_seconds": 3939
+      },
+      {
+        "text": "Public opinion on abortion is divided",
+        "timestamp_seconds": null
+      },
+      {
+        "text": "Supreme Court's decision may have far-reaching consequences",
+        "timestamp_seconds": null
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Roe v. Wade overturned",
+        "speaker": "Amy Howe",
+        "timestamp_seconds": 0
+      },
+      {
+        "text": "SCOTUS in crisis",
+        "speaker": "Tom Goldstein",
+        "timestamp_seconds": null
+      }
+    ],
+    "topics": [
+      "abortion",
+      "supreme-court",
+      "roe-v-wade",
+      "us-politics",
+      "judicial-system",
+      "reproductive-rights"
+    ],
+    "guests": [
+      "Amy Howe",
+      "Tom Goldstein"
+    ],
+    "sentiment": {
+      "overall": "cautious",
+      "notes": "The mood is cautious due to the uncertainty and potential far-reaching consequences of the Supreme Court's decision. The hosts and guests approach the topic with a sense of gravity and concern for the future."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "Introduction to the leaked draft overturning Roe v. Wade"
+      },
+      {
+        "timestamp_seconds": 28,
+        "description": "Discussion of potential downstream effects of overturning Roe v. Wade"
+      },
+      {
+        "timestamp_seconds": 43,
+        "description": "Consideration of age limits for SC justices"
+      }
+    ]
+  }
 }
