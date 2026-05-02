@@ -261,6 +261,10 @@ def run(force: bool = False) -> None:
         if ep.get("analysis") and not force:
             all_eps.append(ep)
             continue
+        if not (ep.get("transcript") or ep.get("transcript_segments")):
+            print(f"[skip] {ep['id']}: no transcript available", file=sys.stderr)
+            all_eps.append(ep)
+            continue
         try:
             ep["analysis"] = analyze_one(ep, api_key)
             path.write_text(json.dumps(ep, indent=2, ensure_ascii=False))
