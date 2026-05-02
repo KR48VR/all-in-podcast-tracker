@@ -91,8 +91,12 @@ function rankEpisodes(question, eps) {
   // Detect questions asking for the latest/newest content. When found, we
   // sort purely by date so retrieval doesn't accidentally surface an old
   // episode that happens to share keywords with the question.
+  // Match plain recency words OR phrases like "last 10 episodes", "past
+  // few weeks", "recent shows" so questions that name a count still trigger
+  // a date-sorted retrieval rather than keyword similarity.
   const wantsRecent =
-    /\b(latest|newest|most\s+recent|recently|last\s+(?:episode|few|week|show))\b/i.test(question);
+    /\b(latest|newest|most\s+recent|recently)\b/i.test(question) ||
+    /\b(?:last|past|recent)\s+(?:\d+\s+|few\s+)?(?:episode|week|show)s?\b/i.test(question);
 
   const ranked = eps.map((ep) => {
     // Takeaways may be strings (legacy) or {text, timestamp_seconds}.
