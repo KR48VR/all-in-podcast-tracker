@@ -88,28 +88,37 @@ function rankEpisodes(question, eps) {
     .split(/\s+/)
     .filter((t) => t.length > 2);
 
-  return eps
-    .map((ep) => {
-      // Takeaways may be strings (legacy) or {text, timestamp_seconds}.
-      const takeawayText = (ep.takeaways || [])
-        .map((t) => (typeof t === "string" ? t : t.text || ""))
-        .join(" ");
-      const hay = [
-        ep.title, ep.summary,
-        (ep.topics || []).join(" "),
-        takeawayText,
-        (ep.guests || []).join(" "),
-      ].join(" ").toLowerCase();
-      let score = 0;
-      for (const t of terms) if (hay.includes(t)) score += 1;
-      // Boost recent episodes slightly so "latest" queries feel right.
-      if (ep.date) {
-        const daysOld = (Date.now() - new Date(ep.date).getTime()) / 86_400_000;
-        score += Math.max(0, 1 - daysOld / 365);
-      }
-      return { ...ep, _score: score };
-    })
-    .sort((a, b) => b._score - a._score);
+  // Detect questions asking for the latest/newest content. When found, we
+  // sort purely by date so retrieval doesn't accidentally surface an old
+  // episode that happens to share keywords with the question.
+  const wantsRecent =
+    /\b(latest|newest|most\s+recent|recently|last\s+(?:episode|few|week|show))\b/i.test(question);
+
+  const ranked = eps.map((ep) => {
+    // Takeaways may be strings (legacy) or {text, timestamp_seconds}.
+    const takeawayText = (ep.takeaways || [])
+      .map((t) => (typeof t === "string" ? t : t.text || ""))
+      .join(" ");
+    const hay = [
+      ep.title, ep.summary,
+      (ep.topics || []).join(" "),
+      takeawayText,
+      (ep.guests || []).join(" "),
+    ].join(" ").toLowerCase();
+    let score = 0;
+    for (const t of terms) if (hay.includes(t)) score += 1;
+    // Boost recent episodes slightly so "latest" queries feel right.
+    if (ep.date) {
+      const daysOld = (Date.now() - new Date(ep.date).getTime()) / 86_400_000;
+      score += Math.max(0, 1 - daysOld / 365);
+    }
+    return { ...ep, _score: score };
+  });
+
+  if (wantsRecent) {
+    return ranked.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+  }
+  return ranked.sort((a, b) => b._score - a._score);
 }
 
 function formatEpisode(ep) {

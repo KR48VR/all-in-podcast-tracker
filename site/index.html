@@ -29,15 +29,45 @@
       <p class="text-sm text-slate-500" id="generated-at">Loading…</p>
     </div>
     <nav class="text-sm flex gap-4">
+      <a href="#chat" class="text-slate-600 hover:text-slate-900">Ask</a>
       <a href="#whats-new" class="text-slate-600 hover:text-slate-900">What's new</a>
       <a href="#trends" class="text-slate-600 hover:text-slate-900">Trends</a>
       <a href="#archive" class="text-slate-600 hover:text-slate-900">Archive</a>
-      <a href="#chat" class="text-slate-600 hover:text-slate-900">Ask</a>
     </nav>
   </div>
 </header>
 
 <main class="max-w-6xl mx-auto px-5 py-8 space-y-12">
+
+  <!-- ============ CHAT ============ -->
+  <section id="chat">
+    <h2 class="text-lg font-semibold mb-4">Ask across all episodes</h2>
+    <div class="bg-white rounded-xl shadow-sm border flex flex-col h-[520px]">
+      <div id="chatLog" class="flex-1 overflow-y-auto p-5 space-y-4 text-sm">
+        <div class="text-slate-500">
+          Ask a question about anything the hosts have discussed across the archive.
+          Examples: <em>"What do Chamath and Sacks disagree on?"</em> ·
+          <em>"Summarize everything they've said about AI regulation in the last 10 episodes."</em>
+        </div>
+      </div>
+      <form id="chatForm" class="border-t p-3 flex gap-2">
+        <input
+          id="chatInput"
+          type="text"
+          class="flex-1 rounded-lg border px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-slate-400"
+          placeholder="Ask anything…"
+          autocomplete="off"
+        />
+        <button class="rounded-lg bg-slate-900 text-white px-4 py-2 text-sm hover:bg-slate-700">
+          Send
+        </button>
+      </form>
+    </div>
+    <p class="text-xs text-slate-400 mt-2">
+      Chatbot uses an open-source model via Groq. Set <code>CHAT_ENDPOINT</code>
+      in <code>site/config.js</code> to your deployed Cloudflare Worker URL.
+    </p>
+  </section>
 
   <!-- ============ WHAT'S NEW ============ -->
   <section id="whats-new">
@@ -82,36 +112,6 @@
     </div>
     <div id="episodeCount" class="text-xs text-slate-500 mb-3"></div>
     <div id="episodeList" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
-  </section>
-
-  <!-- ============ CHAT ============ -->
-  <section id="chat">
-    <h2 class="text-lg font-semibold mb-4">Ask across all episodes</h2>
-    <div class="bg-white rounded-xl shadow-sm border flex flex-col h-[520px]">
-      <div id="chatLog" class="flex-1 overflow-y-auto p-5 space-y-4 text-sm">
-        <div class="text-slate-500">
-          Ask a question about anything the hosts have discussed across the archive.
-          Examples: <em>"What do Chamath and Sacks disagree on?"</em> ·
-          <em>"Summarize everything they've said about AI regulation in the last 10 episodes."</em>
-        </div>
-      </div>
-      <form id="chatForm" class="border-t p-3 flex gap-2">
-        <input
-          id="chatInput"
-          type="text"
-          class="flex-1 rounded-lg border px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-slate-400"
-          placeholder="Ask anything…"
-          autocomplete="off"
-        />
-        <button class="rounded-lg bg-slate-900 text-white px-4 py-2 text-sm hover:bg-slate-700">
-          Send
-        </button>
-      </form>
-    </div>
-    <p class="text-xs text-slate-400 mt-2">
-      Chatbot uses an open-source model via Groq. Set <code>CHAT_ENDPOINT</code>
-      in <code>site/config.js</code> to your deployed Cloudflare Worker URL.
-    </p>
   </section>
 
 </main>
