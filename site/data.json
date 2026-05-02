@@ -83,13 +83,84 @@
       "url": "https://allinchamathjason.libsyn.com/ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win",
       "youtube_url": "https://www.youtube.com/watch?v=9WQu7w1tII0",
       "youtube_video_id": "9WQu7w1tII0",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Steve Hilton, a Republican candidate for California governor, discusses his background, policy positions, and vision for the state. He proposes a tax plan with no state tax for those earning under $100,000 and a 7.5% flat tax for those above. Hilton argues that this plan will help working-class Californians and stimulate economic growth.",
+      "takeaways": [
+        {
+          "text": "No state tax for Californians earning under $100,000",
+          "timestamp_seconds": 523
+        },
+        {
+          "text": "7.5% flat tax for Californians earning above $100,000",
+          "timestamp_seconds": 536
+        },
+        {
+          "text": "California has the highest unemployment and poverty rates in the country",
+          "timestamp_seconds": 580
+        },
+        {
+          "text": "Over a third of Californians cannot afford basic needs",
+          "timestamp_seconds": 597
+        },
+        {
+          "text": "Hilton's tax plan would reduce revenue by 18.5%, equivalent to $60 billion",
+          "timestamp_seconds": 780
+        },
+        {
+          "text": "7 million households would benefit from the tax plan",
+          "timestamp_seconds": 847
+        },
+        {
+          "text": "Hilton aims to reduce spending to pre-pandemic levels",
+          "timestamp_seconds": 809
+        },
+        {
+          "text": "Hilton established CalDOACH to investigate government waste and fraud",
+          "timestamp_seconds": 962
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I'm a proud American now",
+          "speaker": "Steve Hilton",
+          "timestamp_seconds": 502
+        },
+        {
+          "text": "We've got to get back to a more reasonable growth in spending",
+          "speaker": "Steve Hilton",
+          "timestamp_seconds": 906
+        }
+      ],
+      "topics": [
+        "california-politics",
+        "tax-reform",
+        "economic-growth",
+        "government-spending",
+        "poverty",
+        "unemployment",
+        "government-waste",
+        "fraud"
+      ],
+      "guests": [
+        "Steve Hilton"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has an optimistic tone, with Steve Hilton presenting his vision for California's future and proposing solutions to the state's economic and social problems."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to Steve Hilton, Republican candidate for California governor"
+        },
+        {
+          "timestamp_seconds": 502,
+          "description": "Steve Hilton discusses his decision to renounce his UK citizenship and become a US citizen"
+        },
+        {
+          "timestamp_seconds": 962,
+          "description": "Steve Hilton introduces CalDOACH, his initiative to investigate government waste and fraud"
+        }
+      ]
     },
     {
       "id": "2026-04-24-spacex-cursor-deal-saas-debt-bomb-new-apple-ceo-splc-indictment-colon-cancer-spi",
@@ -187,13 +258,82 @@
       "url": "https://allinchamathjason.libsyn.com/openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out",
       "youtube_url": "https://www.youtube.com/watch?v=SFdqX7IY7RY",
       "youtube_video_id": "SFdqX7IY7RY",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses various topics including OpenAI's identity crisis, the impact of a new tax on second homes in NYC, and the state of the market. Travis Kalanick joins the show as a guest. The hosts also talk about the datacenter wars, Allbirds' stock surge, and Eric Swalwell's resignation from Congress.",
+      "takeaways": [
+        {
+          "text": "New tax on second homes in NYC may lead to a decrease in demand and a crash in the market",
+          "timestamp_seconds": 94
+        },
+        {
+          "text": "Allowing people to build units to satisfy demand can lead to lower rents and housing prices",
+          "timestamp_seconds": 398
+        },
+        {
+          "text": "Imposing arbitrary taxes can lead to a decline in investment and development in a city",
+          "timestamp_seconds": 472
+        },
+        {
+          "text": "OpenAI is pivoting to focus on business customers and win the agent platform layer",
+          "timestamp_seconds": 727
+        },
+        {
+          "text": "Anthropic's $30 billion run rate is inflated due to revenue share and accounting with AI model providers",
+          "timestamp_seconds": 703
+        },
+        {
+          "text": "Real estate in blue states is becoming less attractive to wealthy investors due to high taxes and regulations",
+          "timestamp_seconds": 677
+        },
+        {
+          "text": "The introduction of new taxes and regulations can lead to a slow bleed and hollowing out of a city's economy",
+          "timestamp_seconds": 592
+        },
+        {
+          "text": "The high-end real estate market in London has collapsed due to the introduction of the stamp tax",
+          "timestamp_seconds": 433
+        }
+      ],
+      "quotes": [
+        {
+          "text": "It's a dog whistle",
+          "speaker": "Travis Kalanick",
+          "timestamp_seconds": 159
+        },
+        {
+          "text": "I think it's good for hotels",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 327
+        }
+      ],
+      "topics": [
+        "nyc-real-estate",
+        "openai",
+        "anthropic",
+        "ai-development",
+        "taxation",
+        "regulation",
+        "datacenter-wars",
+        "allbirds",
+        "eric-swalwell",
+        "market-trends"
+      ],
+      "guests": [
+        "Travis Kalanick"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express concern about the impact of new taxes and regulations on the economy and the real estate market. They also discuss the challenges faced by OpenAI and the potential consequences of its pivot to focus on business customers."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 687,
+          "description": "OpenAI's chief revenue officer sends a memo to employees about the company's pivot to focus on business customers"
+        },
+        {
+          "timestamp_seconds": 0,
+          "description": "Travis Kalanick joins the show as a guest"
+        }
+      ]
     },
     {
       "id": "2026-04-10-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-i",
@@ -603,13 +743,76 @@
       "url": "https://allinchamathjason.libsyn.com/are-psychedelics-the-key-to-living-forever-ft-bryan-johnson",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Bryan Johnson shares his experience with 5-MeO-DMT, a powerful psychedelic, and its potential effects on longevity and brain function. He discusses his motivations for trying the substance and the profound impact it had on his life and relationships. The conversation also touches on the potential risks and benefits of psychedelics in the context of longevity and mental health.",
+      "takeaways": [
+        {
+          "text": "5-MeO-DMT can have a profound impact on brain function and longevity",
+          "timestamp_seconds": 146
+        },
+        {
+          "text": "The default mode network is responsible for constructing self and ego",
+          "timestamp_seconds": 386
+        },
+        {
+          "text": "Psilocybin can dampen the default mode network, leading to increased neuroplasticity",
+          "timestamp_seconds": 434
+        },
+        {
+          "text": "5-MeO-DMT can annihilate the default mode network, leading to a childlike state",
+          "timestamp_seconds": 631
+        },
+        {
+          "text": "Psychedelics can be used therapeutically to treat depression and anxiety",
+          "timestamp_seconds": 808
+        },
+        {
+          "text": "Brain function and structure can be measured using various modalities, including MRI and EEG",
+          "timestamp_seconds": 845
+        },
+        {
+          "text": "Psychedelics should be used with caution and under the guidance of a licensed professional",
+          "timestamp_seconds": 954
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I'm stunned. Absolutely floored. Speechless.",
+          "speaker": "Bryan Johnson",
+          "timestamp_seconds": 160
+        },
+        {
+          "text": "You experience raw consciousness and raw intelligence",
+          "speaker": "Bryan Johnson",
+          "timestamp_seconds": 165
+        }
+      ],
+      "topics": [
+        "psychedelics",
+        "longevity",
+        "brain-function",
+        "default-mode-network",
+        "neuroplasticity",
+        "mental-health",
+        "5-meo-dmt",
+        "psilocybin"
+      ],
+      "guests": [
+        "Bryan Johnson"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is overwhelmingly positive, with Bryan Johnson sharing his life-changing experience with 5-MeO-DMT and the potential benefits of psychedelics for longevity and mental health."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 146,
+          "description": "Bryan Johnson shares his experience with 5-MeO-DMT"
+        },
+        {
+          "timestamp_seconds": 631,
+          "description": "Bryan Johnson describes the effect of 5-MeO-DMT on his default mode network"
+        }
+      ]
     },
     {
       "id": "2026-03-23-how-matt-mahan-thinks-he-can-save-california",
@@ -2228,13 +2431,82 @@
       "url": "https://allinchamathjason.libsyn.com/inside-americas-ai-strategy-infrastructure-regulation-and-global-competition",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The episode discusses America's AI strategy, focusing on infrastructure build-out, regulation, and global competition. Guests David Sacks and Michael Kratsios share their insights on the current state of AI in the US, highlighting the need for a federal framework to regulate AI and the importance of data center build-out. They also discuss the potential applications of AI in various industries, including healthcare and science.",
+      "takeaways": [
+        {
+          "text": "The US needs a federal framework to regulate AI",
+          "timestamp_seconds": 282
+        },
+        {
+          "text": "Data center build-out is crucial for AI development",
+          "timestamp_seconds": 487
+        },
+        {
+          "text": "AI has the potential to revolutionize industries such as healthcare and science",
+          "timestamp_seconds": 869
+        },
+        {
+          "text": "The US is competing with China in the AI race",
+          "timestamp_seconds": 66
+        },
+        {
+          "text": "Regulatory environment is key to driving AI innovation",
+          "timestamp_seconds": 222
+        },
+        {
+          "text": "AI can improve productivity for knowledge workers",
+          "timestamp_seconds": 845
+        },
+        {
+          "text": "AI for science is a challenging but promising area of research",
+          "timestamp_seconds": 956
+        },
+        {
+          "text": "Data center build-out can bring down electricity rates",
+          "timestamp_seconds": 682
+        }
+      ],
+      "quotes": [
+        {
+          "text": "We will win the AI race",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 25
+        },
+        {
+          "text": "We need a sensible national framework",
+          "speaker": "Michael Kratsios",
+          "timestamp_seconds": 289
+        }
+      ],
+      "topics": [
+        "ai-strategy",
+        "infrastructure-build-out",
+        "regulation",
+        "global-competition",
+        "healthcare",
+        "science",
+        "data-centers",
+        "electricity-rates",
+        "knowledge-workers",
+        "productivity"
+      ],
+      "guests": [
+        "Michael Kratsios"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has a positive tone, with guests expressing confidence in the US's ability to lead in AI and highlighting the potential benefits of AI in various industries."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 487,
+          "description": "Michael Kratsios discusses the importance of data center build-out for AI development"
+        },
+        {
+          "timestamp_seconds": 869,
+          "description": "David Sacks highlights the potential applications of AI in healthcare"
+        }
+      ]
     },
     {
       "id": "2026-01-23-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos",
@@ -11041,13 +11313,81 @@
       "url": "https://allinchamathjason.libsyn.com/jd-vances-ai-speech-techno-optimists-vs-doomers-tariffs-ai-court-cases-with-naval-ravikant",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast features Naval Ravikant, discussing his experiences, views on parenting, and his thoughts on AI. The conversation also covers JD Vance's AI speech, techno-optimists vs doomers, tariffs, and AI court cases. Naval shares his insights on building products, taking risks, and his approach to investing.",
+      "takeaways": [
+        {
+          "text": "Naval enjoys building products and taking technical risks",
+          "timestamp_seconds": 454
+        },
+        {
+          "text": "AirChat was a social media network that didn't catch fire",
+          "timestamp_seconds": 509
+        },
+        {
+          "text": "Naval's tweets often focus on science, philosophy, and making money",
+          "timestamp_seconds": 675
+        },
+        {
+          "text": "Naval's 'How to get rich' thread was highly viral",
+          "timestamp_seconds": 744
+        },
+        {
+          "text": "Naval tries to tweet timeless things, ignoring news",
+          "timestamp_seconds": 756
+        },
+        {
+          "text": "Naval is building a new product, partially funded by investors",
+          "timestamp_seconds": 420
+        },
+        {
+          "text": "Naval learned to appreciate the craft of building products",
+          "timestamp_seconds": 463
+        },
+        {
+          "text": "Naval's experience with AngelList and Venture Hacks shaped his approach to investing",
+          "timestamp_seconds": 347
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I just started tweeting whatever I was going through",
+          "speaker": "Naval Ravikant",
+          "timestamp_seconds": 657
+        },
+        {
+          "text": "Only human",
+          "speaker": "Naval Ravikant",
+          "timestamp_seconds": 856
+        }
+      ],
+      "topics": [
+        "ai-safety",
+        "venture-capital",
+        "product-building",
+        "philosophy",
+        "science",
+        "investing",
+        "tariffs",
+        "techno-optimism",
+        "doomers"
+      ],
+      "guests": [
+        "Naval Ravikant"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is upbeat, with a focus on learning, growth, and innovation. Naval's enthusiasm for building products and taking risks is infectious, and the hosts' banter adds to the positive tone."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 23,
+          "description": "Naval joins the conversation, discussing his thoughts on AI and JD Vance's speech"
+        },
+        {
+          "timestamp_seconds": 110,
+          "description": "Naval talks about his experience building AirChat and the importance of taking technical risks"
+        }
+      ]
     },
     {
       "id": "2025-02-07-doge-vs-usaid-crypto-framework-googles-75b-ai-spend-us-sovereign-wealth-fund-glp",
@@ -12531,13 +12871,81 @@
       "url": "https://allinchamathjason.libsyn.com/jd-vance-all-in-summit-2024",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "JD Vance joins the All-In Podcast to discuss his run for vice president, his views on innovation, the economy, and government efficiency. He also shares his thoughts on Donald Trump, the 2020 election, and the role of the vice president.",
+      "takeaways": [
+        {
+          "text": "JD Vance believes the US economy is less innovative than it pretends to be",
+          "timestamp_seconds": 220
+        },
+        {
+          "text": "Vance thinks the government procurement process is broken",
+          "timestamp_seconds": 892
+        },
+        {
+          "text": "He estimates the US spends between $100 billion to $600 billion on illegal aliens every year",
+          "timestamp_seconds": 848
+        },
+        {
+          "text": "Vance suggests focusing national interest on American citizens to save money",
+          "timestamp_seconds": 866
+        },
+        {
+          "text": "He believes the government should do less, but do it well, and focus on critical social welfare functions",
+          "timestamp_seconds": 821
+        },
+        {
+          "text": "Vance thinks Donald Trump's policies worked, particularly in terms of wage growth",
+          "timestamp_seconds": 439
+        },
+        {
+          "text": "He would have asked states to submit alternative slates of electors in the 2020 election",
+          "timestamp_seconds": 627
+        },
+        {
+          "text": "Vance believes the media's perception of Donald Trump is inaccurate",
+          "timestamp_seconds": 479
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I think the government procurement process is really broken",
+          "speaker": "JD Vance",
+          "timestamp_seconds": 892
+        },
+        {
+          "text": "I think the government should do less, but do it well",
+          "speaker": "JD Vance",
+          "timestamp_seconds": 821
+        }
+      ],
+      "topics": [
+        "us-politics",
+        "innovation",
+        "economy",
+        "government-efficiency",
+        "donald-trump",
+        "2020-election",
+        "vice-president",
+        "immigration",
+        "government-spending"
+      ],
+      "guests": [
+        "JD Vance"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The conversation covers a range of topics, including JD Vance's run for vice president, his views on the economy and government efficiency, and his thoughts on Donald Trump. The tone is generally neutral, with some positive and negative sentiments expressed throughout."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 627,
+          "description": "JD Vance discusses what he would have done in the 2020 election"
+        },
+        {
+          "timestamp_seconds": 892,
+          "description": "JD Vance talks about the government procurement process"
+        }
+      ]
     },
     {
       "id": "2024-10-11-hurricane-fallout-alphafold-google-breakup-trump-surge-vc-giveback-tiktok-survey",
@@ -13122,13 +13530,85 @@
       "url": "https://allinchamathjason.libsyn.com/in-conversation-with-reid-hoffman-robert-f-kennedy-jr",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast features Reid Hoffman and Robert F. Kennedy Jr. discussing various topics including AI, NVIDIA's financial results, and the US presidential election. Reid shares his experiences at PayPal and his thoughts on the current state of AI. Robert F. Kennedy Jr. joins the conversation later, discussing his campaign and decision to back Trump.",
+      "takeaways": [
+        {
+          "text": "NVIDIA's data center revenue has grown to 26.3 billion, 87% of their revenue",
+          "timestamp_seconds": 485
+        },
+        {
+          "text": "Reid Hoffman thinks NVIDIA's growth is not sustainable in the long term",
+          "timestamp_seconds": 612
+        },
+        {
+          "text": "Microsoft's investment in AI infrastructure is driven by a combination of strategic insight and return on capital",
+          "timestamp_seconds": 757
+        },
+        {
+          "text": "The open source movement in AI may lead to winners in different areas, such as coding agents or specific applications",
+          "timestamp_seconds": 954
+        },
+        {
+          "text": "Reid Hoffman believes that OpenAI has stayed true to its principle of safety, open access, and not differential or controlling access",
+          "timestamp_seconds": 923
+        },
+        {
+          "text": "The asymptote to scale in AI model competition may be reached at GPT6 or later",
+          "timestamp_seconds": 984
+        },
+        {
+          "text": "Reid Hoffman thinks that there will be winners in both open source and proprietary AI",
+          "timestamp_seconds": 927
+        },
+        {
+          "text": "The current build-out of AI infrastructure is driven by the need to create a digital platform",
+          "timestamp_seconds": 816
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Politics is the art of saying nice doggy while you hunt for a stick",
+          "speaker": "Reid Hoffman",
+          "timestamp_seconds": 287
+        },
+        {
+          "text": "I think Satya is the best public market CEO of our generation",
+          "speaker": "Reid Hoffman",
+          "timestamp_seconds": 742
+        }
+      ],
+      "topics": [
+        "ai",
+        "nvidia",
+        "paypal",
+        "microsoft",
+        "openai",
+        "us-politics",
+        "reid-hoffman",
+        "robert-f-kennedy-jr",
+        "ai-safety",
+        "ai-infrastructure",
+        "open-source",
+        "proprietary-ai"
+      ],
+      "guests": [
+        "Reid Hoffman",
+        "Robert F. Kennedy Jr."
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The conversation covers a range of topics, including AI, politics, and business, with a mix of optimistic and cautious views."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 398,
+          "description": "The hosts discuss NVIDIA's financial results and the state of the AI industry"
+        },
+        {
+          "timestamp_seconds": 1193,
+          "description": "Robert F. Kennedy Jr. joins the conversation and discusses his campaign and decision to back Trump"
+        }
+      ]
     },
     {
       "id": "2024-08-23-massive-jobs-revision-kamalas-wealth-tax-polls-vs-prediction-markets-end-of-race",
@@ -15015,13 +15495,83 @@
       "url": "https://allinchamathjason.libsyn.com/e171-doj-sues-apple-ai-arms-race-reddit-ipo-nar-settlement-more",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses the DOJ's antitrust lawsuit against Apple, Apple's potential AI partnerships, the NAR settlement, Microsoft's acquisition of Inflection AI, and the Reddit IPO. The hosts also share their thoughts on the lawsuit, Apple's market strategy, and consumer choice.",
+      "takeaways": [
+        {
+          "text": "Apple faces antitrust lawsuit from DOJ",
+          "timestamp_seconds": 74
+        },
+        {
+          "text": "Apple may partner with Google or OpenAI for AI features",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "NAR settlement impacts residential real estate",
+          "timestamp_seconds": 32
+        },
+        {
+          "text": "Microsoft acquires Inflection AI",
+          "timestamp_seconds": 44
+        },
+        {
+          "text": "Reddit IPO may signal risk-on market",
+          "timestamp_seconds": 3697
+        },
+        {
+          "text": "Apple's closed system may limit consumer choice",
+          "timestamp_seconds": 440
+        },
+        {
+          "text": "Apple's App Store policies may be anti-competitive",
+          "timestamp_seconds": 535
+        }
+      ],
+      "quotes": [
+        {
+          "text": "No smoking gun in the lawsuit",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 274
+        },
+        {
+          "text": "Apple's actions may be seen as anti-competitive",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 186
+        },
+        {
+          "text": "Apple should allow more apps and watches",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 612
+        }
+      ],
+      "topics": [
+        "antitrust-lawsuit",
+        "apple",
+        "ai-partnerships",
+        "nar-settlement",
+        "microsoft-acquisition",
+        "reddit-ipo",
+        "consumer-choice",
+        "app-store-policies"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The hosts have varying opinions on the lawsuit and Apple's market strategy, with some seeing it as anti-competitive and others believing it's a matter of consumer choice."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 23,
+          "description": "Discussion of Apple's potential AI partnerships"
+        },
+        {
+          "timestamp_seconds": 74,
+          "description": "DOJ antitrust lawsuit against Apple announced"
+        },
+        {
+          "timestamp_seconds": 3697,
+          "description": "Reddit IPO discussion"
+        }
+      ]
     },
     {
       "id": "2024-03-15-techs-vibe-shift-tiktok-ban-debate-vertical-ai-boom-florida-bans-lab-grown-meat-",
@@ -16663,13 +17213,87 @@
       "url": "https://allinchamathjason.libsyn.com/e150-israelgaza-escalating-or-not-eu-censorship-regime-penn-donors-revolt-glp-1-hype-cycle",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses the escalating Israel-Gaza conflict, EU censorship, and the GLP-1 hype cycle. The hosts share their personal feelings and concerns about the situation, with some expressing optimism and others caution. They also delve into the complexities of the conflict, including the role of misinformation and the challenges of resolving deep-seated hurt and anger.",
+      "takeaways": [
+        {
+          "text": "The situation in Israel and Gaza is volatile and complex",
+          "timestamp_seconds": 71
+        },
+        {
+          "text": "Misinformation can fuel escalation and confirmation bias",
+          "timestamp_seconds": 552
+        },
+        {
+          "text": "The conflict is driven by deep-seated hurt and anger on both sides",
+          "timestamp_seconds": 890
+        },
+        {
+          "text": "Resolving the conflict will require addressing the root causes of the hurt and anger",
+          "timestamp_seconds": 899
+        },
+        {
+          "text": "The EU's Digital Services Act may be seen as a censorship regime",
+          "timestamp_seconds": 50
+        },
+        {
+          "text": "The GLP-1 hype cycle is the second biggest hype cycle of 2023",
+          "timestamp_seconds": 3900
+        },
+        {
+          "text": "The hosts are concerned about the potential for escalation and the impact on the world",
+          "timestamp_seconds": 484
+        },
+        {
+          "text": "The situation is being fueled by a tinderbox of hatred and anger",
+          "timestamp_seconds": 578
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I was really saddened by the bombing of children in Gaza",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 195
+        },
+        {
+          "text": "I think things are getting better",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 299
+        },
+        {
+          "text": "The situation is incredibly volatile",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 368
+        }
+      ],
+      "topics": [
+        "israel-gaza-conflict",
+        "eu-censorship",
+        "glp-1-hype-cycle",
+        "middle-east-politics",
+        "misinformation",
+        "conflict-resolution",
+        "emotional-intelligence",
+        "global-politics"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts are concerned about the situation in Israel and Gaza, and are cautious about the potential for escalation. They are also aware of the complexities of the conflict and the challenges of resolving it."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 50,
+          "description": "The hosts introduce the topic of the Israel-Gaza conflict"
+        },
+        {
+          "timestamp_seconds": 299,
+          "description": "Chamath Palihapitiya expresses optimism about the situation"
+        },
+        {
+          "timestamp_seconds": 484,
+          "description": "The hosts discuss the potential for escalation and the impact on the world"
+        }
+      ]
     },
     {
       "id": "2023-10-13-hamas-terror-attacks-in-israel-fallout-reaction-next-steps",
@@ -18377,13 +19001,89 @@
       "url": "https://allinchamathjason.libsyn.com/e128-google-enters-ai-wars-drucks-warning-trump-crushes-cnn-more",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses Google's entry into the AI wars, Druckenmiller's warning, and Trump's dominance over CNN. They also reflect on their trip to the Middle East and the upcoming All-In Summit 2023. The hosts explore the capabilities of Google's Bard AI model, comparing it to ChatGPT, and test its features.",
+      "takeaways": [
+        {
+          "text": "Google's Bard AI model is more powerful than ChatGPT",
+          "timestamp_seconds": 274
+        },
+        {
+          "text": "Bard has access to live search and internet data",
+          "timestamp_seconds": 278
+        },
+        {
+          "text": "Bard can summarize documents and generate images",
+          "timestamp_seconds": 305
+        },
+        {
+          "text": "Bard is free to use and doesn't require sign-up or payment",
+          "timestamp_seconds": 544
+        },
+        {
+          "text": "Bard can access YouTube transcript data and the All-In Podcast channel",
+          "timestamp_seconds": 659
+        },
+        {
+          "text": "Bard's accuracy can be inconsistent, especially with complex questions",
+          "timestamp_seconds": 692
+        },
+        {
+          "text": "Bard can provide the fastest route to a destination, including flights and trains",
+          "timestamp_seconds": 744
+        },
+        {
+          "text": "Bard's capabilities surpass those of Google Flights",
+          "timestamp_seconds": 776
+        }
+      ],
+      "quotes": [
+        {
+          "text": "It's the singularity",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 467
+        },
+        {
+          "text": "This is some woke shit",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 424
+        },
+        {
+          "text": "Those quotes are wrong",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 650
+        }
+      ],
+      "topics": [
+        "ai-wars",
+        "google-ai",
+        "bard-ai",
+        "chat-gpt",
+        "ai-regulation",
+        "trump-cnn",
+        "all-in-summit",
+        "technology",
+        "innovation",
+        "venture-capital"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The hosts are excited about the potential of Google's Bard AI model and its capabilities. They are also enthusiastic about the upcoming All-In Summit 2023."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 123,
+          "description": "Discussion about the All-In Summit 2023"
+        },
+        {
+          "timestamp_seconds": 197,
+          "description": "Google's I.O. event and announcement of Palm 2"
+        },
+        {
+          "timestamp_seconds": 603,
+          "description": "David Sacks' thoughts on Hunter Biden"
+        }
+      ]
     },
     {
       "id": "2023-05-05-presidential-candidate-robert-f-kennedy-jr-in-conversation-with-the-besties",
@@ -18642,13 +19342,81 @@
       "url": "https://allinchamathjason.libsyn.com/e124-autogpts-massive-potential-and-risk-ai-regulation-bob-leesf-update",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses AutoGPT, a project that enables different GPTs to talk to each other, and its massive potential and risk. They also touch on AI regulation and the recent SF chaos. The hosts explore the implications of AutoGPT on company formation, capital allocation, and the future of work.",
+      "takeaways": [
+        {
+          "text": "AutoGPT enables different GPTs to talk to each other, allowing for autonomous task completion",
+          "timestamp_seconds": 140
+        },
+        {
+          "text": "AutoGPT can break down complex tasks into smaller ones and complete them without human intervention",
+          "timestamp_seconds": 316
+        },
+        {
+          "text": "The technology has the potential to replace certain jobs and change the way companies operate",
+          "timestamp_seconds": 186
+        },
+        {
+          "text": "The rapid development of AI technology makes it difficult for regulators to set standards and rules",
+          "timestamp_seconds": 544
+        },
+        {
+          "text": "The hosts believe that AI regulation is necessary to prevent a 'shit show'",
+          "timestamp_seconds": 837
+        },
+        {
+          "text": "The cost of commercializing a software product has decreased significantly with the help of AI",
+          "timestamp_seconds": 849
+        },
+        {
+          "text": "The hosts think that the VC job and company formation are changing due to the advancements in AI",
+          "timestamp_seconds": 755
+        }
+      ],
+      "quotes": [
+        {
+          "text": "It's going to be a shit show",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 837
+        },
+        {
+          "text": "The rate of change is difficult to catch up",
+          "speaker": "David Friedberg",
+          "timestamp_seconds": 521
+        }
+      ],
+      "topics": [
+        "ai-regulation",
+        "autogpt",
+        "company-formation",
+        "capital-allocation",
+        "future-of-work",
+        "ai-safety",
+        "san-francisco-chaos"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The hosts are excited about the potential of AutoGPT, but also concerned about the risks and the need for regulation. They believe that the technology has the potential to change the world, but also acknowledge the challenges that come with it."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 140,
+          "description": "Introduction to AutoGPT and its capabilities"
+        },
+        {
+          "timestamp_seconds": 316,
+          "description": "Example of AutoGPT completing a complex task"
+        },
+        {
+          "timestamp_seconds": 544,
+          "description": "Discussion on AI regulation and its challenges"
+        },
+        {
+          "timestamp_seconds": 837,
+          "description": "Call for AI regulation to prevent a 'shit show'"
+        }
+      ]
     },
     {
       "id": "2023-04-07-trump-indictment-de-dollarization-should-vcs-back-chinese-ai-rip-bob-lee",
@@ -18658,13 +19426,91 @@
       "url": "https://allinchamathjason.libsyn.com/e123-trump-indictment-de-dollarization-should-vcs-back-chinese-ai-rip-bob-lee",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses the Trump indictment, de-dollarization, and whether VCs should back Chinese AI startups. The hosts debate the validity of the Trump indictment, with some arguing it's a weak case and others questioning the motivations behind it. They also discuss the potential consequences of the indictment and its impact on the 2024 presidential election.",
+      "takeaways": [
+        {
+          "text": "Trump's indictment may be a weak case",
+          "timestamp_seconds": 252
+        },
+        {
+          "text": "De-dollarization is a real concern",
+          "timestamp_seconds": 1687
+        },
+        {
+          "text": "VCs should be cautious when backing Chinese AI startups",
+          "timestamp_seconds": 3395
+        },
+        {
+          "text": "The Trump indictment may be a political move",
+          "timestamp_seconds": 364
+        },
+        {
+          "text": "The case may be a distraction from other important issues",
+          "timestamp_seconds": 702
+        },
+        {
+          "text": "The indictment may ultimately help Trump's presidential campaign",
+          "timestamp_seconds": 713
+        },
+        {
+          "text": "The hosts question the motivations behind the indictment",
+          "timestamp_seconds": 779
+        },
+        {
+          "text": "The case may have implications for the 2024 presidential election",
+          "timestamp_seconds": 728
+        }
+      ],
+      "quotes": [
+        {
+          "text": "It's a major distortion of campaign finance rules",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 422
+        },
+        {
+          "text": "These are misdemeanor crimes",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 567
+        },
+        {
+          "text": "This case should have been brought years ago",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 613
+        }
+      ],
+      "topics": [
+        "trump-indictment",
+        "de-dollarization",
+        "chinese-ai",
+        "vc-investing",
+        "politics",
+        "election-2024",
+        "campaign-finance",
+        "tax-evasion"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts are skeptical of the Trump indictment and question the motivations behind it. They also express concern about the potential consequences of the indictment and its impact on the 2024 presidential election."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 129,
+          "description": "The hosts introduce the topics for the episode"
+        },
+        {
+          "timestamp_seconds": 252,
+          "description": "The hosts discuss the Trump indictment"
+        },
+        {
+          "timestamp_seconds": 1687,
+          "description": "The hosts discuss de-dollarization"
+        },
+        {
+          "timestamp_seconds": 3395,
+          "description": "The hosts discuss VCs backing Chinese AI startups"
+        }
+      ]
     },
     {
       "id": "2023-03-31-is-ai-the-next-great-computing-platform-chatgpt-vs-google-containing-agi-restric",
@@ -18674,13 +19520,76 @@
       "url": "https://allinchamathjason.libsyn.com/e122-is-ai-the-next-great-computing-platform-chatgpt-vs-google-containing-agi-restrict-act",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses the potential of AI as the next great computing platform, with a focus on ChatGPT and Google. They also touch on Joe Manchin's op-ed criticizing Biden's IRA flip-flop and the RESTRICT Act. The hosts explore the possibilities of generative AI and its potential impact on job destruction.",
+      "takeaways": [
+        {
+          "text": "AI could be more important than mobile and the internet",
+          "timestamp_seconds": 26
+        },
+        {
+          "text": "ChatGPT plugins enable integration with various services",
+          "timestamp_seconds": 468
+        },
+        {
+          "text": "Give-to-get model can be used for AI startups to acquire proprietary training data",
+          "timestamp_seconds": 490
+        },
+        {
+          "text": "ChatGPT can be used as a researcher and writing partner",
+          "timestamp_seconds": 624
+        },
+        {
+          "text": "ChatGPT plugins can make some MVPs obsolete",
+          "timestamp_seconds": 808
+        },
+        {
+          "text": "ChatGPT can use a browser to access updated information",
+          "timestamp_seconds": 868
+        },
+        {
+          "text": "Intelligent agents can be built using ChatGPT and APIs",
+          "timestamp_seconds": 892
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I think this is just how I'm going to write all my blog posts",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 632
+        },
+        {
+          "text": "You were super kind to the AI",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 654
+        }
+      ],
+      "topics": [
+        "ai-platform",
+        "chatgpt",
+        "google",
+        "joe-manchin",
+        "ira",
+        "restrict-act",
+        "generative-ai",
+        "job-destruction",
+        "ai-startups",
+        "chatgpt-plugins"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The hosts are excited about the potential of AI and its applications, but also discuss potential challenges and limitations."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 468,
+          "description": "OpenAI launched ChatGPT plugins"
+        },
+        {
+          "timestamp_seconds": 808,
+          "description": "ChatGPT plugins can make some MVPs obsolete"
+        }
+      ]
     },
     {
       "id": "2023-03-24-macro-update-fed-hike-cre-debt-bubble-balajis-bitcoin-bet-tiktoks-endgame-more",
@@ -18690,13 +19599,84 @@
       "url": "https://allinchamathjason.libsyn.com/e121-macro-update-fed-hike-cre-debt-bubble-balajis-bitcoin-bet-tiktoks-endgame-more",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses the recent Fed rate hike, commercial real estate debt bubble, and Balaji's Bitcoin bet. The hosts also talk about TikTok's endgame in the US and the potential consequences of the Fed's actions on the economy.",
+      "takeaways": [
+        {
+          "text": "The Fed hiked rates by 25 basis points despite concerns about the economy",
+          "timestamp_seconds": 176
+        },
+        {
+          "text": "The hosts disagree on the Fed's decision, with some thinking they should have stood pat or cut rates",
+          "timestamp_seconds": 231
+        },
+        {
+          "text": "Commercial real estate debt is a growing concern, with $2.3 trillion in debt held by smaller banks",
+          "timestamp_seconds": 776
+        },
+        {
+          "text": "The yield on the 10-year treasury has dropped, potentially improving bank balance sheets",
+          "timestamp_seconds": 637
+        },
+        {
+          "text": "The hosts discuss the potential consequences of the Fed's actions on the economy, including uncertainty and damage to lending and risk-taking",
+          "timestamp_seconds": 596
+        },
+        {
+          "text": "The situation in commercial real estate is dire, with a credit crunch and no available credit for developers",
+          "timestamp_seconds": 840
+        },
+        {
+          "text": "Banks are becoming more paranoid and defensive, leading to a freeze on lending",
+          "timestamp_seconds": 877
+        },
+        {
+          "text": "The discount window borrowing has spiked, exceeding anything seen in 2008",
+          "timestamp_seconds": 901
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I don't think they know what they're doing",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 275
+        },
+        {
+          "text": "They took the worst option",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 527
+        },
+        {
+          "text": "The yield on the 10-year treasury has dropped",
+          "speaker": "David Friedberg",
+          "timestamp_seconds": 637
+        }
+      ],
+      "topics": [
+        "fed-rate-hike",
+        "commercial-real-estate",
+        "bitcoin",
+        "tiktok",
+        "economy",
+        "inflation",
+        "banking-crisis",
+        "quantitative-easing",
+        "interest-rates"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express concern and uncertainty about the Fed's actions and the state of the economy, with some predicting potential damage to lending and risk-taking."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 176,
+          "description": "The Fed hikes rates by 25 basis points"
+        },
+        {
+          "timestamp_seconds": 901,
+          "description": "The discount window borrowing spikes, exceeding anything seen in 2008"
+        }
+      ]
     },
     {
       "id": "2023-03-17-banking-crisis-and-the-great-vc-reset",
@@ -18706,13 +19686,82 @@
       "url": "https://allinchamathjason.libsyn.com/e120-banking-crisis-and-the-great-vc-reset",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In podcast discusses the recent banking crisis, its causes, and potential solutions. The hosts analyze the timeline of events, the role of venture capitalists, and the impact of the Fed's interest rate hikes. They also touch on the global debt problem and the need for supervisory failure in the banking industry.",
+      "takeaways": [
+        {
+          "text": "The banking crisis is not just a Silicon Valley problem, but a systemic issue",
+          "timestamp_seconds": 410
+        },
+        {
+          "text": "Venture capitalists are not to blame for the bank run",
+          "timestamp_seconds": 459
+        },
+        {
+          "text": "The rapid Fed tightening cycle has broken many things, including banks",
+          "timestamp_seconds": 480
+        },
+        {
+          "text": "The issues at Credit Suisse are different from those at First Republic and other banks",
+          "timestamp_seconds": 598
+        },
+        {
+          "text": "Supervisory failure is a major issue in the banking industry",
+          "timestamp_seconds": 741
+        },
+        {
+          "text": "There is a need for real-time monitoring of bank assets and liabilities",
+          "timestamp_seconds": 780
+        },
+        {
+          "text": "Politicians need to examine the root causes of the banking crisis",
+          "timestamp_seconds": 814
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I'm doing all in",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 84
+        },
+        {
+          "text": "We're talking about hundreds of billions of dollars in deposits",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 453
+        },
+        {
+          "text": "I stand by my mode of operating in the world",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 238
+        }
+      ],
+      "topics": [
+        "banking-crisis",
+        "venture-capital",
+        "fed-policy",
+        "interest-rates",
+        "global-debt",
+        "supervisory-failure",
+        "banking-regulation"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts are cautious about the banking crisis and its potential impact on the economy. They are critical of the Fed's interest rate hikes and the lack of supervisory oversight in the banking industry."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 125,
+          "description": "The hosts discuss the timeline of events leading up to the banking crisis"
+        },
+        {
+          "timestamp_seconds": 393,
+          "description": "David Sacks explains the five bank failures and their impact on the banking system"
+        },
+        {
+          "timestamp_seconds": 737,
+          "description": "The hosts discuss the real issue behind the banking crisis, including supervisory failure"
+        }
+      ]
     },
     {
       "id": "2023-03-11-silicon-valley-bank-implodes-startup-extinction-event-contagion-risk-culpability",
@@ -37511,5 +38560,5 @@
     "episode_count": 372
   },
   "brief_markdown": "# Weekly Brief — 2026-05-02\n\n**Latest episode:** OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze — 2026-05-01\n\n## What this episode covered\nThe All-In Podcast discusses OpenAI missing revenue targets, the rise of Codex, and the ongoing lawsuit between Elon Musk and Sam Altman. They also cover the recent earnings of big tech companies, the growing market of AI cybersecurity, and the emerging trend of peptides. Additionally, they share their experiences and insights on various topics, including the Supreme Court and the potential risks of AI.\n\n## Top takeaways\n- OpenAI misses revenue targets\n- Codex gains on Claude\n- AI cybersecurity market is about to explode\n- Elon Musk and Sam Altman lawsuit kicks off\n- Big tech smashes earnings, Capex explosion\n- Peptides go mainstream with Retatrutide craze\n- Friedberg shares Supreme Court experience\n\n## Notable quotes\n> \"AI deleted someone's codebase\" — Unknown\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `economy` — mentioned in 37 episodes\n- `politics` — mentioned in 37 episodes\n- `ai-safety` — mentioned in 37 episodes\n- `us-politics` — mentioned in 26 episodes\n- `big-tech` — mentioned in 22 episodes\n- `openai` — mentioned in 21 episodes\n- `inflation` — mentioned in 20 episodes\n- `venture-capital` — mentioned in 19 episodes\n- `covid-19` — mentioned in 18 episodes\n- `elon-musk` — mentioned in 18 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (13 appearances)\n- Gavin Baker (6 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n- Ryan Petersen (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-04-03: cautious\n- 2026-04-06: cautious\n- 2026-04-08: cautious\n- 2026-04-10: optimistic\n- 2026-04-24: cautious\n- 2026-05-01: mixed\n\n---\n_Generated 2026-05-02 from 372 episodes_",
-  "generated_at": "2026-05-02T04:21:25.979933+00:00"
+  "generated_at": "2026-05-02T09:06:30.334292+00:00"
 }
