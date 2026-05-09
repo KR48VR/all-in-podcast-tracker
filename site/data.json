@@ -1,6 +1,22 @@
 {
   "episodes": [
     {
+      "id": "2026-05-08-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom",
+      "number": null,
+      "title": "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom",
+      "date": "2026-05-08",
+      "url": "https://allinchamathjason.libsyn.com/elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
       "id": "2026-05-01-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-pe",
       "number": null,
       "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
@@ -19771,13 +19787,84 @@
       "url": "https://allinchamathjason.libsyn.com/e119-silicon-valley-bank-implodes-startup-extinction-event-contagion-risk-culpability-and-more",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses the collapse of Silicon Valley Bank, its impact on the startup ecosystem, and the potential for a regional banking crisis. The hosts analyze the events leading up to the bank's shutdown and the implications for the tech industry and the US economy.",
+      "takeaways": [
+        {
+          "text": "SVB's collapse is a Lehman-sized event for Silicon Valley",
+          "timestamp_seconds": 216
+        },
+        {
+          "text": "Thousands of startups may not be able to make payroll due to frozen funds",
+          "timestamp_seconds": 227
+        },
+        {
+          "text": "The collapse may lead to a run on regional banks",
+          "timestamp_seconds": 346
+        },
+        {
+          "text": "SVB's cash shortfall was triggered by a decline in deposits and a devalued bond portfolio",
+          "timestamp_seconds": 772
+        },
+        {
+          "text": "The bank's available-for-sale securities, mostly MBS, were devalued due to rising interest rates",
+          "timestamp_seconds": 670
+        },
+        {
+          "text": "The collapse may have a damaging effect on the startup economy and the US economy",
+          "timestamp_seconds": 291
+        },
+        {
+          "text": "The FDIC shutdown of SVB may lead to a cascade of events similar to the 2008 financial crisis",
+          "timestamp_seconds": 354
+        },
+        {
+          "text": "The hosts speculate that the Fed may need to step in to prevent a regional banking crisis",
+          "timestamp_seconds": 342
+        }
+      ],
+      "quotes": [
+        {
+          "text": "This is a Lehman-sized event for Silicon Valley",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 216
+        },
+        {
+          "text": "The whole startup ecosystem is in peril",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 259
+        }
+      ],
+      "topics": [
+        "silicon-valley-bank",
+        "banking-crisis",
+        "startup-ecosystem",
+        "regional-banking",
+        "fdic",
+        "fed",
+        "interest-rates",
+        "bond-portfolio",
+        "mbs",
+        "treasuries"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "bearish",
+        "notes": "The hosts are concerned about the potential impact of the SVB collapse on the startup ecosystem and the US economy, and speculate about the need for Fed intervention to prevent a regional banking crisis."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 122,
+          "description": "The FDIC shuts down Silicon Valley Bank"
+        },
+        {
+          "timestamp_seconds": 216,
+          "description": "David Sacks compares the SVB collapse to a Lehman-sized event"
+        },
+        {
+          "timestamp_seconds": 346,
+          "description": "The hosts discuss the potential for a run on regional banks"
+        }
+      ]
     },
     {
       "id": "2023-03-03-ai-fomo-frenzy-macro-update-fox-vs-dominion-us-vs-china-more-with-brad-gerstner",
@@ -19787,13 +19874,92 @@
       "url": "https://allinchamathjason.libsyn.com/e118-ai-fomo-frenzy-macro-update-fox-vs-dominion-us-vs-china-more-with-brad-gerstner",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses the current AI FOMO frenzy, macro updates, and various other topics with guest Brad Gerstner. They cover the massive influx of investments in generative AI startups, the potential risks and pressures on venture investors, and the comparison to previous platform shifts like the internet and mobile. The conversation also touches on the current LP mindset, startup cram downs, and mark downs, as well as the Fox News defamation lawsuit and the US-China competition.",
+      "takeaways": [
+        {
+          "text": "AI is the next platform shift, similar to the internet and mobile",
+          "timestamp_seconds": 474
+        },
+        {
+          "text": "Venture investors are under pressure to deploy capital due to high risk-free rates",
+          "timestamp_seconds": 582
+        },
+        {
+          "text": "Most AI startups will likely fail due to overinvestment and lack of time diversity",
+          "timestamp_seconds": 639
+        },
+        {
+          "text": "The cost of capital is limiting investment in AI startups",
+          "timestamp_seconds": 745
+        },
+        {
+          "text": "The current investment in AI is still relatively small compared to other platforms",
+          "timestamp_seconds": 723
+        },
+        {
+          "text": "Investors should be cautious of FOMO and invest based on market maps and rational thought processes",
+          "timestamp_seconds": 503
+        },
+        {
+          "text": "The comparison to the internet in 2000, where everyone knew it was going to be big, but didn't know how",
+          "timestamp_seconds": 759
+        },
+        {
+          "text": "Investors should consider the potential for AI to be bigger than the internet and mobile",
+          "timestamp_seconds": 709
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI is the next platform shift",
+          "speaker": "Doug Leone",
+          "timestamp_seconds": 474
+        },
+        {
+          "text": "Show me the incentive and I'll show you the outcome",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 533
+        },
+        {
+          "text": "It may be bigger than both the internet and mobile",
+          "speaker": "Brad Gerstner",
+          "timestamp_seconds": 709
+        }
+      ],
+      "topics": [
+        "ai-fomo",
+        "macro-update",
+        "fox-news",
+        "us-china-competition",
+        "venture-investing",
+        "platform-shift",
+        "internet",
+        "mobile",
+        "generative-ai",
+        "startups",
+        "investment"
+      ],
+      "guests": [
+        "Brad Gerstner"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts are cautious about the AI FOMO frenzy and the potential risks of overinvestment, but also acknowledge the potential for AI to be a significant platform shift."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 474,
+          "description": "Doug Leone discusses the next platform shift"
+        },
+        {
+          "timestamp_seconds": 582,
+          "description": "Chamath Palihapitiya talks about the pressure on venture investors"
+        },
+        {
+          "timestamp_seconds": 709,
+          "description": "Brad Gerstner compares AI to the internet and mobile"
+        }
+      ]
     },
     {
       "id": "2023-02-24-did-stripe-miss-its-window-plus-vc-market-update-ai-comes-for-saas-trumps-savvy-",
@@ -19803,13 +19969,87 @@
       "url": "https://allinchamathjason.libsyn.com/e117-did-stripe-miss-its-window-plus-vc-market-update-ai-comes-for-saas-trumps-savvy-move",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses Stripe's situation, including its $4B tax bill and slowing growth curve, and whether it missed its window to go public. The hosts also cover the VC market update, AI's impact on SaaS, and Trump's 2024 strategy.",
+      "takeaways": [
+        {
+          "text": "Stripe's growth curve is slowing down",
+          "timestamp_seconds": 90
+        },
+        {
+          "text": "ZIRP can skew CAC and LTV calculations",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "VC market is experiencing ZIRP mistakes",
+          "timestamp_seconds": 29
+        },
+        {
+          "text": "AI is having an outsized impact on SaaS",
+          "timestamp_seconds": 39
+        },
+        {
+          "text": "Founders should question waiting to go public",
+          "timestamp_seconds": 316
+        },
+        {
+          "text": "Adyen has found operating leverage, while Stripe has added many employees",
+          "timestamp_seconds": 541
+        },
+        {
+          "text": "SMBs are more early adopters and have simpler sales cycles",
+          "timestamp_seconds": 752
+        },
+        {
+          "text": "Companies can move up market from SMBs to enterprises over time",
+          "timestamp_seconds": 838
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Let your winners ride",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 44
+        },
+        {
+          "text": "Enterprises are more late adopters",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 769
+        }
+      ],
+      "topics": [
+        "stripe",
+        "vc-market",
+        "ai-safety",
+        "saas",
+        "trump-2024",
+        "zirp",
+        "cac",
+        "ltv",
+        "growth-curve",
+        "ipo",
+        "valuation",
+        "enterprise-vs-smb",
+        "fintech"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts discuss the challenges faced by Stripe and the VC market, and express caution about the impact of AI on SaaS. However, they also highlight the potential for growth and innovation in the industry."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to the episode, with Jason discussing his trip to Japan"
+        },
+        {
+          "timestamp_seconds": 23,
+          "description": "Discussion of lessons for founders, including the impact of ZIRP on CAC and LTV calculations"
+        },
+        {
+          "timestamp_seconds": 39,
+          "description": "Discussion of AI's impact on SaaS and real-world businesses"
+        }
+      ]
     },
     {
       "id": "2023-02-17-toxic-out-of-control-trains-regulators-and-ai",
@@ -19819,13 +20059,89 @@
       "url": "https://allinchamathjason.libsyn.com/e116-toxic-out-of-control-trains-regulators-and-ai",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses the Ohio train derailment, Lina Khan's FTC strategy, and AI chatbot bias. The hosts also talk about their recent charity poker game, where they raised $450,000 for various causes. They criticize the backlash against Mr. Beast for curing blindness in 1,000 people, calling it 'wokeism' and 'virtue signaling'.",
+      "takeaways": [
+        {
+          "text": "The Ohio train derailment released toxic chemicals, including vinyl chloride and phosgene.",
+          "timestamp_seconds": 549
+        },
+        {
+          "text": "Lina Khan's FTC strategy is flawed and has had a rough few weeks.",
+          "timestamp_seconds": 2530
+        },
+        {
+          "text": "AI chatbots can be biased and have problems, such as Bing Chat's strange answers.",
+          "timestamp_seconds": 5727
+        },
+        {
+          "text": "The hosts raised $450,000 for charity through their poker game.",
+          "timestamp_seconds": 52
+        },
+        {
+          "text": "The backlash against Mr. Beast for curing blindness is seen as 'wokeism' and 'virtue signaling'.",
+          "timestamp_seconds": 303
+        },
+        {
+          "text": "The hosts discuss the importance of acknowledging differences and not taking equality to an extreme.",
+          "timestamp_seconds": 407
+        },
+        {
+          "text": "The train derailment in Ohio is not getting enough coverage or outrage.",
+          "timestamp_seconds": 521
+        },
+        {
+          "text": "The chemical composition of vinyl chloride and its potential health effects are discussed.",
+          "timestamp_seconds": 599
+        }
+      ],
+      "quotes": [
+        {
+          "text": "It's the worst wokeism",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 334
+        },
+        {
+          "text": "I think it's even more cynical",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 443
+        },
+        {
+          "text": "What do you think about that really?",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 351
+        }
+      ],
+      "topics": [
+        "ohio-train-derailment",
+        "ftc-strategy",
+        "ai-bias",
+        "charity-poker",
+        "mr-beast",
+        "wokeism",
+        "equality",
+        "vinyl-chloride",
+        "phosgene",
+        "chemical-safety"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts are critical of the backlash against Mr. Beast and the lack of coverage of the Ohio train derailment. They also discuss the importance of acknowledging differences and not taking equality to an extreme."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 549,
+          "description": "The hosts discuss the Ohio train derailment and its potential health effects."
+        },
+        {
+          "timestamp_seconds": 303,
+          "description": "The hosts criticize the backlash against Mr. Beast for curing blindness."
+        },
+        {
+          "timestamp_seconds": 5727,
+          "description": "The hosts discuss AI chatbot bias and problems."
+        }
+      ]
     },
     {
       "id": "2023-02-11-the-ai-search-wars-google-vs-microsoft-nordstream-report-state-of-the-union",
@@ -19835,13 +20151,79 @@
       "url": "https://allinchamathjason.libsyn.com/e115-the-ai-search-wars-google-vs-microsoft-nordstream-report-state-of-the-union",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In Podcast discusses the US involvement in the destruction of Nordstream pipelines, the AI search wars between Google and Microsoft, and the State of the Union address. They also touch on the topic of generative AI and its potential impact on enterprise SaaS. The hosts express skepticism about the official narrative surrounding the Nordstream pipelines and discuss the potential consequences of the US being involved in the destruction.",
+      "takeaways": [
+        {
+          "text": "The US may have been involved in the destruction of Nordstream pipelines",
+          "timestamp_seconds": 233
+        },
+        {
+          "text": "Microsoft is pressing hard in the AI search wars",
+          "timestamp_seconds": 33
+        },
+        {
+          "text": "Google's business model is troubled",
+          "timestamp_seconds": 45
+        },
+        {
+          "text": "Generative AI may commodify enterprise SaaS",
+          "timestamp_seconds": 445
+        },
+        {
+          "text": "The State of the Union address was disappointing",
+          "timestamp_seconds": 694
+        },
+        {
+          "text": "The US may have had motive and means to destroy Nordstream pipelines",
+          "timestamp_seconds": 558
+        },
+        {
+          "text": "The CIA may have had plausible deniability in the destruction of Nordstream pipelines",
+          "timestamp_seconds": 707
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I'm going all in",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 91
+        },
+        {
+          "text": "We have ways",
+          "speaker": "David Sacks",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "nordstream-pipelines",
+        "ai-search-wars",
+        "google",
+        "microsoft",
+        "state-of-the-union",
+        "generative-ai",
+        "enterprise-saas",
+        "us-foreign-policy",
+        "russia-ukraine-war"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express skepticism and concern about the potential consequences of the US being involved in the destruction of Nordstream pipelines and the ongoing Russia-Ukraine war."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 233,
+          "description": "The hosts start discussing the US involvement in the destruction of Nordstream pipelines"
+        },
+        {
+          "timestamp_seconds": 33,
+          "description": "The hosts start discussing the AI search wars between Google and Microsoft"
+        },
+        {
+          "timestamp_seconds": 694,
+          "description": "The hosts start discussing the State of the Union address"
+        }
+      ]
     },
     {
       "id": "2023-02-04-markets-update-whipsaw-macro-picture-big-tech-startup-mass-extinction-event-vc-r",
@@ -30394,36 +30776,36 @@
   "trends": {
     "top_topics": [
       [
+        "ai-safety",
+        41
+      ],
+      [
         "economy",
-        37
+        39
       ],
       [
         "politics",
-        37
-      ],
-      [
-        "ai-safety",
-        37
+        38
       ],
       [
         "us-politics",
-        26
+        28
+      ],
+      [
+        "openai",
+        23
+      ],
+      [
+        "venture-capital",
+        22
       ],
       [
         "big-tech",
         22
       ],
       [
-        "openai",
-        21
-      ],
-      [
         "inflation",
-        20
-      ],
-      [
-        "venture-capital",
-        19
+        21
       ],
       [
         "covid-19",
@@ -30446,6 +30828,10 @@
         16
       ],
       [
+        "nvidia",
+        16
+      ],
+      [
         "free-speech",
         15
       ],
@@ -30454,27 +30840,31 @@
         15
       ],
       [
-        "nvidia",
-        15
+        "technology",
+        14
       ],
       [
         "us-economy",
         14
       ],
       [
-        "technology",
+        "innovation",
         13
       ],
       [
         "ai",
-        12
+        13
       ],
       [
         "tariffs",
-        12
+        13
       ],
       [
-        "innovation",
+        "startups",
+        11
+      ],
+      [
+        "regulation",
         11
       ],
       [
@@ -30484,14 +30874,6 @@
       [
         "democratic-party",
         11
-      ],
-      [
-        "startups",
-        10
-      ],
-      [
-        "trump",
-        10
       ]
     ],
     "topic_timeline": {
@@ -30532,6 +30914,8 @@
         "2024-01-06",
         "2024-07-04",
         "2024-08-02",
+        "2024-08-30",
+        "2024-10-15",
         "2024-11-08",
         "2025-04-05",
         "2025-05-25",
@@ -30558,6 +30942,7 @@
         "2022-05-29",
         "2022-06-02",
         "2022-10-01",
+        "2023-03-24",
         "2023-05-26",
         "2023-06-02",
         "2023-07-09",
@@ -30571,6 +30956,7 @@
         "2024-02-09",
         "2024-05-31",
         "2024-06-20",
+        "2024-10-15",
         "2025-03-19",
         "2025-03-20",
         "2025-04-05",
@@ -30594,6 +30980,7 @@
         "2022-06-24",
         "2022-10-01",
         "2023-02-04",
+        "2023-03-03",
         "2023-05-26",
         "2023-07-01"
       ],
@@ -30627,12 +31014,15 @@
         "2022-08-13",
         "2022-09-23",
         "2023-02-04",
+        "2023-03-17",
+        "2023-05-12",
         "2023-06-10",
         "2023-07-27",
         "2023-08-11",
         "2023-09-22",
         "2024-10-11",
         "2024-12-13",
+        "2025-02-15",
         "2025-05-29",
         "2025-08-15",
         "2025-10-09"
@@ -30782,6 +31172,7 @@
         "2020-07-11",
         "2022-02-05",
         "2022-09-10",
+        "2023-10-20",
         "2024-10-01"
       ],
       "china-us-relations": [
@@ -30806,6 +31197,7 @@
         "2021-12-23",
         "2022-06-23",
         "2023-01-06",
+        "2023-05-12",
         "2023-05-26",
         "2023-07-14",
         "2023-12-29",
@@ -30821,10 +31213,12 @@
         "2021-07-16",
         "2022-06-03",
         "2022-06-23",
+        "2023-05-12",
         "2023-07-14",
         "2024-04-26",
         "2024-05-03",
         "2024-10-08",
+        "2024-10-15",
         "2025-04-11",
         "2025-10-14"
       ],
@@ -30868,7 +31262,9 @@
         "2024-11-16",
         "2025-06-03",
         "2025-07-23",
-        "2025-10-01"
+        "2025-10-01",
+        "2026-01-23",
+        "2026-04-17"
       ],
       "m-and-a": [
         "2020-07-31"
@@ -30880,7 +31276,8 @@
         "2021-05-01",
         "2025-09-30",
         "2025-10-24",
-        "2026-03-23"
+        "2026-03-23",
+        "2026-04-29"
       ],
       "spacs": [
         "2020-09-09"
@@ -30891,6 +31288,7 @@
       ],
       "election-2024": [
         "2020-09-09",
+        "2023-04-07",
         "2023-11-11",
         "2024-08-02",
         "2024-08-16",
@@ -30950,6 +31348,7 @@
         "2022-11-12",
         "2022-12-24",
         "2023-01-06",
+        "2023-04-07",
         "2023-04-21",
         "2023-05-19",
         "2023-05-26",
@@ -31130,6 +31529,8 @@
         "2020-12-04",
         "2022-12-03",
         "2023-01-13",
+        "2023-02-24",
+        "2023-04-14",
         "2023-05-19",
         "2023-06-16",
         "2023-11-03",
@@ -31141,8 +31542,10 @@
         "2024-05-10",
         "2024-05-24",
         "2024-06-29",
+        "2024-08-30",
         "2024-12-20",
         "2025-01-28",
+        "2025-02-15",
         "2025-05-02",
         "2025-05-20",
         "2025-07-11",
@@ -31362,6 +31765,7 @@
       "ipo": [
         "2021-02-13",
         "2021-04-17",
+        "2023-02-24",
         "2023-06-16",
         "2023-08-11",
         "2023-09-22",
@@ -31384,6 +31788,7 @@
         "2022-12-24",
         "2023-01-06",
         "2025-01-04",
+        "2025-02-15",
         "2025-07-23",
         "2025-11-22",
         "2026-01-25"
@@ -31462,7 +31867,8 @@
       "longevity": [
         "2021-03-20",
         "2025-06-19",
-        "2025-10-14"
+        "2025-10-14",
+        "2026-03-26"
       ],
       "quantum-computing": [
         "2021-03-20",
@@ -31498,6 +31904,7 @@
         "2022-07-08",
         "2022-07-14",
         "2022-10-14",
+        "2023-03-24",
         "2023-07-14",
         "2023-08-11",
         "2023-12-08",
@@ -31520,6 +31927,8 @@
         "2021-03-27",
         "2022-02-12",
         "2023-01-13",
+        "2023-02-11",
+        "2024-08-30",
         "2026-01-21"
       ],
       "discord": [
@@ -31600,7 +32009,8 @@
       "tax-reform": [
         "2021-04-23",
         "2021-10-02",
-        "2024-08-23"
+        "2024-08-23",
+        "2026-04-29"
       ],
       "federal-budget": [
         "2021-04-23"
@@ -31623,6 +32033,7 @@
         "2021-05-01",
         "2023-12-01",
         "2024-06-20",
+        "2024-10-15",
         "2025-01-20",
         "2025-04-05",
         "2025-07-23",
@@ -31758,6 +32169,7 @@
       "bitcoin": [
         "2021-06-13",
         "2022-02-19",
+        "2023-03-24",
         "2024-11-16",
         "2024-12-07",
         "2025-09-18",
@@ -31846,7 +32258,8 @@
         "2021-07-09"
       ],
       "san-francisco-chaos": [
-        "2021-07-09"
+        "2021-07-09",
+        "2023-04-14"
       ],
       "israel": [
         "2021-07-09"
@@ -31885,7 +32298,8 @@
       "capital-allocation": [
         "2021-07-23",
         "2021-10-30",
-        "2021-11-06"
+        "2021-11-06",
+        "2023-04-14"
       ],
       "online-pessimism": [
         "2021-07-23"
@@ -31922,6 +32336,7 @@
       ],
       "fintech": [
         "2021-08-06",
+        "2023-02-24",
         "2024-01-26",
         "2024-11-16",
         "2025-09-15"
@@ -32256,7 +32671,9 @@
         "2021-12-11",
         "2023-05-05",
         "2023-05-26",
-        "2025-09-05"
+        "2024-10-15",
+        "2025-09-05",
+        "2026-04-29"
       ],
       "macro-outlook": [
         "2021-12-11",
@@ -32303,7 +32720,9 @@
         "2022-12-24",
         "2023-12-29",
         "2024-11-23",
-        "2025-11-14"
+        "2025-02-15",
+        "2025-11-14",
+        "2026-01-23"
       ],
       "media": [
         "2021-12-23"
@@ -32370,7 +32789,8 @@
       "fraud": [
         "2022-01-08",
         "2023-02-04",
-        "2026-01-09"
+        "2026-01-09",
+        "2026-04-29"
       ],
       "downturn": [
         "2022-01-08"
@@ -32403,6 +32823,7 @@
       ],
       "vc-investing": [
         "2022-01-29",
+        "2023-04-07",
         "2023-08-25"
       ],
       "us-russia-relations": [
@@ -32454,7 +32875,8 @@
         "2022-02-05"
       ],
       "misinformation": [
-        "2022-02-05"
+        "2022-02-05",
+        "2023-10-20"
       ],
       "spotify": [
         "2022-02-12"
@@ -32527,6 +32949,7 @@
       "us-foreign-policy": [
         "2022-02-24",
         "2022-05-25",
+        "2023-02-11",
         "2023-10-13",
         "2024-01-13",
         "2024-10-01",
@@ -32542,6 +32965,7 @@
       "russia-ukraine-war": [
         "2022-03-05",
         "2022-03-19",
+        "2023-02-11",
         "2025-08-20"
       ],
       "economic-sanctions": [
@@ -32612,6 +33036,7 @@
         "2022-03-26",
         "2022-04-16",
         "2022-06-03",
+        "2023-05-12",
         "2023-09-01",
         "2023-09-22",
         "2024-04-19",
@@ -32740,7 +33165,8 @@
         "2024-07-26",
         "2024-10-25",
         "2025-04-26",
-        "2025-11-07"
+        "2025-11-07",
+        "2026-04-17"
       ],
       "economic-indicators": [
         "2022-04-30"
@@ -32813,6 +33239,7 @@
       "valuation": [
         "2022-05-23",
         "2023-01-06",
+        "2023-02-24",
         "2023-09-29"
       ],
       "bull-run": [
@@ -33007,7 +33434,8 @@
       ],
       "healthcare": [
         "2022-06-01",
-        "2023-11-17"
+        "2023-11-17",
+        "2026-01-23"
       ],
       "customer-service": [
         "2022-06-01"
@@ -33059,6 +33487,7 @@
       "saas": [
         "2022-06-07",
         "2022-12-03",
+        "2023-02-24",
         "2023-12-08",
         "2025-07-04"
       ],
@@ -33150,6 +33579,9 @@
       "interest-rates": [
         "2022-07-14",
         "2023-02-04",
+        "2023-03-11",
+        "2023-03-17",
+        "2023-03-24",
         "2023-07-14",
         "2024-01-13",
         "2025-03-22",
@@ -33158,7 +33590,8 @@
       ],
       "global-debt": [
         "2022-07-14",
-        "2022-10-01"
+        "2022-10-01",
+        "2023-03-17"
       ],
       "sri-lanka": [
         "2022-07-14"
@@ -33553,6 +33986,9 @@
       "generative-ai": [
         "2022-12-03",
         "2023-01-13",
+        "2023-02-11",
+        "2023-03-03",
+        "2023-03-31",
         "2024-03-01",
         "2025-08-22",
         "2025-10-08"
@@ -33622,6 +34058,7 @@
         "2024-06-07",
         "2024-06-14",
         "2024-06-29",
+        "2024-08-30",
         "2024-12-20",
         "2025-01-31",
         "2025-05-24",
@@ -33632,7 +34069,8 @@
         "2025-12-06",
         "2026-01-21",
         "2026-03-27",
-        "2026-04-03"
+        "2026-04-03",
+        "2026-04-17"
       ],
       "vc-hype-cycle": [
         "2023-01-13"
@@ -33643,6 +34081,7 @@
       ],
       "tiktok": [
         "2023-01-20",
+        "2023-03-24",
         "2024-10-11",
         "2025-01-25"
       ],
@@ -33698,8 +34137,232 @@
       "wage-growth": [
         "2023-02-04"
       ],
+      "nordstream-pipelines": [
+        "2023-02-11"
+      ],
+      "ai-search-wars": [
+        "2023-02-11"
+      ],
+      "google": [
+        "2023-02-11",
+        "2023-03-31",
+        "2024-02-23",
+        "2024-07-19",
+        "2024-10-11",
+        "2025-05-20"
+      ],
+      "state-of-the-union": [
+        "2023-02-11",
+        "2026-02-28"
+      ],
+      "enterprise-saas": [
+        "2023-02-11"
+      ],
+      "ohio-train-derailment": [
+        "2023-02-17"
+      ],
+      "ftc-strategy": [
+        "2023-02-17"
+      ],
+      "ai-bias": [
+        "2023-02-17",
+        "2025-10-24"
+      ],
+      "charity-poker": [
+        "2023-02-17"
+      ],
+      "mr-beast": [
+        "2023-02-17"
+      ],
+      "wokeism": [
+        "2023-02-17"
+      ],
+      "equality": [
+        "2023-02-17"
+      ],
+      "vinyl-chloride": [
+        "2023-02-17"
+      ],
+      "phosgene": [
+        "2023-02-17"
+      ],
+      "chemical-safety": [
+        "2023-02-17"
+      ],
+      "stripe": [
+        "2023-02-24",
+        "2024-07-19",
+        "2025-02-21",
+        "2025-03-01"
+      ],
+      "vc-market": [
+        "2023-02-24",
+        "2023-08-11"
+      ],
+      "trump-2024": [
+        "2023-02-24"
+      ],
+      "zirp": [
+        "2023-02-24"
+      ],
+      "cac": [
+        "2023-02-24"
+      ],
+      "ltv": [
+        "2023-02-24"
+      ],
+      "growth-curve": [
+        "2023-02-24"
+      ],
+      "enterprise-vs-smb": [
+        "2023-02-24"
+      ],
+      "ai-fomo": [
+        "2023-03-03"
+      ],
+      "macro-update": [
+        "2023-03-03"
+      ],
       "fox-news": [
+        "2023-03-03",
         "2023-04-21"
+      ],
+      "us-china-competition": [
+        "2023-03-03",
+        "2025-01-31",
+        "2025-10-27"
+      ],
+      "venture-investing": [
+        "2023-03-03"
+      ],
+      "platform-shift": [
+        "2023-03-03"
+      ],
+      "internet": [
+        "2023-03-03"
+      ],
+      "mobile": [
+        "2023-03-03"
+      ],
+      "investment": [
+        "2023-03-03",
+        "2025-10-14"
+      ],
+      "silicon-valley-bank": [
+        "2023-03-11"
+      ],
+      "banking-crisis": [
+        "2023-03-11",
+        "2023-03-17",
+        "2023-03-24"
+      ],
+      "startup-ecosystem": [
+        "2023-03-11"
+      ],
+      "regional-banking": [
+        "2023-03-11"
+      ],
+      "fdic": [
+        "2023-03-11"
+      ],
+      "fed": [
+        "2023-03-11",
+        "2025-12-22"
+      ],
+      "bond-portfolio": [
+        "2023-03-11"
+      ],
+      "mbs": [
+        "2023-03-11"
+      ],
+      "treasuries": [
+        "2023-03-11"
+      ],
+      "fed-policy": [
+        "2023-03-17"
+      ],
+      "supervisory-failure": [
+        "2023-03-17"
+      ],
+      "banking-regulation": [
+        "2023-03-17"
+      ],
+      "fed-rate-hike": [
+        "2023-03-24"
+      ],
+      "commercial-real-estate": [
+        "2023-03-24",
+        "2023-08-18"
+      ],
+      "quantitative-easing": [
+        "2023-03-24"
+      ],
+      "ai-platform": [
+        "2023-03-31"
+      ],
+      "chatgpt": [
+        "2023-03-31",
+        "2025-07-11",
+        "2025-12-06"
+      ],
+      "joe-manchin": [
+        "2023-03-31"
+      ],
+      "ira": [
+        "2023-03-31"
+      ],
+      "restrict-act": [
+        "2023-03-31"
+      ],
+      "job-destruction": [
+        "2023-03-31"
+      ],
+      "ai-startups": [
+        "2023-03-31",
+        "2023-06-16"
+      ],
+      "chatgpt-plugins": [
+        "2023-03-31"
+      ],
+      "trump-indictment": [
+        "2023-04-07",
+        "2023-08-04",
+        "2023-08-18"
+      ],
+      "de-dollarization": [
+        "2023-04-07",
+        "2026-01-30"
+      ],
+      "chinese-ai": [
+        "2023-04-07"
+      ],
+      "campaign-finance": [
+        "2023-04-07"
+      ],
+      "tax-evasion": [
+        "2023-04-07"
+      ],
+      "ai-regulation": [
+        "2023-04-14",
+        "2023-05-12",
+        "2023-05-19",
+        "2023-11-03",
+        "2024-05-10",
+        "2025-05-31",
+        "2025-07-04",
+        "2025-07-23",
+        "2025-12-19"
+      ],
+      "autogpt": [
+        "2023-04-14"
+      ],
+      "company-formation": [
+        "2023-04-14"
+      ],
+      "future-of-work": [
+        "2023-04-14",
+        "2025-02-07",
+        "2026-01-23"
       ],
       "ai-investing": [
         "2023-04-21",
@@ -33754,17 +34417,29 @@
       "agency-capture": [
         "2023-05-05"
       ],
-      "ai-regulation": [
-        "2023-05-19",
-        "2023-11-03",
-        "2024-05-10",
-        "2025-05-31",
-        "2025-07-04",
-        "2025-07-23",
-        "2025-12-19"
+      "ai-wars": [
+        "2023-05-12"
+      ],
+      "google-ai": [
+        "2023-05-12",
+        "2024-05-17",
+        "2024-12-20",
+        "2025-02-07",
+        "2025-05-24",
+        "2025-11-22"
+      ],
+      "bard-ai": [
+        "2023-05-12"
+      ],
+      "chat-gpt": [
+        "2023-05-12"
+      ],
+      "trump-cnn": [
+        "2023-05-12"
       ],
       "apple": [
         "2023-05-19",
+        "2024-03-22",
         "2024-06-07",
         "2024-06-14",
         "2025-08-09",
@@ -33783,6 +34458,7 @@
         "2024-04-12",
         "2024-05-24",
         "2024-06-07",
+        "2024-08-30",
         "2025-01-11",
         "2025-03-29",
         "2025-04-19",
@@ -33797,6 +34473,7 @@
         "2023-05-26",
         "2023-09-29",
         "2024-06-14",
+        "2024-08-30",
         "2024-10-03",
         "2025-01-04",
         "2025-03-01",
@@ -33849,9 +34526,6 @@
       ],
       "apple-tv": [
         "2023-06-10"
-      ],
-      "ai-startups": [
-        "2023-06-16"
       ],
       "reddit-api": [
         "2023-06-16"
@@ -33972,10 +34646,6 @@
       "fitch-downgrade": [
         "2023-08-04"
       ],
-      "trump-indictment": [
-        "2023-08-04",
-        "2023-08-18"
-      ],
       "breakthrough-science": [
         "2023-08-04"
       ],
@@ -33987,9 +34657,6 @@
       ],
       "lk-99": [
         "2023-08-04"
-      ],
-      "vc-market": [
-        "2023-08-11"
       ],
       "series-a": [
         "2023-08-11"
@@ -34014,9 +34681,6 @@
       "wall-street": [
         "2023-08-18",
         "2025-03-19"
-      ],
-      "commercial-real-estate": [
-        "2023-08-18"
       ],
       "nvidia-earnings": [
         "2023-08-25"
@@ -34137,6 +34801,27 @@
         "2023-10-13",
         "2025-09-15"
       ],
+      "israel-gaza-conflict": [
+        "2023-10-20"
+      ],
+      "eu-censorship": [
+        "2023-10-20",
+        "2026-01-22"
+      ],
+      "glp-1-hype-cycle": [
+        "2023-10-20"
+      ],
+      "middle-east-politics": [
+        "2023-10-20",
+        "2023-11-11",
+        "2025-05-17"
+      ],
+      "conflict-resolution": [
+        "2023-10-20"
+      ],
+      "emotional-intelligence": [
+        "2023-10-20"
+      ],
       "us-iran-conflict": [
         "2023-10-27"
       ],
@@ -34169,10 +34854,6 @@
       ],
       "israel-hamas-conflict": [
         "2023-11-11"
-      ],
-      "middle-east-politics": [
-        "2023-11-11",
-        "2025-05-17"
       ],
       "ai-developments": [
         "2023-11-11"
@@ -34355,12 +35036,6 @@
       "ai-computing": [
         "2024-02-23"
       ],
-      "google": [
-        "2024-02-23",
-        "2024-07-19",
-        "2024-10-11",
-        "2025-05-20"
-      ],
       "wokeness": [
         "2024-02-23"
       ],
@@ -34386,7 +35061,8 @@
         "2024-03-01"
       ],
       "reddit-ipo": [
-        "2024-03-01"
+        "2024-03-01",
+        "2024-03-22"
       ],
       "klarna-innovation": [
         "2024-03-01"
@@ -34426,6 +35102,24 @@
       ],
       "vertical-ai": [
         "2024-03-15"
+      ],
+      "antitrust-lawsuit": [
+        "2024-03-22"
+      ],
+      "ai-partnerships": [
+        "2024-03-22"
+      ],
+      "nar-settlement": [
+        "2024-03-22"
+      ],
+      "microsoft-acquisition": [
+        "2024-03-22"
+      ],
+      "consumer-choice": [
+        "2024-03-22"
+      ],
+      "app-store-policies": [
+        "2024-03-22"
       ],
       "sbfs-sentence": [
         "2024-03-29"
@@ -34501,7 +35195,8 @@
       ],
       "ai-strategy": [
         "2024-04-26",
-        "2025-08-09"
+        "2025-08-09",
+        "2026-01-23"
       ],
       "tesla-future": [
         "2024-04-26"
@@ -34562,13 +35257,6 @@
       ],
       "argentina-bet": [
         "2024-05-17"
-      ],
-      "google-ai": [
-        "2024-05-17",
-        "2024-12-20",
-        "2025-02-07",
-        "2025-05-24",
-        "2025-11-22"
       ],
       "athena-bet": [
         "2024-05-17"
@@ -34696,11 +35384,6 @@
       "jd-vance": [
         "2024-07-19"
       ],
-      "stripe": [
-        "2024-07-19",
-        "2025-02-21",
-        "2025-03-01"
-      ],
       "wiz": [
         "2024-07-19",
         "2025-03-22"
@@ -34779,6 +35462,29 @@
       "employment-statistics": [
         "2024-08-23"
       ],
+      "paypal": [
+        "2024-08-30"
+      ],
+      "reid-hoffman": [
+        "2024-08-30",
+        "2026-02-20"
+      ],
+      "robert-f-kennedy-jr": [
+        "2024-08-30"
+      ],
+      "ai-infrastructure": [
+        "2024-08-30",
+        "2025-07-19",
+        "2026-03-17",
+        "2026-03-23"
+      ],
+      "open-source": [
+        "2024-08-30",
+        "2025-05-20"
+      ],
+      "proprietary-ai": [
+        "2024-08-30"
+      ],
       "founder-mode": [
         "2024-09-06"
       ],
@@ -34799,7 +35505,8 @@
         "2025-11-05"
       ],
       "government-waste": [
-        "2024-09-20"
+        "2024-09-20",
+        "2026-04-29"
       ],
       "trump-kamala-debate": [
         "2024-09-20"
@@ -34844,6 +35551,7 @@
       ],
       "government-efficiency": [
         "2024-10-08",
+        "2024-10-15",
         "2025-10-30"
       ],
       "ai-future": [
@@ -34867,6 +35575,15 @@
       ],
       "vc-giveback": [
         "2024-10-11"
+      ],
+      "donald-trump": [
+        "2024-10-15"
+      ],
+      "2020-election": [
+        "2024-10-15"
+      ],
+      "vice-president": [
+        "2024-10-15"
       ],
       "lawfare": [
         "2024-10-18"
@@ -35095,11 +35812,8 @@
         "2025-07-24",
         "2025-08-01",
         "2025-09-24",
-        "2025-11-04"
-      ],
-      "us-china-competition": [
-        "2025-01-31",
-        "2025-10-27"
+        "2025-11-04",
+        "2026-04-17"
       ],
       "self-driving-cars": [
         "2025-01-31",
@@ -35124,9 +35838,33 @@
       "glp-1s": [
         "2025-02-07"
       ],
-      "future-of-work": [
-        "2025-02-07",
-        "2026-01-23"
+      "product-building": [
+        "2025-02-15"
+      ],
+      "philosophy": [
+        "2025-02-15"
+      ],
+      "tariffs": [
+        "2025-02-15",
+        "2025-03-08",
+        "2025-03-20",
+        "2025-04-05",
+        "2025-04-11",
+        "2025-04-26",
+        "2025-05-02",
+        "2025-08-09",
+        "2025-09-05",
+        "2025-09-07",
+        "2025-12-22",
+        "2026-02-28",
+        "2026-03-03"
+      ],
+      "techno-optimism": [
+        "2025-02-15",
+        "2025-09-30"
+      ],
+      "doomers": [
+        "2025-02-15"
       ],
       "grok-3": [
         "2025-02-21"
@@ -35153,20 +35891,6 @@
       ],
       "great-reset": [
         "2025-03-01"
-      ],
-      "tariffs": [
-        "2025-03-08",
-        "2025-03-20",
-        "2025-04-05",
-        "2025-04-11",
-        "2025-04-26",
-        "2025-05-02",
-        "2025-08-09",
-        "2025-09-05",
-        "2025-09-07",
-        "2025-12-22",
-        "2026-02-28",
-        "2026-03-03"
       ],
       "market-chaos": [
         "2025-03-08"
@@ -35406,9 +36130,6 @@
       "ai-robotics": [
         "2025-05-20"
       ],
-      "open-source": [
-        "2025-05-20"
-      ],
       "human-computer-interaction": [
         "2025-05-20"
       ],
@@ -35557,7 +36278,8 @@
       "mental-health": [
         "2025-06-19",
         "2025-08-15",
-        "2025-09-29"
+        "2025-09-29",
+        "2026-03-26"
       ],
       "wellness": [
         "2025-06-19",
@@ -35651,10 +36373,6 @@
       "grok-4": [
         "2025-07-11"
       ],
-      "chatgpt": [
-        "2025-07-11",
-        "2025-12-06"
-      ],
       "perplexity": [
         "2025-07-11"
       ],
@@ -35674,11 +36392,6 @@
       ],
       "crypto-regulations": [
         "2025-07-19"
-      ],
-      "ai-infrastructure": [
-        "2025-07-19",
-        "2026-03-17",
-        "2026-03-23"
       ],
       "commerce": [
         "2025-07-23"
@@ -35944,7 +36657,8 @@
       ],
       "unemployment": [
         "2025-09-16",
-        "2025-12-19"
+        "2025-12-19",
+        "2026-04-29"
       ],
       "endowments": [
         "2025-09-16"
@@ -36050,9 +36764,6 @@
         "2025-09-30"
       ],
       "science-communication": [
-        "2025-09-30"
-      ],
-      "techno-optimism": [
         "2025-09-30"
       ],
       "fermi-paradox": [
@@ -36210,9 +36921,6 @@
       "finance": [
         "2025-10-14"
       ],
-      "investment": [
-        "2025-10-14"
-      ],
       "health": [
         "2025-10-14"
       ],
@@ -36309,9 +37017,6 @@
         "2025-10-24"
       ],
       "billionaire-tax": [
-        "2025-10-24"
-      ],
-      "ai-bias": [
         "2025-10-24"
       ],
       "aws-outage": [
@@ -36488,7 +37193,8 @@
         "2025-12-13"
       ],
       "data-centers": [
-        "2025-12-13"
+        "2025-12-13",
+        "2026-01-23"
       ],
       "construction-workers": [
         "2025-12-13"
@@ -36506,9 +37212,6 @@
         "2025-12-19"
       ],
       "affordability": [
-        "2025-12-22"
-      ],
-      "fed": [
         "2025-12-22"
       ],
       "tax-cuts": [
@@ -36644,9 +37347,6 @@
       "white-collar-work": [
         "2026-01-21"
       ],
-      "eu-censorship": [
-        "2026-01-22"
-      ],
       "ai-deepfakes": [
         "2026-01-22"
       ],
@@ -36659,10 +37359,23 @@
       "dsa-overreach": [
         "2026-01-22"
       ],
-      "compute-power": [
+      "infrastructure-build-out": [
+        "2026-01-23"
+      ],
+      "global-competition": [
+        "2026-01-23"
+      ],
+      "electricity-rates": [
+        "2026-01-23"
+      ],
+      "knowledge-workers": [
         "2026-01-23"
       ],
       "productivity": [
+        "2026-01-23",
+        "2026-01-23"
+      ],
+      "compute-power": [
         "2026-01-23"
       ],
       "physical-robots": [
@@ -36699,9 +37412,6 @@
         "2026-01-30"
       ],
       "clawdbot": [
-        "2026-01-30"
-      ],
-      "de-dollarization": [
         "2026-01-30"
       ],
       "gold-and-silver": [
@@ -36758,9 +37468,6 @@
       "epstein-mythology": [
         "2026-02-20"
       ],
-      "reid-hoffman": [
-        "2026-02-20"
-      ],
       "prince-andrew": [
         "2026-02-20"
       ],
@@ -36771,9 +37478,6 @@
         "2026-02-20"
       ],
       "software-stocks": [
-        "2026-02-28"
-      ],
-      "state-of-the-union": [
         "2026-02-28"
       ],
       "energy-consumption": [
@@ -36816,7 +37520,8 @@
         "2026-03-06",
         "2026-03-19",
         "2026-03-27",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-17"
       ],
       "us-defense-supply-chain": [
         "2026-03-06"
@@ -36968,6 +37673,24 @@
       "future-of-ai": [
         "2026-03-23"
       ],
+      "psychedelics": [
+        "2026-03-26"
+      ],
+      "brain-function": [
+        "2026-03-26"
+      ],
+      "default-mode-network": [
+        "2026-03-26"
+      ],
+      "neuroplasticity": [
+        "2026-03-26"
+      ],
+      "5-meo-dmt": [
+        "2026-03-26"
+      ],
+      "psilocybin": [
+        "2026-03-26"
+      ],
       "meta": [
         "2026-03-27"
       ],
@@ -37016,6 +37739,21 @@
       "revenue-ramp": [
         "2026-04-10"
       ],
+      "nyc-real-estate": [
+        "2026-04-17"
+      ],
+      "taxation": [
+        "2026-04-17"
+      ],
+      "datacenter-wars": [
+        "2026-04-17"
+      ],
+      "allbirds": [
+        "2026-04-17"
+      ],
+      "eric-swalwell": [
+        "2026-04-17"
+      ],
       "space-tech": [
         "2026-04-24"
       ],
@@ -37027,6 +37765,12 @@
       ],
       "tech-debt": [
         "2026-04-24"
+      ],
+      "economic-growth": [
+        "2026-04-29"
+      ],
+      "poverty": [
+        "2026-04-29"
       ],
       "ai-revenue": [
         "2026-05-01"
@@ -37056,7 +37800,7 @@
     "top_guests": [
       [
         "Brad Gerstner",
-        13
+        14
       ],
       [
         "Gavin Baker",
@@ -37083,6 +37827,10 @@
         4
       ],
       [
+        "Travis Kalanick",
+        4
+      ],
+      [
         "Bill Gurley",
         3
       ],
@@ -37095,15 +37843,15 @@
         3
       ],
       [
-        "Travis Kalanick",
-        3
-      ],
-      [
         "Scott Bessent",
         3
       ],
       [
         "Howard Lutnick",
+        3
+      ],
+      [
+        "Bryan Johnson",
         3
       ],
       [
@@ -37131,6 +37879,10 @@
         2
       ],
       [
+        "Robert F. Kennedy Jr.",
+        2
+      ],
+      [
         "President Trump",
         2
       ],
@@ -37139,19 +37891,11 @@
         2
       ],
       [
+        "JD Vance",
+        2
+      ],
+      [
         "Aaron Levie",
-        2
-      ],
-      [
-        "Cyan Banister",
-        2
-      ],
-      [
-        "Thomas Laffont",
-        2
-      ],
-      [
-        "Ray Dalio",
         2
       ]
     ],
@@ -37665,6 +38409,46 @@
         "overall": "cautious"
       },
       {
+        "date": "2023-02-11",
+        "overall": "cautious"
+      },
+      {
+        "date": "2023-02-17",
+        "overall": "cautious"
+      },
+      {
+        "date": "2023-02-24",
+        "overall": "cautious"
+      },
+      {
+        "date": "2023-03-03",
+        "overall": "cautious"
+      },
+      {
+        "date": "2023-03-11",
+        "overall": "bearish"
+      },
+      {
+        "date": "2023-03-17",
+        "overall": "cautious"
+      },
+      {
+        "date": "2023-03-24",
+        "overall": "cautious"
+      },
+      {
+        "date": "2023-03-31",
+        "overall": "optimistic"
+      },
+      {
+        "date": "2023-04-07",
+        "overall": "cautious"
+      },
+      {
+        "date": "2023-04-14",
+        "overall": "mixed"
+      },
+      {
         "date": "2023-04-21",
         "overall": "cautious"
       },
@@ -37675,6 +38459,10 @@
       {
         "date": "2023-05-05",
         "overall": "cautious"
+      },
+      {
+        "date": "2023-05-12",
+        "overall": "optimistic"
       },
       {
         "date": "2023-05-19",
@@ -37761,6 +38549,10 @@
         "overall": "cautious"
       },
       {
+        "date": "2023-10-20",
+        "overall": "cautious"
+      },
+      {
         "date": "2023-10-27",
         "overall": "cautious"
       },
@@ -37838,6 +38630,10 @@
       },
       {
         "date": "2024-03-15",
+        "overall": "mixed"
+      },
+      {
+        "date": "2024-03-22",
         "overall": "mixed"
       },
       {
@@ -37933,6 +38729,10 @@
         "overall": "mixed"
       },
       {
+        "date": "2024-08-30",
+        "overall": "mixed"
+      },
+      {
         "date": "2024-09-06",
         "overall": "mixed"
       },
@@ -37958,6 +38758,10 @@
       },
       {
         "date": "2024-10-11",
+        "overall": "mixed"
+      },
+      {
+        "date": "2024-10-15",
         "overall": "mixed"
       },
       {
@@ -38031,6 +38835,10 @@
       {
         "date": "2025-02-07",
         "overall": "mixed"
+      },
+      {
+        "date": "2025-02-15",
+        "overall": "optimistic"
       },
       {
         "date": "2025-02-21",
@@ -38453,6 +39261,10 @@
         "overall": "optimistic"
       },
       {
+        "date": "2026-01-23",
+        "overall": "optimistic"
+      },
+      {
         "date": "2026-01-24",
         "overall": "cautious"
       },
@@ -38529,6 +39341,10 @@
         "overall": "optimistic"
       },
       {
+        "date": "2026-03-26",
+        "overall": "optimistic"
+      },
+      {
         "date": "2026-03-27",
         "overall": "mixed"
       },
@@ -38549,16 +39365,24 @@
         "overall": "optimistic"
       },
       {
+        "date": "2026-04-17",
+        "overall": "cautious"
+      },
+      {
         "date": "2026-04-24",
         "overall": "cautious"
+      },
+      {
+        "date": "2026-04-29",
+        "overall": "optimistic"
       },
       {
         "date": "2026-05-01",
         "overall": "mixed"
       }
     ],
-    "episode_count": 372
+    "episode_count": 373
   },
-  "brief_markdown": "# Weekly Brief — 2026-05-02\n\n**Latest episode:** OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze — 2026-05-01\n\n## What this episode covered\nThe All-In Podcast discusses OpenAI missing revenue targets, the rise of Codex, and the ongoing lawsuit between Elon Musk and Sam Altman. They also cover the recent earnings of big tech companies, the growing market of AI cybersecurity, and the emerging trend of peptides. Additionally, they share their experiences and insights on various topics, including the Supreme Court and the potential risks of AI.\n\n## Top takeaways\n- OpenAI misses revenue targets\n- Codex gains on Claude\n- AI cybersecurity market is about to explode\n- Elon Musk and Sam Altman lawsuit kicks off\n- Big tech smashes earnings, Capex explosion\n- Peptides go mainstream with Retatrutide craze\n- Friedberg shares Supreme Court experience\n\n## Notable quotes\n> \"AI deleted someone's codebase\" — Unknown\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `economy` — mentioned in 37 episodes\n- `politics` — mentioned in 37 episodes\n- `ai-safety` — mentioned in 37 episodes\n- `us-politics` — mentioned in 26 episodes\n- `big-tech` — mentioned in 22 episodes\n- `openai` — mentioned in 21 episodes\n- `inflation` — mentioned in 20 episodes\n- `venture-capital` — mentioned in 19 episodes\n- `covid-19` — mentioned in 18 episodes\n- `elon-musk` — mentioned in 18 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (13 appearances)\n- Gavin Baker (6 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n- Ryan Petersen (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-04-03: cautious\n- 2026-04-06: cautious\n- 2026-04-08: cautious\n- 2026-04-10: optimistic\n- 2026-04-24: cautious\n- 2026-05-01: mixed\n\n---\n_Generated 2026-05-02 from 372 episodes_",
-  "generated_at": "2026-05-02T09:06:30.334292+00:00"
+  "brief_markdown": "# Weekly Brief — 2026-05-09\n\n**Latest episode:** Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom — 2026-05-08\n\n## What this episode covered\n_No summary available_\n\n## Top takeaways\n\n## Notable quotes\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` — mentioned in 41 episodes\n- `economy` — mentioned in 39 episodes\n- `politics` — mentioned in 38 episodes\n- `us-politics` — mentioned in 28 episodes\n- `openai` — mentioned in 23 episodes\n- `venture-capital` — mentioned in 22 episodes\n- `big-tech` — mentioned in 22 episodes\n- `inflation` — mentioned in 21 episodes\n- `covid-19` — mentioned in 18 episodes\n- `elon-musk` — mentioned in 18 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (6 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n- Ryan Petersen (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-04-08: cautious\n- 2026-04-10: optimistic\n- 2026-04-17: cautious\n- 2026-04-24: cautious\n- 2026-04-29: optimistic\n- 2026-05-01: mixed\n\n---\n_Generated 2026-05-09 from 373 episodes_",
+  "generated_at": "2026-05-09T04:29:11.135583+00:00"
 }
