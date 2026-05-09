@@ -99,82 +99,158 @@
       "url": "https://allinchamathjason.libsyn.com/ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win",
       "youtube_url": "https://www.youtube.com/watch?v=9WQu7w1tII0",
       "youtube_video_id": "9WQu7w1tII0",
-      "summary": "Steve Hilton, a Republican candidate for California governor, discusses his background, policy positions, and vision for the state. He proposes a tax plan with no state tax for those earning under $100,000 and a 7.5% flat tax for those above. Hilton argues that this plan will help working-class Californians and stimulate economic growth.",
+      "summary": "Steve Hilton, a Republican Brit running for California Governor, discusses his background, policy positions, and plans to address California's issues, including high cost of living, failing education system, crime, and homelessness. He shares his unique tax plan, which includes no state tax for those earning under $100,000 and a 7.5% flat tax for those above. The conversation concludes with the hosts wishing him luck in his campaign and discussing the need for balance in California's government.",
       "takeaways": [
         {
-          "text": "No state tax for Californians earning under $100,000",
+          "text": "Steve Hilton is a Republican Brit running for California Governor",
+          "timestamp_seconds": 11
+        },
+        {
+          "text": "Hilton's tax plan includes no state tax for those earning under $100,000 and a 7.5% flat tax for those above",
           "timestamp_seconds": 523
         },
         {
-          "text": "7.5% flat tax for Californians earning above $100,000",
-          "timestamp_seconds": 536
+          "text": "California's housing costs are driven by union power, litigation, and climate dogma",
+          "timestamp_seconds": 1727
         },
         {
-          "text": "California has the highest unemployment and poverty rates in the country",
-          "timestamp_seconds": 580
+          "text": "California has the highest rents and poverty rate in America",
+          "timestamp_seconds": 2045
         },
         {
-          "text": "Over a third of Californians cannot afford basic needs",
-          "timestamp_seconds": 597
+          "text": "California is not enforcing its laws, leading to increased crime and homelessness",
+          "timestamp_seconds": 3066
         },
         {
-          "text": "Hilton's tax plan would reduce revenue by 18.5%, equivalent to $60 billion",
-          "timestamp_seconds": 780
+          "text": "The prison closure program has led to the release of tens of thousands of violent criminals",
+          "timestamp_seconds": 3197
         },
         {
-          "text": "7 million households would benefit from the tax plan",
-          "timestamp_seconds": 847
+          "text": "Steve Hilton plans to stop and reverse the prison closure program to increase prison capacity",
+          "timestamp_seconds": 3293
         },
         {
-          "text": "Hilton aims to reduce spending to pre-pandemic levels",
-          "timestamp_seconds": 809
-        },
-        {
-          "text": "Hilton established CalDOACH to investigate government waste and fraud",
-          "timestamp_seconds": 962
+          "text": "Hilton's plan to address homelessness includes enforcing the law, providing drug and alcohol recovery, and treating mental health issues",
+          "timestamp_seconds": 3439
         }
       ],
       "quotes": [
         {
-          "text": "I'm a proud American now",
+          "text": "Mrs. Thatcher's for the workers, and labor are for the layabouts",
           "speaker": "Steve Hilton",
-          "timestamp_seconds": 502
+          "timestamp_seconds": 420
         },
         {
-          "text": "We've got to get back to a more reasonable growth in spending",
+          "text": "I just wanted to earn money. I just wanted to get out",
           "speaker": "Steve Hilton",
-          "timestamp_seconds": 906
+          "timestamp_seconds": 214
+        },
+        {
+          "text": "things that start with good intentions actually end up being taken to an extreme",
+          "speaker": "Steve Hilton",
+          "timestamp_seconds": 1870
+        },
+        {
+          "text": "CEQA is a nightmare in terms of regulation",
+          "speaker": "Steve Hilton",
+          "timestamp_seconds": 1898
+        },
+        {
+          "text": "The unions run this place",
+          "speaker": "Steve Hilton",
+          "timestamp_seconds": 2159
+        },
+        {
+          "text": "We're wholly dependent on Iraqi oil",
+          "speaker": "Steve Hilton",
+          "timestamp_seconds": 2376
+        },
+        {
+          "text": "It's just this classic thing in California",
+          "speaker": "Steve Hilton",
+          "timestamp_seconds": 3060
+        },
+        {
+          "text": "Micro looting",
+          "speaker": "Steve Hilton",
+          "timestamp_seconds": 3126
+        },
+        {
+          "text": "You have nothing to lose",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 4092
         }
       ],
       "topics": [
-        "california-politics",
+        "california-governor-race",
         "tax-reform",
         "economic-growth",
-        "government-spending",
-        "poverty",
-        "unemployment",
-        "government-waste",
-        "fraud"
+        "government-efficiency",
+        "california-politics",
+        "housing-costs",
+        "union-power",
+        "litigation",
+        "climate-dogma",
+        "california-housing",
+        "california-education",
+        "gas-prices",
+        "oil-imports",
+        "crime",
+        "homelessness",
+        "prison-reform",
+        "election-2026"
       ],
       "guests": [
         "Steve Hilton"
       ],
       "sentiment": {
-        "overall": "optimistic",
-        "notes": "The episode has an optimistic tone, with Steve Hilton presenting his vision for California's future and proposing solutions to the state's economic and social problems."
+        "overall": "cautious",
+        "notes": "The conversation is critical of California's current state and the guests express concern about the issues facing the state, but Steve Hilton's plans and ideas are presented as potential solutions, leaving a sense of cautious optimism."
       },
       "notable_moments": [
         {
           "timestamp_seconds": 0,
-          "description": "Introduction to Steve Hilton, Republican candidate for California governor"
+          "description": "Introduction to Steve Hilton, a Republican Brit running for California Governor"
         },
         {
-          "timestamp_seconds": 502,
-          "description": "Steve Hilton discusses his decision to renounce his UK citizenship and become a US citizen"
+          "timestamp_seconds": 44,
+          "description": "Discussion of California's economic issues and comparison to the UK in the 1970s"
         },
         {
-          "timestamp_seconds": 962,
-          "description": "Steve Hilton introduces CalDOACH, his initiative to investigate government waste and fraud"
+          "timestamp_seconds": 516,
+          "description": "Discussion of Hilton's tax plan and its potential impact on California's economy"
+        },
+        {
+          "timestamp_seconds": 996,
+          "description": "Steve Hilton discusses his campaign team and strategy"
+        },
+        {
+          "timestamp_seconds": 1689,
+          "description": "The conversation turns to the topic of housing costs in California"
+        },
+        {
+          "timestamp_seconds": 2056,
+          "description": "Steve Hilton shares his experience trying to pass housing reform"
+        },
+        {
+          "timestamp_seconds": 2322,
+          "description": "Steve Hilton discusses California's oil imports and gas prices"
+        },
+        {
+          "timestamp_seconds": 2746,
+          "description": "Steve Hilton criticizes California's education system"
+        },
+        {
+          "timestamp_seconds": 3054,
+          "description": "Discussion on crime in California begins"
+        },
+        {
+          "timestamp_seconds": 3439,
+          "description": "Steve Hilton outlines his three-point plan to address homelessness"
+        },
+        {
+          "timestamp_seconds": 4068,
+          "description": "The hosts thank Steve Hilton for his time"
         }
       ]
     },
@@ -274,39 +350,39 @@
       "url": "https://allinchamathjason.libsyn.com/openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out",
       "youtube_url": "https://www.youtube.com/watch?v=SFdqX7IY7RY",
       "youtube_video_id": "SFdqX7IY7RY",
-      "summary": "The All-In Podcast discusses various topics including OpenAI's identity crisis, the impact of a new tax on second homes in NYC, and the state of the market. Travis Kalanick joins the show as a guest. The hosts also talk about the datacenter wars, Allbirds' stock surge, and Eric Swalwell's resignation from Congress.",
+      "summary": "The All-In Podcast discusses various topics including New York City's proposed pied-à-terre tax, OpenAI's identity crisis, the competition between OpenAI and Anthropic, the surge in Allbirds' stock due to its pivot to AI, data centers, and the current state of the market. The episode also features a game show, 'The Price is Wrong', where the hosts guess which overvalued startups are being described. The hosts are joined by guest Travis Kalanick, who shares his insights on the topics discussed.",
       "takeaways": [
         {
-          "text": "New tax on second homes in NYC may lead to a decrease in demand and a crash in the market",
+          "text": "New York City's proposed pied-à-terre tax may lead to a decrease in demand for second homes",
           "timestamp_seconds": 94
         },
         {
-          "text": "Allowing people to build units to satisfy demand can lead to lower rents and housing prices",
-          "timestamp_seconds": 398
-        },
-        {
-          "text": "Imposing arbitrary taxes can lead to a decline in investment and development in a city",
-          "timestamp_seconds": 472
-        },
-        {
-          "text": "OpenAI is pivoting to focus on business customers and win the agent platform layer",
+          "text": "OpenAI is pivoting towards business customers and competing with Anthropic",
           "timestamp_seconds": 727
         },
         {
-          "text": "Anthropic's $30 billion run rate is inflated due to revenue share and accounting with AI model providers",
-          "timestamp_seconds": 703
+          "text": "Anthropic's growth rate is around 10x a year, outpacing OpenAI's 3-4x growth rate",
+          "timestamp_seconds": 1388
         },
         {
-          "text": "Real estate in blue states is becoming less attractive to wealthy investors due to high taxes and regulations",
-          "timestamp_seconds": 677
+          "text": "Allbirds' stock has surged due to its pivot to AI",
+          "timestamp_seconds": 2030
         },
         {
-          "text": "The introduction of new taxes and regulations can lead to a slow bleed and hollowing out of a city's economy",
-          "timestamp_seconds": 592
+          "text": "The market is pricing in a resolution to the war in Iran",
+          "timestamp_seconds": 4311
         },
         {
-          "text": "The high-end real estate market in London has collapsed due to the introduction of the stamp tax",
-          "timestamp_seconds": 433
+          "text": "AI's potential to transform businesses is real, but change management is a significant challenge",
+          "timestamp_seconds": 5031
+        },
+        {
+          "text": "Data centers create jobs, particularly in construction and blue-collar industries",
+          "timestamp_seconds": 2991
+        },
+        {
+          "text": "The efficiency boom from AI deployment will greatly benefit companies that execute it correctly",
+          "timestamp_seconds": 4710
         }
       ],
       "quotes": [
@@ -316,38 +392,124 @@
           "timestamp_seconds": 159
         },
         {
-          "text": "I think it's good for hotels",
+          "text": "I go to a hotel",
           "speaker": "Chamath Palihapitiya",
-          "timestamp_seconds": 327
+          "timestamp_seconds": 279
+        },
+        {
+          "text": "Network effects was the whole thing at the end of the day",
+          "speaker": "Travis Kalanick",
+          "timestamp_seconds": 1028
+        },
+        {
+          "text": "You can't just keep raising $100 billion things forever",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 1197
+        },
+        {
+          "text": "Collective delusion",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 2117
+        },
+        {
+          "text": "Regulatory capture at its worst",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 2300
+        },
+        {
+          "text": "B-Y-O-E, bring your own energy to the space",
+          "speaker": "Travis Kalanick",
+          "timestamp_seconds": 3080
+        },
+        {
+          "text": "I typically take four fries. I lick the burrito",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 3392
+        },
+        {
+          "text": "Nancy Pelosi is substantially better than Warren Buffett",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 4154
+        },
+        {
+          "text": "Trump's weather vane is the stock market",
+          "speaker": "Travis Kalanick",
+          "timestamp_seconds": 4475
         }
       ],
       "topics": [
-        "nyc-real-estate",
+        "pied-a-terre-tax",
+        "new-york-city",
         "openai",
         "anthropic",
-        "ai-development",
-        "taxation",
-        "regulation",
-        "datacenter-wars",
+        "housing-affordability",
+        "real-estate",
+        "ai",
+        "enterprise-sales",
+        "growth-rates",
+        "revenue",
+        "data-centers",
+        "infrastructure",
         "allbirds",
+        "regulatory-capture",
+        "iran-war",
+        "nancy-pelosi",
+        "stock-market",
+        "ai-efficiency",
+        "spacex-ipo",
         "eric-swalwell",
-        "market-trends"
+        "startups",
+        "game-show",
+        "change-management",
+        "valuation"
       ],
       "guests": [
         "Travis Kalanick"
       ],
       "sentiment": {
-        "overall": "cautious",
-        "notes": "The hosts express concern about the impact of new taxes and regulations on the economy and the real estate market. They also discuss the challenges faced by OpenAI and the potential consequences of its pivot to focus on business customers."
+        "overall": "mixed",
+        "notes": "The hosts discuss various topics with a mix of optimism and caution, reflecting the complexity and uncertainty of the current market and technological landscape."
       },
       "notable_moments": [
         {
-          "timestamp_seconds": 687,
-          "description": "OpenAI's chief revenue officer sends a memo to employees about the company's pivot to focus on business customers"
+          "timestamp_seconds": 0,
+          "description": "Introduction to the podcast and guest Travis Kalanick"
         },
         {
-          "timestamp_seconds": 0,
-          "description": "Travis Kalanick joins the show as a guest"
+          "timestamp_seconds": 687,
+          "description": "Discussion of OpenAI's identity crisis and pivot towards business customers"
+        },
+        {
+          "timestamp_seconds": 1053,
+          "description": "Travis Kalanick expresses concern about OpenAI's growth rate compared to Anthropic"
+        },
+        {
+          "timestamp_seconds": 2030,
+          "description": "Discussion of Allbirds' pivot to AI begins"
+        },
+        {
+          "timestamp_seconds": 3041,
+          "description": "Discussion about the number of contested data centers and their economic value"
+        },
+        {
+          "timestamp_seconds": 3286,
+          "description": "Introduction to the game show 'The Price is Wrong'"
+        },
+        {
+          "timestamp_seconds": 3930,
+          "description": "Discussion of Biden's resignation and Nancy Pelosi's involvement"
+        },
+        {
+          "timestamp_seconds": 4311,
+          "description": "The market's reaction to the war in Iran is discussed"
+        },
+        {
+          "timestamp_seconds": 4903,
+          "description": "Discussion on AI's potential to transform businesses begins"
+        },
+        {
+          "timestamp_seconds": 5243,
+          "description": "Game of 'The Price is Wrong' starts"
         }
       ]
     },
@@ -759,74 +921,145 @@
       "url": "https://allinchamathjason.libsyn.com/are-psychedelics-the-key-to-living-forever-ft-bryan-johnson",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "Bryan Johnson shares his experience with 5-MeO-DMT, a powerful psychedelic, and its potential effects on longevity and brain function. He discusses his motivations for trying the substance and the profound impact it had on his life and relationships. The conversation also touches on the potential risks and benefits of psychedelics in the context of longevity and mental health.",
+      "summary": "Bryan Johnson shares his experience with 5-MeO-DMT, a powerful psychedelic, and its potential effects on longevity and brain function. He discusses the benefits and risks of using psychedelics, as well as other modalities for longevity, such as mitochondrial therapy and gene therapy. Johnson also talks about the role of psychedelics in maintaining a youthful disposition and can-do attitude.",
       "takeaways": [
         {
-          "text": "5-MeO-DMT can have a profound impact on brain function and longevity",
-          "timestamp_seconds": 146
+          "text": "5-MeO-DMT may have anti-aging effects by reducing inflammation and resetting brain metabolism",
+          "timestamp_seconds": 562
         },
         {
-          "text": "The default mode network is responsible for constructing self and ego",
-          "timestamp_seconds": 386
-        },
-        {
-          "text": "Psilocybin can dampen the default mode network, leading to increased neuroplasticity",
+          "text": "Psilocybin has been shown to dampen the default mode network, leading to increased neuroplasticity",
           "timestamp_seconds": 434
         },
         {
-          "text": "5-MeO-DMT can annihilate the default mode network, leading to a childlike state",
-          "timestamp_seconds": 631
+          "text": "Bryan Johnson believes that psychedelics can be beneficial, but they need to be approached with rigor and safety structures in place",
+          "timestamp_seconds": 1024
         },
         {
-          "text": "Psychedelics can be used therapeutically to treat depression and anxiety",
-          "timestamp_seconds": 808
+          "text": "Abundance in areas like food, energy, and lifespan can lead to a happier society",
+          "timestamp_seconds": 2053
         },
         {
-          "text": "Brain function and structure can be measured using various modalities, including MRI and EEG",
-          "timestamp_seconds": 845
+          "text": "Psychedelics may play a role in maintaining a youthful disposition and can-do attitude",
+          "timestamp_seconds": 2200
         },
         {
-          "text": "Psychedelics should be used with caution and under the guidance of a licensed professional",
-          "timestamp_seconds": 954
+          "text": "Johnson's experience with 5-MeO-DMT was more efficacious than other methods he's tried for improving his well-being",
+          "timestamp_seconds": 1073
+        },
+        {
+          "text": "Internal unhappiness can lead to external conflict",
+          "timestamp_seconds": 2069
+        },
+        {
+          "text": "Poor health can lead to a negative psychological disposition",
+          "timestamp_seconds": 2080
         }
       ],
       "quotes": [
         {
-          "text": "I'm stunned. Absolutely floored. Speechless.",
+          "text": "It's like an impossible task to explain what it's like",
           "speaker": "Bryan Johnson",
-          "timestamp_seconds": 160
+          "timestamp_seconds": 146
         },
         {
-          "text": "You experience raw consciousness and raw intelligence",
+          "text": "You have to release all attachment, all preconditions, all want, all desire",
           "speaker": "Bryan Johnson",
-          "timestamp_seconds": 165
+          "timestamp_seconds": 271
+        },
+        {
+          "text": "I'm struggling to move with the change",
+          "speaker": "Bryan Johnson",
+          "timestamp_seconds": 1371
+        },
+        {
+          "text": "I don't trust my internal generation of reality",
+          "speaker": "Bryan Johnson",
+          "timestamp_seconds": 1473
+        },
+        {
+          "text": "100%",
+          "speaker": "Bryan Johnson",
+          "timestamp_seconds": 2106
+        },
+        {
+          "text": "I can take on the world",
+          "speaker": "Bryan Johnson",
+          "timestamp_seconds": 2098
+        },
+        {
+          "text": "Youthful disposition of a can-do attitude",
+          "speaker": "Bryan Johnson",
+          "timestamp_seconds": 2192
+        },
+        {
+          "text": "30-40 years of psychological rejuvenation",
+          "speaker": "Bryan Johnson",
+          "timestamp_seconds": 2220
         }
       ],
       "topics": [
         "psychedelics",
         "longevity",
         "brain-function",
-        "default-mode-network",
         "neuroplasticity",
-        "mental-health",
-        "5-meo-dmt",
-        "psilocybin"
+        "5-meO-dmt",
+        "psilocybin",
+        "mitochondrial-therapy",
+        "gene-therapy",
+        "organoids",
+        "yamanaka-factors",
+        "glp-1s",
+        "abundance",
+        "health"
       ],
       "guests": [
         "Bryan Johnson"
       ],
       "sentiment": {
         "overall": "optimistic",
-        "notes": "The conversation is overwhelmingly positive, with Bryan Johnson sharing his life-changing experience with 5-MeO-DMT and the potential benefits of psychedelics for longevity and mental health."
+        "notes": "The overall sentiment of the episode is optimistic, as Bryan Johnson shares his positive experiences with 5-MeO-DMT and discusses the potential benefits of psychedelics and other modalities for longevity. However, he also acknowledges the risks and importance of approaching these substances with caution."
       },
       "notable_moments": [
         {
-          "timestamp_seconds": 146,
-          "description": "Bryan Johnson shares his experience with 5-MeO-DMT"
+          "timestamp_seconds": 53,
+          "description": "Bryan Johnson explains why he chose to try 5-MeO-DMT"
         },
         {
-          "timestamp_seconds": 631,
-          "description": "Bryan Johnson describes the effect of 5-MeO-DMT on his default mode network"
+          "timestamp_seconds": 134,
+          "description": "Bryan Johnson describes his experience with 5-MeO-DMT"
+        },
+        {
+          "timestamp_seconds": 320,
+          "description": "Discussion on the internal chatter and ego during the experience"
+        },
+        {
+          "timestamp_seconds": 776,
+          "description": "Bryan Johnson shares his past experiences with hallucinogenics"
+        },
+        {
+          "timestamp_seconds": 1043,
+          "description": "Bryan Johnson agrees that psychedelics deserve caution"
+        },
+        {
+          "timestamp_seconds": 1090,
+          "description": "Johnson describes the impact of 5-MeO-DMT on his life"
+        },
+        {
+          "timestamp_seconds": 1122,
+          "description": "Discussion of the consequences of using psychedelics, including dramatic life changes"
+        },
+        {
+          "timestamp_seconds": 1601,
+          "description": "Johnson talks about his interest in mitochondrial therapy and gene therapy"
+        },
+        {
+          "timestamp_seconds": 1925,
+          "description": "Discussion on alternatives to Yamanaka factors"
+        },
+        {
+          "timestamp_seconds": 2067,
+          "description": "Relationship between internal unhappiness and external conflict"
         }
       ]
     },
@@ -2447,82 +2680,13 @@
       "url": "https://allinchamathjason.libsyn.com/inside-americas-ai-strategy-infrastructure-regulation-and-global-competition",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "The episode discusses America's AI strategy, focusing on infrastructure build-out, regulation, and global competition. Guests David Sacks and Michael Kratsios share their insights on the current state of AI in the US, highlighting the need for a federal framework to regulate AI and the importance of data center build-out. They also discuss the potential applications of AI in various industries, including healthcare and science.",
-      "takeaways": [
-        {
-          "text": "The US needs a federal framework to regulate AI",
-          "timestamp_seconds": 282
-        },
-        {
-          "text": "Data center build-out is crucial for AI development",
-          "timestamp_seconds": 487
-        },
-        {
-          "text": "AI has the potential to revolutionize industries such as healthcare and science",
-          "timestamp_seconds": 869
-        },
-        {
-          "text": "The US is competing with China in the AI race",
-          "timestamp_seconds": 66
-        },
-        {
-          "text": "Regulatory environment is key to driving AI innovation",
-          "timestamp_seconds": 222
-        },
-        {
-          "text": "AI can improve productivity for knowledge workers",
-          "timestamp_seconds": 845
-        },
-        {
-          "text": "AI for science is a challenging but promising area of research",
-          "timestamp_seconds": 956
-        },
-        {
-          "text": "Data center build-out can bring down electricity rates",
-          "timestamp_seconds": 682
-        }
-      ],
-      "quotes": [
-        {
-          "text": "We will win the AI race",
-          "speaker": "David Sacks",
-          "timestamp_seconds": 25
-        },
-        {
-          "text": "We need a sensible national framework",
-          "speaker": "Michael Kratsios",
-          "timestamp_seconds": 289
-        }
-      ],
-      "topics": [
-        "ai-strategy",
-        "infrastructure-build-out",
-        "regulation",
-        "global-competition",
-        "healthcare",
-        "science",
-        "data-centers",
-        "electricity-rates",
-        "knowledge-workers",
-        "productivity"
-      ],
-      "guests": [
-        "Michael Kratsios"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The episode has a positive tone, with guests expressing confidence in the US's ability to lead in AI and highlighting the potential benefits of AI in various industries."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 487,
-          "description": "Michael Kratsios discusses the importance of data center build-out for AI development"
-        },
-        {
-          "timestamp_seconds": 869,
-          "description": "David Sacks highlights the potential applications of AI in healthcare"
-        }
-      ]
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
     },
     {
       "id": "2026-01-23-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos",
@@ -39384,5 +39548,5 @@
     "episode_count": 373
   },
   "brief_markdown": "# Weekly Brief — 2026-05-09\n\n**Latest episode:** Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom — 2026-05-08\n\n## What this episode covered\n_No summary available_\n\n## Top takeaways\n\n## Notable quotes\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` — mentioned in 41 episodes\n- `economy` — mentioned in 39 episodes\n- `politics` — mentioned in 38 episodes\n- `us-politics` — mentioned in 28 episodes\n- `openai` — mentioned in 23 episodes\n- `venture-capital` — mentioned in 22 episodes\n- `big-tech` — mentioned in 22 episodes\n- `inflation` — mentioned in 21 episodes\n- `covid-19` — mentioned in 18 episodes\n- `elon-musk` — mentioned in 18 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (6 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n- Ryan Petersen (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-04-08: cautious\n- 2026-04-10: optimistic\n- 2026-04-17: cautious\n- 2026-04-24: cautious\n- 2026-04-29: optimistic\n- 2026-05-01: mixed\n\n---\n_Generated 2026-05-09 from 373 episodes_",
-  "generated_at": "2026-05-09T04:29:11.135583+00:00"
+  "generated_at": "2026-05-09T10:21:58.181190+00:00"
 }

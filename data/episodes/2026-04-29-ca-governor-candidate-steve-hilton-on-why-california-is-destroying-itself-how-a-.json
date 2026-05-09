@@ -4206,5 +4206,163 @@
       "end": 4121.91,
       "text": "I'm doing all in"
     }
-  ]
+  ],
+  "analysis": {
+    "summary": "Steve Hilton, a Republican Brit running for California Governor, discusses his background, policy positions, and plans to address California's issues, including high cost of living, failing education system, crime, and homelessness. He shares his unique tax plan, which includes no state tax for those earning under $100,000 and a 7.5% flat tax for those above. The conversation concludes with the hosts wishing him luck in his campaign and discussing the need for balance in California's government.",
+    "takeaways": [
+      {
+        "text": "Steve Hilton is a Republican Brit running for California Governor",
+        "timestamp_seconds": 11
+      },
+      {
+        "text": "Hilton's tax plan includes no state tax for those earning under $100,000 and a 7.5% flat tax for those above",
+        "timestamp_seconds": 523
+      },
+      {
+        "text": "California's housing costs are driven by union power, litigation, and climate dogma",
+        "timestamp_seconds": 1727
+      },
+      {
+        "text": "California has the highest rents and poverty rate in America",
+        "timestamp_seconds": 2045
+      },
+      {
+        "text": "California is not enforcing its laws, leading to increased crime and homelessness",
+        "timestamp_seconds": 3066
+      },
+      {
+        "text": "The prison closure program has led to the release of tens of thousands of violent criminals",
+        "timestamp_seconds": 3197
+      },
+      {
+        "text": "Steve Hilton plans to stop and reverse the prison closure program to increase prison capacity",
+        "timestamp_seconds": 3293
+      },
+      {
+        "text": "Hilton's plan to address homelessness includes enforcing the law, providing drug and alcohol recovery, and treating mental health issues",
+        "timestamp_seconds": 3439
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Mrs. Thatcher's for the workers, and labor are for the layabouts",
+        "speaker": "Steve Hilton",
+        "timestamp_seconds": 420
+      },
+      {
+        "text": "I just wanted to earn money. I just wanted to get out",
+        "speaker": "Steve Hilton",
+        "timestamp_seconds": 214
+      },
+      {
+        "text": "things that start with good intentions actually end up being taken to an extreme",
+        "speaker": "Steve Hilton",
+        "timestamp_seconds": 1870
+      },
+      {
+        "text": "CEQA is a nightmare in terms of regulation",
+        "speaker": "Steve Hilton",
+        "timestamp_seconds": 1898
+      },
+      {
+        "text": "The unions run this place",
+        "speaker": "Steve Hilton",
+        "timestamp_seconds": 2159
+      },
+      {
+        "text": "We're wholly dependent on Iraqi oil",
+        "speaker": "Steve Hilton",
+        "timestamp_seconds": 2376
+      },
+      {
+        "text": "It's just this classic thing in California",
+        "speaker": "Steve Hilton",
+        "timestamp_seconds": 3060
+      },
+      {
+        "text": "Micro looting",
+        "speaker": "Steve Hilton",
+        "timestamp_seconds": 3126
+      },
+      {
+        "text": "You have nothing to lose",
+        "speaker": "Jason Calacanis",
+        "timestamp_seconds": 4092
+      }
+    ],
+    "topics": [
+      "california-governor-race",
+      "tax-reform",
+      "economic-growth",
+      "government-efficiency",
+      "california-politics",
+      "housing-costs",
+      "union-power",
+      "litigation",
+      "climate-dogma",
+      "california-housing",
+      "california-education",
+      "gas-prices",
+      "oil-imports",
+      "crime",
+      "homelessness",
+      "prison-reform",
+      "election-2026"
+    ],
+    "guests": [
+      "Steve Hilton"
+    ],
+    "sentiment": {
+      "overall": "cautious",
+      "notes": "The conversation is critical of California's current state and the guests express concern about the issues facing the state, but Steve Hilton's plans and ideas are presented as potential solutions, leaving a sense of cautious optimism."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 0,
+        "description": "Introduction to Steve Hilton, a Republican Brit running for California Governor"
+      },
+      {
+        "timestamp_seconds": 44,
+        "description": "Discussion of California's economic issues and comparison to the UK in the 1970s"
+      },
+      {
+        "timestamp_seconds": 516,
+        "description": "Discussion of Hilton's tax plan and its potential impact on California's economy"
+      },
+      {
+        "timestamp_seconds": 996,
+        "description": "Steve Hilton discusses his campaign team and strategy"
+      },
+      {
+        "timestamp_seconds": 1689,
+        "description": "The conversation turns to the topic of housing costs in California"
+      },
+      {
+        "timestamp_seconds": 2056,
+        "description": "Steve Hilton shares his experience trying to pass housing reform"
+      },
+      {
+        "timestamp_seconds": 2322,
+        "description": "Steve Hilton discusses California's oil imports and gas prices"
+      },
+      {
+        "timestamp_seconds": 2746,
+        "description": "Steve Hilton criticizes California's education system"
+      },
+      {
+        "timestamp_seconds": 3054,
+        "description": "Discussion on crime in California begins"
+      },
+      {
+        "timestamp_seconds": 3439,
+        "description": "Steve Hilton outlines his three-point plan to address homelessness"
+      },
+      {
+        "timestamp_seconds": 4068,
+        "description": "The hosts thank Steve Hilton for his time"
+      }
+    ],
+    "chunk_count": 5,
+    "transcript_truncated": false
+  }
 }
