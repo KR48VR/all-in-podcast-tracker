@@ -82,6 +82,11 @@ MODEL = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile")
 
 MAX_TRANSCRIPT_CHARS = 20_000
 
+# Target chunk size for chunked analysis. Stays below MAX_TRANSCRIPT_CHARS so
+# each chunk plus its title/description prefix fits under the per-request body
+# cap that Groq's free tier enforces.
+CHUNK_TARGET_CHARS = 18_000
+
 # --- Prompt ------------------------------------------------------------------
 
 ANALYSIS_PROMPT = """You are analyzing an episode of the All-In Podcast.
@@ -123,6 +128,74 @@ Rules:
   use the nearest matching line's second count for timestamp_seconds. Otherwise
   set timestamp_seconds to null.
 - Return ONLY the JSON object. No markdown fences, no preamble.
+"""
+
+
+# Per-chunk prompt for episodes too long to analyze in a single call.
+# Each chunk is processed independently, then a merge step combines the outputs.
+CHUNK_PROMPT = """You are analyzing CHUNK __PART__ OF __TOTAL__ of an All-In Podcast episode transcript.
+
+This is a partial view of a longer episode. Return a JSON object describing what THIS chunk covers:
+
+{
+  "mini_summary": "1-2 sentences on what this chunk discussed",
+  "takeaways": [
+    {"text": "insight from this chunk", "timestamp_seconds": <int or null>}
+  ],
+  "quotes": [
+    {"speaker": "name or 'Unknown'", "text": "memorable line", "timestamp_seconds": <int or null>}
+  ],
+  "notable_moments": [
+    {"timestamp_seconds": <int or null>, "description": "what happened"}
+  ],
+  "topics_mentioned": ["short kebab-case tags"],
+  "guests_mentioned": ["full names of any guests beyond core hosts"]
+}
+
+Rules:
+- AT MOST 4 takeaways from THIS chunk only.
+- AT MOST 4 quotes from THIS chunk only.
+- Keep quotes under 30 words.
+- Core hosts (Chamath Palihapitiya, Jason Calacanis, David Sacks, David Friedberg) are NOT guests.
+- If lines are prefixed with [seconds], use the nearest line's seconds for timestamp_seconds.
+- Return ONLY the JSON object. No markdown, no preamble.
+"""
+
+
+# Merge prompt: combines multiple chunk outputs into the final analysis JSON
+# in the same schema as ANALYSIS_PROMPT so downstream code is unaffected.
+MERGE_PROMPT = """You are merging the analyses of multiple chunks of a single All-In Podcast episode into one unified analysis.
+
+Input is a JSON object: {"title", "description", "chunks": [chunk_outputs...]}.
+
+Produce ONE JSON object in this exact schema:
+
+{
+  "summary": "2-3 sentence overview of the WHOLE episode",
+  "takeaways": [
+    {"text": "insight", "timestamp_seconds": <int or null>}
+  ],
+  "quotes": [
+    {"speaker": "name or 'Unknown'", "text": "memorable line", "timestamp_seconds": <int or null>}
+  ],
+  "topics": ["5-15 short kebab-case tags"],
+  "guests": ["full names of any guests beyond core hosts"],
+  "sentiment": {
+    "overall": "optimistic | cautious | bearish | mixed",
+    "notes": "1-2 sentences on the mood and why"
+  },
+  "notable_moments": [
+    {"timestamp_seconds": <int or null>, "description": "what happened"}
+  ]
+}
+
+Rules:
+- Pick the 5-8 BEST takeaways across all chunks (dedupe near-duplicates).
+- Pick the 5-10 best quotes (preserve their original timestamp_seconds).
+- Topics should consolidate across all chunks; remove duplicates.
+- Core hosts (Chamath Palihapitiya, Jason Calacanis, David Sacks, David Friedberg) are NOT guests.
+- Sentiment is a holistic read of the entire episode, not any single chunk.
+- Return ONLY the JSON object. No markdown, no preamble.
 """
 
 
@@ -168,16 +241,87 @@ def call_groq(prompt: str, body: str, api_key: str) -> dict[str, Any]:
     return json.loads(content)
 
 
+def _split_into_chunks(transcript: str, target_size: int = CHUNK_TARGET_CHARS) -> list[str]:
+    """Split a formatted transcript into chunks of up to ``target_size`` chars.
+
+    Prefers line boundaries so timestamp prefixes stay intact. Returns a single
+    chunk if the transcript already fits in ``target_size``.
+    """
+    if len(transcript) <= target_size:
+        return [transcript]
+    lines = transcript.split("\n")
+    chunks: list[str] = []
+    current: list[str] = []
+    current_size = 0
+    for line in lines:
+        line_size = len(line) + 1  # +1 for the newline separator
+        if current_size + line_size > target_size and current:
+            chunks.append("\n".join(current))
+            current = [line]
+            current_size = line_size
+        else:
+            current.append(line)
+            current_size += line_size
+    if current:
+        chunks.append("\n".join(current))
+    return chunks
+
+
+def _analyze_chunked(
+    title: str,
+    description: str,
+    transcript: str,
+    ep_id: str,
+    api_key: str,
+) -> dict[str, Any]:
+    """Process a long transcript by chunking and merging.
+
+    Each chunk is analyzed independently. The chunk outputs are then sent to
+    the model with a merge prompt that produces the final analysis JSON in
+    the same schema as the single-call path.
+    """
+    chunks = _split_into_chunks(transcript)
+    chunk_outputs: list[dict[str, Any]] = []
+    for i, chunk in enumerate(chunks):
+        prompt = (
+            CHUNK_PROMPT
+            .replace("__PART__", str(i + 1))
+            .replace("__TOTAL__", str(len(chunks)))
+        )
+        body = (
+            f"Episode title: {title}\n\n"
+            f"Description: {description}\n\n"
+            f"Transcript chunk {i+1} of {len(chunks)} (timestamps in seconds):\n{chunk}"
+        )
+        result = call_groq(prompt, body, api_key)
+        chunk_outputs.append(result)
+        print(f"[chunk] {ep_id}: {i+1}/{len(chunks)} done", file=sys.stderr)
+
+    merge_input = json.dumps(
+        {"title": title, "description": description, "chunks": chunk_outputs},
+        ensure_ascii=False,
+    )
+    final = call_groq(MERGE_PROMPT, merge_input, api_key)
+    final["chunk_count"] = len(chunks)
+    final["transcript_truncated"] = False
+    return final
+
+
 def analyze_one(ep: dict[str, Any], api_key: str) -> dict[str, Any]:
     title = ep.get("title", "")
     description = ep.get("description", "")
     transcript = _format_transcript(ep)
-    text = (
-        f"Episode title: {title}\n\n"
-        f"Description: {description}\n\n"
-        f"Transcript (timestamps in seconds, when available):\n{transcript}"
-    )
-    result = call_groq(ANALYSIS_PROMPT, text, api_key)
+    if len(transcript) > MAX_TRANSCRIPT_CHARS:
+        result = _analyze_chunked(title, description, transcript, ep.get("id", "?"), api_key)
+    else:
+        text = (
+            f"Episode title: {title}\n\n"
+            f"Description: {description}\n\n"
+            f"Transcript (timestamps in seconds, when available):\n{transcript}"
+        )
+        result = call_groq(ANALYSIS_PROMPT, text, api_key)
+        result["chunk_count"] = 1
+        result["transcript_truncated"] = False
     # Light normalization — earlier versions returned takeaways as strings.
     result["takeaways"] = _normalize_items(result.get("takeaways", []))
     result["quotes"] = _normalize_quotes(result.get("quotes", []))
