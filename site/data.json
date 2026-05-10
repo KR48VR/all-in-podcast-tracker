@@ -2680,13 +2680,144 @@
       "url": "https://allinchamathjason.libsyn.com/inside-americas-ai-strategy-infrastructure-regulation-and-global-competition",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The episode discusses America's AI strategy, infrastructure build-out, regulation, and global competition, with a focus on the US's pursuit to be the number one lead AI country. The conversation touches on the importance of creating a federal framework for AI regulation, the need for a balanced approach to avoid over-regulation, and the potential of AI in scientific discovery. The US aims to create turnkey AI solutions for countries that lack the capital or aspiration to develop their own AI models, and the proliferation of American technology is critical to winning the AI race.",
+      "takeaways": [
+        {
+          "text": "The US is making progress in the AI race, with American companies innovating and improving AI models, chips, and data centers",
+          "timestamp_seconds": 42
+        },
+        {
+          "text": "The demand for AI infrastructure is driving a huge build-out, with the potential for significant economic growth",
+          "timestamp_seconds": 100
+        },
+        {
+          "text": "There is a need for a federal framework to regulate AI, to avoid a patchwork of state regulations that could hinder innovation",
+          "timestamp_seconds": 243
+        },
+        {
+          "text": "AI can accelerate scientific discovery by analyzing large amounts of data",
+          "timestamp_seconds": 973
+        },
+        {
+          "text": "The US has a significant advantage in AI development, particularly in chips and models",
+          "timestamp_seconds": 1389
+        },
+        {
+          "text": "The US aims to create turnkey AI solutions for countries that lack the capital or aspiration to develop their own AI models",
+          "timestamp_seconds": 2029
+        },
+        {
+          "text": "The proliferation of American technology is critical to winning the AI race",
+          "timestamp_seconds": 2095
+        },
+        {
+          "text": "The US government should enable innovation by setting the rules of the road and providing guardrails, rather than controlling the industry",
+          "timestamp_seconds": 2469
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I think we're doing great",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 20
+        },
+        {
+          "text": "We've made pretty good progress",
+          "speaker": "Michael Kratsios",
+          "timestamp_seconds": 212
+        },
+        {
+          "text": "We're neck and neck",
+          "speaker": "Michael Kratsios",
+          "timestamp_seconds": 1653
+        },
+        {
+          "text": "If five years we look around the world and it's American chips and models are being used everywhere, well, that means we won",
+          "speaker": "Michael Kratsios",
+          "timestamp_seconds": 2077
+        },
+        {
+          "text": "The main characters always have to be the entrepreneurs",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 2509
+        },
+        {
+          "text": "AI optimism is key to adoption",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "ai-regulation",
+        "ai-innovation",
+        "us-ai-strategy",
+        "infrastructure-build-out",
+        "federal-framework",
+        "ai-development",
+        "us-china-ai-race",
+        "scientific-discovery",
+        "personal-digital-assistants",
+        "ai-strategy",
+        "innovation",
+        "regulation",
+        "global-competition",
+        "job-loss"
+      ],
+      "guests": [
+        "Michael Kratsios",
+        "Maria Bartiromo",
+        "Elon Musk"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The overall sentiment of the episode is optimistic, with a focus on the potential of AI to drive economic growth and improve scientific discovery. However, there are also notes of caution, with discussions of the risks of AI misuse by governments and the need for a balanced approach to regulation."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to the topic of AI and the US's pursuit to be the number one lead AI country"
+        },
+        {
+          "timestamp_seconds": 42,
+          "description": "Discussion of the progress made by American companies in AI innovation"
+        },
+        {
+          "timestamp_seconds": 243,
+          "description": "Introduction of the need for a federal framework to regulate AI"
+        },
+        {
+          "timestamp_seconds": 382,
+          "description": "Discussion of the challenges of state-level regulation and the need for a balanced approach"
+        },
+        {
+          "timestamp_seconds": 1370,
+          "description": "Discussion of the US-China AI race begins"
+        },
+        {
+          "timestamp_seconds": 1610,
+          "description": "Mention of 1,200 bills at the state level related to AI regulation"
+        },
+        {
+          "timestamp_seconds": 1721,
+          "description": "Introduction of the American AI Export Program"
+        },
+        {
+          "timestamp_seconds": 1831,
+          "description": "China's efforts to indigenize chip production are discussed"
+        },
+        {
+          "timestamp_seconds": 1977,
+          "description": "Discussion on crafting solutions for AI adoption in countries with limited resources"
+        },
+        {
+          "timestamp_seconds": 2553,
+          "description": "Question about risks or threats related to AI usage"
+        },
+        {
+          "timestamp_seconds": 2778,
+          "description": "Discussion on Elon Musk's comments about the impact of AI on jobs"
+        }
+      ]
     },
     {
       "id": "2026-01-23-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos",
@@ -31008,16 +31139,16 @@
         14
       ],
       [
+        "innovation",
+        14
+      ],
+      [
         "us-economy",
         14
       ],
       [
-        "innovation",
-        13
-      ],
-      [
         "ai",
-        13
+        14
       ],
       [
         "tariffs",
@@ -31025,11 +31156,7 @@
       ],
       [
         "startups",
-        11
-      ],
-      [
-        "regulation",
-        11
+        12
       ],
       [
         "social-media",
@@ -31037,6 +31164,10 @@
       ],
       [
         "democratic-party",
+        11
+      ],
+      [
+        "investing",
         11
       ]
     ],
@@ -31146,7 +31277,8 @@
         "2023-02-04",
         "2023-03-03",
         "2023-05-26",
-        "2023-07-01"
+        "2023-07-01",
+        "2026-04-17"
       ],
       "vc": [
         "2020-03-15",
@@ -31384,7 +31516,8 @@
         "2024-10-08",
         "2024-10-15",
         "2025-04-11",
-        "2025-10-14"
+        "2025-10-14",
+        "2026-01-23"
       ],
       "global-dominance": [
         "2020-07-11"
@@ -31427,8 +31560,7 @@
         "2025-06-03",
         "2025-07-23",
         "2025-10-01",
-        "2026-01-23",
-        "2026-04-17"
+        "2026-01-23"
       ],
       "m-and-a": [
         "2020-07-31"
@@ -31678,7 +31810,8 @@
         "2021-09-14",
         "2023-10-07",
         "2023-11-03",
-        "2024-01-19"
+        "2024-01-19",
+        "2026-04-17"
       ],
       "slack-acquisition": [
         "2020-12-04"
@@ -31883,7 +32016,8 @@
         "2024-01-26",
         "2025-03-15",
         "2025-06-28",
-        "2025-09-09"
+        "2025-09-09",
+        "2026-04-17"
       ],
       "liquidity-crisis": [
         "2021-01-30"
@@ -32107,7 +32241,8 @@
       "infrastructure": [
         "2021-03-27",
         "2023-01-20",
-        "2026-01-23"
+        "2026-01-23",
+        "2026-04-17"
       ],
       "eu-competence": [
         "2021-03-27"
@@ -32213,13 +32348,15 @@
       "crime": [
         "2021-05-01",
         "2021-06-25",
-        "2025-10-02"
+        "2025-10-02",
+        "2026-04-29"
       ],
       "homelessness": [
         "2021-05-01",
         "2021-06-25",
         "2025-06-03",
-        "2025-09-30"
+        "2025-09-30",
+        "2026-04-29"
       ],
       "ubi-experiment": [
         "2021-05-13"
@@ -32328,7 +32465,8 @@
         "2022-05-29",
         "2023-05-19",
         "2023-08-18",
-        "2023-12-23"
+        "2023-12-23",
+        "2026-04-17"
       ],
       "bitcoin": [
         "2021-06-13",
@@ -32836,8 +32974,7 @@
         "2023-05-05",
         "2023-05-26",
         "2024-10-15",
-        "2025-09-05",
-        "2026-04-29"
+        "2025-09-05"
       ],
       "macro-outlook": [
         "2021-12-11",
@@ -32885,8 +33022,7 @@
         "2023-12-29",
         "2024-11-23",
         "2025-02-15",
-        "2025-11-14",
-        "2026-01-23"
+        "2025-11-14"
       ],
       "media": [
         "2021-12-23"
@@ -32953,8 +33089,7 @@
       "fraud": [
         "2022-01-08",
         "2023-02-04",
-        "2026-01-09",
-        "2026-04-29"
+        "2026-01-09"
       ],
       "downturn": [
         "2022-01-08"
@@ -33329,8 +33464,7 @@
         "2024-07-26",
         "2024-10-25",
         "2025-04-26",
-        "2025-11-07",
-        "2026-04-17"
+        "2025-11-07"
       ],
       "economic-indicators": [
         "2022-04-30"
@@ -33404,7 +33538,8 @@
         "2022-05-23",
         "2023-01-06",
         "2023-02-24",
-        "2023-09-29"
+        "2023-09-29",
+        "2026-04-17"
       ],
       "bull-run": [
         "2022-05-23"
@@ -33598,8 +33733,7 @@
       ],
       "healthcare": [
         "2022-06-01",
-        "2023-11-17",
-        "2026-01-23"
+        "2023-11-17"
       ],
       "customer-service": [
         "2022-06-01"
@@ -33853,7 +33987,8 @@
       ],
       "housing-affordability": [
         "2022-08-13",
-        "2025-10-21"
+        "2025-10-21",
+        "2026-04-17"
       ],
       "market-bubble": [
         "2022-08-13"
@@ -34515,7 +34650,8 @@
         "2025-05-31",
         "2025-07-04",
         "2025-07-23",
-        "2025-12-19"
+        "2025-12-19",
+        "2026-01-23"
       ],
       "autogpt": [
         "2023-04-14"
@@ -34646,7 +34782,8 @@
         "2025-05-06",
         "2025-10-14",
         "2026-01-13",
-        "2026-01-25"
+        "2026-01-25",
+        "2026-04-17"
       ],
       "usd-dominance": [
         "2023-06-02"
@@ -35404,7 +35541,8 @@
       "ai-innovation": [
         "2024-05-10",
         "2025-07-23",
-        "2025-10-03"
+        "2025-10-03",
+        "2026-01-23"
       ],
       "ubi": [
         "2024-05-10",
@@ -35669,8 +35807,7 @@
         "2025-11-05"
       ],
       "government-waste": [
-        "2024-09-20",
-        "2026-04-29"
+        "2024-09-20"
       ],
       "trump-kamala-debate": [
         "2024-09-20"
@@ -35716,7 +35853,8 @@
       "government-efficiency": [
         "2024-10-08",
         "2024-10-15",
-        "2025-10-30"
+        "2025-10-30",
+        "2026-04-29"
       ],
       "ai-future": [
         "2024-10-08",
@@ -35977,7 +36115,7 @@
         "2025-08-01",
         "2025-09-24",
         "2025-11-04",
-        "2026-04-17"
+        "2026-01-23"
       ],
       "self-driving-cars": [
         "2025-01-31",
@@ -36000,7 +36138,8 @@
         "2025-02-07"
       ],
       "glp-1s": [
-        "2025-02-07"
+        "2025-02-07",
+        "2026-03-26"
       ],
       "product-building": [
         "2025-02-15"
@@ -36207,7 +36346,8 @@
         "2025-04-19"
       ],
       "mitochondrial-therapy": [
-        "2025-04-19"
+        "2025-04-19",
+        "2026-03-26"
       ],
       "celebrity-jeopardy": [
         "2025-04-19"
@@ -36417,7 +36557,8 @@
         "2026-03-13",
         "2026-04-03",
         "2026-04-08",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-17"
       ],
       "congress": [
         "2025-06-13",
@@ -36442,8 +36583,7 @@
       "mental-health": [
         "2025-06-19",
         "2025-08-15",
-        "2025-09-29",
-        "2026-03-26"
+        "2025-09-29"
       ],
       "wellness": [
         "2025-06-19",
@@ -36821,8 +36961,7 @@
       ],
       "unemployment": [
         "2025-09-16",
-        "2025-12-19",
-        "2026-04-29"
+        "2025-12-19"
       ],
       "endowments": [
         "2025-09-16"
@@ -37086,7 +37225,8 @@
         "2025-10-14"
       ],
       "health": [
-        "2025-10-14"
+        "2025-10-14",
+        "2026-03-26"
       ],
       "biological-age": [
         "2025-10-14"
@@ -37358,7 +37498,7 @@
       ],
       "data-centers": [
         "2025-12-13",
-        "2026-01-23"
+        "2026-04-17"
       ],
       "construction-workers": [
         "2025-12-13"
@@ -37523,23 +37663,34 @@
       "dsa-overreach": [
         "2026-01-22"
       ],
+      "us-ai-strategy": [
+        "2026-01-23"
+      ],
       "infrastructure-build-out": [
+        "2026-01-23"
+      ],
+      "federal-framework": [
+        "2026-01-23"
+      ],
+      "us-china-ai-race": [
+        "2026-01-23"
+      ],
+      "scientific-discovery": [
+        "2026-01-23"
+      ],
+      "personal-digital-assistants": [
         "2026-01-23"
       ],
       "global-competition": [
         "2026-01-23"
       ],
-      "electricity-rates": [
-        "2026-01-23"
-      ],
-      "knowledge-workers": [
-        "2026-01-23"
-      ],
-      "productivity": [
-        "2026-01-23",
+      "job-loss": [
         "2026-01-23"
       ],
       "compute-power": [
+        "2026-01-23"
+      ],
+      "productivity": [
         "2026-01-23"
       ],
       "physical-robots": [
@@ -37582,7 +37733,8 @@
         "2026-01-30"
       ],
       "california-governor-race": [
-        "2026-01-30"
+        "2026-01-30",
+        "2026-04-29"
       ],
       "protests": [
         "2026-01-30"
@@ -37651,7 +37803,8 @@
         "2026-02-28"
       ],
       "yamanaka-factors": [
-        "2026-02-28"
+        "2026-02-28",
+        "2026-03-26"
       ],
       "global-order": [
         "2026-03-03"
@@ -37843,16 +37996,22 @@
       "brain-function": [
         "2026-03-26"
       ],
-      "default-mode-network": [
-        "2026-03-26"
-      ],
       "neuroplasticity": [
         "2026-03-26"
       ],
-      "5-meo-dmt": [
+      "5-meO-dmt": [
         "2026-03-26"
       ],
       "psilocybin": [
+        "2026-03-26"
+      ],
+      "gene-therapy": [
+        "2026-03-26"
+      ],
+      "organoids": [
+        "2026-03-26"
+      ],
+      "abundance": [
         "2026-03-26"
       ],
       "meta": [
@@ -37903,19 +38062,40 @@
       "revenue-ramp": [
         "2026-04-10"
       ],
-      "nyc-real-estate": [
+      "pied-a-terre-tax": [
         "2026-04-17"
       ],
-      "taxation": [
+      "new-york-city": [
         "2026-04-17"
       ],
-      "datacenter-wars": [
+      "enterprise-sales": [
+        "2026-04-17"
+      ],
+      "growth-rates": [
+        "2026-04-17"
+      ],
+      "revenue": [
         "2026-04-17"
       ],
       "allbirds": [
         "2026-04-17"
       ],
+      "nancy-pelosi": [
+        "2026-04-17"
+      ],
+      "ai-efficiency": [
+        "2026-04-17"
+      ],
+      "spacex-ipo": [
+        "2026-04-17"
+      ],
       "eric-swalwell": [
+        "2026-04-17"
+      ],
+      "game-show": [
+        "2026-04-17"
+      ],
+      "change-management": [
         "2026-04-17"
       ],
       "space-tech": [
@@ -37933,7 +38113,34 @@
       "economic-growth": [
         "2026-04-29"
       ],
-      "poverty": [
+      "housing-costs": [
+        "2026-04-29"
+      ],
+      "union-power": [
+        "2026-04-29"
+      ],
+      "litigation": [
+        "2026-04-29"
+      ],
+      "climate-dogma": [
+        "2026-04-29"
+      ],
+      "california-housing": [
+        "2026-04-29"
+      ],
+      "california-education": [
+        "2026-04-29"
+      ],
+      "gas-prices": [
+        "2026-04-29"
+      ],
+      "oil-imports": [
+        "2026-04-29"
+      ],
+      "prison-reform": [
+        "2026-04-29"
+      ],
+      "election-2026": [
         "2026-04-29"
       ],
       "ai-revenue": [
@@ -37971,6 +38178,10 @@
         6
       ],
       [
+        "Elon Musk",
+        5
+      ],
+      [
         "Antonio Gracias",
         5
       ],
@@ -37980,10 +38191,6 @@
       ],
       [
         "Ryan Petersen",
-        4
-      ],
-      [
-        "Elon Musk",
         4
       ],
       [
@@ -39530,7 +39737,7 @@
       },
       {
         "date": "2026-04-17",
-        "overall": "cautious"
+        "overall": "mixed"
       },
       {
         "date": "2026-04-24",
@@ -39538,7 +39745,7 @@
       },
       {
         "date": "2026-04-29",
-        "overall": "optimistic"
+        "overall": "cautious"
       },
       {
         "date": "2026-05-01",
@@ -39547,6 +39754,6 @@
     ],
     "episode_count": 373
   },
-  "brief_markdown": "# Weekly Brief — 2026-05-09\n\n**Latest episode:** Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom — 2026-05-08\n\n## What this episode covered\n_No summary available_\n\n## Top takeaways\n\n## Notable quotes\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` — mentioned in 41 episodes\n- `economy` — mentioned in 39 episodes\n- `politics` — mentioned in 38 episodes\n- `us-politics` — mentioned in 28 episodes\n- `openai` — mentioned in 23 episodes\n- `venture-capital` — mentioned in 22 episodes\n- `big-tech` — mentioned in 22 episodes\n- `inflation` — mentioned in 21 episodes\n- `covid-19` — mentioned in 18 episodes\n- `elon-musk` — mentioned in 18 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (6 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n- Ryan Petersen (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-04-08: cautious\n- 2026-04-10: optimistic\n- 2026-04-17: cautious\n- 2026-04-24: cautious\n- 2026-04-29: optimistic\n- 2026-05-01: mixed\n\n---\n_Generated 2026-05-09 from 373 episodes_",
-  "generated_at": "2026-05-09T10:21:58.181190+00:00"
+  "brief_markdown": "# Weekly Brief — 2026-05-10\n\n**Latest episode:** Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom — 2026-05-08\n\n## What this episode covered\n_No summary available_\n\n## Top takeaways\n\n## Notable quotes\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` — mentioned in 41 episodes\n- `economy` — mentioned in 39 episodes\n- `politics` — mentioned in 38 episodes\n- `us-politics` — mentioned in 28 episodes\n- `openai` — mentioned in 23 episodes\n- `venture-capital` — mentioned in 22 episodes\n- `big-tech` — mentioned in 22 episodes\n- `inflation` — mentioned in 21 episodes\n- `covid-19` — mentioned in 18 episodes\n- `elon-musk` — mentioned in 18 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (6 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-04-08: cautious\n- 2026-04-10: optimistic\n- 2026-04-17: mixed\n- 2026-04-24: cautious\n- 2026-04-29: cautious\n- 2026-05-01: mixed\n\n---\n_Generated 2026-05-10 from 373 episodes_",
+  "generated_at": "2026-05-10T02:59:43.088860+00:00"
 }
