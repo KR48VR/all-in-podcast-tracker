@@ -8,13 +8,187 @@
       "url": "https://allinchamathjason.libsyn.com/elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In podcast discusses the SpaceX-Anthropic deal, the potential monopoly of Anthropic and OpenAI in the AI market, and the idea of an 'FDA for AI' to regulate the industry. The hosts also touch on the potential economic boom created by AI, the need for capitalists to address issues like minimum wage and universal healthcare, and the current state of the market and economy.",
+      "takeaways": [
+        {
+          "text": "Anthropic's growth trajectory is unprecedented, with a potential to reach $100 billion in ARR by the end of the year",
+          "timestamp_seconds": 868
+        },
+        {
+          "text": "Elon Musk's deal with Anthropic could lead to a monopoly in the AI space",
+          "timestamp_seconds": 1677
+        },
+        {
+          "text": "The White House is considering an 'FDA for AI' to vet new models for safety",
+          "timestamp_seconds": 2122
+        },
+        {
+          "text": "AI may not be popular, but its effects are creating an economic boom",
+          "timestamp_seconds": 3395
+        },
+        {
+          "text": "Raising the minimum wage could help lift the bottom third of society",
+          "timestamp_seconds": 3239
+        },
+        {
+          "text": "The impact of AI on the economy is still being debated",
+          "timestamp_seconds": 4680
+        },
+        {
+          "text": "The emergence of Elon Web Services (EWS) as a competitor to Google Cloud, Amazon Web Services, and Azure",
+          "timestamp_seconds": 331
+        },
+        {
+          "text": "The potential for Anthropic to become the most valuable tech company in history, with a possible valuation of over $1 trillion in 2027",
+          "timestamp_seconds": 912
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Let your winners ride",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 14
+        },
+        {
+          "text": "You don't look as tired as you have in recent weeks",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "I think we're debating semantics here",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 1598
+        },
+        {
+          "text": "We don't want to put Washington in the position of picking winners and losers",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 2300
+        },
+        {
+          "text": "We suffer from horrible messaging",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 2427
+        },
+        {
+          "text": "Let's have a go back to paper and pen",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 3116
+        },
+        {
+          "text": "I think we're in the trough right now",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 3487
+        },
+        {
+          "text": "We're on the winning horse",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 4779
+        },
+        {
+          "text": "I am happy that they are American companies",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 4823
+        }
+      ],
+      "topics": [
+        "ai",
+        "elon-musk",
+        "anthropic",
+        "space-x",
+        "ew-s",
+        "la-mayor-election",
+        "ai-monopoly",
+        "openai",
+        "regulation",
+        "ai-regulation",
+        "innovation",
+        "white-house",
+        "tech-industry",
+        "economy",
+        "minimum-wage",
+        "universal-healthcare",
+        "cloud-computing",
+        "ai-productivity",
+        "job-displacement",
+        "us-competitiveness"
+      ],
+      "guests": [
+        "Brad Gersonner"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The hosts have mixed opinions on the potential impact of AI on the economy and society, with some expressing optimism about its benefits and others raising concerns about its potential drawbacks."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to the podcast and discussion of the LA mayor election"
+        },
+        {
+          "timestamp_seconds": 279,
+          "description": "Discussion of Elon's deal with Anthropic and the emergence of Elon Web Services"
+        },
+        {
+          "timestamp_seconds": 868,
+          "description": "Discussion of Anthropic's growth trajectory and potential valuation"
+        },
+        {
+          "timestamp_seconds": 912,
+          "description": "Discussion of the potential for Anthropic to become the most valuable tech company in history"
+        },
+        {
+          "timestamp_seconds": 1074,
+          "description": "Discussion on the total market size of coding"
+        },
+        {
+          "timestamp_seconds": 1289,
+          "description": "Elon Musk's potential to build a massive compute network"
+        },
+        {
+          "timestamp_seconds": 1382,
+          "description": "Discussion on the pivot of SPAN to add data centers with Nvidia GPU clusters"
+        },
+        {
+          "timestamp_seconds": 1645,
+          "description": "Discussion on the potential monopoly of Anthropic and OpenAI"
+        },
+        {
+          "timestamp_seconds": 2122,
+          "description": "The White House's consideration of an 'FDA for AI' is discussed"
+        },
+        {
+          "timestamp_seconds": 2286,
+          "description": "The hosts criticize the idea of an FDA for AI"
+        },
+        {
+          "timestamp_seconds": 2449,
+          "description": "The tech community is criticized for poor communication about AI's benefits"
+        },
+        {
+          "timestamp_seconds": 3099,
+          "description": "Discussion on Bernie Sanders' views on AI and data centers"
+        },
+        {
+          "timestamp_seconds": 3514,
+          "description": "Idea to make electricity free for households in areas where data centers are built"
+        },
+        {
+          "timestamp_seconds": 4070,
+          "description": "Discussion of AI's potential impact on the economy begins"
+        },
+        {
+          "timestamp_seconds": 4235,
+          "description": "Hosts debate the potential benefits of AI"
+        },
+        {
+          "timestamp_seconds": 4648,
+          "description": "Labor participation rate is discussed as a potential concern"
+        },
+        {
+          "timestamp_seconds": 4823,
+          "description": "Chamath expresses support for American innovation"
+        }
+      ]
     },
     {
       "id": "2026-05-01-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-pe",
@@ -31076,7 +31250,7 @@
       ],
       [
         "economy",
-        39
+        40
       ],
       [
         "politics",
@@ -31088,7 +31262,7 @@
       ],
       [
         "openai",
-        23
+        24
       ],
       [
         "venture-capital",
@@ -31103,11 +31277,11 @@
         21
       ],
       [
-        "covid-19",
-        18
+        "elon-musk",
+        19
       ],
       [
-        "elon-musk",
+        "covid-19",
         18
       ],
       [
@@ -31116,6 +31290,10 @@
       ],
       [
         "us-china-relations",
+        16
+      ],
+      [
+        "tech-industry",
         16
       ],
       [
@@ -31131,7 +31309,11 @@
         15
       ],
       [
-        "tech-industry",
+        "innovation",
+        15
+      ],
+      [
+        "ai",
         15
       ],
       [
@@ -31139,15 +31321,7 @@
         14
       ],
       [
-        "innovation",
-        14
-      ],
-      [
         "us-economy",
-        14
-      ],
-      [
-        "ai",
         14
       ],
       [
@@ -31159,15 +31333,15 @@
         12
       ],
       [
+        "regulation",
+        11
+      ],
+      [
         "social-media",
         11
       ],
       [
         "democratic-party",
-        11
-      ],
-      [
-        "investing",
         11
       ]
     ],
@@ -31261,7 +31435,8 @@
         "2025-10-28",
         "2025-12-22",
         "2026-02-07",
-        "2026-04-08"
+        "2026-04-08",
+        "2026-05-08"
       ],
       "global-stimulus": [
         "2020-03-15"
@@ -31517,7 +31692,8 @@
         "2024-10-15",
         "2025-04-11",
         "2025-10-14",
-        "2026-01-23"
+        "2026-01-23",
+        "2026-05-08"
       ],
       "global-dominance": [
         "2020-07-11"
@@ -31560,7 +31736,8 @@
         "2025-06-03",
         "2025-07-23",
         "2025-10-01",
-        "2026-01-23"
+        "2026-01-23",
+        "2026-05-08"
       ],
       "m-and-a": [
         "2020-07-31"
@@ -32382,7 +32559,8 @@
         "2025-09-17",
         "2025-10-14",
         "2025-10-24",
-        "2026-05-01"
+        "2026-05-01",
+        "2026-05-08"
       ],
       "snl-appearance": [
         "2021-05-13"
@@ -32832,7 +33010,8 @@
         "2025-07-23",
         "2025-10-02",
         "2025-12-31",
-        "2026-01-10"
+        "2026-01-10",
+        "2026-05-08"
       ],
       "spac": [
         "2021-10-23"
@@ -34369,7 +34548,8 @@
         "2026-01-21",
         "2026-03-27",
         "2026-04-03",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-05-08"
       ],
       "vc-hype-cycle": [
         "2023-01-13"
@@ -34651,7 +34831,8 @@
         "2025-07-04",
         "2025-07-23",
         "2025-12-19",
-        "2026-01-23"
+        "2026-01-23",
+        "2026-05-08"
       ],
       "autogpt": [
         "2023-04-14"
@@ -34783,7 +34964,8 @@
         "2025-10-14",
         "2026-01-13",
         "2026-01-25",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-05-08"
       ],
       "usd-dominance": [
         "2023-06-02"
@@ -36593,7 +36775,8 @@
         "2025-06-19"
       ],
       "ai-productivity": [
-        "2025-06-21"
+        "2025-06-21",
+        "2026-05-08"
       ],
       "hollywood-decline": [
         "2025-06-21"
@@ -36621,7 +36804,8 @@
       ],
       "job-displacement": [
         "2025-06-21",
-        "2025-09-17"
+        "2025-09-17",
+        "2026-05-08"
       ],
       "ai-copyright": [
         "2025-06-28"
@@ -36903,7 +37087,8 @@
         "2025-09-10"
       ],
       "space-x": [
-        "2025-09-10"
+        "2025-09-10",
+        "2026-05-08"
       ],
       "creative-tools": [
         "2025-09-12"
@@ -37838,7 +38023,8 @@
         "2026-03-19",
         "2026-03-27",
         "2026-04-10",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-05-08"
       ],
       "us-defense-supply-chain": [
         "2026-03-06"
@@ -38166,6 +38352,30 @@
       ],
       "retatrutide": [
         "2026-05-01"
+      ],
+      "ew-s": [
+        "2026-05-08"
+      ],
+      "la-mayor-election": [
+        "2026-05-08"
+      ],
+      "ai-monopoly": [
+        "2026-05-08"
+      ],
+      "white-house": [
+        "2026-05-08"
+      ],
+      "minimum-wage": [
+        "2026-05-08"
+      ],
+      "universal-healthcare": [
+        "2026-05-08"
+      ],
+      "cloud-computing": [
+        "2026-05-08"
+      ],
+      "us-competitiveness": [
+        "2026-05-08"
       ]
     },
     "top_guests": [
@@ -39750,10 +39960,14 @@
       {
         "date": "2026-05-01",
         "overall": "mixed"
+      },
+      {
+        "date": "2026-05-08",
+        "overall": "mixed"
       }
     ],
     "episode_count": 373
   },
-  "brief_markdown": "# Weekly Brief — 2026-05-10\n\n**Latest episode:** Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom — 2026-05-08\n\n## What this episode covered\n_No summary available_\n\n## Top takeaways\n\n## Notable quotes\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` — mentioned in 41 episodes\n- `economy` — mentioned in 39 episodes\n- `politics` — mentioned in 38 episodes\n- `us-politics` — mentioned in 28 episodes\n- `openai` — mentioned in 23 episodes\n- `venture-capital` — mentioned in 22 episodes\n- `big-tech` — mentioned in 22 episodes\n- `inflation` — mentioned in 21 episodes\n- `covid-19` — mentioned in 18 episodes\n- `elon-musk` — mentioned in 18 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (6 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-04-08: cautious\n- 2026-04-10: optimistic\n- 2026-04-17: mixed\n- 2026-04-24: cautious\n- 2026-04-29: cautious\n- 2026-05-01: mixed\n\n---\n_Generated 2026-05-10 from 373 episodes_",
-  "generated_at": "2026-05-10T02:59:43.088860+00:00"
+  "brief_markdown": "# Weekly Brief — 2026-05-10\n\n**Latest episode:** Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom — 2026-05-08\n\n## What this episode covered\nThe All-In podcast discusses the SpaceX-Anthropic deal, the potential monopoly of Anthropic and OpenAI in the AI market, and the idea of an 'FDA for AI' to regulate the industry. The hosts also touch on the potential economic boom created by AI, the need for capitalists to address issues like minimum wage and universal healthcare, and the current state of the market and economy.\n\n## Top takeaways\n- Anthropic's growth trajectory is unprecedented, with a potential to reach $100 billion in ARR by the end of the year\n- Elon Musk's deal with Anthropic could lead to a monopoly in the AI space\n- The White House is considering an 'FDA for AI' to vet new models for safety\n- AI may not be popular, but its effects are creating an economic boom\n- Raising the minimum wage could help lift the bottom third of society\n- The impact of AI on the economy is still being debated\n- The emergence of Elon Web Services (EWS) as a competitor to Google Cloud, Amazon Web Services, and Azure\n- The potential for Anthropic to become the most valuable tech company in history, with a possible valuation of over $1 trillion in 2027\n\n## Notable quotes\n> \"Let your winners ride\" — Chamath Palihapitiya\n> \"You don't look as tired as you have in recent weeks\" — Jason Calacanis\n> \"I think we're debating semantics here\" — David Sacks\n> \"We don't want to put Washington in the position of picking winners and losers\" — David Sacks\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` — mentioned in 41 episodes\n- `economy` — mentioned in 40 episodes\n- `politics` — mentioned in 38 episodes\n- `us-politics` — mentioned in 28 episodes\n- `openai` — mentioned in 24 episodes\n- `venture-capital` — mentioned in 22 episodes\n- `big-tech` — mentioned in 22 episodes\n- `inflation` — mentioned in 21 episodes\n- `elon-musk` — mentioned in 19 episodes\n- `covid-19` — mentioned in 18 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (6 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-04-10: optimistic\n- 2026-04-17: mixed\n- 2026-04-24: cautious\n- 2026-04-29: cautious\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n\n---\n_Generated 2026-05-10 from 373 episodes_",
+  "generated_at": "2026-05-10T03:36:16.495451+00:00"
 }
