@@ -497,6 +497,11 @@ function escapeHtml(s) {
 }
 
 /* ------------ Chat ------------ */
+// Conversation memory: keep the last few exchanges so follow-up questions
+// like "elaborate on that" or "tell me more" can use prior context.
+const chatHistory = [];
+const MAX_HISTORY_MESSAGES = 6; // last 3 exchanges (each is a user + assistant pair)
+
 document.getElementById("chatForm").addEventListener("submit", async (e) => {
   e.preventDefault();
   const input = document.getElementById("chatInput");
@@ -519,6 +524,8 @@ document.getElementById("chatForm").addEventListener("submit", async (e) => {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
         question: q,
+        // Send the last few exchanges so the worker can resolve follow-ups.
+        history: chatHistory.slice(-MAX_HISTORY_MESSAGES),
         // Send trimmed episode context; the Worker decides what to use.
         episodes: DATA.episodes.map((e) => ({
           id: e.id, title: e.title, date: e.date,
@@ -529,8 +536,9 @@ document.getElementById("chatForm").addEventListener("submit", async (e) => {
       }),
     });
     const json = await r.json();
+    const answerText = json.answer || "(no response)";
     // Render as Markdown so the model's [▶ mm:ss](url?t=Ns) links become clickable.
-    loading.innerHTML = marked.parse(json.answer || "(no response)");
+    loading.innerHTML = marked.parse(answerText);
     loading.classList.add("prose", "prose-sm", "max-w-none");
     if (json.citations?.length) {
       const cites = document.createElement("div");
@@ -538,6 +546,13 @@ document.getElementById("chatForm").addEventListener("submit", async (e) => {
       cites.innerHTML = "Sources: " + json.citations
         .map((c) => `<a class="underline" href="#archive">${escapeHtml(c)}</a>`).join(", ");
       loading.appendChild(cites);
+    }
+    // Append this exchange to history so the next question can reference it.
+    chatHistory.push({ role: "user", content: q });
+    chatHistory.push({ role: "assistant", content: answerText });
+    // Trim to keep memory bounded.
+    if (chatHistory.length > MAX_HISTORY_MESSAGES) {
+      chatHistory.splice(0, chatHistory.length - MAX_HISTORY_MESSAGES);
     }
   } catch (err) {
     loading.textContent = "Error reaching the chat backend: " + err.message;

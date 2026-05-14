@@ -29,10 +29,29 @@ export default {
 
     const question = (body.question || "").slice(0, 2000);
     const episodes = Array.isArray(body.episodes) ? body.episodes : [];
+    // Validate conversation history: must be array of {role, content} pairs.
+    const history = Array.isArray(body.history)
+      ? body.history
+          .filter((h) =>
+            h && (h.role === "user" || h.role === "assistant") && typeof h.content === "string"
+          )
+          .slice(-6) // hard cap on worker side too
+          .map((h) => ({ role: h.role, content: h.content.slice(0, 4000) }))
+      : [];
     if (!question) return json({ error: "missing question" }, 400);
     if (!env.GROQ_API_KEY) return json({ error: "GROQ_API_KEY not set" }, 500);
 
-    const relevant = rankEpisodes(question, episodes).slice(0, TOP_K);
+    // Build retrieval query from recent user turns + the new question so
+    // follow-ups like "elaborate on that" inherit the previous topic and
+    // any "latest episode" recency cue.
+    const recentUserText = history
+      .filter((h) => h.role === "user")
+      .slice(-2)
+      .map((h) => h.content)
+      .join(" ");
+    const retrievalQuery = (recentUserText + " " + question).trim();
+
+    const relevant = rankEpisodes(retrievalQuery, episodes).slice(0, TOP_K);
     const context = relevant.map(formatEpisode).join("\n\n---\n\n");
     const citations = relevant.map((e) => `${e.date} · ${e.title}`);
 
@@ -43,12 +62,15 @@ export default {
       "Keep answers tight and cite episode titles inline like (E. Title, YYYY-MM-DD). " +
       "When a takeaway or quote has a timestamp and youtube URL, include a " +
       "Markdown deep-link in the form [▶ mm:ss](youtube_url?t=SECONDSs) right " +
-      "after the relevant sentence so the reader can jump to that moment.";
+      "after the relevant sentence so the reader can jump to that moment. " +
+      "Use the prior conversation turns to resolve pronouns and follow-ups " +
+      "(e.g. 'that', 'he', 'the latest episode') and stay on the same thread.";
 
     const payload = {
       model: MODEL,
       messages: [
         { role: "system", content: systemPrompt },
+        ...history,
         { role: "user", content: `Episode notes:\n\n${context}\n\nQuestion: ${question}` },
       ],
       temperature: 0.3,
