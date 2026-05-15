@@ -1,0 +1,548 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Web 101 -- How modern websites actually work</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .prose-block { max-width: 65ch; }
+    code, pre { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+    pre {
+      background: #0f172a;
+      color: #e2e8f0;
+      padding: 1rem;
+      border-radius: 8px;
+      overflow-x: auto;
+      font-size: 12.5px;
+      line-height: 1.55;
+    }
+    .inline-code {
+      background: #f1f5f9;
+      color: #0f172a;
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-size: 0.9em;
+    }
+    .side-by-side {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+    }
+    @media (max-width: 720px) {
+      .side-by-side { grid-template-columns: 1fr; }
+    }
+    .side-by-side h4 {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #64748b;
+      margin-bottom: 4px;
+    }
+    .compare-table th, .compare-table td {
+      padding: 8px 12px;
+      border-bottom: 1px solid #e2e8f0;
+      vertical-align: top;
+      text-align: left;
+      font-size: 13px;
+    }
+    .compare-table th { background: #f8fafc; font-weight: 600; }
+    .compare-table code { font-size: 11px; }
+    .punchline {
+      background: #fef3c7;
+      border-left: 4px solid #f59e0b;
+      padding: 0.75rem 1rem;
+      border-radius: 6px;
+      margin-top: 1rem;
+    }
+    .punchline strong { color: #78350f; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900">
+
+<header class="bg-white border-b">
+  <div class="max-w-5xl mx-auto px-5 py-5 flex items-center justify-between flex-wrap gap-3">
+    <div>
+      <h1 class="text-xl font-semibold">Web 101</h1>
+      <p class="text-sm text-slate-500">How modern websites actually work, using this tracker as the example</p>
+    </div>
+    <nav class="text-sm flex gap-4">
+      <a href="index.html" class="text-slate-600 hover:text-slate-900">&larr; Back to tracker</a>
+      <a href="how-it-works.html" class="text-slate-600 hover:text-slate-900">How it works (animated)</a>
+    </nav>
+  </div>
+</header>
+
+<main class="max-w-5xl mx-auto px-5 py-8 space-y-8">
+
+  <!-- ===================== INTRO ===================== -->
+  <section class="bg-white rounded-xl shadow-sm border p-8">
+    <p class="text-base text-slate-600 mb-4 prose-block">
+      Building the All-In Podcast Tracker pulls back the curtain on three ideas that
+      together explain a huge chunk of how the modern web works. Once you see them,
+      most websites stop looking like magic and start looking like simple files in
+      folders.
+    </p>
+    <ol class="list-decimal pl-6 space-y-2 text-slate-700 text-base">
+      <li><strong>Folders ARE URLs.</strong> The shape of files on a computer becomes the shape of a website.</li>
+      <li><strong>JSON is the language of structured data.</strong> A clean, simple way for computers to store and exchange information.</li>
+      <li><strong>APIs are just two programs trading JSON.</strong> Every "AI feature" or "live data" you see online is one program asking another for JSON.</li>
+    </ol>
+    <p class="text-base text-slate-600 mt-4 prose-block">
+      This page walks through all three, with concrete examples from THIS project.
+      No prior programming knowledge needed.
+    </p>
+  </section>
+
+  <!-- ===================== SECTION 1: FOLDERS ARE URLS ===================== -->
+  <section class="bg-white rounded-xl shadow-sm border p-8">
+    <h2 class="text-2xl font-semibold mb-2">1. Folders that are also URLs</h2>
+    <p class="text-sm text-slate-500 mb-4">The simplest, most elegant idea behind modern static sites.</p>
+
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      Open the Finder on your Mac and navigate to where this project lives. You'll
+      see a folder structure. Now look at the URL of the public website. They are
+      literally the same shape:
+    </p>
+
+    <div class="bg-slate-100 rounded-lg p-4 my-4 text-sm font-mono overflow-x-auto">
+<pre style="background:transparent;color:#0f172a;padding:0;font-size:12.5px;">
+~/Documents/all-in-podcast-tracker/          becomes  https://kr48vr.github.io/all-in-podcast-tracker/
+&#9500;&#9472;&#9472; site/                                         &#8594;        .../site/
+&#9474;   &#9500;&#9472;&#9472; index.html                                &#8594;        .../site/  (the default page)
+&#9474;   &#9500;&#9472;&#9472; how-it-works.html                         &#8594;        .../site/how-it-works.html
+&#9474;   &#9500;&#9472;&#9472; web-101.html                              &#8594;        .../site/web-101.html  (this page!)
+&#9474;   &#9500;&#9472;&#9472; data.json                                 &#8594;        .../site/data.json
+&#9474;   &#9492;&#9472;&#9472; config.js                                 &#8594;        .../site/config.js
+&#9500;&#9472;&#9472; src/                                          &#8594;        .../src/
+&#9500;&#9472;&#9472; data/                                         &#8594;        .../data/
+&#9492;&#9472;&#9472; README.md                                     &#8594;        .../README.md
+</pre>
+    </div>
+
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      Every file in the repository is reachable at a URL that mirrors its path. Save
+      a new file at <span class="inline-code">site/hello.html</span> on your Mac, push
+      it to GitHub, and within a minute it appears at
+      <span class="inline-code">.../site/hello.html</span> on the public internet.
+      No "upload to server" step. No control panel. The file IS the page.
+    </p>
+
+    <h3 class="text-lg font-semibold mt-6 mb-2">Compared to older web platforms</h3>
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      For most of the 2000s and 2010s, building a website meant using something like
+      WordPress, Drupal, or Joomla (collectively called "Content Management Systems"
+      or CMSes). Those work differently:
+    </p>
+
+    <table class="compare-table w-full text-sm mt-4">
+      <thead>
+        <tr>
+          <th style="width: 30%">Aspect</th>
+          <th>Old way (WordPress / CMS)</th>
+          <th>Modern static way (GitHub Pages, Cloudflare Pages, Netlify)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Where content lives</strong></td>
+          <td>In a database (MySQL, Postgres) hidden inside the server</td>
+          <td>In plain files in a folder</td>
+        </tr>
+        <tr>
+          <td><strong>How you edit a page</strong></td>
+          <td>Log in to an admin panel, edit through a web form, save to database</td>
+          <td>Edit the file in any text editor, push to GitHub</td>
+        </tr>
+        <tr>
+          <td><strong>How visitors see the page</strong></td>
+          <td>Server generates HTML from database + templates on every visit</td>
+          <td>Pre-built HTML is served directly from disk</td>
+        </tr>
+        <tr>
+          <td><strong>Speed</strong></td>
+          <td>Slower (database query + template render per visit)</td>
+          <td>Instant (file already exists, just served)</td>
+        </tr>
+        <tr>
+          <td><strong>If the server crashes</strong></td>
+          <td>Whole site is down. Restore from backup. Hope database isn't corrupted.</td>
+          <td>Files still exist in GitHub. Nothing to restore.</td>
+        </tr>
+        <tr>
+          <td><strong>Version history</strong></td>
+          <td>Plugin-dependent, often clunky</td>
+          <td>Built into git: every change is a commit you can roll back</td>
+        </tr>
+        <tr>
+          <td><strong>Cost</strong></td>
+          <td>~$10-30/month for hosting + database</td>
+          <td>$0 for typical use</td>
+        </tr>
+        <tr>
+          <td><strong>Skills needed</strong></td>
+          <td>WordPress admin, themes, plugins, sometimes PHP</td>
+          <td>A text editor and a few git commands</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="punchline mt-4">
+      <strong>Why this matters:</strong> WordPress works because a server runs code on
+      every visit. A static site works because the files are already correct -- nothing
+      needs to "happen" when someone visits. That's why static is faster, cheaper, and
+      breaks less. The trade-off: dynamic things like comments or user accounts need a
+      separate piece (in our case, a Cloudflare Worker for the chatbot).
+    </div>
+
+    <p class="text-base text-slate-700 mt-4 prose-block">
+      The biggest mental shift: <strong>your website isn't a "thing running on a server."</strong>
+      It's just a folder of files that some server hands out. Once you see that,
+      half the mystery of the web evaporates.
+    </p>
+  </section>
+
+  <!-- ===================== SECTION 2: JSON ===================== -->
+  <section class="bg-white rounded-xl shadow-sm border p-8">
+    <h2 class="text-2xl font-semibold mb-2">2. JSON -- the language of structured data</h2>
+    <p class="text-sm text-slate-500 mb-4">A clean way for computers to write down information so other computers can read it.</p>
+
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      Computers send each other data constantly. Your browser sends data to the
+      podcast site. The podcast site sends data back. Your chatbot sends data to
+      Groq. They all need a shared format. <strong>JSON</strong> (JavaScript Object
+      Notation) is that format.
+    </p>
+
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      The core idea: instead of writing information as a blob of prose, you give
+      every piece of information a <em>label</em>. Compare:
+    </p>
+
+    <div class="side-by-side my-4">
+      <div>
+        <h4>Without labels (just text)</h4>
+<pre>All-In Podcast, May 8 2026, about
+Anthropic, 90 minutes, 8 takeaways</pre>
+      </div>
+      <div>
+        <h4>With labels (JSON)</h4>
+<pre>{
+  "title": "All-In Podcast",
+  "date": "2026-05-08",
+  "topic": "Anthropic",
+  "duration_minutes": 90,
+  "takeaway_count": 8
+}</pre>
+      </div>
+    </div>
+
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      Two simple building blocks make up all JSON:
+    </p>
+    <ul class="list-disc pl-6 text-slate-700 space-y-1 mb-3">
+      <li><span class="inline-code">{ }</span> curly braces wrap an <strong>object</strong> -- a bag of labeled fields</li>
+      <li><span class="inline-code">[ ]</span> square brackets wrap a <strong>list</strong> -- an ordered series of things</li>
+    </ul>
+
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      You can nest them inside each other forever. Here's a richer episode example
+      that shows a list inside an object, with each item itself being a small
+      object:
+    </p>
+
+<pre>{
+  "title": "All-In Podcast",
+  "date": "2026-05-08",
+  "hosts": ["Chamath", "Jason", "Sacks", "Friedberg"],
+  "takeaways": [
+    {"text": "Anthropic is exploding", "timestamp": 331},
+    {"text": "Elon-Sam lawsuit kicks off", "timestamp": 1620}
+  ],
+  "sentiment": {
+    "overall": "mixed",
+    "notes": "Optimistic about Anthropic, cautious about regulation"
+  }
+}</pre>
+
+    <h3 class="text-lg font-semibold mt-6 mb-2">Where JSON lives in YOUR tracker</h3>
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      Pretty much every piece of structured data in this project is JSON:
+    </p>
+    <ul class="list-disc pl-6 text-slate-700 space-y-1">
+      <li>Each episode is stored as a JSON file in <span class="inline-code">data/episodes/</span></li>
+      <li>The whole archive is bundled into <span class="inline-code">site/data.json</span> for the website to read</li>
+      <li>When your chatbot sends a question to Cloudflare, it's sending JSON</li>
+      <li>When Groq's AI returns a summary, it returns JSON</li>
+      <li>Trends, weekly briefs, all JSON underneath</li>
+    </ul>
+    <p class="text-base text-slate-700 mt-3 prose-block">
+      You can see it for yourself: open
+      <a class="text-blue-600 hover:underline" href="data.json" target="_blank">site/data.json</a>
+      in your browser. That's the raw JSON your website loads.
+    </p>
+  </section>
+
+  <!-- ===================== SECTION 3: XML HISTORY ===================== -->
+  <section class="bg-white rounded-xl shadow-sm border p-8">
+    <h2 class="text-2xl font-semibold mb-2">3. The XML era and why JSON took over</h2>
+    <p class="text-sm text-slate-500 mb-4">A short history lesson that explains a lot of computing.</p>
+
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      JSON wasn't always the default. From the late 1990s through the mid 2000s, the
+      dominant format for exchanging structured data was <strong>XML</strong>
+      (eXtensible Markup Language). Every enterprise system used it. SOAP web
+      services, RSS feeds, configuration files, Microsoft Office formats -- all XML.
+    </p>
+
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      The instinct of XML was right: data needs structure. But the execution was
+      heavy. Tags wrap everything, opening AND closing. Every concept seemed to
+      have a separate standard. Here's the same episode written in XML on the left,
+      JSON on the right:
+    </p>
+
+    <div class="side-by-side my-4">
+      <div>
+        <h4>XML version (460 characters)</h4>
+<pre>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;episode&gt;
+  &lt;title&gt;All-In Podcast&lt;/title&gt;
+  &lt;date&gt;2026-05-08&lt;/date&gt;
+  &lt;hosts&gt;
+    &lt;host&gt;Chamath&lt;/host&gt;
+    &lt;host&gt;Jason&lt;/host&gt;
+    &lt;host&gt;Sacks&lt;/host&gt;
+    &lt;host&gt;Friedberg&lt;/host&gt;
+  &lt;/hosts&gt;
+  &lt;takeaways&gt;
+    &lt;takeaway timestamp="331"&gt;
+      Anthropic is exploding
+    &lt;/takeaway&gt;
+    &lt;takeaway timestamp="1620"&gt;
+      Elon-Sam lawsuit kicks off
+    &lt;/takeaway&gt;
+  &lt;/takeaways&gt;
+  &lt;sentiment overall="mixed"&gt;
+    Optimistic about Anthropic,
+    cautious about regulation
+  &lt;/sentiment&gt;
+&lt;/episode&gt;</pre>
+      </div>
+      <div>
+        <h4>JSON version (305 characters)</h4>
+<pre>{
+  "title": "All-In Podcast",
+  "date": "2026-05-08",
+  "hosts": ["Chamath", "Jason", "Sacks", "Friedberg"],
+  "takeaways": [
+    {"text": "Anthropic is exploding",
+     "timestamp": 331},
+    {"text": "Elon-Sam lawsuit kicks off",
+     "timestamp": 1620}
+  ],
+  "sentiment": {
+    "overall": "mixed",
+    "notes": "Optimistic about Anthropic, cautious about regulation"
+  }
+}</pre>
+      </div>
+    </div>
+
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      Same information. JSON is roughly <strong>35% smaller</strong>, and that's
+      before XML's typical production verbosity (namespaces, schemas, processing
+      instructions) kicks in.
+    </p>
+
+    <h3 class="text-lg font-semibold mt-6 mb-2">Why JSON took over (the table)</h3>
+
+    <table class="compare-table w-full text-sm mt-2">
+      <thead>
+        <tr>
+          <th style="width: 22%">Aspect</th>
+          <th style="width: 39%">XML</th>
+          <th style="width: 39%">JSON</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>One labeled field</strong></td>
+          <td><code>&lt;date&gt;2026-05-08&lt;/date&gt;</code></td>
+          <td><code>"date": "2026-05-08"</code></td>
+        </tr>
+        <tr>
+          <td><strong>A list of items</strong></td>
+          <td><code>&lt;hosts&gt;&lt;host&gt;Chamath&lt;/host&gt;&lt;host&gt;Jason&lt;/host&gt;&lt;/hosts&gt;</code></td>
+          <td><code>"hosts": ["Chamath", "Jason"]</code></td>
+        </tr>
+        <tr>
+          <td><strong>Reading it in a web browser</strong></td>
+          <td><code>var doc = new DOMParser().parseFromString(s, "application/xml");</code><br><code>var date = doc.querySelector("date").textContent;</code></td>
+          <td><code>var data = JSON.parse(s);</code><br><code>var date = data.date;</code></td>
+        </tr>
+        <tr>
+          <td><strong>Schema definition</strong></td>
+          <td>Often required as a separate XSD or DTD file</td>
+          <td>None required -- just write your data</td>
+        </tr>
+        <tr>
+          <td><strong>Comments allowed</strong></td>
+          <td><code>&lt;!-- this episode is cool --&gt;</code></td>
+          <td>No comment syntax (intentional)</td>
+        </tr>
+        <tr>
+          <td><strong>Attributes vs children</strong></td>
+          <td>Two ways: <code>&lt;tag attr="x"&gt;child&lt;/tag&gt;</code></td>
+          <td>One way: <code>{"attr": "x", "child": "..."}</code></td>
+        </tr>
+        <tr>
+          <td><strong>File size for same data</strong></td>
+          <td>~30 to 50% larger than JSON</td>
+          <td>Smaller, less to send over the network</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3 class="text-lg font-semibold mt-6 mb-2">A bit of history</h3>
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      JSON wasn't invented from scratch. Douglas Crockford, an early web engineer,
+      noticed in 2001 that JavaScript already had a perfectly good notation for
+      objects built into the language. Instead of designing a new format, he wrote
+      a tiny spec saying "let's use exactly this syntax for data exchange, and
+      call it JSON."
+    </p>
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      Two things made JSON win between roughly 2005 and 2015:
+    </p>
+    <ol class="list-decimal pl-6 text-slate-700 space-y-2">
+      <li>
+        <strong>JavaScript was eating the web.</strong> Every browser already knew how
+        to read JSON natively, because JSON IS JavaScript syntax. XML required a
+        parser library.
+      </li>
+      <li>
+        <strong>APIs exploded.</strong> Twitter, Facebook, Google, every "Web 2.0"
+        company built APIs around 2006-2012. They picked JSON. New API designers
+        followed. By 2015, JSON was the default.
+      </li>
+    </ol>
+    <p class="text-base text-slate-700 mt-3 prose-block">
+      XML didn't disappear -- it's still everywhere in legacy enterprise systems,
+      government records, RSS feeds (including the podcast feed your tracker
+      reads), Microsoft Office documents, and configuration files. But for
+      anything new on the web, JSON has been the standard for over a decade.
+    </p>
+
+    <div class="punchline">
+      <strong>Fun observation about your tracker:</strong> the podcast's RSS feed is
+      XML (the format survived because the podcast ecosystem standardized on it in
+      2004 and never moved). Everything else in your project is JSON. That little
+      contrast is a tiny illustration of the whole industry's transition.
+    </div>
+  </section>
+
+  <!-- ===================== SECTION 4: HOW IT FITS ===================== -->
+  <section class="bg-white rounded-xl shadow-sm border p-8">
+    <h2 class="text-2xl font-semibold mb-2">4. How these three ideas fit together</h2>
+    <p class="text-sm text-slate-500 mb-4">Folders, URLs, JSON, and APIs all in one picture.</p>
+
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      Your All-In Podcast Tracker is a tiny but complete example of modern web
+      architecture. Look at it through three lenses:
+    </p>
+
+    <ol class="list-decimal pl-6 text-slate-700 space-y-3 mb-4">
+      <li>
+        <strong>Folder view:</strong> on your Mac, you see folders and files. You
+        edit them with a text editor. You move them around with Finder. They're
+        just files.
+      </li>
+      <li>
+        <strong>URL view:</strong> every public file has a web address. Visitors
+        type the address in a browser, the file appears. No magic.
+      </li>
+      <li>
+        <strong>JSON view:</strong> inside the files, the actual data is JSON. The
+        whole archive lives as JSON. Every chat question and answer flows as JSON.
+        Every analysis the AI produces returns as JSON.
+      </li>
+    </ol>
+
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      There's a fourth lens too, that ties everything together: <strong>APIs</strong>.
+      An API ("Application Programming Interface") sounds technical but it's the
+      simplest idea of all -- it just means one program sends JSON to another and
+      gets JSON back. That's it. That's the whole concept.
+    </p>
+
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      Your tracker has several APIs in play:
+    </p>
+    <ul class="list-disc pl-6 text-slate-700 space-y-1">
+      <li>GitHub Actions calls Groq's <strong>API</strong> -- sends JSON ("here's an audio file, please transcribe"), receives JSON ("here's the transcript")</li>
+      <li>Cloudflare Worker calls Groq's <strong>API</strong> -- sends JSON ("here's a chat question and some context"), receives JSON ("here's the answer")</li>
+      <li>Your website's browser calls the Cloudflare Worker's <strong>API</strong> -- sends JSON ("here's the visitor's question"), receives JSON ("here's the answer to display")</li>
+    </ul>
+
+    <p class="text-base text-slate-700 mt-3 prose-block">
+      Every "AI app", "weather widget", "live stock ticker", "Uber map", "Spotify
+      Now Playing" you've ever seen works the same way. A program asks another
+      program for JSON. Both sides agree on what fields the JSON will contain.
+      That's modern software in a sentence.
+    </p>
+  </section>
+
+  <!-- ===================== SECTION 5: WHAT YOU NOW KNOW ===================== -->
+  <section class="bg-white rounded-xl shadow-sm border p-8">
+    <h2 class="text-2xl font-semibold mb-2">What you now know</h2>
+
+    <p class="text-base text-slate-700 mb-4 prose-block">
+      By understanding three ideas (folders-as-URLs, JSON, APIs), you can see
+      through most modern websites and tools:
+    </p>
+
+    <ul class="list-disc pl-6 text-slate-700 space-y-2 mb-4">
+      <li>"How does this site update itself?" -- there's a script somewhere that fetches data (probably JSON over an API), saves it (probably as a JSON file in a folder), and a public folder serves the result.</li>
+      <li>"How does this chatbot work?" -- a tiny server somewhere sends JSON to an AI service (an API), gets JSON back, and displays it.</li>
+      <li>"Why is this site so fast?" -- probably static files in folders, served directly without a database or template engine.</li>
+      <li>"Why do APIs use JSON?" -- because it's smaller than XML, native to every web browser, and works in every programming language.</li>
+      <li>"What's the difference between a CMS and a static site?" -- a CMS runs code on every visit; a static site is pre-built files that just get served.</li>
+    </ul>
+
+    <p class="text-base text-slate-700 mb-3 prose-block">
+      You also accidentally learned a fair amount of operational stuff that most
+      hobbyist tools never expose:
+    </p>
+
+    <ul class="list-disc pl-6 text-slate-700 space-y-1 mb-4">
+      <li><strong>Version control</strong> -- every change is a commit you can roll back; nothing is permanent</li>
+      <li><strong>Scheduled tasks</strong> -- GitHub Actions cron jobs run code on a timer, without a server you maintain</li>
+      <li><strong>Rate limits</strong> -- free AI tiers cap how much you can use per minute and per day, and how to design for that</li>
+      <li><strong>Secrets handling</strong> -- the Cloudflare Worker pattern of "hide the API key behind a middleman" applies to every public-facing AI app</li>
+      <li><strong>Debugging from logs</strong> -- reading workflow output to figure out what succeeded, what timed out, what to fix next</li>
+    </ul>
+
+    <div class="punchline">
+      <strong>The bigger payoff:</strong> Once these patterns click, they apply
+      everywhere. Want to build a daily news digest? Same pattern: scheduled task
+      fetches data, asks an AI to summarize, writes JSON, publishes a static page.
+      Want a habit tracker? Same pattern: form posts JSON to a tiny worker, worker
+      writes JSON to storage, page reads JSON to display. The All-In tracker isn't
+      just one project -- it's a template for a whole class of useful tools.
+    </div>
+  </section>
+
+</main>
+
+<footer class="border-t bg-white mt-10">
+  <div class="max-w-5xl mx-auto px-5 py-4 text-xs text-slate-500">
+    Written as a companion to the All-In Podcast Tracker.
+    Built from allin.com episodes. Total monthly cost: $0 + Claude subscription.
+    Not affiliated with the All-In Podcast.
+  </div>
+</footer>
+
+</body>
+</html>
