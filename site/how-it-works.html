@@ -1,0 +1,559 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How It Works -- All-In Podcast Tracker</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .node {
+      cursor: pointer;
+      transition: filter 200ms, transform 200ms;
+    }
+    .node:hover { filter: brightness(1.05); }
+    .node.dimmed { opacity: 0.25; }
+    .node.highlighted {
+      filter: drop-shadow(0 0 12px rgba(59, 130, 246, 0.6));
+    }
+    .node.active {
+      filter: drop-shadow(0 0 14px rgba(249, 115, 22, 0.85));
+    }
+    .arrow { transition: opacity 200ms; }
+    .arrow.dimmed { opacity: 0.15; }
+    .arrow.active { stroke-width: 4 !important; }
+    .num-circle { transition: r 200ms; }
+    .num-circle.active { r: 18; }
+
+    .moving-dot {
+      r: 9;
+      fill: #facc15;
+      stroke: #ca8a04;
+      stroke-width: 2;
+      filter: drop-shadow(0 0 6px rgba(250, 204, 21, 0.8));
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+    .pulsing { animation: pulse 1.2s infinite ease-in-out; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900">
+
+<header class="bg-white border-b">
+  <div class="max-w-6xl mx-auto px-5 py-5 flex items-center justify-between flex-wrap gap-3">
+    <div>
+      <h1 class="text-xl font-semibold">How It Works</h1>
+      <p class="text-sm text-slate-500">Interactive walkthrough of the All-In Podcast Tracker</p>
+    </div>
+    <nav class="text-sm flex gap-4">
+      <a href="index.html" class="text-slate-600 hover:text-slate-900">&larr; Back to tracker</a>
+    </nav>
+  </div>
+</header>
+
+<main class="max-w-6xl mx-auto px-5 py-6 space-y-6">
+
+  <!-- ============ CONTROLS ============ -->
+  <section class="bg-white rounded-xl shadow-sm border p-5">
+    <div class="flex flex-wrap items-center gap-3">
+      <span class="text-sm font-semibold text-slate-700">Play a flow:</span>
+      <button class="play-btn rounded-lg bg-blue-600 text-white px-3 py-1.5 text-sm hover:bg-blue-700"
+              data-flow="weekly">&#9654; Weekly auto-run</button>
+      <button class="play-btn rounded-lg bg-emerald-600 text-white px-3 py-1.5 text-sm hover:bg-emerald-700"
+              data-flow="chat">&#9654; Visitor chat</button>
+      <button class="play-btn rounded-lg bg-slate-600 text-white px-3 py-1.5 text-sm hover:bg-slate-700"
+              data-flow="rescue">&#9654; Manual rescue</button>
+      <button id="resetBtn" class="rounded-lg border px-3 py-1.5 text-sm hover:bg-slate-100">&#x21bb; Reset</button>
+
+      <span class="ml-auto text-sm font-semibold text-slate-700">Language:</span>
+      <label class="inline-flex items-center gap-1 text-sm">
+        <input type="radio" name="mode" value="simple" checked> Kid mode
+      </label>
+      <label class="inline-flex items-center gap-1 text-sm">
+        <input type="radio" name="mode" value="technical"> Technical mode
+      </label>
+    </div>
+    <p class="text-xs text-slate-500 mt-3">
+      Hover any box for details. Click a box to pin its info. Press &#9654; on a flow to animate the sequence.
+    </p>
+  </section>
+
+  <!-- ============ DIAGRAM + INFO PANEL ============ -->
+  <section class="grid lg:grid-cols-3 gap-5">
+    <div class="lg:col-span-2 bg-white rounded-xl shadow-sm border p-5">
+      <svg id="archSvg" viewBox="0 0 1020 760" class="w-full h-auto" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif">
+        <defs>
+          <marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#3b82f6"/>
+          </marker>
+          <marker id="arrowOrange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#f97316"/>
+          </marker>
+          <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#22c55e"/>
+          </marker>
+          <marker id="arrowGrey" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#64748b"/>
+          </marker>
+        </defs>
+
+        <!-- GROQ -->
+        <g class="node" data-id="groq">
+          <rect x="300" y="40" width="420" height="130" rx="14" fill="#ffedd5" stroke="#f97316" stroke-width="2.5"/>
+          <text x="510" y="70" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12">&#129504; The Groq AI (the brain)</text>
+          <text x="510" y="92" text-anchor="middle" font-size="12" fill="#9a3412" font-weight="600">Two AIs in one place -- both free to use</text>
+          <line x1="320" y1="103" x2="700" y2="103" stroke="#fdba74" stroke-width="1"/>
+          <text x="510" y="124" text-anchor="middle" font-size="12" fill="#9a3412">Whisper -- listens to audio, writes it down.</text>
+          <text x="510" y="144" text-anchor="middle" font-size="12" fill="#9a3412">Llama -- reads long text, makes short summaries.</text>
+        </g>
+
+        <!-- GITHUB CLUSTER -->
+        <g class="node" data-id="github">
+          <rect x="50" y="225" width="400" height="320" rx="14" fill="#eff6ff" stroke="#3b82f6" stroke-width="2.5"/>
+          <text x="250" y="253" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">&#127981; GitHub -- factory and storefront</text>
+        </g>
+
+        <g class="node" data-id="github-actions">
+          <rect x="70" y="270" width="360" height="76" rx="8" fill="white" stroke="#93c5fd" stroke-width="1.5"/>
+          <text x="250" y="293" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">&#9200; Actions (the alarm clock)</text>
+          <text x="250" y="313" text-anchor="middle" font-size="11" fill="#1e40af">Every Saturday at 9 AM Singapore time, it wakes up</text>
+          <text x="250" y="329" text-anchor="middle" font-size="11" fill="#1e40af">and runs the "fetch new episodes" routine.</text>
+        </g>
+
+        <g class="node" data-id="github-repo">
+          <rect x="70" y="356" width="360" height="76" rx="8" fill="white" stroke="#93c5fd" stroke-width="1.5"/>
+          <text x="250" y="379" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">&#128451; Repo (the filing cabinet)</text>
+          <text x="250" y="399" text-anchor="middle" font-size="11" fill="#1e40af">Stores all 373 episodes, summaries, and the</text>
+          <text x="250" y="415" text-anchor="middle" font-size="11" fill="#1e40af">Python scripts that make everything work.</text>
+        </g>
+
+        <g class="node" data-id="github-pages">
+          <rect x="70" y="442" width="360" height="76" rx="8" fill="white" stroke="#93c5fd" stroke-width="1.5"/>
+          <text x="250" y="465" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">&#127760; Pages (the public website)</text>
+          <text x="250" y="485" text-anchor="middle" font-size="11" fill="#1e40af">Turns stored files into a real website at</text>
+          <text x="250" y="501" text-anchor="middle" font-size="11" fill="#1e40af">kr48vr.github.io -- what visitors see.</text>
+        </g>
+
+        <!-- CLOUDFLARE -->
+        <g class="node" data-id="cloudflare">
+          <rect x="570" y="225" width="400" height="200" rx="14" fill="#fef3c7" stroke="#d97706" stroke-width="2.5"/>
+          <text x="770" y="253" text-anchor="middle" font-size="16" font-weight="700" fill="#78350f">&#128238; Cloudflare Worker (messenger)</text>
+          <text x="770" y="277" text-anchor="middle" font-size="11" fill="#92400e">A tiny program living on the internet.</text>
+          <line x1="590" y1="289" x2="950" y2="289" stroke="#fbbf24" stroke-width="1"/>
+          <text x="770" y="313" text-anchor="middle" font-size="12" fill="#92400e">When a visitor types a question, it takes that</text>
+          <text x="770" y="333" text-anchor="middle" font-size="12" fill="#92400e">question, adds the secret password, asks Groq,</text>
+          <text x="770" y="353" text-anchor="middle" font-size="12" fill="#92400e">and brings the answer back to the visitor.</text>
+          <text x="770" y="385" text-anchor="middle" font-size="11" fill="#a16207" font-style="italic">The visitor never sees the password.</text>
+        </g>
+
+        <!-- VISITOR -->
+        <g class="node" data-id="visitor">
+          <rect x="570" y="450" width="195" height="100" rx="14" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+          <text x="667" y="477" text-anchor="middle" font-size="14" font-weight="700" fill="#14532d">&#129489; A visitor</text>
+          <text x="667" y="500" text-anchor="middle" font-size="11" fill="#166534">Anyone who opens your</text>
+          <text x="667" y="516" text-anchor="middle" font-size="11" fill="#166534">website in their browser</text>
+          <text x="667" y="535" text-anchor="middle" font-size="11" fill="#166534">and asks the chatbot stuff.</text>
+        </g>
+
+        <!-- YOU TERMINAL -->
+        <g class="node" data-id="terminal">
+          <rect x="775" y="450" width="195" height="100" rx="14" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+          <text x="872" y="477" text-anchor="middle" font-size="14" font-weight="700" fill="#14532d">&#128736; You (Terminal)</text>
+          <text x="872" y="500" text-anchor="middle" font-size="11" fill="#166534">Your Mac with the code.</text>
+          <text x="872" y="516" text-anchor="middle" font-size="11" fill="#166534">You show up when</text>
+          <text x="872" y="535" text-anchor="middle" font-size="11" fill="#166534">something breaks.</text>
+        </g>
+
+        <!-- THE PODCAST -->
+        <g class="node" data-id="podcast">
+          <rect x="50" y="580" width="195" height="120" rx="14" fill="#f3e8ff" stroke="#a855f7" stroke-width="2"/>
+          <text x="147" y="607" text-anchor="middle" font-size="14" font-weight="700" fill="#581c87">&#127897; The Podcast</text>
+          <text x="147" y="630" text-anchor="middle" font-size="11" fill="#7e22ce">New episode published</text>
+          <text x="147" y="646" text-anchor="middle" font-size="11" fill="#7e22ce">on All-In's website.</text>
+          <text x="147" y="670" text-anchor="middle" font-size="11" fill="#7e22ce">Raw material:</text>
+          <text x="147" y="686" text-anchor="middle" font-size="11" fill="#7e22ce">audio + episode notes.</text>
+        </g>
+
+        <!-- YOUTUBE -->
+        <g class="node" data-id="youtube">
+          <rect x="255" y="580" width="195" height="120" rx="14" fill="#f3e8ff" stroke="#a855f7" stroke-width="2"/>
+          <text x="352" y="607" text-anchor="middle" font-size="14" font-weight="700" fill="#581c87">&#128250; YouTube</text>
+          <text x="352" y="630" text-anchor="middle" font-size="11" fill="#7e22ce">Backup source.</text>
+          <text x="352" y="650" text-anchor="middle" font-size="11" fill="#7e22ce">If audio can't be</text>
+          <text x="352" y="666" text-anchor="middle" font-size="11" fill="#7e22ce">transcribed, pull</text>
+          <text x="352" y="682" text-anchor="middle" font-size="11" fill="#7e22ce">captions from here.</text>
+        </g>
+
+        <!-- COWORK -->
+        <g class="node" data-id="cowork">
+          <rect x="570" y="580" width="400" height="120" rx="14" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+          <text x="770" y="608" text-anchor="middle" font-size="14" font-weight="700" fill="#14532d">&#129302; You + Claude in Cowork</text>
+          <text x="770" y="631" text-anchor="middle" font-size="11" fill="#166534">For the BIG questions: "compare what they said about</text>
+          <text x="770" y="647" text-anchor="middle" font-size="11" fill="#166534">OpenAI across three years." Claude reads ALL 373 episodes.</text>
+          <text x="770" y="671" text-anchor="middle" font-size="11" fill="#166534">Also where you do manual rescues when an episode is stuck.</text>
+        </g>
+
+        <!-- Arrows -->
+        <!-- (1) Podcast -> GitHub Actions -->
+        <path class="arrow" data-arrow="1" d="M 147 580 Q 147 460 200 346"
+              fill="none" stroke="#3b82f6" stroke-width="2.5" marker-end="url(#arrowBlue)"/>
+        <circle class="num-circle" cx="135" cy="480" r="14" fill="#3b82f6" stroke="white" stroke-width="2"/>
+        <text x="135" y="485" text-anchor="middle" font-size="13" font-weight="700" fill="white">1</text>
+
+        <!-- (2) GitHub Actions -> Groq -->
+        <path class="arrow" data-arrow="2" d="M 320 270 Q 360 220 410 170"
+              fill="none" stroke="#f97316" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
+        <circle class="num-circle" cx="360" cy="228" r="14" fill="#f97316" stroke="white" stroke-width="2"/>
+        <text x="360" y="233" text-anchor="middle" font-size="13" font-weight="700" fill="white">2</text>
+
+        <!-- (3) Visitor -> Cloudflare -->
+        <line class="arrow" data-arrow="3" x1="700" y1="450" x2="730" y2="425"
+              stroke="#22c55e" stroke-width="2.5" marker-end="url(#arrowGreen)"/>
+        <circle class="num-circle" cx="685" cy="450" r="14" fill="#22c55e" stroke="white" stroke-width="2"/>
+        <text x="685" y="455" text-anchor="middle" font-size="13" font-weight="700" fill="white">3</text>
+
+        <!-- (4) Cloudflare -> Groq -->
+        <path class="arrow" data-arrow="4" d="M 680 225 Q 660 195 630 170"
+              fill="none" stroke="#f97316" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
+        <circle class="num-circle" cx="660" cy="203" r="14" fill="#f97316" stroke="white" stroke-width="2"/>
+        <text x="660" y="208" text-anchor="middle" font-size="13" font-weight="700" fill="white">4</text>
+
+        <!-- Dashed: visitor loads page -->
+        <line class="arrow dashed" data-arrow="loads" x1="570" y1="495" x2="450" y2="485"
+              stroke="#22c55e" stroke-width="1.5" stroke-dasharray="5,4" marker-end="url(#arrowGreen)"/>
+
+        <!-- Dashed: terminal -> repo -->
+        <line class="arrow dashed" data-arrow="push" x1="775" y1="495" x2="450" y2="410"
+              stroke="#22c55e" stroke-width="1.5" stroke-dasharray="5,4" marker-end="url(#arrowGreen)"/>
+
+        <!-- Dashed: cowork -> repo -->
+        <line class="arrow dashed" data-arrow="cowork-read" x1="600" y1="580" x2="450" y2="455"
+              stroke="#22c55e" stroke-width="1.5" stroke-dasharray="5,4" marker-end="url(#arrowGreen)"/>
+
+        <!-- Dashed: youtube -> cowork (rescue) -->
+        <line class="arrow dashed" data-arrow="rescue" x1="450" y1="640" x2="570" y2="640"
+              stroke="#64748b" stroke-width="1.5" stroke-dasharray="5,4" marker-end="url(#arrowGrey)"/>
+
+        <!-- Animated dot (hidden by default) -->
+        <circle id="movingDot" class="moving-dot" cx="-100" cy="-100" r="0"/>
+      </svg>
+    </div>
+
+    <aside class="bg-white rounded-xl shadow-sm border p-5 min-h-[300px]">
+      <div id="infoPanel" class="text-sm">
+        <h3 class="text-base font-semibold mb-2 text-slate-800">Try it out</h3>
+        <p class="text-slate-600">
+          Hover any box to see what it does. Click to pin the info here.
+        </p>
+        <p class="text-slate-600 mt-3">
+          Or press one of the &#9654; buttons above to watch a flow animate step by step.
+        </p>
+      </div>
+    </aside>
+  </section>
+
+  <!-- ============ STORY LEGEND ============ -->
+  <section class="bg-white rounded-xl shadow-sm border p-5">
+    <h2 class="text-lg font-semibold mb-3">The whole story in 4 steps</h2>
+    <ol class="space-y-2 text-sm text-slate-700">
+      <li class="flex gap-3">
+        <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-blue-600 text-white font-bold text-xs flex-shrink-0">1</span>
+        <span><strong>The Podcast publishes a new episode.</strong> GitHub Actions wakes up Saturday morning and grabs it.</span>
+      </li>
+      <li class="flex gap-3">
+        <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-orange-500 text-white font-bold text-xs flex-shrink-0">2</span>
+        <span><strong>GitHub Actions sends the audio + notes to Groq's AI</strong>, which writes a summary. The result is saved in the Repo, and Pages publishes it.</span>
+      </li>
+      <li class="flex gap-3">
+        <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-emerald-600 text-white font-bold text-xs flex-shrink-0">3</span>
+        <span><strong>A visitor types a question</strong> into the chatbox on the site. The question goes to the Cloudflare Worker.</span>
+      </li>
+      <li class="flex gap-3">
+        <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-orange-500 text-white font-bold text-xs flex-shrink-0">4</span>
+        <span><strong>Cloudflare relays the question to Groq's AI</strong>, gets the answer, and sends it back. Your secret password never leaves Cloudflare.</span>
+      </li>
+    </ol>
+  </section>
+
+</main>
+
+<footer class="border-t bg-white mt-10">
+  <div class="max-w-6xl mx-auto px-5 py-4 text-xs text-slate-500">
+    Built from allin.com episodes &middot; Total monthly cost: $0 + Claude subscription &middot; Not affiliated with the All-In Podcast.
+  </div>
+</footer>
+
+<script>
+/* ---------- Data ---------- */
+const NODES = {
+  groq: {
+    icon: "&#129504;",
+    title: "Groq AI",
+    simple: "The smart computer brain. It does two things: (1) listens to podcast audio and writes down everything that was said, and (2) reads long text and shortens it into summaries.\n\nIt waits for other programs to ask it for help. It does not start anything on its own.",
+    technical: "Hosted inference for two models on Groq's free tier:\n\n* Whisper Large V3: speech-to-text for podcast audio (~25MB upload cap)\n* Llama 3.3 70B Versatile: chat completions for the summary, chat, and chunk-merge prompts\n\nFree tier limits: 100,000 tokens per day, ~12,000 tokens per minute. The 20K transcript shrink keeps each request under the per-request token cap."
+  },
+  github: {
+    icon: "&#127981;",
+    title: "GitHub",
+    simple: "GitHub is one website that does three different jobs for your project. The three smaller boxes inside it are the three jobs.",
+    technical: "github.com/KR48VR/all-in-podcast-tracker -- a public repository with a GitHub Actions workflow, episode data, source code, and a Pages deployment pointing at /site/."
+  },
+  "github-actions": {
+    icon: "&#9200;",
+    title: "GitHub Actions",
+    simple: "Like an alarm clock with hands. Every Saturday at 9 AM (your time), it wakes up and runs through the whole process: pull new episodes, ask the AI for summaries, save the result, publish the new site. It does not need you to be around.",
+    technical: ".github/workflows/weekly.yml -- cron: 0 1 * * 6 (01:00 UTC = 09:00 SGT). Job steps: checkout, install ffmpeg + Python deps, run fetch_episodes.py, run analyze_episode.py (90 min timeout), run build_site.py, commit + push.\n\nManually triggerable via workflow_dispatch from the Actions tab."
+  },
+  "github-repo": {
+    icon: "&#128451;",
+    title: "GitHub Repo",
+    simple: "Your filing cabinet. Every episode, every summary, every line of code lives in here. When something needs to be remembered, it goes in this cabinet.",
+    technical: "Files of note: data/episodes/*.json (one per episode), src/fetch_episodes.py (pulls from RSS, calls Whisper), src/analyze_episode.py (chunk-and-merge summary generation), src/build_site.py (assembles site/data.json), worker/index.js (the Cloudflare Worker source), site/index.html (the user-facing page), KNOWN-GAPS.md (the two persistent stuck episodes)."
+  },
+  "github-pages": {
+    icon: "&#127760;",
+    title: "GitHub Pages",
+    simple: "Turns your filing cabinet into a real website that anyone can visit on the internet. When the cabinet gets updated, the website auto-updates within a minute.",
+    technical: "Configured to serve /site/ at https://kr48vr.github.io/all-in-podcast-tracker/site/. Auto-deploys on every push to main. Includes data.json (the full episode archive), index.html, config.js, and how-it-works.html."
+  },
+  cloudflare: {
+    icon: "&#128238;",
+    title: "Cloudflare Worker",
+    simple: "A tiny middleman that takes one job: when a visitor asks the chatbot a question, the Worker takes it, adds your secret password (so Groq trusts it), forwards it to the AI, gets the answer, and brings it back to the visitor.\n\nWhy? Because if your password were in the website itself, anyone visiting could steal it. The Worker keeps it hidden.",
+    technical: "Deployed at https://allin-chat.mentalboy2000.workers.dev -- file: worker/index.js. Holds GROQ_API_KEY as a Wrangler secret. Validates the request, ranks top-K episodes by keyword similarity (with recency-sort regex), accepts a history array for follow-up questions, calls Groq's chat completions, returns answer + citations.\n\nDeployed via 'wrangler deploy' from the worker/ folder."
+  },
+  visitor: {
+    icon: "&#129489;",
+    title: "A visitor",
+    simple: "Anyone with the URL to your site. They use a normal web browser to open the page, browse the episode archive, look at the trend charts, and ask the chatbot questions.",
+    technical: "Browser loads site/data.json once (the full 373-episode index), which feeds the archive grid, the trend charts, and the chat's TOP_K retrieval shortlist. Chat requests POST to the Cloudflare Worker with question + history + episodes. History is held in memory only -- not persisted."
+  },
+  terminal: {
+    icon: "&#128736;",
+    title: "You (Terminal)",
+    simple: "When something breaks or you want to add a feature, you sit down at your Mac, open the Terminal app, edit code in the local copy of the repo, and push the changes to GitHub. This rarely happens now that everything is stable.",
+    technical: "Local clone at ~/Documents/all-in-podcast-tracker/. Standard git workflow: pull --rebase, edit files, add, commit, push. wrangler deploy from worker/ folder when the Worker code changes."
+  },
+  cowork: {
+    icon: "&#129302;",
+    title: "You + Claude in Cowork",
+    simple: "This is where you go for questions too big for the site's chatbot -- things like 'how have they talked about OpenAI across the last three years' or 'find every episode where they discussed inflation.' Claude can read all 373 episodes at once and write a real essay-style answer.\n\nAlso where you do the manual rescue routine when a new episode is missing its transcript.",
+    technical: "Cowork session has access to file system (local clone of repo) and Chrome MCP for fetching live data.json or scraping YouTube transcripts. Claude runs Python/JavaScript to analyze data across all episodes -- not limited to TOP_K like the site chatbot."
+  },
+  podcast: {
+    icon: "&#127897;",
+    title: "The All-In Podcast",
+    simple: "The original podcast you're tracking. Hosted on allin.com, published weekly-ish. New episode = new audio file + episode notes. This is the raw material everything else processes.",
+    technical: "RSS feed parsed by fetch_episodes.py. Each new episode has title, description, audio_url (libsyn.com), and pub date. Some episodes have a posted transcript on the allin.com page; many do not."
+  },
+  youtube: {
+    icon: "&#128250;",
+    title: "YouTube (@allin)",
+    simple: "The All-In Podcast also publishes video versions of episodes on YouTube. You only use this as a backup -- when an episode is published but its audio transcript can't be made, you can sometimes get the transcript from YouTube's auto-captions instead.",
+    technical: "Channel ID UCESLZhusAkFfsNsApnjF_Cg. The fetch step tries to match episodes to YouTube videos via the channel's RSS feed (intermittently 404s on Google's side). Manual rescue: open the video, extract captions via youtube-transcript.io or DOM scraping, inject into the episode JSON."
+  }
+};
+
+const FLOWS = {
+  weekly: {
+    name: "Weekly auto-run",
+    steps: [
+      { node: "podcast",        text: "9 AM Saturday: a new episode is sitting on the All-In Podcast feed, waiting." },
+      { node: "github-actions", text: "GitHub Actions wakes up and starts running the weekly script." },
+      { node: "github-actions", text: "fetch_episodes.py pulls the new episode's audio file and notes." },
+      { node: "groq",           text: "The audio + notes go to Groq. Whisper writes a transcript; Llama writes a summary." },
+      { node: "github-repo",    text: "The summary is saved into the Repo as JSON next to all the other episodes." },
+      { node: "github-pages",   text: "Pages auto-deploys: within a minute, the new summary shows up on the website." }
+    ]
+  },
+  chat: {
+    name: "A visitor uses the chatbot",
+    steps: [
+      { node: "visitor",    text: "A visitor types a question (like 'what's the latest episode about?') into the chat box on your site." },
+      { node: "cloudflare", text: "The browser sends the question to the Cloudflare Worker." },
+      { node: "cloudflare", text: "The Worker picks the 12 most relevant episodes, adds the secret password, and sends everything to Groq." },
+      { node: "groq",       text: "Groq's Llama AI reads the episodes and writes an answer." },
+      { node: "cloudflare", text: "The Worker receives the answer from Groq and forwards it back to the visitor's browser." },
+      { node: "visitor",    text: "The visitor sees the answer appear in the chat box." }
+    ]
+  },
+  rescue: {
+    name: "Manual rescue (when an episode is stuck)",
+    steps: [
+      { node: "podcast",   text: "A new episode is published, but the audio file can't be transcribed (rate limit, missing transcript, etc.)." },
+      { node: "youtube",   text: "You find the episode on YouTube and extract its captions." },
+      { node: "cowork",    text: "In Cowork, Claude helps you inject the captions into the episode's JSON file." },
+      { node: "github-repo", text: "You push the change to GitHub." },
+      { node: "github-actions", text: "You trigger the workflow manually; the analyzer now has a transcript and produces a summary." }
+    ]
+  }
+};
+
+/* ---------- DOM ---------- */
+const svg = document.getElementById("archSvg");
+const infoPanel = document.getElementById("infoPanel");
+const movingDot = document.getElementById("movingDot");
+const modeRadios = document.querySelectorAll('input[name="mode"]');
+let currentMode = "simple";
+let pinned = null;
+let flowTimer = null;
+
+function getMode() {
+  const checked = document.querySelector('input[name="mode"]:checked');
+  return checked ? checked.value : "simple";
+}
+
+function nodeCenter(id) {
+  const g = svg.querySelector(`g.node[data-id="${id}"]`);
+  if (!g) return { x: 510, y: 380 };
+  const r = g.querySelector("rect");
+  return {
+    x: parseFloat(r.getAttribute("x")) + parseFloat(r.getAttribute("width")) / 2,
+    y: parseFloat(r.getAttribute("y")) + parseFloat(r.getAttribute("height")) / 2
+  };
+}
+
+function renderInfo(id) {
+  const n = NODES[id];
+  if (!n) {
+    infoPanel.innerHTML = `<h3 class="text-base font-semibold mb-2 text-slate-800">Try it out</h3>
+      <p class="text-slate-600">Hover any box to see what it does. Click to pin the info here.</p>`;
+    return;
+  }
+  const mode = getMode();
+  const text = (mode === "technical" ? n.technical : n.simple) || n.simple;
+  const paragraphs = text.split("\n\n").map(p => {
+    const safe = p
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/\n/g, "<br>");
+    return `<p class="text-slate-700 mb-2">${safe}</p>`;
+  }).join("");
+  infoPanel.innerHTML = `
+    <div class="flex items-center gap-2 mb-2">
+      <span class="text-2xl">${n.icon}</span>
+      <h3 class="text-base font-semibold text-slate-800">${n.title}</h3>
+    </div>
+    ${paragraphs}
+    <p class="text-xs text-slate-400 mt-3">Mode: ${mode === "technical" ? "Technical" : "Kid-friendly"} -- toggle above to switch.</p>
+  `;
+}
+
+/* ---------- Hover / click handlers ---------- */
+svg.querySelectorAll("g.node").forEach(g => {
+  const id = g.dataset.id;
+  g.addEventListener("mouseenter", () => {
+    if (!pinned && !flowTimer) renderInfo(id);
+  });
+  g.addEventListener("mouseleave", () => {
+    if (!pinned && !flowTimer) renderInfo(null);
+  });
+  g.addEventListener("click", () => {
+    if (flowTimer) return;
+    if (pinned === id) {
+      pinned = null;
+      renderInfo(null);
+    } else {
+      pinned = id;
+      renderInfo(id);
+    }
+  });
+});
+
+modeRadios.forEach(r => {
+  r.addEventListener("change", () => {
+    if (pinned) renderInfo(pinned);
+  });
+});
+
+document.getElementById("resetBtn").addEventListener("click", () => {
+  stopFlow();
+  pinned = null;
+  renderInfo(null);
+});
+
+/* ---------- Flow animation ---------- */
+function stopFlow() {
+  if (flowTimer) {
+    clearTimeout(flowTimer);
+    flowTimer = null;
+  }
+  svg.querySelectorAll("g.node").forEach(g => {
+    g.classList.remove("dimmed", "active", "highlighted");
+  });
+  svg.querySelectorAll(".arrow").forEach(a => {
+    a.classList.remove("dimmed", "active");
+  });
+  movingDot.setAttribute("cx", -100);
+  movingDot.setAttribute("cy", -100);
+  movingDot.setAttribute("r", 0);
+}
+
+function highlightStep(flow, idx) {
+  const step = flow.steps[idx];
+  // Dim all nodes, then activate the current one
+  svg.querySelectorAll("g.node").forEach(g => {
+    g.classList.remove("active", "highlighted");
+    g.classList.add("dimmed");
+  });
+  const target = svg.querySelector(`g.node[data-id="${step.node}"]`);
+  if (target) {
+    target.classList.remove("dimmed");
+    target.classList.add("active");
+  }
+
+  // Update info panel
+  infoPanel.innerHTML = `
+    <div class="mb-2 text-xs uppercase tracking-wider text-slate-500 font-semibold">
+      ${flow.name} -- step ${idx + 1} of ${flow.steps.length}
+    </div>
+    <div class="text-slate-800 text-sm leading-relaxed">${step.text}</div>
+    <div class="mt-3 h-1 bg-slate-200 rounded-full overflow-hidden">
+      <div class="h-1 bg-blue-500 transition-all duration-500" style="width:${((idx + 1) / flow.steps.length) * 100}%"></div>
+    </div>
+  `;
+
+  // Move the dot to the active node
+  const c = nodeCenter(step.node);
+  movingDot.setAttribute("cx", c.x);
+  movingDot.setAttribute("cy", c.y);
+  movingDot.setAttribute("r", 11);
+  movingDot.classList.add("pulsing");
+}
+
+function playFlow(flowKey) {
+  stopFlow();
+  const flow = FLOWS[flowKey];
+  if (!flow) return;
+  pinned = null;
+  let i = 0;
+  function next() {
+    if (i >= flow.steps.length) {
+      flowTimer = setTimeout(() => {
+        stopFlow();
+        infoPanel.innerHTML = `
+          <h3 class="text-base font-semibold mb-2 text-slate-800">${flow.name}: finished</h3>
+          <p class="text-slate-600 text-sm">Hover boxes for details, or play another flow above.</p>
+        `;
+        flowTimer = null;
+      }, 2000);
+      return;
+    }
+    highlightStep(flow, i);
+    i++;
+    flowTimer = setTimeout(next, 2000);
+  }
+  next();
+}
+
+document.querySelectorAll(".play-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    playFlow(btn.dataset.flow);
+  });
+});
+</script>
+
+</body>
+</html>
