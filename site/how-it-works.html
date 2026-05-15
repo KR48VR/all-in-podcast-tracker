@@ -55,7 +55,7 @@
 <main class="max-w-6xl mx-auto px-5 py-6 space-y-6">
 
   <!-- ============ CONTROLS ============ -->
-  <section class="bg-white rounded-xl shadow-sm border p-5">
+  <section class="bg-white rounded-xl shadow-sm border p-5 space-y-3">
     <div class="flex flex-wrap items-center gap-3">
       <span class="text-sm font-semibold text-slate-700">Play a flow:</span>
       <button class="play-btn rounded-lg bg-blue-600 text-white px-3 py-1.5 text-sm hover:bg-blue-700"
@@ -64,7 +64,19 @@
               data-flow="chat">&#9654; Visitor chat</button>
       <button class="play-btn rounded-lg bg-slate-600 text-white px-3 py-1.5 text-sm hover:bg-slate-700"
               data-flow="rescue">&#9654; Manual rescue</button>
+      <button id="pauseBtn" class="rounded-lg border px-3 py-1.5 text-sm hover:bg-slate-100 disabled:opacity-40" disabled>&#10074;&#10074; Pause</button>
+      <button id="prevBtn" class="rounded-lg border px-3 py-1.5 text-sm hover:bg-slate-100 disabled:opacity-40" disabled>&#9664; Prev step</button>
+      <button id="stepBtn" class="rounded-lg border px-3 py-1.5 text-sm hover:bg-slate-100 disabled:opacity-40" disabled>Next step &#9654;</button>
       <button id="resetBtn" class="rounded-lg border px-3 py-1.5 text-sm hover:bg-slate-100">&#x21bb; Reset</button>
+    </div>
+    <div class="flex flex-wrap items-center gap-3">
+      <span class="text-sm font-semibold text-slate-700">Speed:</span>
+      <button class="speed-btn rounded-lg border px-3 py-1 text-sm hover:bg-slate-100"
+              data-speed="3500">Slow</button>
+      <button class="speed-btn rounded-lg border px-3 py-1 text-sm hover:bg-slate-100 bg-slate-900 text-white"
+              data-speed="2000" data-default="true">Normal</button>
+      <button class="speed-btn rounded-lg border px-3 py-1 text-sm hover:bg-slate-100"
+              data-speed="1000">Fast</button>
 
       <span class="ml-auto text-sm font-semibold text-slate-700">Language:</span>
       <label class="inline-flex items-center gap-1 text-sm">
@@ -74,8 +86,8 @@
         <input type="radio" name="mode" value="technical"> Technical mode
       </label>
     </div>
-    <p class="text-xs text-slate-500 mt-3">
-      Hover any box for details. Click a box to pin its info. Press &#9654; on a flow to animate the sequence.
+    <p class="text-xs text-slate-500">
+      Press &#9654; to start a flow. While playing, use Pause / Next step / Reset to control it. Hover any box for details; click to pin.
     </p>
   </section>
 
@@ -84,16 +96,17 @@
     <div class="lg:col-span-2 bg-white rounded-xl shadow-sm border p-5">
       <svg id="archSvg" viewBox="0 0 1020 760" class="w-full h-auto" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif">
         <defs>
-          <marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+          <!-- orient="auto-start-reverse" makes the same marker work at both ends of a line: it points outward whether used as marker-start or marker-end. -->
+          <marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
             <path d="M 0 0 L 10 5 L 0 10 z" fill="#3b82f6"/>
           </marker>
-          <marker id="arrowOrange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+          <marker id="arrowOrange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
             <path d="M 0 0 L 10 5 L 0 10 z" fill="#f97316"/>
           </marker>
-          <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+          <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
             <path d="M 0 0 L 10 5 L 0 10 z" fill="#22c55e"/>
           </marker>
-          <marker id="arrowGrey" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+          <marker id="arrowGrey" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
             <path d="M 0 0 L 10 5 L 0 10 z" fill="#64748b"/>
           </marker>
         </defs>
@@ -201,39 +214,46 @@
         <circle class="num-circle" cx="135" cy="480" r="14" fill="#3b82f6" stroke="white" stroke-width="2"/>
         <text x="135" y="485" text-anchor="middle" font-size="13" font-weight="700" fill="white">1</text>
 
-        <!-- (2) GitHub Actions -> Groq -->
+        <!-- (2) GitHub Actions <-> Groq (round-trip) -->
         <path class="arrow" data-arrow="2" d="M 320 270 Q 360 220 410 170"
-              fill="none" stroke="#f97316" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
+              fill="none" stroke="#f97316" stroke-width="2.5"
+              marker-start="url(#arrowOrange)" marker-end="url(#arrowOrange)"/>
         <circle class="num-circle" cx="360" cy="228" r="14" fill="#f97316" stroke="white" stroke-width="2"/>
         <text x="360" y="233" text-anchor="middle" font-size="13" font-weight="700" fill="white">2</text>
 
-        <!-- (3) Visitor -> Cloudflare -->
+        <!-- (3) Visitor <-> Cloudflare (round-trip) -->
         <line class="arrow" data-arrow="3" x1="700" y1="450" x2="730" y2="425"
-              stroke="#22c55e" stroke-width="2.5" marker-end="url(#arrowGreen)"/>
+              stroke="#22c55e" stroke-width="2.5"
+              marker-start="url(#arrowGreen)" marker-end="url(#arrowGreen)"/>
         <circle class="num-circle" cx="685" cy="450" r="14" fill="#22c55e" stroke="white" stroke-width="2"/>
         <text x="685" y="455" text-anchor="middle" font-size="13" font-weight="700" fill="white">3</text>
 
-        <!-- (4) Cloudflare -> Groq -->
+        <!-- (4) Cloudflare <-> Groq (round-trip) -->
         <path class="arrow" data-arrow="4" d="M 680 225 Q 660 195 630 170"
-              fill="none" stroke="#f97316" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
+              fill="none" stroke="#f97316" stroke-width="2.5"
+              marker-start="url(#arrowOrange)" marker-end="url(#arrowOrange)"/>
         <circle class="num-circle" cx="660" cy="203" r="14" fill="#f97316" stroke="white" stroke-width="2"/>
         <text x="660" y="208" text-anchor="middle" font-size="13" font-weight="700" fill="white">4</text>
 
         <!-- Dashed: visitor loads page -->
         <line class="arrow dashed" data-arrow="loads" x1="570" y1="495" x2="450" y2="485"
               stroke="#22c55e" stroke-width="1.5" stroke-dasharray="5,4" marker-end="url(#arrowGreen)"/>
+        <text x="510" y="478" text-anchor="middle" font-size="10" font-style="italic" fill="#15803d">visitor loads the site</text>
 
         <!-- Dashed: terminal -> repo -->
         <line class="arrow dashed" data-arrow="push" x1="775" y1="495" x2="450" y2="410"
               stroke="#22c55e" stroke-width="1.5" stroke-dasharray="5,4" marker-end="url(#arrowGreen)"/>
+        <text x="615" y="435" text-anchor="middle" font-size="10" font-style="italic" fill="#15803d">you push code fixes</text>
 
         <!-- Dashed: cowork -> repo -->
         <line class="arrow dashed" data-arrow="cowork-read" x1="600" y1="580" x2="450" y2="455"
               stroke="#22c55e" stroke-width="1.5" stroke-dasharray="5,4" marker-end="url(#arrowGreen)"/>
+        <text x="540" y="513" text-anchor="middle" font-size="10" font-style="italic" fill="#15803d">Cowork reads the 373 episodes</text>
 
         <!-- Dashed: youtube -> cowork (rescue) -->
         <line class="arrow dashed" data-arrow="rescue" x1="450" y1="640" x2="570" y2="640"
               stroke="#64748b" stroke-width="1.5" stroke-dasharray="5,4" marker-end="url(#arrowGrey)"/>
+        <text x="510" y="632" text-anchor="middle" font-size="10" font-style="italic" fill="#475569">manual rescue: paste captions</text>
 
         <!-- Animated dot (hidden by default) -->
         <circle id="movingDot" class="moving-dot" cx="-100" cy="-100" r="0"/>
@@ -259,21 +279,26 @@
     <ol class="space-y-2 text-sm text-slate-700">
       <li class="flex gap-3">
         <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-blue-600 text-white font-bold text-xs flex-shrink-0">1</span>
-        <span><strong>The Podcast publishes a new episode.</strong> GitHub Actions wakes up Saturday morning and grabs it.</span>
+        <span><strong>The Podcast publishes a new episode.</strong> GitHub Actions wakes up Saturday morning and grabs it. (One-way arrow: GitHub only pulls; nothing is sent back to the podcast.)</span>
       </li>
       <li class="flex gap-3">
         <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-orange-500 text-white font-bold text-xs flex-shrink-0">2</span>
-        <span><strong>GitHub Actions sends the audio + notes to Groq's AI</strong>, which writes a summary. The result is saved in the Repo, and Pages publishes it.</span>
+        <span><strong>GitHub Actions sends the audio + notes to Groq's AI</strong>, which sends the summary back. (Two-way arrow: data goes up, summary comes down.) The result is saved in the Repo and Pages publishes it.</span>
       </li>
       <li class="flex gap-3">
         <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-emerald-600 text-white font-bold text-xs flex-shrink-0">3</span>
-        <span><strong>A visitor types a question</strong> into the chatbox on the site. The question goes to the Cloudflare Worker.</span>
+        <span><strong>A visitor types a question</strong> into the chatbox. The question travels to the Cloudflare Worker and the answer travels back. (Two-way arrow.)</span>
       </li>
       <li class="flex gap-3">
         <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-orange-500 text-white font-bold text-xs flex-shrink-0">4</span>
-        <span><strong>Cloudflare relays the question to Groq's AI</strong>, gets the answer, and sends it back. Your secret password never leaves Cloudflare.</span>
+        <span><strong>Cloudflare relays the question to Groq's AI</strong>, gets the answer, and sends it back. (Two-way arrow.) Your secret password never leaves Cloudflare.</span>
       </li>
     </ol>
+    <p class="mt-4 text-xs text-slate-500">
+      <strong>Reading the arrows:</strong>
+      An arrow with one head (&rarr;) means data flows that way only.
+      An arrow with two heads (&harr;) means a request goes one way and a response comes back, like asking a question and getting an answer.
+    </p>
   </section>
 
 </main>
@@ -395,9 +420,18 @@ const svg = document.getElementById("archSvg");
 const infoPanel = document.getElementById("infoPanel");
 const movingDot = document.getElementById("movingDot");
 const modeRadios = document.querySelectorAll('input[name="mode"]');
+const pauseBtn = document.getElementById("pauseBtn");
+const prevBtn = document.getElementById("prevBtn");
+const stepBtn = document.getElementById("stepBtn");
+const resetBtn = document.getElementById("resetBtn");
+const speedBtns = document.querySelectorAll(".speed-btn");
 let currentMode = "simple";
 let pinned = null;
 let flowTimer = null;
+let flowSpeed = 2000;       // ms between steps
+let isPaused = false;
+let activeFlow = null;       // flow key currently playing
+let activeIndex = 0;         // index of the next step to play
 
 function getMode() {
   const checked = document.querySelector('input[name="mode"]:checked');
@@ -468,10 +502,70 @@ modeRadios.forEach(r => {
   });
 });
 
-document.getElementById("resetBtn").addEventListener("click", () => {
+resetBtn.addEventListener("click", () => {
   stopFlow();
   pinned = null;
   renderInfo(null);
+});
+
+/* ---------- Speed buttons ---------- */
+speedBtns.forEach(btn => {
+  btn.addEventListener("click", () => {
+    flowSpeed = parseInt(btn.dataset.speed, 10);
+    speedBtns.forEach(b => {
+      b.classList.remove("bg-slate-900", "text-white");
+    });
+    btn.classList.add("bg-slate-900", "text-white");
+  });
+});
+
+/* ---------- Pause / Step buttons ---------- */
+pauseBtn.addEventListener("click", () => {
+  if (!activeFlow) return;
+  if (isPaused) {
+    // resume
+    isPaused = false;
+    pauseBtn.innerHTML = "&#10074;&#10074; Pause";
+    scheduleNext();
+  } else {
+    // pause
+    isPaused = true;
+    if (flowTimer) {
+      clearTimeout(flowTimer);
+      flowTimer = null;
+    }
+    pauseBtn.innerHTML = "&#9654; Resume";
+  }
+});
+
+stepBtn.addEventListener("click", () => {
+  if (!activeFlow) return;
+  // Cancel any pending timer, fire the next step immediately
+  if (flowTimer) {
+    clearTimeout(flowTimer);
+    flowTimer = null;
+  }
+  runNextStep();
+});
+
+prevBtn.addEventListener("click", () => {
+  if (!activeFlow) return;
+  const flow = FLOWS[activeFlow];
+  if (!flow) return;
+  if (flowTimer) {
+    clearTimeout(flowTimer);
+    flowTimer = null;
+  }
+  // Figure out the currently visible step. activeIndex is the NEXT step to play,
+  // so the currently visible step is activeIndex - 1. If the flow finished
+  // (activeIndex == length), the last shown step was length - 1.
+  let visible = activeIndex - 1;
+  if (visible >= flow.steps.length) visible = flow.steps.length - 1;
+  const prevIdx = visible - 1;
+  if (prevIdx < 0) return;  // already at the first step
+  // Set activeIndex so runNextStep shows prevIdx, then increments.
+  activeIndex = prevIdx;
+  runNextStep();
 });
 
 /* ---------- Flow animation ---------- */
@@ -480,6 +574,13 @@ function stopFlow() {
     clearTimeout(flowTimer);
     flowTimer = null;
   }
+  activeFlow = null;
+  activeIndex = 0;
+  isPaused = false;
+  pauseBtn.innerHTML = "&#10074;&#10074; Pause";
+  pauseBtn.disabled = true;
+  stepBtn.disabled = true;
+  prevBtn.disabled = true;
   svg.querySelectorAll("g.node").forEach(g => {
     g.classList.remove("dimmed", "active", "highlighted");
   });
@@ -489,6 +590,19 @@ function stopFlow() {
   movingDot.setAttribute("cx", -100);
   movingDot.setAttribute("cy", -100);
   movingDot.setAttribute("r", 0);
+}
+
+function updateStepButtons() {
+  if (!activeFlow) {
+    prevBtn.disabled = true;
+    stepBtn.disabled = true;
+    return;
+  }
+  const flow = FLOWS[activeFlow];
+  let visible = activeIndex - 1;
+  if (visible >= flow.steps.length) visible = flow.steps.length - 1;
+  prevBtn.disabled = visible <= 0;
+  stepBtn.disabled = activeIndex > flow.steps.length;
 }
 
 function highlightStep(flow, idx) {
@@ -523,29 +637,49 @@ function highlightStep(flow, idx) {
   movingDot.classList.add("pulsing");
 }
 
+function runNextStep() {
+  if (!activeFlow) return;
+  const flow = FLOWS[activeFlow];
+  if (!flow) return;
+  if (activeIndex >= flow.steps.length) {
+    // Finished -- show a small "done" panel and clear after a beat.
+    infoPanel.innerHTML = `
+      <h3 class="text-base font-semibold mb-2 text-slate-800">${flow.name}: finished</h3>
+      <p class="text-slate-600 text-sm">Hover boxes for details, or play another flow above. You can also press &#9664; Prev step to walk back through.</p>
+    `;
+    updateStepButtons();
+    flowTimer = setTimeout(() => {
+      // Only auto-stop if the user hasn't stepped back in the meantime.
+      if (activeIndex >= flow.steps.length) {
+        stopFlow();
+        renderInfo(null);
+      }
+    }, Math.max(1500, flowSpeed));
+    return;
+  }
+  highlightStep(flow, activeIndex);
+  activeIndex++;
+  updateStepButtons();
+  scheduleNext();
+}
+
+function scheduleNext() {
+  if (isPaused) return;
+  flowTimer = setTimeout(runNextStep, flowSpeed);
+}
+
 function playFlow(flowKey) {
   stopFlow();
   const flow = FLOWS[flowKey];
   if (!flow) return;
   pinned = null;
-  let i = 0;
-  function next() {
-    if (i >= flow.steps.length) {
-      flowTimer = setTimeout(() => {
-        stopFlow();
-        infoPanel.innerHTML = `
-          <h3 class="text-base font-semibold mb-2 text-slate-800">${flow.name}: finished</h3>
-          <p class="text-slate-600 text-sm">Hover boxes for details, or play another flow above.</p>
-        `;
-        flowTimer = null;
-      }, 2000);
-      return;
-    }
-    highlightStep(flow, i);
-    i++;
-    flowTimer = setTimeout(next, 2000);
-  }
-  next();
+  activeFlow = flowKey;
+  activeIndex = 0;
+  isPaused = false;
+  pauseBtn.disabled = false;
+  pauseBtn.innerHTML = "&#10074;&#10074; Pause";
+  runNextStep();
+  updateStepButtons();
 }
 
 document.querySelectorAll(".play-btn").forEach(btn => {
