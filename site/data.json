@@ -1,6 +1,54 @@
 {
   "episodes": [
     {
+      "id": "2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory",
+      "number": null,
+      "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
+      "date": "2026-05-15",
+      "url": "https://allinchamathjason.libsyn.com/trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nio",
+      "youtube_url": "https://www.youtube.com/watch?v=jJRAvZNGUvI",
+      "youtube_video_id": "jJRAvZNGUvI",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire",
+      "number": null,
+      "title": "Charles & Chase Koch on How They Quietly Built a $150B Empire",
+      "date": "2026-05-12",
+      "url": "https://allinchamathjason.libsyn.com/charles-chase-koch-on-how-they-quietly-built-a-150b-empire",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
+      "id": "2026-05-10-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-i",
+      "number": null,
+      "title": "Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back",
+      "date": "2026-05-10",
+      "url": "https://allinchamathjason.libsyn.com/spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back",
+      "youtube_url": "https://www.youtube.com/watch?v=GCpjy3TC8Pg",
+      "youtube_video_id": "GCpjy3TC8Pg",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": []
+    },
+    {
       "id": "2026-05-08-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom",
       "number": null,
       "title": "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom",
@@ -1238,75 +1286,6 @@
       ]
     },
     {
-      "id": "2026-03-23-how-matt-mahan-thinks-he-can-save-california",
-      "number": null,
-      "title": "How Matt Mahan Thinks He Can Save California",
-      "date": "2026-03-23",
-      "url": "https://allinchamathjason.libsyn.com/how-matt-mahan-thinks-he-can-save-california",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "Matt Mahan discusses his run for California governor, covering topics such as public sector unions, the housing crisis, energy crisis, and pension time bomb. He also touches on Trump, tariffs, and immigration reform. The conversation highlights the challenges facing California and potential solutions.",
-      "takeaways": [
-        {
-          "text": "California's housing crisis is exacerbated by regulation and fees",
-          "timestamp_seconds": 1905
-        },
-        {
-          "text": "Public sector unions have significant influence in Sacramento",
-          "timestamp_seconds": 1205
-        },
-        {
-          "text": "California faces a $1 trillion pension time bomb",
-          "timestamp_seconds": 4375
-        },
-        {
-          "text": "The state's energy crisis is linked to gas taxes and green policy",
-          "timestamp_seconds": 3452
-        },
-        {
-          "text": "Immigration reform is needed to provide a path to legal status",
-          "timestamp_seconds": 4105
-        },
-        {
-          "text": "Trump and tariffs have contributed to the rise of dangerous populism",
-          "timestamp_seconds": 3727
-        },
-        {
-          "text": "California's problems have worsened over time due to various factors",
-          "timestamp_seconds": 115
-        }
-      ],
-      "quotes": [
-        {
-          "text": "California went from bad to worse",
-          "speaker": "Matt Mahan",
-          "timestamp_seconds": 115
-        }
-      ],
-      "topics": [
-        "california-politics",
-        "public-sector-unions",
-        "housing-crisis",
-        "energy-crisis",
-        "pension-reform",
-        "immigration-reform",
-        "us-politics"
-      ],
-      "guests": [
-        "Matt Mahan"
-      ],
-      "sentiment": {
-        "overall": "cautious",
-        "notes": "The conversation highlights the significant challenges facing California, and while potential solutions are discussed, the overall tone is cautious due to the complexity and severity of the issues."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 4375,
-          "description": "Discussion of the $1 trillion pension time bomb"
-        }
-      ]
-    },
-    {
       "id": "2026-03-23-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren",
       "number": null,
       "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
@@ -1378,6 +1357,75 @@
         {
           "timestamp_seconds": 37,
           "description": "CoreWeave CEO, Michael Intrator, joins the conversation"
+        }
+      ]
+    },
+    {
+      "id": "2026-03-23-how-matt-mahan-thinks-he-can-save-california",
+      "number": null,
+      "title": "How Matt Mahan Thinks He Can Save California",
+      "date": "2026-03-23",
+      "url": "https://allinchamathjason.libsyn.com/how-matt-mahan-thinks-he-can-save-california",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Matt Mahan discusses his run for California governor, covering topics such as public sector unions, the housing crisis, energy crisis, and pension time bomb. He also touches on Trump, tariffs, and immigration reform. The conversation highlights the challenges facing California and potential solutions.",
+      "takeaways": [
+        {
+          "text": "California's housing crisis is exacerbated by regulation and fees",
+          "timestamp_seconds": 1905
+        },
+        {
+          "text": "Public sector unions have significant influence in Sacramento",
+          "timestamp_seconds": 1205
+        },
+        {
+          "text": "California faces a $1 trillion pension time bomb",
+          "timestamp_seconds": 4375
+        },
+        {
+          "text": "The state's energy crisis is linked to gas taxes and green policy",
+          "timestamp_seconds": 3452
+        },
+        {
+          "text": "Immigration reform is needed to provide a path to legal status",
+          "timestamp_seconds": 4105
+        },
+        {
+          "text": "Trump and tariffs have contributed to the rise of dangerous populism",
+          "timestamp_seconds": 3727
+        },
+        {
+          "text": "California's problems have worsened over time due to various factors",
+          "timestamp_seconds": 115
+        }
+      ],
+      "quotes": [
+        {
+          "text": "California went from bad to worse",
+          "speaker": "Matt Mahan",
+          "timestamp_seconds": 115
+        }
+      ],
+      "topics": [
+        "california-politics",
+        "public-sector-unions",
+        "housing-crisis",
+        "energy-crisis",
+        "pension-reform",
+        "immigration-reform",
+        "us-politics"
+      ],
+      "guests": [
+        "Matt Mahan"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation highlights the significant challenges facing California, and while potential solutions are discussed, the overall tone is cautious due to the complexity and severity of the issues."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 4375,
+          "description": "Discussion of the $1 trillion pension time bomb"
         }
       ]
     },
@@ -5663,88 +5711,6 @@
       ]
     },
     {
-      "id": "2025-10-14-bryan-johnson-the-1-longevity-secret-you-can-start-doing-today",
-      "number": null,
-      "title": "Bryan Johnson: The #1 Longevity Secret You Can Start Doing Today",
-      "date": "2025-10-14",
-      "url": "https://allinchamathjason.libsyn.com/bryan-johnson-the-1-longevity-secret-you-can-start-doing-today",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "Bryan Johnson shares his top longevity hack, taking the audience through a biological age test and discussing his research. He emphasizes the importance of a single best longevity hack. The episode also features various sponsorships and promotions.",
-      "takeaways": [
-        {
-          "text": "Biological age can be measured",
-          "timestamp_seconds": 46
-        },
-        {
-          "text": "Longevity hack is crucial",
-          "timestamp_seconds": 353
-        },
-        {
-          "text": "Research is key to longevity",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Single best longevity hack exists",
-          "timestamp_seconds": 353
-        },
-        {
-          "text": "Importance of health and wellness",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Longevity is connected to lifestyle",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Bryan Johnson's expertise is valuable",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Longevity is a top priority",
-          "timestamp_seconds": null
-        }
-      ],
-      "quotes": [
-        {
-          "text": "The single best longevity hack",
-          "speaker": "Bryan Johnson",
-          "timestamp_seconds": 353
-        },
-        {
-          "text": "Thanks to our partners",
-          "speaker": "Unknown",
-          "timestamp_seconds": null
-        }
-      ],
-      "topics": [
-        "longevity",
-        "health",
-        "wellness",
-        "biological-age",
-        "research",
-        "lifestyle",
-        "priorities"
-      ],
-      "guests": [
-        "Bryan Johnson"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The episode has a positive tone, focusing on the importance of longevity and health. Bryan Johnson's expertise and enthusiasm contribute to the optimistic mood."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 46,
-          "description": "Bryan Johnson takes the audience through a biological age test"
-        },
-        {
-          "timestamp_seconds": 353,
-          "description": "Bryan Johnson shares the single best longevity hack"
-        }
-      ]
-    },
-    {
       "id": "2025-10-14-cathie-wood-on-how-ai-can-double-gdp-bull-case-for-bitcoin-1m-elons-trillion-dol",
       "number": null,
       "title": "Cathie Wood on How AI Can Double GDP, Bull Case for Bitcoin $1M, Elon's Trillion-Dollar Pay Package",
@@ -5833,6 +5799,88 @@
         {
           "timestamp_seconds": 481,
           "description": "Discussion of Elon's trillion-dollar pay package"
+        }
+      ]
+    },
+    {
+      "id": "2025-10-14-bryan-johnson-the-1-longevity-secret-you-can-start-doing-today",
+      "number": null,
+      "title": "Bryan Johnson: The #1 Longevity Secret You Can Start Doing Today",
+      "date": "2025-10-14",
+      "url": "https://allinchamathjason.libsyn.com/bryan-johnson-the-1-longevity-secret-you-can-start-doing-today",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Bryan Johnson shares his top longevity hack, taking the audience through a biological age test and discussing his research. He emphasizes the importance of a single best longevity hack. The episode also features various sponsorships and promotions.",
+      "takeaways": [
+        {
+          "text": "Biological age can be measured",
+          "timestamp_seconds": 46
+        },
+        {
+          "text": "Longevity hack is crucial",
+          "timestamp_seconds": 353
+        },
+        {
+          "text": "Research is key to longevity",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Single best longevity hack exists",
+          "timestamp_seconds": 353
+        },
+        {
+          "text": "Importance of health and wellness",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Longevity is connected to lifestyle",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Bryan Johnson's expertise is valuable",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Longevity is a top priority",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "The single best longevity hack",
+          "speaker": "Bryan Johnson",
+          "timestamp_seconds": 353
+        },
+        {
+          "text": "Thanks to our partners",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "longevity",
+        "health",
+        "wellness",
+        "biological-age",
+        "research",
+        "lifestyle",
+        "priorities"
+      ],
+      "guests": [
+        "Bryan Johnson"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has a positive tone, focusing on the importance of longevity and health. Bryan Johnson's expertise and enthusiasm contribute to the optimistic mood."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 46,
+          "description": "Bryan Johnson takes the audience through a biological age test"
+        },
+        {
+          "timestamp_seconds": 353,
+          "description": "Bryan Johnson shares the single best longevity hack"
         }
       ]
     },
@@ -6436,6 +6484,92 @@
       ]
     },
     {
+      "id": "2025-09-30-rick-caruso-on-californias-collapse-broken-leadership-la-wildfire-failures-the-f",
+      "number": null,
+      "title": "Rick Caruso on California's Collapse: Broken Leadership, LA Wildfire Failures & the Fix",
+      "date": "2025-09-30",
+      "url": "https://allinchamathjason.libsyn.com/rick-caruso-on-californias-collapse-broken-leadership-la-wildfire-failures-the-fix",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Rick Caruso discusses California's collapse, the LA wildfires, and his potential run for governor. He criticizes the current leadership and proposes solutions to the state's problems, including addressing homelessness and improving policing. Caruso also emphasizes the importance of attention to detail in governance.",
+      "takeaways": [
+        {
+          "text": "California's leadership is failing",
+          "timestamp_seconds": 11
+        },
+        {
+          "text": "LA wildfires were a disaster",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "Homelessness is a major issue",
+          "timestamp_seconds": 17
+        },
+        {
+          "text": "National Guard could help with policing",
+          "timestamp_seconds": 17
+        },
+        {
+          "text": "Attention to detail is crucial in governance",
+          "timestamp_seconds": 14
+        },
+        {
+          "text": "Caruso may run for CA Governor",
+          "timestamp_seconds": 11
+        },
+        {
+          "text": "Rebuilding after disasters is essential",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "Current governance is incompetent",
+          "timestamp_seconds": 11
+        }
+      ],
+      "quotes": [
+        {
+          "text": "California's incompetence",
+          "speaker": "Rick Caruso",
+          "timestamp_seconds": 11
+        },
+        {
+          "text": "Attention to detail",
+          "speaker": "Rick Caruso",
+          "timestamp_seconds": 14
+        }
+      ],
+      "topics": [
+        "california-politics",
+        "la-wildfires",
+        "homelessness",
+        "policing",
+        "governance",
+        "leadership",
+        "disaster-recovery"
+      ],
+      "guests": [
+        "Rick Caruso"
+      ],
+      "sentiment": {
+        "overall": "bearish",
+        "notes": "The episode has a negative tone, with Caruso criticizing California's leadership and discussing the state's problems. However, he also proposes solutions and expresses optimism about potential change."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 1,
+          "description": "Introduction to Rick Caruso"
+        },
+        {
+          "timestamp_seconds": 11,
+          "description": "Caruso discusses California's incompetence"
+        },
+        {
+          "timestamp_seconds": 17,
+          "description": "Caruso proposes solutions to California's problems"
+        }
+      ]
+    },
+    {
       "id": "2025-09-30-science-corner-special-david-friedberg-cleo-abram-alex-filippenko-and-keller-rin",
       "number": null,
       "title": "Science Corner Special: David Friedberg, Cleo Abram, Alex Filippenko, and Keller Rinaudo Cliffton",
@@ -6523,92 +6657,6 @@
         {
           "timestamp_seconds": 53,
           "description": "Q&A session with Keller Rinaudo Cliffton, Cleo, and Friedberg"
-        }
-      ]
-    },
-    {
-      "id": "2025-09-30-rick-caruso-on-californias-collapse-broken-leadership-la-wildfire-failures-the-f",
-      "number": null,
-      "title": "Rick Caruso on California's Collapse: Broken Leadership, LA Wildfire Failures & the Fix",
-      "date": "2025-09-30",
-      "url": "https://allinchamathjason.libsyn.com/rick-caruso-on-californias-collapse-broken-leadership-la-wildfire-failures-the-fix",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "Rick Caruso discusses California's collapse, the LA wildfires, and his potential run for governor. He criticizes the current leadership and proposes solutions to the state's problems, including addressing homelessness and improving policing. Caruso also emphasizes the importance of attention to detail in governance.",
-      "takeaways": [
-        {
-          "text": "California's leadership is failing",
-          "timestamp_seconds": 11
-        },
-        {
-          "text": "LA wildfires were a disaster",
-          "timestamp_seconds": 1
-        },
-        {
-          "text": "Homelessness is a major issue",
-          "timestamp_seconds": 17
-        },
-        {
-          "text": "National Guard could help with policing",
-          "timestamp_seconds": 17
-        },
-        {
-          "text": "Attention to detail is crucial in governance",
-          "timestamp_seconds": 14
-        },
-        {
-          "text": "Caruso may run for CA Governor",
-          "timestamp_seconds": 11
-        },
-        {
-          "text": "Rebuilding after disasters is essential",
-          "timestamp_seconds": 1
-        },
-        {
-          "text": "Current governance is incompetent",
-          "timestamp_seconds": 11
-        }
-      ],
-      "quotes": [
-        {
-          "text": "California's incompetence",
-          "speaker": "Rick Caruso",
-          "timestamp_seconds": 11
-        },
-        {
-          "text": "Attention to detail",
-          "speaker": "Rick Caruso",
-          "timestamp_seconds": 14
-        }
-      ],
-      "topics": [
-        "california-politics",
-        "la-wildfires",
-        "homelessness",
-        "policing",
-        "governance",
-        "leadership",
-        "disaster-recovery"
-      ],
-      "guests": [
-        "Rick Caruso"
-      ],
-      "sentiment": {
-        "overall": "bearish",
-        "notes": "The episode has a negative tone, with Caruso criticizing California's leadership and discussing the state's problems. However, he also proposes solutions and expresses optimism about potential change."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 1,
-          "description": "Introduction to Rick Caruso"
-        },
-        {
-          "timestamp_seconds": 11,
-          "description": "Caruso discusses California's incompetence"
-        },
-        {
-          "timestamp_seconds": 17,
-          "description": "Caruso proposes solutions to California's problems"
         }
       ]
     },
@@ -7251,94 +7299,6 @@
       ]
     },
     {
-      "id": "2025-09-15-tulsi-gabbard-on-russiagate-hoax-evidence-and-how-shes-reforming-politicized-int",
-      "number": null,
-      "title": "Tulsi Gabbard on Russiagate Hoax Evidence and How She's Reforming Politicized Intelligence Agencies",
-      "date": "2025-09-15",
-      "url": "https://allinchamathjason.libsyn.com/tulsi-gabbard-on-russiagate-hoax-evidence-and-how-shes-reforming-politicized-intelligence-agencies",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "Tulsi Gabbard discusses the Russiagate hoax, the dangers of politicized intelligence agencies, and her efforts to reform them. She also shares her thoughts on foreign policy, war, and the impact of designating drug cartels as terrorist organizations. Gabbard reflects on her reception in Hawaii after switching parties and the drastic change in the Democratic Party.",
-      "takeaways": [
-        {
-          "text": "Russiagate was a hoax",
-          "timestamp_seconds": 1
-        },
-        {
-          "text": "Intelligence agencies are highly politicized",
-          "timestamp_seconds": 17
-        },
-        {
-          "text": "Tulsi aims to increase accountability in intelligence agencies",
-          "timestamp_seconds": 17
-        },
-        {
-          "text": "Designating drug cartels as terrorist orgs has significant implications",
-          "timestamp_seconds": 35
-        },
-        {
-          "text": "Tulsi's views on foreign policy are impacted by her experiences",
-          "timestamp_seconds": 30
-        },
-        {
-          "text": "The Democratic Party has undergone a drastic change",
-          "timestamp_seconds": 25
-        },
-        {
-          "text": "Tulsi is focused on reforming politicized intelligence agencies",
-          "timestamp_seconds": 17
-        },
-        {
-          "text": "Safety at the Southern Border is a concern",
-          "timestamp_seconds": 35
-        }
-      ],
-      "quotes": [
-        {
-          "text": "Russiagate hoax",
-          "speaker": "Tulsi Gabbard",
-          "timestamp_seconds": 1
-        },
-        {
-          "text": "Politicized intelligence",
-          "speaker": "Tulsi Gabbard",
-          "timestamp_seconds": 17
-        }
-      ],
-      "topics": [
-        "russiagate",
-        "politicized-intelligence",
-        "foreign-policy",
-        "war",
-        "drug-cartels",
-        "terrorism",
-        "democratic-party",
-        "reform",
-        "accountability"
-      ],
-      "guests": [
-        "Tulsi Gabbard"
-      ],
-      "sentiment": {
-        "overall": "cautious",
-        "notes": "The episode has a cautious tone, with discussions on sensitive topics like foreign policy and intelligence agencies. Tulsi Gabbard's experiences and views are presented in a neutral and informative manner."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 1,
-          "description": "Tulsi Gabbard introduces the topic of Russiagate"
-        },
-        {
-          "timestamp_seconds": 17,
-          "description": "Discussion on politicized intelligence agencies begins"
-        },
-        {
-          "timestamp_seconds": 35,
-          "description": "Tulsi Gabbard shares her thoughts on designating drug cartels as terrorist organizations"
-        }
-      ]
-    },
-    {
       "id": "2025-09-15-robinhood-ceo-vlad-tenev-on-tokenizing-stocks-expanding-access-to-private-shares",
       "number": null,
       "title": "Robinhood CEO Vlad Tenev on tokenizing stocks, expanding access to private shares, fintech's future",
@@ -7430,6 +7390,94 @@
         {
           "timestamp_seconds": 23,
           "description": "Harmonic and building mathematical superintelligence"
+        }
+      ]
+    },
+    {
+      "id": "2025-09-15-tulsi-gabbard-on-russiagate-hoax-evidence-and-how-shes-reforming-politicized-int",
+      "number": null,
+      "title": "Tulsi Gabbard on Russiagate Hoax Evidence and How She's Reforming Politicized Intelligence Agencies",
+      "date": "2025-09-15",
+      "url": "https://allinchamathjason.libsyn.com/tulsi-gabbard-on-russiagate-hoax-evidence-and-how-shes-reforming-politicized-intelligence-agencies",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Tulsi Gabbard discusses the Russiagate hoax, the dangers of politicized intelligence agencies, and her efforts to reform them. She also shares her thoughts on foreign policy, war, and the impact of designating drug cartels as terrorist organizations. Gabbard reflects on her reception in Hawaii after switching parties and the drastic change in the Democratic Party.",
+      "takeaways": [
+        {
+          "text": "Russiagate was a hoax",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "Intelligence agencies are highly politicized",
+          "timestamp_seconds": 17
+        },
+        {
+          "text": "Tulsi aims to increase accountability in intelligence agencies",
+          "timestamp_seconds": 17
+        },
+        {
+          "text": "Designating drug cartels as terrorist orgs has significant implications",
+          "timestamp_seconds": 35
+        },
+        {
+          "text": "Tulsi's views on foreign policy are impacted by her experiences",
+          "timestamp_seconds": 30
+        },
+        {
+          "text": "The Democratic Party has undergone a drastic change",
+          "timestamp_seconds": 25
+        },
+        {
+          "text": "Tulsi is focused on reforming politicized intelligence agencies",
+          "timestamp_seconds": 17
+        },
+        {
+          "text": "Safety at the Southern Border is a concern",
+          "timestamp_seconds": 35
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Russiagate hoax",
+          "speaker": "Tulsi Gabbard",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "Politicized intelligence",
+          "speaker": "Tulsi Gabbard",
+          "timestamp_seconds": 17
+        }
+      ],
+      "topics": [
+        "russiagate",
+        "politicized-intelligence",
+        "foreign-policy",
+        "war",
+        "drug-cartels",
+        "terrorism",
+        "democratic-party",
+        "reform",
+        "accountability"
+      ],
+      "guests": [
+        "Tulsi Gabbard"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The episode has a cautious tone, with discussions on sensitive topics like foreign policy and intelligence agencies. Tulsi Gabbard's experiences and views are presented in a neutral and informative manner."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 1,
+          "description": "Tulsi Gabbard introduces the topic of Russiagate"
+        },
+        {
+          "timestamp_seconds": 17,
+          "description": "Discussion on politicized intelligence agencies begins"
+        },
+        {
+          "timestamp_seconds": 35,
+          "description": "Tulsi Gabbard shares her thoughts on designating drug cartels as terrorist organizations"
         }
       ]
     },
@@ -7600,72 +7648,80 @@
       ]
     },
     {
-      "id": "2025-09-09-the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-202",
+      "id": "2025-09-09-palantir-ceo-alex-karp-why-the-west-is-destroying-itself-data-empire-skeptics-ho",
       "number": null,
-      "title": "The New Era of the Stock Market with Nasdaq CEO Adena Friedman | All-In Summit 2025",
+      "title": "Palantir CEO Alex Karp: Why the West is Destroying Itself, Data Empire, Skeptics, How to Win",
       "date": "2025-09-09",
-      "url": "https://allinchamathjason.libsyn.com/the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-2025",
+      "url": "https://allinchamathjason.libsyn.com/palantir-ceo-alex-karp-why-the-west-is-destroying-itself-data-empire-skeptics-how-to-win",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "The episode features Adena Friedman, CEO of Nasdaq, discussing the evolution of the stock market, including tokenized securities and the 24/5 trading schedule. She also shares her thoughts on the IPO market and the role of the NY Fed. The conversation covers various topics, including the future of markets, data issues, and the growth of crypto.",
+      "summary": "Palantir CEO Alex Karp discusses the West's self-destruction, data collection, and modern progressivism. He also touches on Israel/Palestine, antisemitism, and China's strategy. Karp shares his insights on the importance of data and its role in shaping the future.",
       "takeaways": [
         {
-          "text": "Nasdaq will offer tokenized securities",
-          "timestamp_seconds": 2
+          "text": "The West is committing cultural suicide",
+          "timestamp_seconds": 22
         },
         {
-          "text": "IPO market needs to change to help companies go public faster",
-          "timestamp_seconds": 7
+          "text": "Data collection is crucial for national security",
+          "timestamp_seconds": 8
         },
         {
-          "text": "Markets are evolving to include predictions, options, and secondaries",
-          "timestamp_seconds": 13
+          "text": "Modern progressivism is not truly progressive",
+          "timestamp_seconds": 36
         },
         {
-          "text": "Data issues at the Fed need to be addressed",
-          "timestamp_seconds": 18
+          "text": "Antisemitism is a growing concern",
+          "timestamp_seconds": 30
         },
         {
-          "text": "Crypto is going mainstream with the 24/5 trading schedule",
-          "timestamp_seconds": 2
+          "text": "China's strategy is to deal with cartels and expand its influence",
+          "timestamp_seconds": 31
         },
         {
-          "text": "Nasdaq is expanding beyond a stock exchange",
-          "timestamp_seconds": 1
+          "text": "Palantir's work at the border includes data collection and surveillance",
+          "timestamp_seconds": 8
         },
         {
-          "text": "The role of the NY Fed is crucial in the stock market",
-          "timestamp_seconds": 18
+          "text": "The West needs to rethink its values and priorities",
+          "timestamp_seconds": 22
+        },
+        {
+          "text": "Data is key to understanding and addressing global challenges",
+          "timestamp_seconds": null
         }
       ],
       "quotes": [
         {
-          "text": "Crypto going mainstream",
-          "speaker": "Adena Friedman",
-          "timestamp_seconds": 2
+          "text": "The West is committing cultural suicide",
+          "speaker": "Alex Karp",
+          "timestamp_seconds": 22
         }
       ],
       "topics": [
-        "stock-market",
-        "tokenized-securities",
-        "ipo-market",
-        "crypto",
-        "ny-fed",
-        "data-issues",
-        "market-evolution",
-        "nasdaq"
+        "data-collection",
+        "national-security",
+        "modern-progressivism",
+        "antisemitism",
+        "china-strategy",
+        "border-control",
+        "western-values",
+        "global-challenges"
       ],
       "guests": [
-        "Adena Friedman"
+        "Alex Karp"
       ],
       "sentiment": {
-        "overall": "optimistic",
-        "notes": "The conversation is forward-looking and excited about the future of the stock market and crypto. The tone is positive and enthusiastic."
+        "overall": "cautious",
+        "notes": "The episode has a cautious tone, with discussions on the West's self-destruction and growing concerns about antisemitism. However, Karp's insights on data collection and its role in shaping the future offer a sense of hope and optimism."
       },
       "notable_moments": [
         {
-          "timestamp_seconds": 2,
-          "description": "Big announcement about Nasdaq offering tokenized securities"
+          "timestamp_seconds": 22,
+          "description": "Alex Karp discusses the West's self-destruction"
+        },
+        {
+          "timestamp_seconds": 8,
+          "description": "Palantir's work at the border is discussed"
         }
       ]
     },
@@ -7754,80 +7810,72 @@
       ]
     },
     {
-      "id": "2025-09-09-palantir-ceo-alex-karp-why-the-west-is-destroying-itself-data-empire-skeptics-ho",
+      "id": "2025-09-09-the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-202",
       "number": null,
-      "title": "Palantir CEO Alex Karp: Why the West is Destroying Itself, Data Empire, Skeptics, How to Win",
+      "title": "The New Era of the Stock Market with Nasdaq CEO Adena Friedman | All-In Summit 2025",
       "date": "2025-09-09",
-      "url": "https://allinchamathjason.libsyn.com/palantir-ceo-alex-karp-why-the-west-is-destroying-itself-data-empire-skeptics-how-to-win",
+      "url": "https://allinchamathjason.libsyn.com/the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-2025",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "Palantir CEO Alex Karp discusses the West's self-destruction, data collection, and modern progressivism. He also touches on Israel/Palestine, antisemitism, and China's strategy. Karp shares his insights on the importance of data and its role in shaping the future.",
+      "summary": "The episode features Adena Friedman, CEO of Nasdaq, discussing the evolution of the stock market, including tokenized securities and the 24/5 trading schedule. She also shares her thoughts on the IPO market and the role of the NY Fed. The conversation covers various topics, including the future of markets, data issues, and the growth of crypto.",
       "takeaways": [
         {
-          "text": "The West is committing cultural suicide",
-          "timestamp_seconds": 22
+          "text": "Nasdaq will offer tokenized securities",
+          "timestamp_seconds": 2
         },
         {
-          "text": "Data collection is crucial for national security",
-          "timestamp_seconds": 8
+          "text": "IPO market needs to change to help companies go public faster",
+          "timestamp_seconds": 7
         },
         {
-          "text": "Modern progressivism is not truly progressive",
-          "timestamp_seconds": 36
+          "text": "Markets are evolving to include predictions, options, and secondaries",
+          "timestamp_seconds": 13
         },
         {
-          "text": "Antisemitism is a growing concern",
-          "timestamp_seconds": 30
+          "text": "Data issues at the Fed need to be addressed",
+          "timestamp_seconds": 18
         },
         {
-          "text": "China's strategy is to deal with cartels and expand its influence",
-          "timestamp_seconds": 31
+          "text": "Crypto is going mainstream with the 24/5 trading schedule",
+          "timestamp_seconds": 2
         },
         {
-          "text": "Palantir's work at the border includes data collection and surveillance",
-          "timestamp_seconds": 8
+          "text": "Nasdaq is expanding beyond a stock exchange",
+          "timestamp_seconds": 1
         },
         {
-          "text": "The West needs to rethink its values and priorities",
-          "timestamp_seconds": 22
-        },
-        {
-          "text": "Data is key to understanding and addressing global challenges",
-          "timestamp_seconds": null
+          "text": "The role of the NY Fed is crucial in the stock market",
+          "timestamp_seconds": 18
         }
       ],
       "quotes": [
         {
-          "text": "The West is committing cultural suicide",
-          "speaker": "Alex Karp",
-          "timestamp_seconds": 22
+          "text": "Crypto going mainstream",
+          "speaker": "Adena Friedman",
+          "timestamp_seconds": 2
         }
       ],
       "topics": [
-        "data-collection",
-        "national-security",
-        "modern-progressivism",
-        "antisemitism",
-        "china-strategy",
-        "border-control",
-        "western-values",
-        "global-challenges"
+        "stock-market",
+        "tokenized-securities",
+        "ipo-market",
+        "crypto",
+        "ny-fed",
+        "data-issues",
+        "market-evolution",
+        "nasdaq"
       ],
       "guests": [
-        "Alex Karp"
+        "Adena Friedman"
       ],
       "sentiment": {
-        "overall": "cautious",
-        "notes": "The episode has a cautious tone, with discussions on the West's self-destruction and growing concerns about antisemitism. However, Karp's insights on data collection and its role in shaping the future offer a sense of hope and optimism."
+        "overall": "optimistic",
+        "notes": "The conversation is forward-looking and excited about the future of the stock market and crypto. The tone is positive and enthusiastic."
       },
       "notable_moments": [
         {
-          "timestamp_seconds": 22,
-          "description": "Alex Karp discusses the West's self-destruction"
-        },
-        {
-          "timestamp_seconds": 8,
-          "description": "Palantir's work at the border is discussed"
+          "timestamp_seconds": 2,
+          "description": "Big announcement about Nasdaq offering tokenized securities"
         }
       ]
     },
@@ -8719,88 +8767,93 @@
       ]
     },
     {
-      "id": "2025-07-23-winning-the-ai-race-part-2-vice-president-jd-vance",
+      "id": "2025-07-23-winning-the-ai-race-part-4-scott-bessent-howard-lutnick-chris-wright-and-doug-bu",
       "number": null,
-      "title": "Winning the AI Race Part 2: Vice President JD Vance",
+      "title": "Winning the AI Race Part 4: Scott Bessent, Howard Lutnick, Chris Wright, and Doug Burgum",
       "date": "2025-07-23",
-      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-vice-president-jd-vance",
+      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-part-4-scott-bessent-howard-lutnick-chris-wright-and-doug-burgum",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "The All-In Podcast discusses the AI race with JD Vance, covering topics such as immigration, AI policy, and diplomatic relations. They also delve into the impact of AI on jobs and the concept of 'National Champions' in strategic industries. The conversation touches on Vance's experience working at the White House with David Sacks.",
+      "summary": "The All-In Podcast discusses winning the AI race with guests Scott Bessent, Howard Lutnick, Chris Wright, and Doug Burgum. They share insights on AI safety, energy, and commerce. The conversation covers various topics, including the role of government in AI development.",
       "takeaways": [
         {
-          "text": "AI policy is crucial for the US to stay competitive",
-          "timestamp_seconds": 6
+          "text": "AI safety is crucial",
+          "timestamp_seconds": null
         },
         {
-          "text": "Immigration can help the US attract top AI talent",
-          "timestamp_seconds": 1
+          "text": "Government plays a key role in AI development",
+          "timestamp_seconds": null
         },
         {
-          "text": "The US needs to strike a balance in its relationship with China",
-          "timestamp_seconds": 9
+          "text": "Energy sector is impacted by AI",
+          "timestamp_seconds": null
         },
         {
-          "text": "AI will significantly impact jobs, requiring a new approach to work",
-          "timestamp_seconds": 16
+          "text": "Commerce Secretary has a role in AI",
+          "timestamp_seconds": null
         },
         {
-          "text": "The concept of 'National Champions' can help the US stay competitive in strategic industries",
-          "timestamp_seconds": 22
+          "text": "AI will change the job market",
+          "timestamp_seconds": null
         },
         {
-          "text": "Diplomatic relations will be affected by the widespread adoption of AI",
-          "timestamp_seconds": 12
+          "text": "Investing in AI is essential",
+          "timestamp_seconds": null
         },
         {
-          "text": "The US needs to facilitate the growth of its tech industry to stay competitive",
-          "timestamp_seconds": 24
+          "text": "AI regulation is necessary",
+          "timestamp_seconds": null
         },
         {
-          "text": "The White House is taking steps to address the impact of AI on the US economy",
+          "text": "AI will impact the economy",
           "timestamp_seconds": null
         }
       ],
       "quotes": [
         {
-          "text": "AI is a game-changer",
-          "speaker": "JD Vance",
+          "text": "Winning the AI race",
+          "speaker": "Unknown",
           "timestamp_seconds": null
         },
         {
-          "text": "National Champions",
+          "text": "AI is the future",
           "speaker": "Unknown",
-          "timestamp_seconds": 22
+          "timestamp_seconds": null
         }
       ],
       "topics": [
-        "ai-policy",
-        "immigration",
-        "us-china-relations",
-        "ai-impact-on-jobs",
-        "national-champions",
-        "diplomatic-relations",
-        "tech-industry"
+        "ai-safety",
+        "ai-development",
+        "energy",
+        "commerce",
+        "government",
+        "job-market",
+        "investing",
+        "regulation",
+        "economy"
       ],
       "guests": [
-        "JD Vance"
+        "Scott Bessent",
+        "Howard Lutnick",
+        "Chris Wright",
+        "Doug Burgum"
       ],
       "sentiment": {
         "overall": "optimistic",
-        "notes": "The conversation is focused on finding solutions to the challenges posed by AI, and the tone is generally positive and forward-looking."
+        "notes": "The conversation is focused on the opportunities and challenges of AI, with a positive outlook on its potential impact."
       },
       "notable_moments": [
         {
           "timestamp_seconds": 0,
-          "description": "JD Vance is introduced as the guest"
+          "description": "Introduction to Scott Bessent, Treasury Secretary"
         },
         {
-          "timestamp_seconds": 6,
-          "description": "The discussion on AI policy begins"
+          "timestamp_seconds": 17,
+          "description": "Introduction to Doug Burgum, Secretary of the Interior and Chris Wright, Energy Secretary"
         },
         {
-          "timestamp_seconds": 16,
-          "description": "The impact of AI on jobs is discussed"
+          "timestamp_seconds": 35,
+          "description": "Introduction to Howard Lutnick, Commerce Secretary"
         }
       ]
     },
@@ -8907,93 +8960,88 @@
       ]
     },
     {
-      "id": "2025-07-23-winning-the-ai-race-part-4-scott-bessent-howard-lutnick-chris-wright-and-doug-bu",
+      "id": "2025-07-23-winning-the-ai-race-part-2-vice-president-jd-vance",
       "number": null,
-      "title": "Winning the AI Race Part 4: Scott Bessent, Howard Lutnick, Chris Wright, and Doug Burgum",
+      "title": "Winning the AI Race Part 2: Vice President JD Vance",
       "date": "2025-07-23",
-      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-part-4-scott-bessent-howard-lutnick-chris-wright-and-doug-burgum",
+      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-vice-president-jd-vance",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "The All-In Podcast discusses winning the AI race with guests Scott Bessent, Howard Lutnick, Chris Wright, and Doug Burgum. They share insights on AI safety, energy, and commerce. The conversation covers various topics, including the role of government in AI development.",
+      "summary": "The All-In Podcast discusses the AI race with JD Vance, covering topics such as immigration, AI policy, and diplomatic relations. They also delve into the impact of AI on jobs and the concept of 'National Champions' in strategic industries. The conversation touches on Vance's experience working at the White House with David Sacks.",
       "takeaways": [
         {
-          "text": "AI safety is crucial",
-          "timestamp_seconds": null
+          "text": "AI policy is crucial for the US to stay competitive",
+          "timestamp_seconds": 6
         },
         {
-          "text": "Government plays a key role in AI development",
-          "timestamp_seconds": null
+          "text": "Immigration can help the US attract top AI talent",
+          "timestamp_seconds": 1
         },
         {
-          "text": "Energy sector is impacted by AI",
-          "timestamp_seconds": null
+          "text": "The US needs to strike a balance in its relationship with China",
+          "timestamp_seconds": 9
         },
         {
-          "text": "Commerce Secretary has a role in AI",
-          "timestamp_seconds": null
+          "text": "AI will significantly impact jobs, requiring a new approach to work",
+          "timestamp_seconds": 16
         },
         {
-          "text": "AI will change the job market",
-          "timestamp_seconds": null
+          "text": "The concept of 'National Champions' can help the US stay competitive in strategic industries",
+          "timestamp_seconds": 22
         },
         {
-          "text": "Investing in AI is essential",
-          "timestamp_seconds": null
+          "text": "Diplomatic relations will be affected by the widespread adoption of AI",
+          "timestamp_seconds": 12
         },
         {
-          "text": "AI regulation is necessary",
-          "timestamp_seconds": null
+          "text": "The US needs to facilitate the growth of its tech industry to stay competitive",
+          "timestamp_seconds": 24
         },
         {
-          "text": "AI will impact the economy",
+          "text": "The White House is taking steps to address the impact of AI on the US economy",
           "timestamp_seconds": null
         }
       ],
       "quotes": [
         {
-          "text": "Winning the AI race",
-          "speaker": "Unknown",
+          "text": "AI is a game-changer",
+          "speaker": "JD Vance",
           "timestamp_seconds": null
         },
         {
-          "text": "AI is the future",
+          "text": "National Champions",
           "speaker": "Unknown",
-          "timestamp_seconds": null
+          "timestamp_seconds": 22
         }
       ],
       "topics": [
-        "ai-safety",
-        "ai-development",
-        "energy",
-        "commerce",
-        "government",
-        "job-market",
-        "investing",
-        "regulation",
-        "economy"
+        "ai-policy",
+        "immigration",
+        "us-china-relations",
+        "ai-impact-on-jobs",
+        "national-champions",
+        "diplomatic-relations",
+        "tech-industry"
       ],
       "guests": [
-        "Scott Bessent",
-        "Howard Lutnick",
-        "Chris Wright",
-        "Doug Burgum"
+        "JD Vance"
       ],
       "sentiment": {
         "overall": "optimistic",
-        "notes": "The conversation is focused on the opportunities and challenges of AI, with a positive outlook on its potential impact."
+        "notes": "The conversation is focused on finding solutions to the challenges posed by AI, and the tone is generally positive and forward-looking."
       },
       "notable_moments": [
         {
           "timestamp_seconds": 0,
-          "description": "Introduction to Scott Bessent, Treasury Secretary"
+          "description": "JD Vance is introduced as the guest"
         },
         {
-          "timestamp_seconds": 17,
-          "description": "Introduction to Doug Burgum, Secretary of the Interior and Chris Wright, Energy Secretary"
+          "timestamp_seconds": 6,
+          "description": "The discussion on AI policy begins"
         },
         {
-          "timestamp_seconds": 35,
-          "description": "Introduction to Howard Lutnick, Commerce Secretary"
+          "timestamp_seconds": 16,
+          "description": "The impact of AI on jobs is discussed"
         }
       ]
     },
@@ -39966,8 +40014,8 @@
         "overall": "mixed"
       }
     ],
-    "episode_count": 373
+    "episode_count": 376
   },
-  "brief_markdown": "# Weekly Brief — 2026-05-10\n\n**Latest episode:** Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom — 2026-05-08\n\n## What this episode covered\nThe All-In podcast discusses the SpaceX-Anthropic deal, the potential monopoly of Anthropic and OpenAI in the AI market, and the idea of an 'FDA for AI' to regulate the industry. The hosts also touch on the potential economic boom created by AI, the need for capitalists to address issues like minimum wage and universal healthcare, and the current state of the market and economy.\n\n## Top takeaways\n- Anthropic's growth trajectory is unprecedented, with a potential to reach $100 billion in ARR by the end of the year\n- Elon Musk's deal with Anthropic could lead to a monopoly in the AI space\n- The White House is considering an 'FDA for AI' to vet new models for safety\n- AI may not be popular, but its effects are creating an economic boom\n- Raising the minimum wage could help lift the bottom third of society\n- The impact of AI on the economy is still being debated\n- The emergence of Elon Web Services (EWS) as a competitor to Google Cloud, Amazon Web Services, and Azure\n- The potential for Anthropic to become the most valuable tech company in history, with a possible valuation of over $1 trillion in 2027\n\n## Notable quotes\n> \"Let your winners ride\" — Chamath Palihapitiya\n> \"You don't look as tired as you have in recent weeks\" — Jason Calacanis\n> \"I think we're debating semantics here\" — David Sacks\n> \"We don't want to put Washington in the position of picking winners and losers\" — David Sacks\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` — mentioned in 41 episodes\n- `economy` — mentioned in 40 episodes\n- `politics` — mentioned in 38 episodes\n- `us-politics` — mentioned in 28 episodes\n- `openai` — mentioned in 24 episodes\n- `venture-capital` — mentioned in 22 episodes\n- `big-tech` — mentioned in 22 episodes\n- `inflation` — mentioned in 21 episodes\n- `elon-musk` — mentioned in 19 episodes\n- `covid-19` — mentioned in 18 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (6 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-04-10: optimistic\n- 2026-04-17: mixed\n- 2026-04-24: cautious\n- 2026-04-29: cautious\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n\n---\n_Generated 2026-05-10 from 373 episodes_",
-  "generated_at": "2026-05-10T03:36:16.495451+00:00"
+  "brief_markdown": "# Weekly Brief — 2026-05-16\n\n**Latest episode:** Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño — 2026-05-15\n\n## What this episode covered\n_No summary available_\n\n## Top takeaways\n\n## Notable quotes\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` — mentioned in 41 episodes\n- `economy` — mentioned in 40 episodes\n- `politics` — mentioned in 38 episodes\n- `us-politics` — mentioned in 28 episodes\n- `openai` — mentioned in 24 episodes\n- `venture-capital` — mentioned in 22 episodes\n- `big-tech` — mentioned in 22 episodes\n- `inflation` — mentioned in 21 episodes\n- `elon-musk` — mentioned in 19 episodes\n- `covid-19` — mentioned in 18 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (6 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-04-10: optimistic\n- 2026-04-17: mixed\n- 2026-04-24: cautious\n- 2026-04-29: cautious\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n\n---\n_Generated 2026-05-16 from 376 episodes_",
+  "generated_at": "2026-05-16T04:31:58.392404+00:00"
 }
