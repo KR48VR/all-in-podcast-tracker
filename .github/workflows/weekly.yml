@@ -44,7 +44,7 @@ jobs:
         run: |
           python src/fetch_episodes.py \
             ${{ inputs.backfill && '--backfill' || '' }} \
-            ${{ inputs.transcribe_audio && '--transcribe-audio' || '' }}
+            ${{ (github.event_name == 'schedule' || inputs.transcribe_audio) && '--transcribe-audio' || '' }}
 
       - name: Analyze episodes
         timeout-minutes: 90
