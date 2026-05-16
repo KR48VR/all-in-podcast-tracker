@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>The Saturday Robot Bug Fix Story</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  body { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .stage { background: linear-gradient(180deg, #eef2ff 0%, #f9fafb 100%); border-radius: 16px; }
+  .scene { opacity: 0; transition: opacity 0.4s ease; }
+  .scene.active { opacity: 1; }
+  .bubble { fill: #ffffff; stroke: #111827; stroke-width: 2; }
+  .bubble-text { font-size: 16px; font-weight: 600; fill: #111827; }
+  .label { font-size: 14px; font-weight: 600; fill: #374151; }
+  .title-text { font-size: 22px; font-weight: 800; fill: #111827; }
+  @keyframes blink {
+    0%, 90%, 100% { transform: scaleY(1); }
+    95% { transform: scaleY(0.1); }
+  }
+  @keyframes bob {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-6px); }
+  }
+  @keyframes wiggle {
+    0%, 100% { transform: rotate(-3deg); }
+    50% { transform: rotate(3deg); }
+  }
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-3px); }
+    75% { transform: translateX(3px); }
+  }
+  @keyframes sparkle {
+    0%, 100% { opacity: 0; transform: scale(0.5); }
+    50% { opacity: 1; transform: scale(1); }
+  }
+  @keyframes tear {
+    0% { opacity: 0; transform: translateY(0); }
+    50% { opacity: 1; }
+    100% { opacity: 0; transform: translateY(20px); }
+  }
+  @keyframes typeIn {
+    from { stroke-dashoffset: 200; }
+    to { stroke-dashoffset: 0; }
+  }
+  .robot-eye { transform-origin: center; transform-box: fill-box; animation: blink 4s infinite; }
+  .robot-bob { transform-origin: center; transform-box: fill-box; animation: bob 2s ease-in-out infinite; }
+  .clock-hand { transform-origin: 400px 150px; }
+  .sparkle { animation: sparkle 1.2s ease-in-out infinite; }
+  .tear { animation: tear 1.5s ease-in-out infinite; }
+  .wiggle { transform-origin: center; transform-box: fill-box; animation: wiggle 0.6s ease-in-out infinite; }
+  .shake { transform-origin: center; transform-box: fill-box; animation: shake 0.3s ease-in-out infinite; }
+  .control-btn { transition: all 0.15s ease; }
+  .control-btn:hover { background: #1f2937; color: white; }
+  .control-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+  .speed-btn.active { background: #111827; color: white; }
+  .progress-fill { transition: width 0.1s linear; }
+  .chapter { transition: background 0.2s ease; cursor: pointer; }
+  .chapter:hover { background: #f3f4f6; }
+  .chapter.current { background: #fef3c7; border-left: 4px solid #f59e0b; }
+</style>
+</head>
+<body class="bg-gray-50 text-gray-900">
+<header class="border-b border-gray-200 bg-white">
+  <div class="mx-auto max-w-5xl px-6 py-4 flex items-baseline justify-between">
+    <div>
+      <h1 class="text-xl font-bold">All-In Podcast Tracker</h1>
+      <p class="text-sm text-gray-500">The Saturday Robot Bug Fix Story</p>
+    </div>
+    <nav class="text-sm space-x-4">
+      <a href="index.html" class="hover:underline">Home</a>
+      <a href="how-it-works.html" class="hover:underline">How it works</a>
+      <a href="web-101.html" class="hover:underline">Web 101</a>
+    </nav>
+  </div>
+</header>
+
+<main class="mx-auto max-w-5xl px-6 py-8">
+  <section class="mb-8">
+    <h2 class="text-3xl font-extrabold mb-3">A real bug we just fixed (told with a robot)</h2>
+    <p class="text-gray-700 max-w-3xl">
+      On May 16, 2026, the auto-update robot brought in 3 new podcast episodes but forgot to write any notes about them. Here is the whole story as a 45-second cartoon. By the end you will understand exactly what broke, why, and how we fixed it.
+    </p>
+  </section>
+
+  <section class="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
+    <div class="stage relative overflow-hidden" style="aspect-ratio: 16 / 10;">
+      <svg id="stage" viewBox="0 0 800 500" class="w-full h-full" xmlns="http://www.w3.org/2000/svg">
+        <!-- Floor line in every scene -->
+        <line x1="0" y1="430" x2="800" y2="430" stroke="#d1d5db" stroke-width="2" stroke-dasharray="6 4"/>
+
+        <!-- ============ SCENE 1: Saturday Morning ============ -->
+        <g id="scene-1" class="scene">
+          <text x="400" y="50" class="title-text" text-anchor="middle">Scene 1: Saturday Morning</text>
+
+          <!-- Clock -->
+          <circle cx="400" cy="150" r="60" fill="#ffffff" stroke="#111827" stroke-width="3"/>
+          <text x="400" y="125" font-size="14" text-anchor="middle" font-weight="700" fill="#111827">12</text>
+          <text x="455" y="158" font-size="14" text-anchor="middle" font-weight="700" fill="#111827">3</text>
+          <text x="400" y="195" font-size="14" text-anchor="middle" font-weight="700" fill="#111827">6</text>
+          <text x="345" y="158" font-size="14" text-anchor="middle" font-weight="700" fill="#111827">9</text>
+          <!-- Hour hand pointing to 9 -->
+          <line id="hour-hand" class="clock-hand" x1="400" y1="150" x2="360" y2="150" stroke="#111827" stroke-width="4" stroke-linecap="round"/>
+          <line id="min-hand" class="clock-hand" x1="400" y1="150" x2="400" y2="105" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+          <circle cx="400" cy="150" r="4" fill="#111827"/>
+          <text x="400" y="240" font-size="18" font-weight="800" text-anchor="middle" fill="#111827">9:00 AM Saturday</text>
+
+          <!-- Sleeping robot in charging dock -->
+          <g transform="translate(250,310)">
+            <!-- Dock -->
+            <rect x="-10" y="80" width="120" height="20" rx="4" fill="#9ca3af"/>
+            <rect x="40" y="60" width="20" height="20" fill="#9ca3af"/>
+            <!-- Body -->
+            <rect x="20" y="20" width="60" height="60" rx="10" fill="#60a5fa" stroke="#1e3a8a" stroke-width="2"/>
+            <!-- Head -->
+            <rect x="25" y="-30" width="50" height="40" rx="8" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+            <!-- Antenna -->
+            <line x1="50" y1="-30" x2="50" y2="-45" stroke="#1e3a8a" stroke-width="2"/>
+            <circle cx="50" cy="-47" r="3" fill="#f59e0b"/>
+            <!-- Closed eyes -->
+            <line x1="33" y1="-15" x2="42" y2="-15" stroke="#1e3a8a" stroke-width="3" stroke-linecap="round"/>
+            <line x1="58" y1="-15" x2="67" y2="-15" stroke="#1e3a8a" stroke-width="3" stroke-linecap="round"/>
+            <!-- ZZZ -->
+            <text x="90" y="-30" font-size="20" font-weight="800" fill="#4b5563">Z</text>
+            <text x="105" y="-45" font-size="16" font-weight="800" fill="#6b7280">z</text>
+            <text x="118" y="-58" font-size="12" font-weight="800" fill="#9ca3af">z</text>
+          </g>
+
+          <text x="400" y="400" class="label" text-anchor="middle">The robot wakes up every Saturday at 9 AM to update the podcast notebook.</text>
+        </g>
+
+        <!-- ============ SCENE 2: Easy Way Fails ============ -->
+        <g id="scene-2" class="scene">
+          <text x="400" y="50" class="title-text" text-anchor="middle">Scene 2: Asking for the Written Version</text>
+
+          <!-- Robot (awake, walking) -->
+          <g transform="translate(180,300)">
+            <g class="robot-bob">
+              <rect x="20" y="20" width="60" height="60" rx="10" fill="#60a5fa" stroke="#1e3a8a" stroke-width="2"/>
+              <rect x="25" y="-30" width="50" height="40" rx="8" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+              <line x1="50" y1="-30" x2="50" y2="-45" stroke="#1e3a8a" stroke-width="2"/>
+              <circle cx="50" cy="-47" r="3" fill="#f59e0b"/>
+              <!-- Open eyes -->
+              <circle class="robot-eye" cx="38" cy="-12" r="5" fill="white" stroke="#1e3a8a" stroke-width="2"/>
+              <circle cx="38" cy="-12" r="2" fill="#111827"/>
+              <circle class="robot-eye" cx="62" cy="-12" r="5" fill="white" stroke="#1e3a8a" stroke-width="2"/>
+              <circle cx="62" cy="-12" r="2" fill="#111827"/>
+              <!-- Mouth: neutral -->
+              <line x1="42" y1="0" x2="58" y2="0" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round"/>
+              <!-- Arms -->
+              <line x1="20" y1="40" x2="0" y2="60" stroke="#1e3a8a" stroke-width="4" stroke-linecap="round"/>
+              <line x1="80" y1="40" x2="100" y2="60" stroke="#1e3a8a" stroke-width="4" stroke-linecap="round"/>
+            </g>
+          </g>
+
+          <!-- Speech bubble from robot -->
+          <g transform="translate(290,220)">
+            <rect class="bubble" x="0" y="0" width="200" height="60" rx="12"/>
+            <polygon points="20,60 30,75 40,60" class="bubble" stroke-width="2"/>
+            <text x="100" y="35" class="bubble-text" text-anchor="middle">Got a written</text>
+            <text x="100" y="55" class="bubble-text" text-anchor="middle">version yet?</text>
+          </g>
+
+          <!-- Laptop (the podcast website) -->
+          <g transform="translate(540,300)">
+            <!-- Screen -->
+            <rect x="0" y="0" width="120" height="80" rx="6" fill="#1f2937" stroke="#111827" stroke-width="2"/>
+            <rect x="6" y="6" width="108" height="60" fill="#374151"/>
+            <!-- Face on screen -->
+            <circle cx="45" cy="30" r="4" fill="white"/>
+            <circle cx="75" cy="30" r="4" fill="white"/>
+            <path d="M 45 50 Q 60 40 75 50" stroke="white" stroke-width="2" fill="none"/>
+            <!-- Keyboard -->
+            <rect x="-10" y="80" width="140" height="10" rx="3" fill="#9ca3af"/>
+            <text x="60" y="115" class="label" text-anchor="middle">All-In website</text>
+          </g>
+
+          <!-- Laptop response bubble -->
+          <g transform="translate(480,180)">
+            <rect class="bubble" x="0" y="0" width="220" height="60" rx="12"/>
+            <polygon points="160,60 170,75 180,60" class="bubble" stroke-width="2"/>
+            <text x="110" y="35" class="bubble-text" text-anchor="middle">Not yet,</text>
+            <text x="110" y="55" class="bubble-text" text-anchor="middle">sorry! :(</text>
+          </g>
+
+          <text x="400" y="465" class="label" text-anchor="middle">The "easy way" (a posted transcript) is not available yet.</text>
+        </g>
+
+        <!-- ============ SCENE 3: Reading the Instructions ============ -->
+        <g id="scene-3" class="scene">
+          <text x="400" y="50" class="title-text" text-anchor="middle">Scene 3: Reading the Instruction Scroll</text>
+
+          <!-- Robot (sad) -->
+          <g transform="translate(120,300)">
+            <rect x="20" y="20" width="60" height="60" rx="10" fill="#60a5fa" stroke="#1e3a8a" stroke-width="2"/>
+            <rect x="25" y="-30" width="50" height="40" rx="8" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+            <line x1="50" y1="-30" x2="50" y2="-45" stroke="#1e3a8a" stroke-width="2"/>
+            <circle cx="50" cy="-47" r="3" fill="#f59e0b"/>
+            <!-- Sad eyes -->
+            <circle cx="38" cy="-12" r="5" fill="white" stroke="#1e3a8a" stroke-width="2"/>
+            <circle cx="38" cy="-10" r="2" fill="#111827"/>
+            <circle cx="62" cy="-12" r="5" fill="white" stroke="#1e3a8a" stroke-width="2"/>
+            <circle cx="62" cy="-10" r="2" fill="#111827"/>
+            <!-- Frown -->
+            <path d="M 42 5 Q 50 -2 58 5" stroke="#1e3a8a" stroke-width="2" fill="none" stroke-linecap="round"/>
+            <!-- Tear -->
+            <circle class="tear" cx="38" cy="-2" r="2" fill="#3b82f6"/>
+          </g>
+
+          <!-- Instruction scroll -->
+          <g transform="translate(280,140)">
+            <rect x="0" y="0" width="380" height="240" rx="12" fill="#fef3c7" stroke="#92400e" stroke-width="2"/>
+            <text x="190" y="35" font-size="18" font-weight="800" fill="#7c2d12" text-anchor="middle">ROBOT INSTRUCTIONS</text>
+            <line x1="20" y1="50" x2="360" y2="50" stroke="#fbbf24" stroke-width="2"/>
+
+            <!-- Rule 1: easy way blocked -->
+            <text x="20" y="85" font-size="14" font-weight="700" fill="#1f2937">1. Easy way: Use the written transcript.</text>
+            <text x="40" y="105" font-size="14" fill="#dc2626" font-weight="700">X NOT AVAILABLE TODAY</text>
+
+            <!-- Rule 2: hard way conditional -->
+            <text x="20" y="140" font-size="14" font-weight="700" fill="#1f2937">2. Hard way: Use Whisper to listen.</text>
+            <text x="40" y="160" font-size="14" fill="#1f2937" font-style="italic">"Only if a HUMAN asks you."</text>
+
+            <!-- Robot thought -->
+            <g transform="translate(20,180)">
+              <rect class="bubble" x="0" y="0" width="340" height="40" rx="8"/>
+              <text x="170" y="25" class="bubble-text" text-anchor="middle">But it is Saturday morning... no humans around :(</text>
+            </g>
+          </g>
+
+          <text x="400" y="465" class="label" text-anchor="middle">The instructions say "only use Whisper if a human asks" -- so the robot is stuck.</text>
+        </g>
+
+        <!-- ============ SCENE 4: Giving Up ============ -->
+        <g id="scene-4" class="scene">
+          <text x="400" y="50" class="title-text" text-anchor="middle">Scene 4: The Robot Gives Up</text>
+
+          <!-- Robot writing -->
+          <g transform="translate(180,300)">
+            <rect x="20" y="20" width="60" height="60" rx="10" fill="#60a5fa" stroke="#1e3a8a" stroke-width="2"/>
+            <rect x="25" y="-30" width="50" height="40" rx="8" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+            <line x1="50" y1="-30" x2="50" y2="-45" stroke="#1e3a8a" stroke-width="2"/>
+            <circle cx="50" cy="-47" r="3" fill="#f59e0b"/>
+            <circle cx="38" cy="-12" r="5" fill="white" stroke="#1e3a8a" stroke-width="2"/>
+            <circle cx="38" cy="-10" r="2" fill="#111827"/>
+            <circle cx="62" cy="-12" r="5" fill="white" stroke="#1e3a8a" stroke-width="2"/>
+            <circle cx="62" cy="-10" r="2" fill="#111827"/>
+            <path d="M 42 5 Q 50 -2 58 5" stroke="#1e3a8a" stroke-width="2" fill="none" stroke-linecap="round"/>
+            <!-- Arm holding pen -->
+            <line x1="80" y1="50" x2="140" y2="80" stroke="#1e3a8a" stroke-width="4" stroke-linecap="round"/>
+            <line x1="140" y1="80" x2="155" y2="92" stroke="#374151" stroke-width="3" stroke-linecap="round"/>
+          </g>
+
+          <!-- Notebook -->
+          <g transform="translate(380,200)">
+            <rect x="0" y="0" width="280" height="220" rx="8" fill="#ffffff" stroke="#111827" stroke-width="3"/>
+            <line x1="40" y1="0" x2="40" y2="220" stroke="#fca5a5" stroke-width="2"/>
+            <text x="60" y="40" font-size="18" font-weight="800" fill="#111827">Episode 376</text>
+            <text x="60" y="65" font-size="12" fill="#6b7280">Trump-Xi Summit, Benioff...</text>
+
+            <!-- Blank section -->
+            <text x="60" y="100" font-size="13" font-weight="700" fill="#374151">Summary:</text>
+            <line x1="60" y1="115" x2="250" y2="115" stroke="#d1d5db" stroke-width="1"/>
+            <line x1="60" y1="130" x2="250" y2="130" stroke="#d1d5db" stroke-width="1"/>
+            <line x1="60" y1="145" x2="200" y2="145" stroke="#d1d5db" stroke-width="1"/>
+
+            <text x="60" y="175" font-size="13" font-weight="700" fill="#374151">Top takeaways:</text>
+            <line x1="60" y1="190" x2="250" y2="190" stroke="#d1d5db" stroke-width="1"/>
+            <line x1="60" y1="205" x2="220" y2="205" stroke="#d1d5db" stroke-width="1"/>
+
+            <!-- "Empty" stamp -->
+            <g transform="translate(140,120) rotate(-15)">
+              <g class="wiggle">
+                <rect x="-50" y="-15" width="100" height="30" fill="none" stroke="#dc2626" stroke-width="3" rx="4"/>
+                <text x="0" y="6" font-size="18" font-weight="800" fill="#dc2626" text-anchor="middle">EMPTY!</text>
+              </g>
+            </g>
+          </g>
+
+          <text x="400" y="465" class="label" text-anchor="middle">Episode gets added... with completely blank notes underneath.</text>
+        </g>
+
+        <!-- ============ SCENE 5: You Find It ============ -->
+        <g id="scene-5" class="scene">
+          <text x="400" y="50" class="title-text" text-anchor="middle">Scene 5: You Open the Website</text>
+
+          <!-- Cartoon "you" -->
+          <g transform="translate(180,260)">
+            <g class="shake">
+              <!-- Head -->
+              <circle cx="50" cy="0" r="30" fill="#fde68a" stroke="#92400e" stroke-width="2"/>
+              <!-- Hair tuft -->
+              <path d="M 30 -20 Q 50 -40 70 -20" stroke="#78350f" stroke-width="4" fill="#78350f"/>
+              <!-- Wide eyes -->
+              <circle cx="40" cy="-5" r="6" fill="white" stroke="#111827" stroke-width="2"/>
+              <circle cx="60" cy="-5" r="6" fill="white" stroke="#111827" stroke-width="2"/>
+              <circle cx="40" cy="-3" r="3" fill="#111827"/>
+              <circle cx="60" cy="-3" r="3" fill="#111827"/>
+              <!-- Open shocked mouth -->
+              <ellipse cx="50" cy="15" rx="6" ry="9" fill="#7f1d1d"/>
+              <!-- Body -->
+              <rect x="30" y="30" width="40" height="60" rx="6" fill="#34d399" stroke="#064e3b" stroke-width="2"/>
+              <!-- Arms raised -->
+              <line x1="30" y1="40" x2="10" y2="0" stroke="#fde68a" stroke-width="6" stroke-linecap="round"/>
+              <line x1="70" y1="40" x2="90" y2="0" stroke="#fde68a" stroke-width="6" stroke-linecap="round"/>
+            </g>
+          </g>
+
+          <!-- Speech bubble -->
+          <g transform="translate(290,200)">
+            <rect class="bubble" x="0" y="0" width="280" height="80" rx="12"/>
+            <polygon points="20,80 30,100 40,80" class="bubble" stroke-width="2"/>
+            <text x="140" y="35" class="bubble-text" text-anchor="middle" font-size="20">WAIT WHAT?!</text>
+            <text x="140" y="60" font-size="14" fill="#374151" text-anchor="middle">Where are the notes for episode 376?</text>
+          </g>
+
+          <!-- Phone showing blank episode -->
+          <g transform="translate(610,240)">
+            <rect x="0" y="0" width="100" height="160" rx="12" fill="#1f2937" stroke="#111827" stroke-width="2"/>
+            <rect x="6" y="20" width="88" height="120" fill="white"/>
+            <text x="50" y="40" font-size="9" font-weight="700" fill="#111827" text-anchor="middle">Episode 376</text>
+            <line x1="14" y1="55" x2="86" y2="55" stroke="#e5e7eb" stroke-width="1"/>
+            <line x1="14" y1="65" x2="86" y2="65" stroke="#e5e7eb" stroke-width="1"/>
+            <line x1="14" y1="75" x2="60" y2="75" stroke="#e5e7eb" stroke-width="1"/>
+            <text x="50" y="105" font-size="9" fill="#dc2626" font-weight="700" text-anchor="middle">(no summary)</text>
+          </g>
+
+          <text x="400" y="465" class="label" text-anchor="middle">You spot the broken episode and realize something went wrong.</text>
+        </g>
+
+        <!-- ============ SCENE 6: The Fix ============ -->
+        <g id="scene-6" class="scene">
+          <text x="400" y="50" class="title-text" text-anchor="middle">Scene 6: You Rewrite the Rule</text>
+
+          <!-- You with marker -->
+          <g transform="translate(120,260)">
+            <circle cx="50" cy="0" r="30" fill="#fde68a" stroke="#92400e" stroke-width="2"/>
+            <path d="M 30 -20 Q 50 -40 70 -20" stroke="#78350f" stroke-width="4" fill="#78350f"/>
+            <circle cx="40" cy="-5" r="4" fill="white" stroke="#111827" stroke-width="2"/>
+            <circle cx="60" cy="-5" r="4" fill="white" stroke="#111827" stroke-width="2"/>
+            <circle cx="40" cy="-4" r="2" fill="#111827"/>
+            <circle cx="60" cy="-4" r="2" fill="#111827"/>
+            <!-- Determined mouth -->
+            <line x1="40" y1="15" x2="60" y2="15" stroke="#111827" stroke-width="2" stroke-linecap="round"/>
+            <rect x="30" y="30" width="40" height="60" rx="6" fill="#34d399" stroke="#064e3b" stroke-width="2"/>
+            <!-- Arm holding marker -->
+            <line x1="70" y1="40" x2="130" y2="20" stroke="#fde68a" stroke-width="6" stroke-linecap="round"/>
+            <rect x="125" y="14" width="20" height="8" fill="#dc2626" rx="2"/>
+            <rect x="143" y="15" width="8" height="6" fill="#374151"/>
+          </g>
+
+          <!-- Updated scroll -->
+          <g transform="translate(280,140)">
+            <rect x="0" y="0" width="400" height="220" rx="12" fill="#fef3c7" stroke="#92400e" stroke-width="2"/>
+            <text x="200" y="35" font-size="18" font-weight="800" fill="#7c2d12" text-anchor="middle">ROBOT INSTRUCTIONS (v2)</text>
+            <line x1="20" y1="50" x2="380" y2="50" stroke="#fbbf24" stroke-width="2"/>
+
+            <!-- Old rule crossed out -->
+            <text x="20" y="85" font-size="14" font-weight="700" fill="#9ca3af">2. Use Whisper only if a human asks.</text>
+            <line x1="20" y1="80" x2="370" y2="90" stroke="#dc2626" stroke-width="3"/>
+
+            <!-- New rule -->
+            <text x="20" y="125" font-size="15" font-weight="800" fill="#065f46">NEW RULE:</text>
+            <text x="20" y="150" font-size="14" font-weight="700" fill="#1f2937">Use Whisper if a HUMAN asks</text>
+            <text x="20" y="170" font-size="14" font-weight="700" fill="#1f2937">OR if it is Saturday morning!</text>
+
+            <!-- Sparkles -->
+            <g class="sparkle">
+              <text x="340" y="135" font-size="24" fill="#f59e0b">*</text>
+            </g>
+            <g class="sparkle" style="animation-delay: 0.3s;">
+              <text x="370" y="160" font-size="20" fill="#f59e0b">*</text>
+            </g>
+            <g class="sparkle" style="animation-delay: 0.6s;">
+              <text x="350" y="190" font-size="18" fill="#f59e0b">*</text>
+            </g>
+
+            <text x="200" y="205" font-size="12" font-style="italic" fill="#6b7280" text-anchor="middle">(one tiny line of code -- the real fix is exactly this small)</text>
+          </g>
+
+          <text x="400" y="465" class="label" text-anchor="middle">You add the missing case to the rule. That's the entire fix.</text>
+        </g>
+
+        <!-- ============ SCENE 7: Happy Ending ============ -->
+        <g id="scene-7" class="scene">
+          <text x="400" y="50" class="title-text" text-anchor="middle">Scene 7: Next Saturday -- Happy Ending</text>
+
+          <!-- Happy robot with headphones -->
+          <g transform="translate(150,280)">
+            <g class="robot-bob">
+              <rect x="20" y="20" width="60" height="60" rx="10" fill="#60a5fa" stroke="#1e3a8a" stroke-width="2"/>
+              <rect x="25" y="-30" width="50" height="40" rx="8" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+              <line x1="50" y1="-30" x2="50" y2="-45" stroke="#1e3a8a" stroke-width="2"/>
+              <circle cx="50" cy="-47" r="3" fill="#f59e0b"/>
+              <!-- Happy eyes -->
+              <path d="M 33 -15 Q 38 -20 43 -15" stroke="#1e3a8a" stroke-width="3" fill="none" stroke-linecap="round"/>
+              <path d="M 57 -15 Q 62 -20 67 -15" stroke="#1e3a8a" stroke-width="3" fill="none" stroke-linecap="round"/>
+              <!-- Big smile -->
+              <path d="M 38 0 Q 50 12 62 0" stroke="#1e3a8a" stroke-width="3" fill="none" stroke-linecap="round"/>
+              <!-- Headphones -->
+              <path d="M 20 -25 Q 50 -55 80 -25" stroke="#1f2937" stroke-width="4" fill="none"/>
+              <ellipse cx="20" cy="-15" rx="8" ry="12" fill="#1f2937"/>
+              <ellipse cx="80" cy="-15" rx="8" ry="12" fill="#1f2937"/>
+              <!-- Music notes -->
+              <text x="-10" y="-40" font-size="20" fill="#7c3aed">o</text>
+              <text x="100" y="-40" font-size="20" fill="#7c3aed">o</text>
+              <line x1="-2" y1="-42" x2="-2" y2="-55" stroke="#7c3aed" stroke-width="2"/>
+              <line x1="108" y1="-42" x2="108" y2="-55" stroke="#7c3aed" stroke-width="2"/>
+            </g>
+          </g>
+
+          <!-- Filled-in notebook -->
+          <g transform="translate(380,170)">
+            <rect x="0" y="0" width="280" height="240" rx="8" fill="#ffffff" stroke="#111827" stroke-width="3"/>
+            <line x1="40" y1="0" x2="40" y2="240" stroke="#fca5a5" stroke-width="2"/>
+            <text x="60" y="35" font-size="18" font-weight="800" fill="#111827">Episode 377</text>
+
+            <text x="60" y="65" font-size="12" font-weight="700" fill="#374151">Summary:</text>
+            <line x1="60" y1="78" x2="250" y2="78" stroke="#111827" stroke-width="2"/>
+            <line x1="60" y1="92" x2="250" y2="92" stroke="#111827" stroke-width="2"/>
+            <line x1="60" y1="106" x2="200" y2="106" stroke="#111827" stroke-width="2"/>
+
+            <text x="60" y="135" font-size="12" font-weight="700" fill="#374151">Top takeaways:</text>
+            <line x1="60" y1="148" x2="240" y2="148" stroke="#111827" stroke-width="2"/>
+            <line x1="60" y1="162" x2="245" y2="162" stroke="#111827" stroke-width="2"/>
+            <line x1="60" y1="176" x2="210" y2="176" stroke="#111827" stroke-width="2"/>
+
+            <text x="60" y="205" font-size="12" font-weight="700" fill="#374151">Notable quotes:</text>
+            <line x1="60" y1="218" x2="235" y2="218" stroke="#111827" stroke-width="2"/>
+
+            <!-- "Full notes!" stamp -->
+            <g transform="translate(180,80) rotate(8)">
+              <g class="wiggle">
+                <rect x="-45" y="-12" width="90" height="24" fill="none" stroke="#16a34a" stroke-width="3" rx="4"/>
+                <text x="0" y="6" font-size="14" font-weight="800" fill="#16a34a" text-anchor="middle">FULL NOTES!</text>
+              </g>
+            </g>
+          </g>
+
+          <!-- Sparkles around the page -->
+          <g class="sparkle"><text x="340" y="180" font-size="24" fill="#f59e0b">*</text></g>
+          <g class="sparkle" style="animation-delay: 0.3s;"><text x="690" y="200" font-size="22" fill="#f59e0b">*</text></g>
+          <g class="sparkle" style="animation-delay: 0.6s;"><text x="660" y="420" font-size="18" fill="#f59e0b">*</text></g>
+
+          <text x="400" y="465" class="label" text-anchor="middle">The robot uses Whisper automatically on Saturdays. The notebook fills itself in.</text>
+        </g>
+      </svg>
+    </div>
+
+    <!-- Progress bar -->
+    <div class="mt-4 h-2 bg-gray-200 rounded-full overflow-hidden">
+      <div id="progress" class="progress-fill h-full bg-gradient-to-r from-blue-500 to-indigo-600" style="width: 0%;"></div>
+    </div>
+
+    <!-- Controls -->
+    <div class="mt-4 flex flex-wrap items-center justify-between gap-3">
+      <div class="flex items-center gap-2">
+        <button id="prev-btn" class="control-btn px-3 py-2 rounded-lg border border-gray-300 font-semibold text-sm">&laquo; Prev</button>
+        <button id="play-btn" class="control-btn px-4 py-2 rounded-lg bg-gray-900 text-white font-semibold text-sm">Play</button>
+        <button id="next-btn" class="control-btn px-3 py-2 rounded-lg border border-gray-300 font-semibold text-sm">Next &raquo;</button>
+        <button id="replay-btn" class="control-btn px-3 py-2 rounded-lg border border-gray-300 font-semibold text-sm">Replay</button>
+      </div>
+      <div class="flex items-center gap-2">
+        <span class="text-sm font-semibold text-gray-600">Speed:</span>
+        <button class="speed-btn control-btn px-3 py-1 rounded-md border border-gray-300 text-sm font-semibold" data-speed="0.5">0.5x</button>
+        <button class="speed-btn control-btn active px-3 py-1 rounded-md border border-gray-300 text-sm font-semibold" data-speed="1">1x</button>
+        <button class="speed-btn control-btn px-3 py-1 rounded-md border border-gray-300 text-sm font-semibold" data-speed="1.5">1.5x</button>
+        <button class="speed-btn control-btn px-3 py-1 rounded-md border border-gray-300 text-sm font-semibold" data-speed="2">2x</button>
+      </div>
+    </div>
+
+    <!-- Chapter list -->
+    <div class="mt-6 border-t border-gray-200 pt-4">
+      <p class="text-sm font-semibold text-gray-600 mb-2">Scenes (click to jump):</p>
+      <ol id="chapter-list" class="text-sm">
+        <li class="chapter px-3 py-2 rounded-md flex items-baseline gap-3" data-scene="0"><span class="font-bold text-gray-400">1.</span><span>Saturday Morning -- The robot wakes up</span></li>
+        <li class="chapter px-3 py-2 rounded-md flex items-baseline gap-3" data-scene="1"><span class="font-bold text-gray-400">2.</span><span>The easy way fails -- no written transcript yet</span></li>
+        <li class="chapter px-3 py-2 rounded-md flex items-baseline gap-3" data-scene="2"><span class="font-bold text-gray-400">3.</span><span>Reading the instructions -- "only if a human asks"</span></li>
+        <li class="chapter px-3 py-2 rounded-md flex items-baseline gap-3" data-scene="3"><span class="font-bold text-gray-400">4.</span><span>The robot gives up -- empty notes</span></li>
+        <li class="chapter px-3 py-2 rounded-md flex items-baseline gap-3" data-scene="4"><span class="font-bold text-gray-400">5.</span><span>You find the problem -- WAIT WHAT?!</span></li>
+        <li class="chapter px-3 py-2 rounded-md flex items-baseline gap-3" data-scene="5"><span class="font-bold text-gray-400">6.</span><span>You rewrite the rule -- one tiny line</span></li>
+        <li class="chapter px-3 py-2 rounded-md flex items-baseline gap-3" data-scene="6"><span class="font-bold text-gray-400">7.</span><span>Happy ending -- next Saturday works perfectly</span></li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- The takeaway -->
+  <section class="mt-12 prose max-w-none">
+    <h2 class="text-2xl font-bold mb-3">The real-world translation</h2>
+    <p>The whole bug was one line of code in a file called <code class="bg-gray-100 px-1.5 py-0.5 rounded text-sm">.github/workflows/weekly.yml</code>. Here is the same story without the cartoon:</p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
+      <div class="bg-red-50 border border-red-200 rounded-lg p-4">
+        <h3 class="font-bold text-red-900 mb-2">Before (buggy)</h3>
+        <pre class="text-xs bg-white p-3 rounded border border-red-200 overflow-x-auto"><code>${{ inputs.transcribe_audio
+   &amp;&amp; '--transcribe-audio'
+   || '' }}</code></pre>
+        <p class="text-sm text-red-900 mt-2">"Only use Whisper if a human filled in the form."</p>
+      </div>
+      <div class="bg-emerald-50 border border-emerald-200 rounded-lg p-4">
+        <h3 class="font-bold text-emerald-900 mb-2">After (fixed)</h3>
+        <pre class="text-xs bg-white p-3 rounded border border-emerald-200 overflow-x-auto"><code>${{ (github.event_name == 'schedule'
+   || inputs.transcribe_audio)
+   &amp;&amp; '--transcribe-audio'
+   || '' }}</code></pre>
+        <p class="text-sm text-emerald-900 mt-2">"Use Whisper if a human asks OR it is a scheduled run."</p>
+      </div>
+    </div>
+
+    <h3 class="text-lg font-bold mt-8 mb-2">Why bugs like this are normal (and fine)</h3>
+    <p>Every software product has bugs like this hiding in it. They are usually one of two things:</p>
+    <ul>
+      <li><strong>A case nobody thought about</strong> -- like our Saturday morning robot. When the code was written, only manual runs were tested. The scheduled run was a different path nobody had walked through.</li>
+      <li><strong>An assumption that quietly broke</strong> -- like assuming the podcast website always has a written transcript ready (it does eventually, just not always on Saturday morning).</li>
+    </ul>
+    <p>The skill is not avoiding all bugs. The skill is <strong>spotting them quickly, explaining them clearly, and fixing them with the smallest possible change</strong>. That is what just happened today.</p>
+  </section>
+</main>
+
+<footer class="border-t border-gray-200 bg-white mt-12">
+  <div class="mx-auto max-w-5xl px-6 py-6 text-sm text-gray-500 flex justify-between">
+    <span>All-In Podcast Tracker</span>
+    <span>Updated May 16, 2026</span>
+  </div>
+</footer>
+
+<script>
+(function () {
+  // Scene durations in milliseconds (1x speed)
+  var SCENE_DURATIONS = [5000, 6500, 8000, 6500, 5500, 7500, 7500];
+  var TOTAL = SCENE_DURATIONS.reduce(function (a, b) { return a + b; }, 0);
+
+  var sceneEls = [];
+  for (var i = 1; i <= 7; i++) sceneEls.push(document.getElementById('scene-' + i));
+  var chapterEls = document.querySelectorAll('.chapter');
+  var progressEl = document.getElementById('progress');
+  var playBtn = document.getElementById('play-btn');
+  var prevBtn = document.getElementById('prev-btn');
+  var nextBtn = document.getElementById('next-btn');
+  var replayBtn = document.getElementById('replay-btn');
+  var speedBtns = document.querySelectorAll('.speed-btn');
+
+  var currentScene = 0;
+  var elapsedInScene = 0;
+  var isPlaying = false;
+  var speed = 1;
+  var lastTick = null;
+  var rafId = null;
+
+  function showScene(idx) {
+    sceneEls.forEach(function (el, i) {
+      el.classList.toggle('active', i === idx);
+    });
+    chapterEls.forEach(function (el, i) {
+      el.classList.toggle('current', i === idx);
+    });
+    currentScene = idx;
+  }
+
+  function totalElapsed() {
+    var sum = 0;
+    for (var i = 0; i < currentScene; i++) sum += SCENE_DURATIONS[i];
+    return sum + elapsedInScene;
+  }
+
+  function updateProgress() {
+    var pct = (totalElapsed() / TOTAL) * 100;
+    progressEl.style.width = pct + '%';
+  }
+
+  function tick(ts) {
+    if (!isPlaying) return;
+    if (lastTick === null) lastTick = ts;
+    var delta = (ts - lastTick) * speed;
+    lastTick = ts;
+    elapsedInScene += delta;
+
+    if (elapsedInScene >= SCENE_DURATIONS[currentScene]) {
+      elapsedInScene = 0;
+      if (currentScene < sceneEls.length - 1) {
+        showScene(currentScene + 1);
+      } else {
+        isPlaying = false;
+        playBtn.textContent = 'Replay';
+        progressEl.style.width = '100%';
+        return;
+      }
+    }
+    updateProgress();
+    rafId = requestAnimationFrame(tick);
+  }
+
+  function play() {
+    if (currentScene === sceneEls.length - 1 && elapsedInScene >= SCENE_DURATIONS[currentScene] - 50) {
+      // Replay from start
+      showScene(0);
+      elapsedInScene = 0;
+    }
+    isPlaying = true;
+    playBtn.textContent = 'Pause';
+    lastTick = null;
+    rafId = requestAnimationFrame(tick);
+  }
+
+  function pause() {
+    isPlaying = false;
+    playBtn.textContent = 'Play';
+    if (rafId) cancelAnimationFrame(rafId);
+  }
+
+  playBtn.addEventListener('click', function () {
+    if (isPlaying) pause(); else play();
+  });
+
+  prevBtn.addEventListener('click', function () {
+    pause();
+    if (currentScene > 0) {
+      showScene(currentScene - 1);
+      elapsedInScene = 0;
+      updateProgress();
+    }
+  });
+
+  nextBtn.addEventListener('click', function () {
+    pause();
+    if (currentScene < sceneEls.length - 1) {
+      showScene(currentScene + 1);
+      elapsedInScene = 0;
+      updateProgress();
+    }
+  });
+
+  replayBtn.addEventListener('click', function () {
+    pause();
+    showScene(0);
+    elapsedInScene = 0;
+    updateProgress();
+    play();
+  });
+
+  speedBtns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      speedBtns.forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      speed = parseFloat(btn.dataset.speed);
+    });
+  });
+
+  chapterEls.forEach(function (el) {
+    el.addEventListener('click', function () {
+      var idx = parseInt(el.dataset.scene, 10);
+      pause();
+      showScene(idx);
+      elapsedInScene = 0;
+      updateProgress();
+    });
+  });
+
+  // Init
+  showScene(0);
+  updateProgress();
+})();
+</script>
+</body>
+</html>
