@@ -8,13 +8,193 @@
       "url": "https://allinchamathjason.libsyn.com/trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nio",
       "youtube_url": "https://www.youtube.com/watch?v=jJRAvZNGUvI",
       "youtube_video_id": "jJRAvZNGUvI",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "The All-In Podcast discusses the Trump-Xi summit, its implications on US-China relations, and the potential impact on the US economy and midterms, with Salesforce CEO Marc Benioff sharing his insights. The conversation also covers the impact of AI on the SaaS industry, the future of AI, and the potential consequences of a strong El Nino event. The episode features discussions on various topics, including economic cooperation, trade deals, and the importance of philanthropy.",
+      "takeaways": [
+        {
+          "text": "Trump-Xi summit aims to establish constructive and stable ties between the US and China",
+          "timestamp_seconds": 77
+        },
+        {
+          "text": "Economic cooperation is key to avoiding conflict between the US and China",
+          "timestamp_seconds": 359
+        },
+        {
+          "text": "AI is not yet showing up in numbers, but it has the potential to significantly impact the SaaS industry",
+          "timestamp_seconds": 2017
+        },
+        {
+          "text": "The low end of the SaaS market is vulnerable, but the high end is safe",
+          "timestamp_seconds": 2160
+        },
+        {
+          "text": "El Nino event may lead to food shortages and economic crises",
+          "timestamp_seconds": 3997
+        },
+        {
+          "text": "Anthropic is taking a stand against multi-tiered SPVs",
+          "timestamp_seconds": 4301
+        },
+        {
+          "text": "Companies should go public to rationalize their equity structure",
+          "timestamp_seconds": 4372
+        },
+        {
+          "text": "Philanthropy is essential, and every company should give back",
+          "timestamp_seconds": 4451
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I'm here to support the country",
+          "speaker": "Marc Benioff",
+          "timestamp_seconds": 39
+        },
+        {
+          "text": "I'm not a Democrat or a Republican, I am an American",
+          "speaker": "Marc Benioff",
+          "timestamp_seconds": 52
+        },
+        {
+          "text": "This is not my first saspocalypse",
+          "speaker": "Marc Benioff",
+          "timestamp_seconds": 2035
+        },
+        {
+          "text": "I think the low end of the market is basically finished",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 2153
+        },
+        {
+          "text": "Multi-sensory models are the next big wave for AI",
+          "speaker": "Marc Benioff",
+          "timestamp_seconds": 3565
+        },
+        {
+          "text": "Apple has a clear path to becoming a top player in AI",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 3263
+        },
+        {
+          "text": "This El Nino event is scary",
+          "speaker": "David Friedberg",
+          "timestamp_seconds": 4055
+        },
+        {
+          "text": "Every company should do this",
+          "speaker": "Marc Benioff",
+          "timestamp_seconds": 4468
+        },
+        {
+          "text": "I think we should sell the chips",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 1527
+        },
+        {
+          "text": "I think that this is a nonsense issue",
+          "speaker": "Marc Benioff",
+          "timestamp_seconds": 1573
+        }
+      ],
+      "topics": [
+        "us-china-relations",
+        "trump-xi-summit",
+        "economic-cooperation",
+        "trade-deal",
+        "midterms",
+        "ai",
+        "saas",
+        "salesforce",
+        "openai",
+        "apple",
+        "chatgpt",
+        "siri",
+        "ios",
+        "macos",
+        "multi-sensory-models",
+        "el-nino",
+        "food-shortages",
+        "economic-crises",
+        "anthropic",
+        "spvs",
+        "philanthropy"
+      ],
+      "guests": [
+        "Marc Benioff"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The episode covers a wide range of topics, with both optimistic and cautious views expressed by the hosts and guests. The discussion on the Trump-Xi summit and the potential consequences of a strong El Nino event are more cautious, while the conversations on AI and its potential impact on the SaaS industry are more optimistic."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to the podcast episode"
+        },
+        {
+          "timestamp_seconds": 74,
+          "description": "Discussion on the Trump-Xi summit begins"
+        },
+        {
+          "timestamp_seconds": 597,
+          "description": "Marc Benioff is asked about selling software in China"
+        },
+        {
+          "timestamp_seconds": 1064,
+          "description": "Discussion on China's systematic issues with population and real estate"
+        },
+        {
+          "timestamp_seconds": 1213,
+          "description": "Marc Benioff is asked if the US should sell the latest chips to China"
+        },
+        {
+          "timestamp_seconds": 1568,
+          "description": "Mark is asked if the US should defend Taiwan if China sets up a blockade"
+        },
+        {
+          "timestamp_seconds": 1826,
+          "description": "Public service announcement about a dog named Scooter that needs a home"
+        },
+        {
+          "timestamp_seconds": 2035,
+          "description": "Marc Benioff discusses his experience with previous SaaS industry disruptions"
+        },
+        {
+          "timestamp_seconds": 2153,
+          "description": "Chamath Palihapitiya shares his thoughts on the vulnerability of the low end of the SaaS market"
+        },
+        {
+          "timestamp_seconds": 2847,
+          "description": "Breaking news: OpenAI is considering suing Apple over their ChatGPT partnership"
+        },
+        {
+          "timestamp_seconds": 3030,
+          "description": "Discussion on the changing landscape of coding and AI"
+        },
+        {
+          "timestamp_seconds": 3144,
+          "description": "Question about the strained relationship between OpenAI and Apple"
+        },
+        {
+          "timestamp_seconds": 3418,
+          "description": "Mention of Thinking Machines' new real-time model"
+        },
+        {
+          "timestamp_seconds": 3745,
+          "description": "Introduction to Science Corner topic on El Niño season"
+        },
+        {
+          "timestamp_seconds": 3997,
+          "description": "Discussion on El Nino event starts"
+        },
+        {
+          "timestamp_seconds": 4301,
+          "description": "Anthropic's stance on SPVs is discussed"
+        },
+        {
+          "timestamp_seconds": 4491,
+          "description": "Tribute to Susan Wojcicki begins"
+        }
+      ]
     },
     {
       "id": "2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire",
@@ -24,13 +204,164 @@
       "url": "https://allinchamathjason.libsyn.com/charles-chase-koch-on-how-they-quietly-built-a-150b-empire",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Charles and Chase Koch discuss their experiences building and managing Koch Industries, a $150B empire, and share insights on principle-based management, innovation, and cultural change. They also talk about their approach to talent acquisition, company culture, and leadership, as well as their views on the current state of America and the role of capitalism. The conversation covers topics such as education reform, social change, and the importance of removing barriers to allow people to reach their full potential.",
+      "takeaways": [
+        {
+          "text": "Koch Industries focuses on creating value for customers and empowering employees",
+          "timestamp_seconds": 493
+        },
+        {
+          "text": "The company operates on the principle of being capability-bounded, not industry-bounded",
+          "timestamp_seconds": 615
+        },
+        {
+          "text": "Failures can be valuable learning experiences for businesses",
+          "timestamp_seconds": 1290
+        },
+        {
+          "text": "Principle-based management is key to driving cultural change",
+          "timestamp_seconds": 1491
+        },
+        {
+          "text": "Empowering employees and encouraging experimentation can lead to innovation",
+          "timestamp_seconds": 1693
+        },
+        {
+          "text": "Koch Industries prioritizes values and skills over credentials when hiring",
+          "timestamp_seconds": 2572
+        },
+        {
+          "text": "Understanding comparative advantage is crucial for personal and professional growth",
+          "timestamp_seconds": 3574
+        },
+        {
+          "text": "Capitalism can be a powerful tool for social change",
+          "timestamp_seconds": 5140
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I sucked as an engineer",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 327
+        },
+        {
+          "text": "If you're not failing at everything, you're not doing anything new",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 709
+        },
+        {
+          "text": "God, don't punish me anymore",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 1307
+        },
+        {
+          "text": "We're an experimental discovery group",
+          "speaker": "Chase Koch",
+          "timestamp_seconds": 1862
+        },
+        {
+          "text": "Values first, skills second, credentials last",
+          "speaker": "Chase Koch",
+          "timestamp_seconds": 2572
+        },
+        {
+          "text": "It takes a hell of a lot longer than you think to change the culture",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 2520
+        },
+        {
+          "text": "Everyone has capability",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 3777
+        },
+        {
+          "text": "If God is just, I despair for the future of our country",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 4773
+        },
+        {
+          "text": "I've learned more in the last 18 months than I probably have the last 18 years",
+          "speaker": "Chase Koch",
+          "timestamp_seconds": 5482
+        },
+        {
+          "text": "I want our country to more fully live up to the promise in the Declaration of Independence",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 5696
+        }
+      ],
+      "topics": [
+        "koch-industries",
+        "business-evolution",
+        "principle-based-management",
+        "capability-bounded",
+        "innovation",
+        "failures",
+        "acquisitions",
+        "cultural-change",
+        "experimentation",
+        "leadership",
+        "company-culture",
+        "talent-acquisition",
+        "private-companies",
+        "owner-operated-companies",
+        "education-reform",
+        "social-change",
+        "personal-growth",
+        "comparative-advantage",
+        "capitalism",
+        "socialism",
+        "ai",
+        "economic-mobility",
+        "book-writing"
+      ],
+      "guests": [
+        "Charles Koch",
+        "Chase Koch"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The overall sentiment of the episode is optimistic, as Charles and Chase Koch share their experiences and insights on building and managing a successful business, and discuss the potential for capitalism to drive social change. However, they also express concerns about the current state of America and the need for reform."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "David Friedberg welcomes Charles and Chase Koch"
+        },
+        {
+          "timestamp_seconds": 168,
+          "description": "Charles Koch discusses the early days of the business"
+        },
+        {
+          "timestamp_seconds": 1282,
+          "description": "Charles Koch shares a story about a reckless trade that could have bankrupted the company"
+        },
+        {
+          "timestamp_seconds": 2020,
+          "description": "Charles Koch discusses the acquisition of Georgia-Pacific"
+        },
+        {
+          "timestamp_seconds": 2443,
+          "description": "Discussion about Minnesota"
+        },
+        {
+          "timestamp_seconds": 4133,
+          "description": "Introduction to Stand Together and its mission"
+        },
+        {
+          "timestamp_seconds": 4731,
+          "description": "Discussion on the rise of socialism in America"
+        },
+        {
+          "timestamp_seconds": 5140,
+          "description": "Debate on whether capitalism works long-term"
+        },
+        {
+          "timestamp_seconds": 5457,
+          "description": "Chase Koch shares his experience writing the book with his father"
+        }
+      ]
     },
     {
       "id": "2026-05-10-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-i",
@@ -40,13 +371,172 @@
       "url": "https://allinchamathjason.libsyn.com/spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back",
       "youtube_url": "https://www.youtube.com/watch?v=GCpjy3TC8Pg",
       "youtube_video_id": "GCpjy3TC8Pg",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": []
+      "summary": "Spencer Pratt discusses his plans to fix Los Angeles, including addressing homelessness, corruption, and crime, and shares his vision for the city's future as a potential mayoral candidate. He emphasizes the need for accountability, transparency, and safety in the city's systems. Pratt also talks about his personal experiences, including watching his house burn down in the Palisades Fire and his decision to run for mayor.",
+      "takeaways": [
+        {
+          "text": "Spencer Pratt's house burned down in the Palisades Fire",
+          "timestamp_seconds": 592
+        },
+        {
+          "text": "NGOs are corrupt and steal tax money meant for homeless people",
+          "timestamp_seconds": 1408
+        },
+        {
+          "text": "The city's approach to homelessness is ineffective and wasteful",
+          "timestamp_seconds": 1512
+        },
+        {
+          "text": "Enforcing laws is key to fixing Los Angeles",
+          "timestamp_seconds": 2253
+        },
+        {
+          "text": "Auditing city spending is necessary to track where money is going",
+          "timestamp_seconds": 2545
+        },
+        {
+          "text": "Streamline small business process",
+          "timestamp_seconds": 3713
+        },
+        {
+          "text": "Address corruption in LA",
+          "timestamp_seconds": 3769
+        },
+        {
+          "text": "Spencer Pratt plans to work with unions to make the city safer and more efficient",
+          "timestamp_seconds": 2826
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I always have the truth",
+          "speaker": "Spencer Pratt",
+          "timestamp_seconds": 163
+        },
+        {
+          "text": "I'm the guy who's on the other side of the problem",
+          "speaker": "Spencer Pratt",
+          "timestamp_seconds": 1130
+        },
+        {
+          "text": "Public virtue cannot exist in a nation without private virtue",
+          "speaker": "Spencer Pratt",
+          "timestamp_seconds": 1084
+        },
+        {
+          "text": "No more nakedness",
+          "speaker": "Spencer Pratt",
+          "timestamp_seconds": 2253
+        },
+        {
+          "text": "No more drug use",
+          "speaker": "Spencer Pratt",
+          "timestamp_seconds": 2253
+        },
+        {
+          "text": "We need to go back to basics",
+          "speaker": "Spencer Pratt",
+          "timestamp_seconds": 2608
+        },
+        {
+          "text": "America's awesome",
+          "speaker": "Spencer Pratt",
+          "timestamp_seconds": 2609
+        },
+        {
+          "text": "I will be the guy that's fighting to get safety back",
+          "speaker": "Spencer Pratt",
+          "timestamp_seconds": 2805
+        },
+        {
+          "text": "I'm going to help you produce these freaking movies",
+          "speaker": "Spencer Pratt",
+          "timestamp_seconds": 3097
+        },
+        {
+          "text": "We need to get creative with LA",
+          "speaker": "Spencer Pratt",
+          "timestamp_seconds": 3386
+        }
+      ],
+      "topics": [
+        "palisades-fire",
+        "los-angeles",
+        "homelessness",
+        "corruption",
+        "ngo-corruption",
+        "los-angeles-politics",
+        "mayoral-campaign",
+        "crime",
+        "education",
+        "government-spending",
+        "accountability",
+        "safety",
+        "hollywood",
+        "transportation",
+        "regulation",
+        "construction",
+        "ai",
+        "small-business",
+        "development",
+        "socialism",
+        "mayoral-race"
+      ],
+      "guests": [
+        "Spencer Pratt",
+        "Victor Coleman",
+        "Mayor Lurie",
+        "Peter Chernin",
+        "David Foster",
+        "David Ellison",
+        "Ted Serranos",
+        "Carlos"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The overall sentiment of the episode is optimistic, as Spencer Pratt shares his vision for a better Los Angeles and his plans to address the city's problems. However, the discussion also touches on the city's current issues, such as corruption and homelessness, which adds a sense of caution to the overall tone."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 592,
+          "description": "Spencer Pratt watches his house burn down on his phone"
+        },
+        {
+          "timestamp_seconds": 436,
+          "description": "The fire department tells Spencer Pratt they have no assets available to respond to the fire"
+        },
+        {
+          "timestamp_seconds": 966,
+          "description": "Spencer Pratt discusses his decision to run for mayor"
+        },
+        {
+          "timestamp_seconds": 1283,
+          "description": "Spencer Pratt explains the corruption of NGOs"
+        },
+        {
+          "timestamp_seconds": 1640,
+          "description": "Spencer Pratt mentions that Justice Department sources say city officials will go down for corruption"
+        },
+        {
+          "timestamp_seconds": 1696,
+          "description": "Spencer Pratt criticizes Karen Bass's handling of the fire and her lead in the polls"
+        },
+        {
+          "timestamp_seconds": 2145,
+          "description": "Spencer Pratt shares a personal story about a lady cleaning her private parts in front of kids"
+        },
+        {
+          "timestamp_seconds": 2177,
+          "description": "Spencer Pratt mentions Mayor Lurie's success in San Francisco"
+        },
+        {
+          "timestamp_seconds": 2203,
+          "description": "Spencer Pratt talks about his meeting with Victor Coleman"
+        },
+        {
+          "timestamp_seconds": 2331,
+          "description": "Spencer Pratt is asked about his plan to execute his vision as mayor"
+        }
+      ]
     },
     {
       "id": "2026-05-08-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom",
@@ -31310,7 +31800,7 @@
       ],
       [
         "openai",
-        24
+        25
       ],
       [
         "venture-capital",
@@ -31333,11 +31823,19 @@
         18
       ],
       [
+        "ai",
+        18
+      ],
+      [
+        "us-china-relations",
+        17
+      ],
+      [
         "trump-administration",
         17
       ],
       [
-        "us-china-relations",
+        "innovation",
         16
       ],
       [
@@ -31354,14 +31852,6 @@
       ],
       [
         "free-speech",
-        15
-      ],
-      [
-        "innovation",
-        15
-      ],
-      [
-        "ai",
         15
       ],
       [
@@ -31382,7 +31872,7 @@
       ],
       [
         "regulation",
-        11
+        12
       ],
       [
         "social-media",
@@ -31629,7 +32119,8 @@
         "2025-09-24",
         "2025-10-17",
         "2025-11-04",
-        "2026-04-06"
+        "2026-04-06",
+        "2026-05-15"
       ],
       "cold-war": [
         "2020-05-21"
@@ -31741,7 +32232,8 @@
         "2025-04-11",
         "2025-10-14",
         "2026-01-23",
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-12"
       ],
       "global-dominance": [
         "2020-07-11"
@@ -31785,7 +32277,8 @@
         "2025-07-23",
         "2025-10-01",
         "2026-01-23",
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-10"
       ],
       "m-and-a": [
         "2020-07-31"
@@ -31912,7 +32405,8 @@
       ],
       "company-culture": [
         "2020-10-03",
-        "2022-04-23"
+        "2022-04-23",
+        "2026-05-12"
       ],
       "censorship": [
         "2020-10-16",
@@ -32228,7 +32722,8 @@
         "2023-10-13",
         "2023-12-08",
         "2025-09-30",
-        "2026-03-07"
+        "2026-03-07",
+        "2026-05-12"
       ],
       "governance": [
         "2021-01-30",
@@ -32574,14 +33069,16 @@
         "2021-05-01",
         "2021-06-25",
         "2025-10-02",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-05-10"
       ],
       "homelessness": [
         "2021-05-01",
         "2021-06-25",
         "2025-06-03",
         "2025-09-30",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-05-10"
       ],
       "ubi-experiment": [
         "2021-05-13"
@@ -33188,7 +33685,8 @@
         "2021-12-04"
       ],
       "education": [
-        "2021-12-04"
+        "2021-12-04",
+        "2026-05-10"
       ],
       "indian-americans-in-tech": [
         "2021-12-04"
@@ -33201,7 +33699,8 @@
         "2023-05-05",
         "2023-05-26",
         "2024-10-15",
-        "2025-09-05"
+        "2025-09-05",
+        "2026-05-10"
       ],
       "macro-outlook": [
         "2021-12-11",
@@ -33606,7 +34105,8 @@
         "2022-04-09"
       ],
       "food-shortages": [
-        "2022-04-09"
+        "2022-04-09",
+        "2026-05-15"
       ],
       "us-objectives": [
         "2022-04-09"
@@ -33902,7 +34402,8 @@
         "2022-05-29"
       ],
       "midterms": [
-        "2022-05-29"
+        "2022-05-29",
+        "2026-05-15"
       ],
       "us-housing-market": [
         "2022-05-29"
@@ -33979,7 +34480,8 @@
       ],
       "education-reform": [
         "2022-06-02",
-        "2026-01-08"
+        "2026-01-08",
+        "2026-05-12"
       ],
       "school-choice": [
         "2022-06-02"
@@ -34014,7 +34516,8 @@
         "2022-12-03",
         "2023-02-24",
         "2023-12-08",
-        "2025-07-04"
+        "2025-07-04",
+        "2026-05-15"
       ],
       "seed-valuations": [
         "2022-06-07"
@@ -34027,7 +34530,8 @@
         "2023-07-21"
       ],
       "private-companies": [
-        "2022-06-23"
+        "2022-06-23",
+        "2026-05-12"
       ],
       "collaboration": [
         "2022-06-23",
@@ -34597,7 +35101,8 @@
         "2026-03-27",
         "2026-04-03",
         "2026-04-17",
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-15"
       ],
       "vc-hype-cycle": [
         "2023-01-13"
@@ -34830,7 +35335,8 @@
       "chatgpt": [
         "2023-03-31",
         "2025-07-11",
-        "2025-12-06"
+        "2025-12-06",
+        "2026-05-15"
       ],
       "joe-manchin": [
         "2023-03-31"
@@ -34972,7 +35478,8 @@
         "2024-06-07",
         "2024-06-14",
         "2025-08-09",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-05-15"
       ],
       "george-soros": [
         "2023-05-19"
@@ -35013,7 +35520,10 @@
         "2026-01-13",
         "2026-01-25",
         "2026-04-17",
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-10",
+        "2026-05-12",
+        "2026-05-15"
       ],
       "usd-dominance": [
         "2023-06-02"
@@ -35820,7 +36330,8 @@
         "2024-05-31"
       ],
       "salesforce": [
-        "2024-05-31"
+        "2024-05-31",
+        "2026-05-15"
       ],
       "ai-correction": [
         "2024-05-31"
@@ -36121,7 +36632,8 @@
         "2024-10-18"
       ],
       "acquisitions": [
-        "2024-10-18"
+        "2024-10-18",
+        "2026-05-12"
       ],
       "election-prediction-markets": [
         "2024-10-18"
@@ -36573,7 +37085,8 @@
         "2026-01-13"
       ],
       "hollywood": [
-        "2025-04-19"
+        "2025-04-19",
+        "2026-05-10"
       ],
       "mitochondrial-therapy": [
         "2025-04-19",
@@ -36672,7 +37185,8 @@
       ],
       "talent-acquisition": [
         "2025-05-21",
-        "2025-07-23"
+        "2025-07-23",
+        "2026-05-12"
       ],
       "civil-service": [
         "2025-05-21"
@@ -36802,7 +37316,8 @@
         "2025-10-14"
       ],
       "personal-growth": [
-        "2025-06-19"
+        "2025-06-19",
+        "2026-05-12"
       ],
       "biochemistry": [
         "2025-06-19"
@@ -36869,7 +37384,9 @@
         "2025-10-28",
         "2025-11-07",
         "2025-12-06",
-        "2026-01-13"
+        "2026-01-13",
+        "2026-05-10",
+        "2026-05-12"
       ],
       "nyc-mayor": [
         "2025-06-28"
@@ -37163,7 +37680,8 @@
         "2025-09-15"
       ],
       "accountability": [
-        "2025-09-15"
+        "2025-09-15",
+        "2026-05-10"
       ],
       "private-shares": [
         "2025-09-15"
@@ -37215,7 +37733,8 @@
         "2025-09-17"
       ],
       "transportation": [
-        "2025-09-17"
+        "2025-09-17",
+        "2026-05-10"
       ],
       "traditional-finance": [
         "2025-09-18"
@@ -38072,7 +38591,8 @@
         "2026-03-27",
         "2026-04-10",
         "2026-04-17",
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-15"
       ],
       "us-defense-supply-chain": [
         "2026-03-06"
@@ -38424,6 +38944,111 @@
       ],
       "us-competitiveness": [
         "2026-05-08"
+      ],
+      "palisades-fire": [
+        "2026-05-10"
+      ],
+      "los-angeles": [
+        "2026-05-10"
+      ],
+      "corruption": [
+        "2026-05-10"
+      ],
+      "ngo-corruption": [
+        "2026-05-10"
+      ],
+      "los-angeles-politics": [
+        "2026-05-10"
+      ],
+      "mayoral-campaign": [
+        "2026-05-10"
+      ],
+      "safety": [
+        "2026-05-10"
+      ],
+      "construction": [
+        "2026-05-10"
+      ],
+      "small-business": [
+        "2026-05-10"
+      ],
+      "development": [
+        "2026-05-10"
+      ],
+      "mayoral-race": [
+        "2026-05-10"
+      ],
+      "koch-industries": [
+        "2026-05-12"
+      ],
+      "business-evolution": [
+        "2026-05-12"
+      ],
+      "principle-based-management": [
+        "2026-05-12"
+      ],
+      "capability-bounded": [
+        "2026-05-12"
+      ],
+      "failures": [
+        "2026-05-12"
+      ],
+      "cultural-change": [
+        "2026-05-12"
+      ],
+      "experimentation": [
+        "2026-05-12"
+      ],
+      "owner-operated-companies": [
+        "2026-05-12"
+      ],
+      "social-change": [
+        "2026-05-12"
+      ],
+      "comparative-advantage": [
+        "2026-05-12"
+      ],
+      "capitalism": [
+        "2026-05-12"
+      ],
+      "economic-mobility": [
+        "2026-05-12"
+      ],
+      "book-writing": [
+        "2026-05-12"
+      ],
+      "trump-xi-summit": [
+        "2026-05-15"
+      ],
+      "economic-cooperation": [
+        "2026-05-15"
+      ],
+      "trade-deal": [
+        "2026-05-15"
+      ],
+      "siri": [
+        "2026-05-15"
+      ],
+      "ios": [
+        "2026-05-15"
+      ],
+      "macos": [
+        "2026-05-15"
+      ],
+      "multi-sensory-models": [
+        "2026-05-15"
+      ],
+      "el-nino": [
+        "2026-05-15"
+      ],
+      "economic-crises": [
+        "2026-05-15"
+      ],
+      "spvs": [
+        "2026-05-15"
+      ],
+      "philanthropy": [
+        "2026-05-15"
       ]
     },
     "top_guests": [
@@ -40012,10 +40637,22 @@
       {
         "date": "2026-05-08",
         "overall": "mixed"
+      },
+      {
+        "date": "2026-05-10",
+        "overall": "optimistic"
+      },
+      {
+        "date": "2026-05-12",
+        "overall": "optimistic"
+      },
+      {
+        "date": "2026-05-15",
+        "overall": "mixed"
       }
     ],
     "episode_count": 376
   },
-  "brief_markdown": "# Weekly Brief — 2026-05-16\n\n**Latest episode:** Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño — 2026-05-15\n\n## What this episode covered\n_No summary available_\n\n## Top takeaways\n\n## Notable quotes\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` — mentioned in 41 episodes\n- `economy` — mentioned in 40 episodes\n- `politics` — mentioned in 38 episodes\n- `us-politics` — mentioned in 28 episodes\n- `openai` — mentioned in 24 episodes\n- `venture-capital` — mentioned in 22 episodes\n- `big-tech` — mentioned in 22 episodes\n- `inflation` — mentioned in 21 episodes\n- `elon-musk` — mentioned in 19 episodes\n- `covid-19` — mentioned in 18 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (6 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-04-10: optimistic\n- 2026-04-17: mixed\n- 2026-04-24: cautious\n- 2026-04-29: cautious\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n\n---\n_Generated 2026-05-16 from 376 episodes_",
-  "generated_at": "2026-05-16T04:31:58.392404+00:00"
+  "brief_markdown": "# Weekly Brief — 2026-05-16\n\n**Latest episode:** Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño — 2026-05-15\n\n## What this episode covered\nThe All-In Podcast discusses the Trump-Xi summit, its implications on US-China relations, and the potential impact on the US economy and midterms, with Salesforce CEO Marc Benioff sharing his insights. The conversation also covers the impact of AI on the SaaS industry, the future of AI, and the potential consequences of a strong El Nino event. The episode features discussions on various topics, including economic cooperation, trade deals, and the importance of philanthropy.\n\n## Top takeaways\n- Trump-Xi summit aims to establish constructive and stable ties between the US and China [▶ 1:17](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=77s)\n- Economic cooperation is key to avoiding conflict between the US and China [▶ 5:59](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=359s)\n- AI is not yet showing up in numbers, but it has the potential to significantly impact the SaaS industry [▶ 33:37](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=2017s)\n- The low end of the SaaS market is vulnerable, but the high end is safe [▶ 36:00](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=2160s)\n- El Nino event may lead to food shortages and economic crises [▶ 1:06:37](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=3997s)\n- Anthropic is taking a stand against multi-tiered SPVs [▶ 1:11:41](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=4301s)\n- Companies should go public to rationalize their equity structure [▶ 1:12:52](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=4372s)\n- Philanthropy is essential, and every company should give back [▶ 1:14:11](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=4451s)\n\n## Notable quotes\n> \"I'm here to support the country\" — Marc Benioff [▶ 0:39](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=39s)\n> \"I'm not a Democrat or a Republican, I am an American\" — Marc Benioff [▶ 0:52](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=52s)\n> \"This is not my first saspocalypse\" — Marc Benioff [▶ 33:55](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=2035s)\n> \"I think the low end of the market is basically finished\" — Chamath Palihapitiya [▶ 35:53](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=2153s)\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` — mentioned in 41 episodes\n- `economy` — mentioned in 40 episodes\n- `politics` — mentioned in 38 episodes\n- `us-politics` — mentioned in 28 episodes\n- `openai` — mentioned in 25 episodes\n- `venture-capital` — mentioned in 22 episodes\n- `big-tech` — mentioned in 22 episodes\n- `inflation` — mentioned in 21 episodes\n- `elon-musk` — mentioned in 19 episodes\n- `covid-19` — mentioned in 18 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (6 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-04-29: cautious\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n\n---\n_Generated 2026-05-16 from 376 episodes_",
+  "generated_at": "2026-05-16T08:09:08.012759+00:00"
 }
