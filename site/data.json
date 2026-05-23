@@ -1,6 +1,166 @@
 {
   "episodes": [
     {
+      "id": "2026-05-22-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-b",
+      "number": null,
+      "title": "SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?",
+      "date": "2026-05-22",
+      "url": "https://allinchamathjason.libsyn.com/spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In podcast discusses various topics including Andre Karpathy joining Anthropic, NVIDIA's earnings, SpaceX's S1 filing, and the US-China relationship. The hosts also touch on the AI PR crisis, foreign interests, and the potential of recursive self-improvement in AI. The conversation covers the complexities of the AI industry, the role of foreign interests, and the need for a balanced approach to AI development.",
+      "takeaways": [
+        {
+          "text": "Andre Karpathy's experience and expertise can help Anthropic achieve significant advancements in AI",
+          "timestamp_seconds": 63
+        },
+        {
+          "text": "The AI PR crisis is fueled by concerns about power imbalances and the potential for AI to benefit only a small group of people",
+          "timestamp_seconds": 1150
+        },
+        {
+          "text": "SpaceX's valuation could be justified by its potential for growth in the internet infrastructure and AI businesses",
+          "timestamp_seconds": 3605
+        },
+        {
+          "text": "NVIDIA's earnings are mind-boggling, with $81.6 billion in revenue and 75% gross margins",
+          "timestamp_seconds": 4285
+        },
+        {
+          "text": "The AI market is cross-sectionally inefficient, with valuations of memory makers, NVIDIA, and other accelerator companies being inconsistent",
+          "timestamp_seconds": 4521
+        },
+        {
+          "text": "The US-China relationship is complex, and the recent meeting between the two countries may have had some behind-the-scenes agreements",
+          "timestamp_seconds": 5729
+        },
+        {
+          "text": "Recursive self-improvement and continual learning are crucial for the future of AI, potentially leading to an order of magnitude improvement on a yearly basis",
+          "timestamp_seconds": 231
+        },
+        {
+          "text": "The focus should shift from model improvements to end-user achievements and the positive, optimistic possibilities that AI introduces",
+          "timestamp_seconds": 608
+        }
+      ],
+      "quotes": [
+        {
+          "text": "He's one of these really curious people that can be sent off, and they'll just go and invent new things",
+          "speaker": "Gavin Baker",
+          "timestamp_seconds": 228
+        },
+        {
+          "text": "I think that you start to, you could potentially live out this idea that there's an order of magnitude improvement on a yearly basis",
+          "speaker": "Gavin Baker",
+          "timestamp_seconds": 251
+        },
+        {
+          "text": "There's something deeply disturbing for the average person about this",
+          "speaker": "David Friedberg",
+          "timestamp_seconds": 1233
+        },
+        {
+          "text": "Crime is a choice",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 2071
+        },
+        {
+          "text": "We're listening too much to the inventors of AI",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 2464
+        },
+        {
+          "text": "If you don't fail, you're not learning",
+          "speaker": "Gavin Baker",
+          "timestamp_seconds": 4123
+        },
+        {
+          "text": "The AI market is cross-sectionally inefficient",
+          "speaker": "Gavin Baker",
+          "timestamp_seconds": 4521
+        },
+        {
+          "text": "I have a few companies that I really believe in",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 5201
+        },
+        {
+          "text": "Rates going up is very concerning",
+          "speaker": "Gavin Baker",
+          "timestamp_seconds": 5289
+        }
+      ],
+      "topics": [
+        "ai",
+        "anthropic",
+        "nvidia",
+        "space-x",
+        "recursive-self-improvement",
+        "continual-learning",
+        "ai-pr-crisis",
+        "foreign-interests",
+        "regulations",
+        "kyc",
+        "ai-development",
+        "crime",
+        "layoffs",
+        "big-tech",
+        "elon-musk",
+        "orbital-compute",
+        "internet-infrastructure",
+        "civilizational-continuity",
+        "us-china-relationship",
+        "geopolitics",
+        "energy-self-sufficiency"
+      ],
+      "guests": [
+        "Gavin Baker",
+        "Andrej Karpathy"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The hosts discuss various topics with a mix of optimism and caution, highlighting the complexities and potential risks of the AI industry, while also acknowledging its potential for growth and improvement."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to the podcast episode"
+        },
+        {
+          "timestamp_seconds": 31,
+          "description": "Discussion on Andre Karpathy joining Anthropic"
+        },
+        {
+          "timestamp_seconds": 1045,
+          "description": "The conversation starts with a story about a dad who changed his daughter's life with a cure"
+        },
+        {
+          "timestamp_seconds": 127,
+          "description": "Gavin Baker shares his take on Anthropic's recent success"
+        },
+        {
+          "timestamp_seconds": 2140,
+          "description": "The hosts discuss their recent visit to Las Vegas and the city's approach to crime prevention"
+        },
+        {
+          "timestamp_seconds": 3051,
+          "description": "Discussion on Composer 2 and its potential impact on the AI industry"
+        },
+        {
+          "timestamp_seconds": 4123,
+          "description": "Gavin Baker discusses the importance of learning from failures"
+        },
+        {
+          "timestamp_seconds": 5152,
+          "description": "Chamath Palihapitiya discusses his investment strategy"
+        },
+        {
+          "timestamp_seconds": 5729,
+          "description": "The hosts speculate about the US-China relationship"
+        }
+      ]
+    },
+    {
       "id": "2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory",
       "number": null,
       "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
@@ -31803,11 +31963,11 @@
         25
       ],
       [
-        "venture-capital",
-        22
+        "big-tech",
+        23
       ],
       [
-        "big-tech",
+        "venture-capital",
         22
       ],
       [
@@ -31816,14 +31976,14 @@
       ],
       [
         "elon-musk",
+        20
+      ],
+      [
+        "ai",
         19
       ],
       [
         "covid-19",
-        18
-      ],
-      [
-        "ai",
         18
       ],
       [
@@ -31835,19 +31995,19 @@
         17
       ],
       [
+        "geopolitics",
+        17
+      ],
+      [
+        "nvidia",
+        17
+      ],
+      [
         "innovation",
         16
       ],
       [
         "tech-industry",
-        16
-      ],
-      [
-        "geopolitics",
-        16
-      ],
-      [
-        "nvidia",
         16
       ],
       [
@@ -32260,7 +32420,8 @@
         "2023-04-28",
         "2025-08-20",
         "2026-01-13",
-        "2026-05-01"
+        "2026-05-01",
+        "2026-05-22"
       ],
       "antitrust": [
         "2020-07-31",
@@ -33070,7 +33231,8 @@
         "2021-06-25",
         "2025-10-02",
         "2026-04-29",
-        "2026-05-10"
+        "2026-05-10",
+        "2026-05-22"
       ],
       "homelessness": [
         "2021-05-01",
@@ -33105,7 +33267,8 @@
         "2025-10-14",
         "2025-10-24",
         "2026-05-01",
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-22"
       ],
       "snl-appearance": [
         "2021-05-13"
@@ -33709,7 +33872,8 @@
         "2022-10-29"
       ],
       "layoffs": [
-        "2021-12-11"
+        "2021-12-11",
+        "2026-05-22"
       ],
       "founders": [
         "2021-12-11"
@@ -33795,7 +33959,8 @@
         "2024-01-06",
         "2025-06-13",
         "2026-03-17",
-        "2026-04-03"
+        "2026-04-03",
+        "2026-05-22"
       ],
       "chipmaking": [
         "2021-12-29"
@@ -34409,7 +34574,8 @@
         "2022-05-29"
       ],
       "regulations": [
-        "2022-05-29"
+        "2022-05-29",
+        "2026-05-22"
       ],
       "divvy-homes": [
         "2022-05-29"
@@ -35503,7 +35669,8 @@
         "2025-09-30",
         "2025-11-22",
         "2025-12-06",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-05-22"
       ],
       "ai": [
         "2023-05-26",
@@ -35523,7 +35690,8 @@
         "2026-05-08",
         "2026-05-10",
         "2026-05-12",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-22"
       ],
       "usd-dominance": [
         "2023-06-02"
@@ -36857,7 +37025,8 @@
         "2025-08-01",
         "2025-09-24",
         "2025-11-04",
-        "2026-01-23"
+        "2026-01-23",
+        "2026-05-22"
       ],
       "self-driving-cars": [
         "2025-01-31",
@@ -37653,7 +37822,8 @@
       ],
       "space-x": [
         "2025-09-10",
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-22"
       ],
       "creative-tools": [
         "2025-09-12"
@@ -38027,7 +38197,8 @@
       ],
       "ai-pr-crisis": [
         "2025-10-17",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-05-22"
       ],
       "china-export-controls": [
         "2025-10-17"
@@ -38592,7 +38763,8 @@
         "2026-04-10",
         "2026-04-17",
         "2026-05-08",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-22"
       ],
       "us-defense-supply-chain": [
         "2026-03-06"
@@ -39049,6 +39221,33 @@
       ],
       "philanthropy": [
         "2026-05-15"
+      ],
+      "recursive-self-improvement": [
+        "2026-05-22"
+      ],
+      "continual-learning": [
+        "2026-05-22"
+      ],
+      "foreign-interests": [
+        "2026-05-22"
+      ],
+      "kyc": [
+        "2026-05-22"
+      ],
+      "orbital-compute": [
+        "2026-05-22"
+      ],
+      "internet-infrastructure": [
+        "2026-05-22"
+      ],
+      "civilizational-continuity": [
+        "2026-05-22"
+      ],
+      "us-china-relationship": [
+        "2026-05-22"
+      ],
+      "energy-self-sufficiency": [
+        "2026-05-22"
       ]
     },
     "top_guests": [
@@ -39058,7 +39257,7 @@
       ],
       [
         "Gavin Baker",
-        6
+        7
       ],
       [
         "Elon Musk",
@@ -40649,10 +40848,14 @@
       {
         "date": "2026-05-15",
         "overall": "mixed"
+      },
+      {
+        "date": "2026-05-22",
+        "overall": "mixed"
       }
     ],
-    "episode_count": 376
+    "episode_count": 377
   },
-  "brief_markdown": "# Weekly Brief — 2026-05-16\n\n**Latest episode:** Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño — 2026-05-15\n\n## What this episode covered\nThe All-In Podcast discusses the Trump-Xi summit, its implications on US-China relations, and the potential impact on the US economy and midterms, with Salesforce CEO Marc Benioff sharing his insights. The conversation also covers the impact of AI on the SaaS industry, the future of AI, and the potential consequences of a strong El Nino event. The episode features discussions on various topics, including economic cooperation, trade deals, and the importance of philanthropy.\n\n## Top takeaways\n- Trump-Xi summit aims to establish constructive and stable ties between the US and China [▶ 1:17](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=77s)\n- Economic cooperation is key to avoiding conflict between the US and China [▶ 5:59](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=359s)\n- AI is not yet showing up in numbers, but it has the potential to significantly impact the SaaS industry [▶ 33:37](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=2017s)\n- The low end of the SaaS market is vulnerable, but the high end is safe [▶ 36:00](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=2160s)\n- El Nino event may lead to food shortages and economic crises [▶ 1:06:37](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=3997s)\n- Anthropic is taking a stand against multi-tiered SPVs [▶ 1:11:41](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=4301s)\n- Companies should go public to rationalize their equity structure [▶ 1:12:52](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=4372s)\n- Philanthropy is essential, and every company should give back [▶ 1:14:11](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=4451s)\n\n## Notable quotes\n> \"I'm here to support the country\" — Marc Benioff [▶ 0:39](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=39s)\n> \"I'm not a Democrat or a Republican, I am an American\" — Marc Benioff [▶ 0:52](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=52s)\n> \"This is not my first saspocalypse\" — Marc Benioff [▶ 33:55](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=2035s)\n> \"I think the low end of the market is basically finished\" — Chamath Palihapitiya [▶ 35:53](https://www.youtube.com/watch?v=jJRAvZNGUvI&t=2153s)\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` — mentioned in 41 episodes\n- `economy` — mentioned in 40 episodes\n- `politics` — mentioned in 38 episodes\n- `us-politics` — mentioned in 28 episodes\n- `openai` — mentioned in 25 episodes\n- `venture-capital` — mentioned in 22 episodes\n- `big-tech` — mentioned in 22 episodes\n- `inflation` — mentioned in 21 episodes\n- `elon-musk` — mentioned in 19 episodes\n- `covid-19` — mentioned in 18 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (6 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-04-29: cautious\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n\n---\n_Generated 2026-05-16 from 376 episodes_",
-  "generated_at": "2026-05-16T08:09:08.012759+00:00"
+  "brief_markdown": "# Weekly Brief — 2026-05-23\n\n**Latest episode:** SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis? — 2026-05-22\n\n## What this episode covered\nThe All-In podcast discusses various topics including Andre Karpathy joining Anthropic, NVIDIA's earnings, SpaceX's S1 filing, and the US-China relationship. The hosts also touch on the AI PR crisis, foreign interests, and the potential of recursive self-improvement in AI. The conversation covers the complexities of the AI industry, the role of foreign interests, and the need for a balanced approach to AI development.\n\n## Top takeaways\n- Andre Karpathy's experience and expertise can help Anthropic achieve significant advancements in AI\n- The AI PR crisis is fueled by concerns about power imbalances and the potential for AI to benefit only a small group of people\n- SpaceX's valuation could be justified by its potential for growth in the internet infrastructure and AI businesses\n- NVIDIA's earnings are mind-boggling, with $81.6 billion in revenue and 75% gross margins\n- The AI market is cross-sectionally inefficient, with valuations of memory makers, NVIDIA, and other accelerator companies being inconsistent\n- The US-China relationship is complex, and the recent meeting between the two countries may have had some behind-the-scenes agreements\n- Recursive self-improvement and continual learning are crucial for the future of AI, potentially leading to an order of magnitude improvement on a yearly basis\n- The focus should shift from model improvements to end-user achievements and the positive, optimistic possibilities that AI introduces\n\n## Notable quotes\n> \"He's one of these really curious people that can be sent off, and they'll just go and invent new things\" — Gavin Baker\n> \"I think that you start to, you could potentially live out this idea that there's an order of magnitude improvement on a yearly basis\" — Gavin Baker\n> \"There's something deeply disturbing for the average person about this\" — David Friedberg\n> \"Crime is a choice\" — Chamath Palihapitiya\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` — mentioned in 41 episodes\n- `economy` — mentioned in 40 episodes\n- `politics` — mentioned in 38 episodes\n- `us-politics` — mentioned in 28 episodes\n- `openai` — mentioned in 25 episodes\n- `big-tech` — mentioned in 23 episodes\n- `venture-capital` — mentioned in 22 episodes\n- `inflation` — mentioned in 21 episodes\n- `elon-musk` — mentioned in 20 episodes\n- `ai` — mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-05-23 from 377 episodes_",
+  "generated_at": "2026-05-23T04:49:38.803966+00:00"
 }
