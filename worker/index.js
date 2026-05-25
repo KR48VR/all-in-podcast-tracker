@@ -101,7 +101,7 @@ export default {
 /* ------ Helpers ------ */
 
 function rankEpisodes(question, eps) {
-  // Simple keyword score — cheap, deterministic, works well enough as a
+  // Simple keyword score - cheap, deterministic, works well enough as a
   // retrieval step when the corpus is a few hundred summaries. Upgrade to
   // embeddings later if you want smarter retrieval.
   const terms = question
@@ -130,6 +130,7 @@ function rankEpisodes(question, eps) {
       (ep.topics || []).join(" "),
       takeawayText,
       (ep.guests || []).join(" "),
+      (ep.notable_mentions || []).join(" "),
     ].join(" ").toLowerCase();
     let score = 0;
     for (const t of terms) if (hay.includes(t)) score += 1;
@@ -156,7 +157,7 @@ function formatEpisode(ep) {
   const fmtQuote = (q) => {
     if (!q) return "";
     const ts = q.timestamp_seconds != null ? ` [t=${q.timestamp_seconds}s]` : "";
-    return `- "${q.text || ""}" — ${q.speaker || "Unknown"}${ts}`;
+    return `- "${q.text || ""}" - ${q.speaker || "Unknown"}${ts}`;
   };
   const lines = [
     `EPISODE: ${ep.title}`,
@@ -164,6 +165,7 @@ function formatEpisode(ep) {
     ep.youtube_url ? `YOUTUBE_URL: ${ep.youtube_url}` : "",
     ep.guests?.length ? `GUESTS: ${ep.guests.join(", ")}` : "",
     ep.topics?.length ? `TOPICS: ${ep.topics.join(", ")}` : "",
+    ep.notable_mentions?.length ? `NOTABLE_MENTIONS: ${ep.notable_mentions.join(", ")}` : "",
     "",
     `SUMMARY: ${ep.summary || ""}`,
     "",

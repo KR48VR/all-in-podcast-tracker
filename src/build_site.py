@@ -67,10 +67,10 @@ def generate_brief(episodes: list[dict[str, Any]], trends: dict) -> str:
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     lines = [
-        f"# Weekly Brief — {today}",
+        f"# Weekly Brief - {today}",
         "",
         f"**Latest episode:** {latest.get('title', '(untitled)')}"
-        f" — {latest.get('date', '')}",
+        f" - {latest.get('date', '')}",
         "",
         "## What this episode covered",
         a.get("summary", "_No summary available_"),
@@ -87,12 +87,12 @@ def generate_brief(episodes: list[dict[str, Any]], trends: dict) -> str:
         text = q.get("text", "")
         speaker = q.get("speaker", "Unknown")
         ts = q.get("timestamp_seconds")
-        lines.append(f"> \"{text}\" — {speaker}{_ts_link(yt, ts)}")
+        lines.append(f"> \"{text}\" - {speaker}{_ts_link(yt, ts)}")
 
     lines += ["", "## Trend check across the whole archive"]
     lines.append("**Most-discussed topics overall:**")
     for topic, count in top_topics:
-        lines.append(f"- `{topic}` — mentioned in {count} episodes")
+        lines.append(f"- `{topic}` - mentioned in {count} episodes")
 
     if top_guests:
         lines += ["", "**Most frequent non-host guests:**"]
@@ -130,6 +130,7 @@ def build_payload(episodes: list[dict], trends: dict, brief_md: str) -> dict:
                 "guests": a.get("guests", []),
                 "sentiment": a.get("sentiment", {}),
                 "notable_moments": a.get("notable_moments", []),
+                "notable_mentions": a.get("notable_mentions", []),
             }
         )
     return {

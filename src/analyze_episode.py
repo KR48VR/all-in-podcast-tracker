@@ -10,7 +10,7 @@ Output is written back into data/episodes/<id>.json under an `analysis` key.
 
 When `transcript_segments` is present, we feed the LLM a timestamped
 transcript and ask it to tag each takeaway and quote with the approximate
-timestamp_seconds where it occurred — enabling "▶ jump to moment" links.
+timestamp_seconds where it occurred - enabling "> jump to moment" links.
 """
 from __future__ import annotations
 
@@ -116,6 +116,9 @@ Return a single JSON object with exactly these fields:
   },
   "notable_moments": [
     {"timestamp_seconds": <int or null>, "description": "what happened"}
+  ],
+  "notable_mentions": [
+    "short strings naming any company, executive, product, book, or organization mentioned in the episode, even briefly - e.g. 'Matthew Prince (Cloudflare)', 'OpenAI', 'GPT-5', 'Shyam Sankar (Palantir)'"
   ]
 }
 
@@ -124,6 +127,7 @@ Rules:
 - Core hosts (Chamath Palihapitiya, Jason Calacanis, David Sacks, David Friedberg) are NOT guests.
 - Keep quotes under 30 words.
 - Topic tags should be reusable (prefer "ai-safety" over "sam-altman-warned-about-x").
+- notable_mentions: 10 to 30 entries. Include every company, executive, product, book, or organization that was discussed or even mentioned in passing. Each entry should be short (1-6 words). This field powers user search, so be inclusive rather than selective. Format as "Person Name (Org)" when both are known, otherwise just the name.
 - If you are given a timestamped transcript (each line prefixed with [seconds]),
   use the nearest matching line's second count for timestamp_seconds. Otherwise
   set timestamp_seconds to null.
@@ -149,12 +153,14 @@ This is a partial view of a longer episode. Return a JSON object describing what
     {"timestamp_seconds": <int or null>, "description": "what happened"}
   ],
   "topics_mentioned": ["short kebab-case tags"],
-  "guests_mentioned": ["full names of any guests beyond core hosts"]
+  "guests_mentioned": ["full names of any guests beyond core hosts"],
+  "notable_mentions": ["short strings naming any company, exec, product, book, or org mentioned in THIS chunk"]
 }
 
 Rules:
 - AT MOST 4 takeaways from THIS chunk only.
 - AT MOST 4 quotes from THIS chunk only.
+- notable_mentions: list every company, exec, product, book, or org mentioned in THIS chunk, even briefly. Format "Person (Org)" when both are known, else just the name. Up to 15 entries.
 - Keep quotes under 30 words.
 - Core hosts (Chamath Palihapitiya, Jason Calacanis, David Sacks, David Friedberg) are NOT guests.
 - If lines are prefixed with [seconds], use the nearest line's seconds for timestamp_seconds.
@@ -186,11 +192,15 @@ Produce ONE JSON object in this exact schema:
   },
   "notable_moments": [
     {"timestamp_seconds": <int or null>, "description": "what happened"}
+  ],
+  "notable_mentions": [
+    "consolidated list of companies, execs, products, books, orgs mentioned anywhere in the episode"
   ]
 }
 
 Rules:
 - Pick the 5-8 BEST takeaways across all chunks (dedupe near-duplicates).
+- notable_mentions: union of all chunks' notable_mentions, deduplicated. Aim for 15-30 entries. Be inclusive - this powers user search.
 - Pick the 5-10 best quotes (preserve their original timestamp_seconds).
 - Topics should consolidate across all chunks; remove duplicates.
 - Core hosts (Chamath Palihapitiya, Jason Calacanis, David Sacks, David Friedberg) are NOT guests.
@@ -322,10 +332,31 @@ def analyze_one(ep: dict[str, Any], api_key: str) -> dict[str, Any]:
         result = call_groq(ANALYSIS_PROMPT, text, api_key)
         result["chunk_count"] = 1
         result["transcript_truncated"] = False
-    # Light normalization — earlier versions returned takeaways as strings.
+    # Light normalization - earlier versions returned takeaways as strings.
     result["takeaways"] = _normalize_items(result.get("takeaways", []))
     result["quotes"] = _normalize_quotes(result.get("quotes", []))
+    result["notable_mentions"] = _normalize_strings(result.get("notable_mentions", []))
     return result
+
+
+def _normalize_strings(items: list[Any]) -> list[str]:
+    """Coerce notable_mentions into a list of clean strings, dedup case-insensitively."""
+    seen = set()
+    out = []
+    for it in items:
+        if isinstance(it, str):
+            s = it.strip()
+        elif isinstance(it, dict):
+            # Some LLM outputs wrap entries as {"name": "...", "org": "..."} - flatten.
+            name = (it.get("name") or it.get("text") or "").strip()
+            org = (it.get("org") or it.get("organization") or "").strip()
+            s = f"{name} ({org})" if name and org else name or org
+        else:
+            continue
+        if s and s.lower() not in seen:
+            seen.add(s.lower())
+            out.append(s)
+    return out
 
 
 def _normalize_items(items: list[Any]) -> list[dict[str, Any]]:
