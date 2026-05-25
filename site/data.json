@@ -8,56 +8,56 @@
       "url": "https://allinchamathjason.libsyn.com/spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "The All-In podcast discusses various topics including Andre Karpathy joining Anthropic, NVIDIA's earnings, SpaceX's S1 filing, and the US-China relationship. The hosts also touch on the AI PR crisis, foreign interests, and the potential of recursive self-improvement in AI. The conversation covers the complexities of the AI industry, the role of foreign interests, and the need for a balanced approach to AI development.",
+      "summary": "The All-In Podcast discusses various topics including Andre Karpathy joining Anthropic, the AI PR crisis, SpaceX's potential $2 trillion valuation, and NVIDIA's impressive earnings. The hosts also touch on the topics of AI improving itself, the potential for a new form of Moore's law, and the impact of AI on jobs. Additionally, they discuss the current state of the market, geopolitics, and the recent meeting between US and Chinese leaders.",
       "takeaways": [
         {
-          "text": "Andre Karpathy's experience and expertise can help Anthropic achieve significant advancements in AI",
-          "timestamp_seconds": 63
+          "text": "Andre Karpathy joining Anthropic is a significant deal",
+          "timestamp_seconds": 31
         },
         {
           "text": "The AI PR crisis is fueled by concerns about power imbalances and the potential for AI to benefit only a small group of people",
           "timestamp_seconds": 1150
         },
         {
-          "text": "SpaceX's valuation could be justified by its potential for growth in the internet infrastructure and AI businesses",
+          "text": "SpaceX's valuation could reach $2 trillion",
           "timestamp_seconds": 3605
         },
         {
-          "text": "NVIDIA's earnings are mind-boggling, with $81.6 billion in revenue and 75% gross margins",
+          "text": "NVIDIA's earnings are impressive, with $81.6 billion in revenue and 85% year-over-year growth",
           "timestamp_seconds": 4285
         },
         {
-          "text": "The AI market is cross-sectionally inefficient, with valuations of memory makers, NVIDIA, and other accelerator companies being inconsistent",
+          "text": "The AI market is cross-sectionally inefficient, with different valuations for chip companies",
           "timestamp_seconds": 4521
         },
         {
-          "text": "The US-China relationship is complex, and the recent meeting between the two countries may have had some behind-the-scenes agreements",
-          "timestamp_seconds": 5729
+          "text": "Chamath Palihapitiya believes in having a concentrated portfolio with a few large holdings",
+          "timestamp_seconds": 5201
         },
         {
-          "text": "Recursive self-improvement and continual learning are crucial for the future of AI, potentially leading to an order of magnitude improvement on a yearly basis",
-          "timestamp_seconds": 231
+          "text": "Gavin Baker manages over 100 positions at his firm",
+          "timestamp_seconds": 5273
         },
         {
-          "text": "The focus should shift from model improvements to end-user achievements and the positive, optimistic possibilities that AI introduces",
-          "timestamp_seconds": 608
+          "text": "Selling NVIDIA chips to China may lower the odds of them developing their own alternative ecosystem",
+          "timestamp_seconds": 5780
         }
       ],
       "quotes": [
         {
           "text": "He's one of these really curious people that can be sent off, and they'll just go and invent new things",
           "speaker": "Gavin Baker",
-          "timestamp_seconds": 228
+          "timestamp_seconds": 231
         },
         {
-          "text": "I think that you start to, you could potentially live out this idea that there's an order of magnitude improvement on a yearly basis",
+          "text": "I think what we should do now is focus on these end user use cases",
           "speaker": "Gavin Baker",
-          "timestamp_seconds": 251
+          "timestamp_seconds": 651
         },
         {
-          "text": "There's something deeply disturbing for the average person about this",
+          "text": "I think that there's a real set of shifts happening",
           "speaker": "David Friedberg",
-          "timestamp_seconds": 1233
+          "timestamp_seconds": 1370
         },
         {
           "text": "Crime is a choice",
@@ -65,14 +65,9 @@
           "timestamp_seconds": 2071
         },
         {
-          "text": "We're listening too much to the inventors of AI",
-          "speaker": "Jason Calacanis",
-          "timestamp_seconds": 2464
-        },
-        {
-          "text": "If you don't fail, you're not learning",
-          "speaker": "Gavin Baker",
-          "timestamp_seconds": 4123
+          "text": "I think it's much easier to see him selling compute to Google",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 3140
         },
         {
           "text": "The AI market is cross-sectionally inefficient",
@@ -88,30 +83,30 @@
           "text": "Rates going up is very concerning",
           "speaker": "Gavin Baker",
           "timestamp_seconds": 5289
+        },
+        {
+          "text": "The story continues, there is no happy ending",
+          "speaker": "David Friedberg",
+          "timestamp_seconds": 5687
         }
       ],
       "topics": [
         "ai",
         "anthropic",
-        "nvidia",
-        "space-x",
+        "andre-karpathy",
         "recursive-self-improvement",
-        "continual-learning",
-        "ai-pr-crisis",
-        "foreign-interests",
-        "regulations",
-        "kyc",
-        "ai-development",
-        "crime",
-        "layoffs",
-        "big-tech",
-        "elon-musk",
-        "orbital-compute",
-        "internet-infrastructure",
-        "civilizational-continuity",
-        "us-china-relationship",
+        "moore-s-law",
+        "regulation",
+        "power-imbalances",
+        "psychology",
+        "security",
+        "space-x",
+        "ipo",
+        "nvidia",
+        "chip-companies",
+        "cpu-business",
         "geopolitics",
-        "energy-self-sufficiency"
+        "china"
       ],
       "guests": [
         "Gavin Baker",
@@ -119,7 +114,7 @@
       ],
       "sentiment": {
         "overall": "mixed",
-        "notes": "The hosts discuss various topics with a mix of optimism and caution, highlighting the complexities and potential risks of the AI industry, while also acknowledging its potential for growth and improvement."
+        "notes": "The hosts discuss various topics with a mix of optimism and caution, highlighting the potential benefits and risks of AI, SpaceX, and NVIDIA, while also touching on the complexities of geopolitics and the current state of the market."
       },
       "notable_moments": [
         {
@@ -128,36 +123,64 @@
         },
         {
           "timestamp_seconds": 31,
-          "description": "Discussion on Andre Karpathy joining Anthropic"
+          "description": "Discussion of Andre Karpathy joining Anthropic"
         },
         {
-          "timestamp_seconds": 1045,
-          "description": "The conversation starts with a story about a dad who changed his daughter's life with a cure"
+          "timestamp_seconds": 1150,
+          "description": "Discussion of the AI PR crisis"
         },
         {
-          "timestamp_seconds": 127,
-          "description": "Gavin Baker shares his take on Anthropic's recent success"
+          "timestamp_seconds": 2061,
+          "description": "Discussion on AI deployment and crime rates starts"
         },
         {
-          "timestamp_seconds": 2140,
-          "description": "The hosts discuss their recent visit to Las Vegas and the city's approach to crime prevention"
+          "timestamp_seconds": 2719,
+          "description": "SpaceX's S1 filing and valuation are discussed"
         },
         {
-          "timestamp_seconds": 3051,
-          "description": "Discussion on Composer 2 and its potential impact on the AI industry"
+          "timestamp_seconds": 3605,
+          "description": "Discussion of SpaceX's potential $2 trillion valuation"
         },
         {
-          "timestamp_seconds": 4123,
-          "description": "Gavin Baker discusses the importance of learning from failures"
+          "timestamp_seconds": 4285,
+          "description": "NVIDIA's earnings are discussed"
         },
         {
-          "timestamp_seconds": 5152,
-          "description": "Chamath Palihapitiya discusses his investment strategy"
-        },
-        {
-          "timestamp_seconds": 5729,
-          "description": "The hosts speculate about the US-China relationship"
+          "timestamp_seconds": 5201,
+          "description": "Chamath discusses his concerns about the market signals"
         }
+      ],
+      "notable_mentions": [
+        "Anthropic",
+        "OpenAI",
+        "Google",
+        "Tesla",
+        "NVIDIA",
+        "Andre Karpathy",
+        "Gavin Baker",
+        "Chamath Palihapitiya",
+        "Jason Calacanis",
+        "David Sacks",
+        "David Friedberg",
+        "Elon Musk",
+        "SpaceX",
+        "Starlink",
+        "Cloudflare",
+        "Matthew Prince",
+        "Mark Zuckerberg",
+        "Facebook",
+        "Leopold Aschenbrenner",
+        "Patrick O'Shaughnessy",
+        "Jensen",
+        "Michael Burry",
+        "Trump",
+        "Xi",
+        "China",
+        "America",
+        "Russia",
+        "Iran",
+        "Venezuela",
+        "Taiwan"
       ]
     },
     {
@@ -168,193 +191,14 @@
       "url": "https://allinchamathjason.libsyn.com/trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nio",
       "youtube_url": "https://www.youtube.com/watch?v=jJRAvZNGUvI",
       "youtube_video_id": "jJRAvZNGUvI",
-      "summary": "The All-In Podcast discusses the Trump-Xi summit, its implications on US-China relations, and the potential impact on the US economy and midterms, with Salesforce CEO Marc Benioff sharing his insights. The conversation also covers the impact of AI on the SaaS industry, the future of AI, and the potential consequences of a strong El Nino event. The episode features discussions on various topics, including economic cooperation, trade deals, and the importance of philanthropy.",
-      "takeaways": [
-        {
-          "text": "Trump-Xi summit aims to establish constructive and stable ties between the US and China",
-          "timestamp_seconds": 77
-        },
-        {
-          "text": "Economic cooperation is key to avoiding conflict between the US and China",
-          "timestamp_seconds": 359
-        },
-        {
-          "text": "AI is not yet showing up in numbers, but it has the potential to significantly impact the SaaS industry",
-          "timestamp_seconds": 2017
-        },
-        {
-          "text": "The low end of the SaaS market is vulnerable, but the high end is safe",
-          "timestamp_seconds": 2160
-        },
-        {
-          "text": "El Nino event may lead to food shortages and economic crises",
-          "timestamp_seconds": 3997
-        },
-        {
-          "text": "Anthropic is taking a stand against multi-tiered SPVs",
-          "timestamp_seconds": 4301
-        },
-        {
-          "text": "Companies should go public to rationalize their equity structure",
-          "timestamp_seconds": 4372
-        },
-        {
-          "text": "Philanthropy is essential, and every company should give back",
-          "timestamp_seconds": 4451
-        }
-      ],
-      "quotes": [
-        {
-          "text": "I'm here to support the country",
-          "speaker": "Marc Benioff",
-          "timestamp_seconds": 39
-        },
-        {
-          "text": "I'm not a Democrat or a Republican, I am an American",
-          "speaker": "Marc Benioff",
-          "timestamp_seconds": 52
-        },
-        {
-          "text": "This is not my first saspocalypse",
-          "speaker": "Marc Benioff",
-          "timestamp_seconds": 2035
-        },
-        {
-          "text": "I think the low end of the market is basically finished",
-          "speaker": "Chamath Palihapitiya",
-          "timestamp_seconds": 2153
-        },
-        {
-          "text": "Multi-sensory models are the next big wave for AI",
-          "speaker": "Marc Benioff",
-          "timestamp_seconds": 3565
-        },
-        {
-          "text": "Apple has a clear path to becoming a top player in AI",
-          "speaker": "Jason Calacanis",
-          "timestamp_seconds": 3263
-        },
-        {
-          "text": "This El Nino event is scary",
-          "speaker": "David Friedberg",
-          "timestamp_seconds": 4055
-        },
-        {
-          "text": "Every company should do this",
-          "speaker": "Marc Benioff",
-          "timestamp_seconds": 4468
-        },
-        {
-          "text": "I think we should sell the chips",
-          "speaker": "Chamath Palihapitiya",
-          "timestamp_seconds": 1527
-        },
-        {
-          "text": "I think that this is a nonsense issue",
-          "speaker": "Marc Benioff",
-          "timestamp_seconds": 1573
-        }
-      ],
-      "topics": [
-        "us-china-relations",
-        "trump-xi-summit",
-        "economic-cooperation",
-        "trade-deal",
-        "midterms",
-        "ai",
-        "saas",
-        "salesforce",
-        "openai",
-        "apple",
-        "chatgpt",
-        "siri",
-        "ios",
-        "macos",
-        "multi-sensory-models",
-        "el-nino",
-        "food-shortages",
-        "economic-crises",
-        "anthropic",
-        "spvs",
-        "philanthropy"
-      ],
-      "guests": [
-        "Marc Benioff"
-      ],
-      "sentiment": {
-        "overall": "mixed",
-        "notes": "The episode covers a wide range of topics, with both optimistic and cautious views expressed by the hosts and guests. The discussion on the Trump-Xi summit and the potential consequences of a strong El Nino event are more cautious, while the conversations on AI and its potential impact on the SaaS industry are more optimistic."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 0,
-          "description": "Introduction to the podcast episode"
-        },
-        {
-          "timestamp_seconds": 74,
-          "description": "Discussion on the Trump-Xi summit begins"
-        },
-        {
-          "timestamp_seconds": 597,
-          "description": "Marc Benioff is asked about selling software in China"
-        },
-        {
-          "timestamp_seconds": 1064,
-          "description": "Discussion on China's systematic issues with population and real estate"
-        },
-        {
-          "timestamp_seconds": 1213,
-          "description": "Marc Benioff is asked if the US should sell the latest chips to China"
-        },
-        {
-          "timestamp_seconds": 1568,
-          "description": "Mark is asked if the US should defend Taiwan if China sets up a blockade"
-        },
-        {
-          "timestamp_seconds": 1826,
-          "description": "Public service announcement about a dog named Scooter that needs a home"
-        },
-        {
-          "timestamp_seconds": 2035,
-          "description": "Marc Benioff discusses his experience with previous SaaS industry disruptions"
-        },
-        {
-          "timestamp_seconds": 2153,
-          "description": "Chamath Palihapitiya shares his thoughts on the vulnerability of the low end of the SaaS market"
-        },
-        {
-          "timestamp_seconds": 2847,
-          "description": "Breaking news: OpenAI is considering suing Apple over their ChatGPT partnership"
-        },
-        {
-          "timestamp_seconds": 3030,
-          "description": "Discussion on the changing landscape of coding and AI"
-        },
-        {
-          "timestamp_seconds": 3144,
-          "description": "Question about the strained relationship between OpenAI and Apple"
-        },
-        {
-          "timestamp_seconds": 3418,
-          "description": "Mention of Thinking Machines' new real-time model"
-        },
-        {
-          "timestamp_seconds": 3745,
-          "description": "Introduction to Science Corner topic on El Niño season"
-        },
-        {
-          "timestamp_seconds": 3997,
-          "description": "Discussion on El Nino event starts"
-        },
-        {
-          "timestamp_seconds": 4301,
-          "description": "Anthropic's stance on SPVs is discussed"
-        },
-        {
-          "timestamp_seconds": 4491,
-          "description": "Tribute to Susan Wojcicki begins"
-        }
-      ]
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": [],
+      "notable_mentions": []
     },
     {
       "id": "2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire",
@@ -364,164 +208,14 @@
       "url": "https://allinchamathjason.libsyn.com/charles-chase-koch-on-how-they-quietly-built-a-150b-empire",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "Charles and Chase Koch discuss their experiences building and managing Koch Industries, a $150B empire, and share insights on principle-based management, innovation, and cultural change. They also talk about their approach to talent acquisition, company culture, and leadership, as well as their views on the current state of America and the role of capitalism. The conversation covers topics such as education reform, social change, and the importance of removing barriers to allow people to reach their full potential.",
-      "takeaways": [
-        {
-          "text": "Koch Industries focuses on creating value for customers and empowering employees",
-          "timestamp_seconds": 493
-        },
-        {
-          "text": "The company operates on the principle of being capability-bounded, not industry-bounded",
-          "timestamp_seconds": 615
-        },
-        {
-          "text": "Failures can be valuable learning experiences for businesses",
-          "timestamp_seconds": 1290
-        },
-        {
-          "text": "Principle-based management is key to driving cultural change",
-          "timestamp_seconds": 1491
-        },
-        {
-          "text": "Empowering employees and encouraging experimentation can lead to innovation",
-          "timestamp_seconds": 1693
-        },
-        {
-          "text": "Koch Industries prioritizes values and skills over credentials when hiring",
-          "timestamp_seconds": 2572
-        },
-        {
-          "text": "Understanding comparative advantage is crucial for personal and professional growth",
-          "timestamp_seconds": 3574
-        },
-        {
-          "text": "Capitalism can be a powerful tool for social change",
-          "timestamp_seconds": 5140
-        }
-      ],
-      "quotes": [
-        {
-          "text": "I sucked as an engineer",
-          "speaker": "Charles Koch",
-          "timestamp_seconds": 327
-        },
-        {
-          "text": "If you're not failing at everything, you're not doing anything new",
-          "speaker": "Charles Koch",
-          "timestamp_seconds": 709
-        },
-        {
-          "text": "God, don't punish me anymore",
-          "speaker": "Charles Koch",
-          "timestamp_seconds": 1307
-        },
-        {
-          "text": "We're an experimental discovery group",
-          "speaker": "Chase Koch",
-          "timestamp_seconds": 1862
-        },
-        {
-          "text": "Values first, skills second, credentials last",
-          "speaker": "Chase Koch",
-          "timestamp_seconds": 2572
-        },
-        {
-          "text": "It takes a hell of a lot longer than you think to change the culture",
-          "speaker": "Charles Koch",
-          "timestamp_seconds": 2520
-        },
-        {
-          "text": "Everyone has capability",
-          "speaker": "Charles Koch",
-          "timestamp_seconds": 3777
-        },
-        {
-          "text": "If God is just, I despair for the future of our country",
-          "speaker": "Charles Koch",
-          "timestamp_seconds": 4773
-        },
-        {
-          "text": "I've learned more in the last 18 months than I probably have the last 18 years",
-          "speaker": "Chase Koch",
-          "timestamp_seconds": 5482
-        },
-        {
-          "text": "I want our country to more fully live up to the promise in the Declaration of Independence",
-          "speaker": "Charles Koch",
-          "timestamp_seconds": 5696
-        }
-      ],
-      "topics": [
-        "koch-industries",
-        "business-evolution",
-        "principle-based-management",
-        "capability-bounded",
-        "innovation",
-        "failures",
-        "acquisitions",
-        "cultural-change",
-        "experimentation",
-        "leadership",
-        "company-culture",
-        "talent-acquisition",
-        "private-companies",
-        "owner-operated-companies",
-        "education-reform",
-        "social-change",
-        "personal-growth",
-        "comparative-advantage",
-        "capitalism",
-        "socialism",
-        "ai",
-        "economic-mobility",
-        "book-writing"
-      ],
-      "guests": [
-        "Charles Koch",
-        "Chase Koch"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The overall sentiment of the episode is optimistic, as Charles and Chase Koch share their experiences and insights on building and managing a successful business, and discuss the potential for capitalism to drive social change. However, they also express concerns about the current state of America and the need for reform."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 0,
-          "description": "David Friedberg welcomes Charles and Chase Koch"
-        },
-        {
-          "timestamp_seconds": 168,
-          "description": "Charles Koch discusses the early days of the business"
-        },
-        {
-          "timestamp_seconds": 1282,
-          "description": "Charles Koch shares a story about a reckless trade that could have bankrupted the company"
-        },
-        {
-          "timestamp_seconds": 2020,
-          "description": "Charles Koch discusses the acquisition of Georgia-Pacific"
-        },
-        {
-          "timestamp_seconds": 2443,
-          "description": "Discussion about Minnesota"
-        },
-        {
-          "timestamp_seconds": 4133,
-          "description": "Introduction to Stand Together and its mission"
-        },
-        {
-          "timestamp_seconds": 4731,
-          "description": "Discussion on the rise of socialism in America"
-        },
-        {
-          "timestamp_seconds": 5140,
-          "description": "Debate on whether capitalism works long-term"
-        },
-        {
-          "timestamp_seconds": 5457,
-          "description": "Chase Koch shares his experience writing the book with his father"
-        }
-      ]
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": [],
+      "notable_mentions": []
     },
     {
       "id": "2026-05-10-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-i",
@@ -531,172 +225,14 @@
       "url": "https://allinchamathjason.libsyn.com/spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back",
       "youtube_url": "https://www.youtube.com/watch?v=GCpjy3TC8Pg",
       "youtube_video_id": "GCpjy3TC8Pg",
-      "summary": "Spencer Pratt discusses his plans to fix Los Angeles, including addressing homelessness, corruption, and crime, and shares his vision for the city's future as a potential mayoral candidate. He emphasizes the need for accountability, transparency, and safety in the city's systems. Pratt also talks about his personal experiences, including watching his house burn down in the Palisades Fire and his decision to run for mayor.",
-      "takeaways": [
-        {
-          "text": "Spencer Pratt's house burned down in the Palisades Fire",
-          "timestamp_seconds": 592
-        },
-        {
-          "text": "NGOs are corrupt and steal tax money meant for homeless people",
-          "timestamp_seconds": 1408
-        },
-        {
-          "text": "The city's approach to homelessness is ineffective and wasteful",
-          "timestamp_seconds": 1512
-        },
-        {
-          "text": "Enforcing laws is key to fixing Los Angeles",
-          "timestamp_seconds": 2253
-        },
-        {
-          "text": "Auditing city spending is necessary to track where money is going",
-          "timestamp_seconds": 2545
-        },
-        {
-          "text": "Streamline small business process",
-          "timestamp_seconds": 3713
-        },
-        {
-          "text": "Address corruption in LA",
-          "timestamp_seconds": 3769
-        },
-        {
-          "text": "Spencer Pratt plans to work with unions to make the city safer and more efficient",
-          "timestamp_seconds": 2826
-        }
-      ],
-      "quotes": [
-        {
-          "text": "I always have the truth",
-          "speaker": "Spencer Pratt",
-          "timestamp_seconds": 163
-        },
-        {
-          "text": "I'm the guy who's on the other side of the problem",
-          "speaker": "Spencer Pratt",
-          "timestamp_seconds": 1130
-        },
-        {
-          "text": "Public virtue cannot exist in a nation without private virtue",
-          "speaker": "Spencer Pratt",
-          "timestamp_seconds": 1084
-        },
-        {
-          "text": "No more nakedness",
-          "speaker": "Spencer Pratt",
-          "timestamp_seconds": 2253
-        },
-        {
-          "text": "No more drug use",
-          "speaker": "Spencer Pratt",
-          "timestamp_seconds": 2253
-        },
-        {
-          "text": "We need to go back to basics",
-          "speaker": "Spencer Pratt",
-          "timestamp_seconds": 2608
-        },
-        {
-          "text": "America's awesome",
-          "speaker": "Spencer Pratt",
-          "timestamp_seconds": 2609
-        },
-        {
-          "text": "I will be the guy that's fighting to get safety back",
-          "speaker": "Spencer Pratt",
-          "timestamp_seconds": 2805
-        },
-        {
-          "text": "I'm going to help you produce these freaking movies",
-          "speaker": "Spencer Pratt",
-          "timestamp_seconds": 3097
-        },
-        {
-          "text": "We need to get creative with LA",
-          "speaker": "Spencer Pratt",
-          "timestamp_seconds": 3386
-        }
-      ],
-      "topics": [
-        "palisades-fire",
-        "los-angeles",
-        "homelessness",
-        "corruption",
-        "ngo-corruption",
-        "los-angeles-politics",
-        "mayoral-campaign",
-        "crime",
-        "education",
-        "government-spending",
-        "accountability",
-        "safety",
-        "hollywood",
-        "transportation",
-        "regulation",
-        "construction",
-        "ai",
-        "small-business",
-        "development",
-        "socialism",
-        "mayoral-race"
-      ],
-      "guests": [
-        "Spencer Pratt",
-        "Victor Coleman",
-        "Mayor Lurie",
-        "Peter Chernin",
-        "David Foster",
-        "David Ellison",
-        "Ted Serranos",
-        "Carlos"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The overall sentiment of the episode is optimistic, as Spencer Pratt shares his vision for a better Los Angeles and his plans to address the city's problems. However, the discussion also touches on the city's current issues, such as corruption and homelessness, which adds a sense of caution to the overall tone."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 592,
-          "description": "Spencer Pratt watches his house burn down on his phone"
-        },
-        {
-          "timestamp_seconds": 436,
-          "description": "The fire department tells Spencer Pratt they have no assets available to respond to the fire"
-        },
-        {
-          "timestamp_seconds": 966,
-          "description": "Spencer Pratt discusses his decision to run for mayor"
-        },
-        {
-          "timestamp_seconds": 1283,
-          "description": "Spencer Pratt explains the corruption of NGOs"
-        },
-        {
-          "timestamp_seconds": 1640,
-          "description": "Spencer Pratt mentions that Justice Department sources say city officials will go down for corruption"
-        },
-        {
-          "timestamp_seconds": 1696,
-          "description": "Spencer Pratt criticizes Karen Bass's handling of the fire and her lead in the polls"
-        },
-        {
-          "timestamp_seconds": 2145,
-          "description": "Spencer Pratt shares a personal story about a lady cleaning her private parts in front of kids"
-        },
-        {
-          "timestamp_seconds": 2177,
-          "description": "Spencer Pratt mentions Mayor Lurie's success in San Francisco"
-        },
-        {
-          "timestamp_seconds": 2203,
-          "description": "Spencer Pratt talks about his meeting with Victor Coleman"
-        },
-        {
-          "timestamp_seconds": 2331,
-          "description": "Spencer Pratt is asked about his plan to execute his vision as mayor"
-        }
-      ]
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": [],
+      "notable_mentions": []
     },
     {
       "id": "2026-05-08-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom",
@@ -706,187 +242,14 @@
       "url": "https://allinchamathjason.libsyn.com/elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "The All-In podcast discusses the SpaceX-Anthropic deal, the potential monopoly of Anthropic and OpenAI in the AI market, and the idea of an 'FDA for AI' to regulate the industry. The hosts also touch on the potential economic boom created by AI, the need for capitalists to address issues like minimum wage and universal healthcare, and the current state of the market and economy.",
-      "takeaways": [
-        {
-          "text": "Anthropic's growth trajectory is unprecedented, with a potential to reach $100 billion in ARR by the end of the year",
-          "timestamp_seconds": 868
-        },
-        {
-          "text": "Elon Musk's deal with Anthropic could lead to a monopoly in the AI space",
-          "timestamp_seconds": 1677
-        },
-        {
-          "text": "The White House is considering an 'FDA for AI' to vet new models for safety",
-          "timestamp_seconds": 2122
-        },
-        {
-          "text": "AI may not be popular, but its effects are creating an economic boom",
-          "timestamp_seconds": 3395
-        },
-        {
-          "text": "Raising the minimum wage could help lift the bottom third of society",
-          "timestamp_seconds": 3239
-        },
-        {
-          "text": "The impact of AI on the economy is still being debated",
-          "timestamp_seconds": 4680
-        },
-        {
-          "text": "The emergence of Elon Web Services (EWS) as a competitor to Google Cloud, Amazon Web Services, and Azure",
-          "timestamp_seconds": 331
-        },
-        {
-          "text": "The potential for Anthropic to become the most valuable tech company in history, with a possible valuation of over $1 trillion in 2027",
-          "timestamp_seconds": 912
-        }
-      ],
-      "quotes": [
-        {
-          "text": "Let your winners ride",
-          "speaker": "Chamath Palihapitiya",
-          "timestamp_seconds": 14
-        },
-        {
-          "text": "You don't look as tired as you have in recent weeks",
-          "speaker": "Jason Calacanis",
-          "timestamp_seconds": 0
-        },
-        {
-          "text": "I think we're debating semantics here",
-          "speaker": "David Sacks",
-          "timestamp_seconds": 1598
-        },
-        {
-          "text": "We don't want to put Washington in the position of picking winners and losers",
-          "speaker": "David Sacks",
-          "timestamp_seconds": 2300
-        },
-        {
-          "text": "We suffer from horrible messaging",
-          "speaker": "Chamath Palihapitiya",
-          "timestamp_seconds": 2427
-        },
-        {
-          "text": "Let's have a go back to paper and pen",
-          "speaker": "Jason Calacanis",
-          "timestamp_seconds": 3116
-        },
-        {
-          "text": "I think we're in the trough right now",
-          "speaker": "David Sacks",
-          "timestamp_seconds": 3487
-        },
-        {
-          "text": "We're on the winning horse",
-          "speaker": "David Sacks",
-          "timestamp_seconds": 4779
-        },
-        {
-          "text": "I am happy that they are American companies",
-          "speaker": "Chamath Palihapitiya",
-          "timestamp_seconds": 4823
-        }
-      ],
-      "topics": [
-        "ai",
-        "elon-musk",
-        "anthropic",
-        "space-x",
-        "ew-s",
-        "la-mayor-election",
-        "ai-monopoly",
-        "openai",
-        "regulation",
-        "ai-regulation",
-        "innovation",
-        "white-house",
-        "tech-industry",
-        "economy",
-        "minimum-wage",
-        "universal-healthcare",
-        "cloud-computing",
-        "ai-productivity",
-        "job-displacement",
-        "us-competitiveness"
-      ],
-      "guests": [
-        "Brad Gersonner"
-      ],
-      "sentiment": {
-        "overall": "mixed",
-        "notes": "The hosts have mixed opinions on the potential impact of AI on the economy and society, with some expressing optimism about its benefits and others raising concerns about its potential drawbacks."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 0,
-          "description": "Introduction to the podcast and discussion of the LA mayor election"
-        },
-        {
-          "timestamp_seconds": 279,
-          "description": "Discussion of Elon's deal with Anthropic and the emergence of Elon Web Services"
-        },
-        {
-          "timestamp_seconds": 868,
-          "description": "Discussion of Anthropic's growth trajectory and potential valuation"
-        },
-        {
-          "timestamp_seconds": 912,
-          "description": "Discussion of the potential for Anthropic to become the most valuable tech company in history"
-        },
-        {
-          "timestamp_seconds": 1074,
-          "description": "Discussion on the total market size of coding"
-        },
-        {
-          "timestamp_seconds": 1289,
-          "description": "Elon Musk's potential to build a massive compute network"
-        },
-        {
-          "timestamp_seconds": 1382,
-          "description": "Discussion on the pivot of SPAN to add data centers with Nvidia GPU clusters"
-        },
-        {
-          "timestamp_seconds": 1645,
-          "description": "Discussion on the potential monopoly of Anthropic and OpenAI"
-        },
-        {
-          "timestamp_seconds": 2122,
-          "description": "The White House's consideration of an 'FDA for AI' is discussed"
-        },
-        {
-          "timestamp_seconds": 2286,
-          "description": "The hosts criticize the idea of an FDA for AI"
-        },
-        {
-          "timestamp_seconds": 2449,
-          "description": "The tech community is criticized for poor communication about AI's benefits"
-        },
-        {
-          "timestamp_seconds": 3099,
-          "description": "Discussion on Bernie Sanders' views on AI and data centers"
-        },
-        {
-          "timestamp_seconds": 3514,
-          "description": "Idea to make electricity free for households in areas where data centers are built"
-        },
-        {
-          "timestamp_seconds": 4070,
-          "description": "Discussion of AI's potential impact on the economy begins"
-        },
-        {
-          "timestamp_seconds": 4235,
-          "description": "Hosts debate the potential benefits of AI"
-        },
-        {
-          "timestamp_seconds": 4648,
-          "description": "Labor participation rate is discussed as a potential concern"
-        },
-        {
-          "timestamp_seconds": 4823,
-          "description": "Chamath expresses support for American innovation"
-        }
-      ]
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": [],
+      "notable_mentions": []
     },
     {
       "id": "2026-05-01-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-pe",
@@ -961,7 +324,8 @@
           "timestamp_seconds": 4034,
           "description": "Friedberg shares Supreme Court experience"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-04-29-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-",
@@ -1124,7 +488,8 @@
           "timestamp_seconds": 4068,
           "description": "The hosts thank Steve Hilton for his time"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-04-24-spacex-cursor-deal-saas-debt-bomb-new-apple-ceo-splc-indictment-colon-cancer-spi",
@@ -1212,7 +577,8 @@
           "timestamp_seconds": 4593,
           "description": "Colon cancer spike discussion starts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-04-17-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-ta",
@@ -1383,7 +749,8 @@
           "timestamp_seconds": 5243,
           "description": "Game of 'The Price is Wrong' starts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-04-10-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-i",
@@ -1466,7 +833,8 @@
           "timestamp_seconds": 4212,
           "description": "Discussion of Iran War ceasefire and Israel's influence"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-04-08-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race",
@@ -1551,7 +919,8 @@
           "timestamp_seconds": 2838,
           "description": "Discussion on antisemitism and Netanyahu's failures"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-04-06-the-companies-changing-warfare-forever-palantir-anduril-execs-on-drones-ai-the-f",
@@ -1637,7 +1006,8 @@
           "timestamp_seconds": 8,
           "description": "US-China drone gap discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-04-03-spacex-ipo-iran-war-fallout-quantum-bitcoin-hack-the-space-opportunity",
@@ -1714,7 +1084,8 @@
           "timestamp_seconds": 3888,
           "description": "Quantum Bitcoin hack possibilities"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-03-27-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits",
@@ -1783,7 +1154,8 @@
           "timestamp_seconds": 4316,
           "description": "Sacks and Friedberg join PCAST"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-03-26-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-",
@@ -1933,7 +1305,8 @@
           "timestamp_seconds": 2067,
           "description": "Relationship between internal unhappiness and external conflict"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-03-23-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren",
@@ -2008,7 +1381,8 @@
           "timestamp_seconds": 37,
           "description": "CoreWeave CEO, Michael Intrator, joins the conversation"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-03-23-how-matt-mahan-thinks-he-can-save-california",
@@ -2077,7 +1451,8 @@
           "timestamp_seconds": 4375,
           "description": "Discussion of the $1 trillion pension time bomb"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-03-19-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosi",
@@ -2170,7 +1545,8 @@
           "timestamp_seconds": 1638,
           "description": "Addressing AI's PR crisis"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-03-18-john-fetterman-the-rogue-democrat-who-broke-party-ranks",
@@ -2255,7 +1631,8 @@
           "timestamp_seconds": 17,
           "description": "Fetterman talks about Israel's influence and AIPAC"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-03-17-travis-kalanick-michael-dell-live-from-austin-texas",
@@ -2342,7 +1719,8 @@
           "timestamp_seconds": 3820,
           "description": "Michael Dell announces his $6.25B gift for a 401k program"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-03-13-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare",
@@ -2429,7 +1807,8 @@
           "timestamp_seconds": 67,
           "description": "Washington's 'Millionaire Tax' is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-03-11-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets",
@@ -2514,7 +1893,8 @@
           "timestamp_seconds": 52,
           "description": "Conversation on the biggest risks facing the markets"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-03-09-graham-allison-on-the-global-realignment-iran-china-israel-greenland",
@@ -2601,7 +1981,8 @@
           "timestamp_seconds": 39,
           "description": "Greenland's importance explained"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-03-07-exiled-iranian-prince-reza-pahlavi-transition-plan-and-the-fight-for-irans-freed",
@@ -2689,7 +2070,8 @@
           "timestamp_seconds": 33,
           "description": "A transition plan for Iran's government is proposed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-03-06-inside-the-iran-war-and-the-pentagons-feud-with-anthropic-with-under-secretary-o",
@@ -2774,7 +2156,8 @@
           "timestamp_seconds": 2479,
           "description": "Pentagon's feud with Anthropic"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-03-03-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome",
@@ -2853,7 +2236,8 @@
           "timestamp_seconds": 41,
           "description": "Discussion on whether America is heading towards collapse"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-02-28-software-stocks-implode-claudes-hit-list-state-of-the-union-reactions-trumps-tar",
@@ -2939,7 +2323,8 @@
           "timestamp_seconds": 3948,
           "description": "Discussion of the potential cure for blindness via Yamanaka Factors"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-02-20-epstein-files-special-prince-andrew-arrested-global-network-mythology-reid-hoffm",
@@ -3023,7 +2408,8 @@
           "timestamp_seconds": 4343,
           "description": "Reid Hoffman's history with Epstein discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-02-13-debt-spiral-or-new-golden-age-super-bowl-insider-trading-booming-token-budgets-f",
@@ -3104,7 +2490,8 @@
           "timestamp_seconds": 3792,
           "description": "Ferrari's fully electric car goes viral"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-02-10-czs-untold-story-the-rise-fall-and-redemption-of-binances-founder",
@@ -3183,7 +2570,8 @@
           "timestamp_seconds": 69,
           "description": "CZ shares his experiences facing legal challenges from the Biden administration"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-02-07-epstein-files-is-saas-dead-moltbook-panic-spacex-xai-merger-trumps-fed-pick",
@@ -3279,7 +2667,8 @@
           "timestamp_seconds": 3945,
           "description": "Brad Gerstner's win with Trump Accounts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-01-30-ice-chaos-in-minneapolis-clawdbot-takeover-why-the-dollar-is-dropping",
@@ -3356,7 +2745,8 @@
           "timestamp_seconds": 7098,
           "description": "De-dollarization trend and gold and silver prices discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-01-25-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026",
@@ -3460,7 +2850,8 @@
           "timestamp_seconds": 10227,
           "description": "Chase Lochmiller discusses powering AI buildout"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-01-24-dr-mehmet-oz-on-fixing-american-healthcare-fraud-live-from-davos",
@@ -3542,7 +2933,8 @@
           "timestamp_seconds": 35,
           "description": "Discussion of the medical fraud crisis begins"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-01-23-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition",
@@ -3689,7 +3081,8 @@
           "timestamp_seconds": 2778,
           "description": "Discussion on Elon Musk's comments about the impact of AI on jobs"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-01-23-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos",
@@ -3778,7 +3171,8 @@
           "timestamp_seconds": 7090,
           "description": "Jake Loosararian discusses AI and physical robots"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-01-22-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial",
@@ -3856,7 +3250,8 @@
           "timestamp_seconds": 35,
           "description": "Discussion of the 'Censorship Industrial Complex' in America"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-01-21-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-open",
@@ -3939,7 +3334,8 @@
           "timestamp_seconds": 19,
           "description": "Discussion on OpenAI deal and Microsoft's AI stack"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-01-17-irans-breaking-point-trumps-greenland-acquisition-and-solving-energy-costs",
@@ -4014,7 +3410,8 @@
           "timestamp_seconds": 5613,
           "description": "The importance of acquiring Greenland is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-01-15-supercharging-a-new-fda-marty-makary-on-science-power-patients",
@@ -4093,7 +3490,8 @@
           "timestamp_seconds": 751,
           "description": "Discussion on the China race in biotech"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-01-13-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism",
@@ -4177,7 +3575,8 @@
           "timestamp_seconds": 3484,
           "description": "Big Tech and AI's role in the 2028 Election is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-01-10-all-ins-2026-predictions",
@@ -4257,7 +3656,8 @@
           "timestamp_seconds": 56,
           "description": "Discussion of the most contrarian belief about AI"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-01-09-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026",
@@ -4336,7 +3736,8 @@
           "timestamp_seconds": 3938,
           "description": "Discussion about potential 6% GDP growth in 2026"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2026-01-08-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasse",
@@ -4415,7 +3816,8 @@
           "timestamp_seconds": 40,
           "description": "Tech time capsule discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-12-31-massive-somali-fraud-in-minnesota-with-nick-shirley-california-asset-seizure-20b",
@@ -4498,7 +3900,8 @@
           "timestamp_seconds": 6136,
           "description": "Chamath breaks down the $20B Groq-Nvidia deal"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-12-24-all-in-x-kill-tony-a-hilarious-holiday-special",
@@ -4591,7 +3994,8 @@
           "timestamp_seconds": 50,
           "description": "The 2025 Bestie Awards"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-12-22-scott-bessent-fixing-the-fed-tariffs-for-national-security-solving-affordability",
@@ -4674,7 +4078,8 @@
           "timestamp_seconds": 23,
           "description": "Discussion about the Fed's biggest mistakes and the 15-year asset bubble"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-12-19-bernie-sanders-stop-all-ai-chinas-euv-breakthrough-inflation-down-golden-age-in-",
@@ -4746,7 +4151,8 @@
           "timestamp_seconds": 3596,
           "description": "China's major AI breakthrough: EUV lithography"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-12-13-tucker-carlson-rise-of-nick-fuentes-paramount-vs-netflix-anti-ai-sentiment-hotte",
@@ -4839,7 +4245,8 @@
           "timestamp_seconds": 4862,
           "description": "Tucker Carlson discusses US midterm issues and the fall of Europe"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-12-06-openais-code-red-sacks-vs-new-york-times-new-poverty-line",
@@ -4925,7 +4332,8 @@
           "timestamp_seconds": 51,
           "description": "New poverty line concept introduced"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-11-26-mollys-game-uncensored-the-truth-behind-the-worlds-most-infamous-poker-game",
@@ -5007,7 +4415,8 @@
           "timestamp_seconds": 17,
           "description": "Molly talks about moving the game to NYC and the legal troubles that followed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-11-22-epstein-files-fallout-nvidia-risks-burrys-bad-bet-googles-breakthrough-tethers-b",
@@ -5084,7 +4493,8 @@
           "timestamp_seconds": 48,
           "description": "Alan Keating joins the show"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-11-14-home-affordability-crisis-palantirs-advantage-big-short-on-ai-h-1b-abuse-solar-s",
@@ -5166,7 +4576,8 @@
           "timestamp_seconds": 3074,
           "description": "Rich Americans fleeing 'the great confiscation' is mentioned"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-11-07-does-openai-need-a-bailout-mamdani-wins-socialism-rising-filibuster-nuclear-opti",
@@ -5254,7 +4665,8 @@
           "timestamp_seconds": 3919,
           "description": "Discussion on the state of the market and the consumer"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-11-05-ari-emanuel-on-the-future-of-entertainment-hollywood-ai-creator-economy-youtube-",
@@ -5332,7 +4744,8 @@
           "timestamp_seconds": 18,
           "description": "Ari Emanuel shares his relationship with Michael Ovitz and building on his vision"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-11-04-inside-saudi-arabias-ai-ambition-tareq-amin-on-building-a-new-tech-superpower",
@@ -5424,7 +4837,8 @@
           "timestamp_seconds": 24,
           "description": "Discussion of the US-Saudi AI alliance"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-11-03-triple-h-on-wwes-evolution-the-rise-of-the-antihero-and-the-psychology-of-stardo",
@@ -5503,7 +4917,8 @@
           "timestamp_seconds": 1418,
           "description": "Discussion on the impact of the internet on wrestlers' personas"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-31-elon-musk-openai-betrayal-his-future-at-tesla-and-the-next-big-thing-grokipedia",
@@ -5590,7 +5005,8 @@
           "timestamp_seconds": 6934,
           "description": "Bill Gates' change of heart on climate change is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-30-pete-buttigieg-the-lefts-identity-crisis-wealth-tax-2024-mistakes-plans-for-2028",
@@ -5678,7 +5094,8 @@
           "timestamp_seconds": 3679,
           "description": "Pete Buttigieg announces plans to run in 2028"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-28-nobel-peace-prize-winner-maría-corina-machado-on-defeating-maduro-socialism-free",
@@ -5761,7 +5178,8 @@
           "timestamp_seconds": 54,
           "description": "Discussion of the rise of socialism in the US"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-27-nobel-prize-in-physics-winner-john-martinis-on-the-state-of-quantum",
@@ -5852,7 +5270,8 @@
           "timestamp_seconds": 41,
           "description": "US vs China in quantum technology is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-24-nba-gambling-scandal-tesla-trillion-dollar-vote-billionaire-tax-amazon-robots-aw",
@@ -5928,7 +5347,8 @@
           "timestamp_seconds": 2995,
           "description": "Tesla's earnings and Elon's pay package are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-23-joe-manchin-on-the-fight-for-americas-future-term-limits-bipartisanship-the-2028",
@@ -6016,7 +5436,8 @@
           "timestamp_seconds": 57,
           "description": "The group discusses expectations vs reality for past presidencies and thoughts on the 2028 election"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-21-california-forever-the-startup-building-americas-next-great-city",
@@ -6106,7 +5527,8 @@
           "timestamp_seconds": 641,
           "description": "Jan Sramek concludes his presentation"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-17-trump-send-national-guard-to-sf-china-rare-earths-trade-war-ais-pr-crisis",
@@ -6187,7 +5609,8 @@
           "timestamp_seconds": 52,
           "description": "AI PR crisis discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-16-1929-vs-2025-andrew-ross-sorkin-on-crashes-bubbles-lessons-learned",
@@ -6275,7 +5698,8 @@
           "timestamp_seconds": 40,
           "description": "Discussion of the need for a 'New Deal' in 2025"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-15-how-orlando-bravo-built-one-of-the-most-successful-firms-in-private-equity",
@@ -6358,7 +5782,8 @@
           "timestamp_seconds": 15,
           "description": "Bravo explains Thoma Bravo's deal pricing philosophy"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-14-cathie-wood-on-how-ai-can-double-gdp-bull-case-for-bitcoin-1m-elons-trillion-dol",
@@ -6450,7 +5875,8 @@
           "timestamp_seconds": 481,
           "description": "Discussion of Elon's trillion-dollar pay package"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-14-bryan-johnson-the-1-longevity-secret-you-can-start-doing-today",
@@ -6532,7 +5958,8 @@
           "timestamp_seconds": 353,
           "description": "Bryan Johnson shares the single best longevity hack"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-10-trump-brokers-gaza-peace-deal-national-guard-in-chicago-openaiamd-ai-roundtrippi",
@@ -6620,7 +6047,8 @@
           "timestamp_seconds": 80,
           "description": "Polymarket's $2B investment from NYSE owner ICE"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-09-sequoias-roelof-botha-why-venture-capital-is-broken-how-great-companies-are-buil",
@@ -6698,7 +6126,8 @@
           "timestamp_seconds": 20,
           "description": "Roelof shares his insights on what makes a great founder"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-08-joe-tsai-on-us-china-rivalry-ais-future-owning-the-netsliberty-caitlin-clarks-ma",
@@ -6787,7 +6216,8 @@
           "timestamp_seconds": 23,
           "description": "AI adoption and job anxiety discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-08-youtube-ceo-neal-mohan-on-ai-censorship-the-future-of-creators",
@@ -6866,7 +6296,8 @@
           "timestamp_seconds": 683,
           "description": "Discussion of censorship on YouTube"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-03-biggest-lbo-ever-spac-20-open-source-ai-models-state-ai-regulation-frenzy",
@@ -6947,7 +6378,8 @@
           "timestamp_seconds": 2327,
           "description": "Discussion of OpenAI and Meta's short-form video apps"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-02-ro-khanna-on-crime-censorship-congress-fixing-whats-broken-in-america",
@@ -7044,7 +6476,8 @@
           "timestamp_seconds": 40,
           "description": "Discussion on crime issues in major cities and common sense solutions"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-10-01-multicoin-capitals-kyle-samani-on-internet-capital-markets",
@@ -7131,7 +6564,8 @@
           "timestamp_seconds": 3,
           "description": "Exploration of a redesigned capital market structure"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-30-rick-caruso-on-californias-collapse-broken-leadership-la-wildfire-failures-the-f",
@@ -7217,7 +6651,8 @@
           "timestamp_seconds": 17,
           "description": "Caruso proposes solutions to California's problems"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-30-science-corner-special-david-friedberg-cleo-abram-alex-filippenko-and-keller-rin",
@@ -7308,7 +6743,8 @@
           "timestamp_seconds": 53,
           "description": "Q&A session with Keller Rinaudo Cliffton, Cleo, and Friedberg"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-30-arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
@@ -7396,7 +6832,8 @@
           "timestamp_seconds": 23,
           "description": "The US-China AI arms race is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-29-inside-the-glp-1-gold-rush-eli-lilly-ceo-on-new-breakthroughs-addiction-mental-h",
@@ -7480,7 +6917,8 @@
           "timestamp_seconds": 18,
           "description": "Discussion of GLP-1's impact on addiction and mental health"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-27-h-1b-shakeup-kimmel-apology-autism-causes-california-hate-speech-law",
@@ -7556,7 +6994,8 @@
           "timestamp_seconds": 59,
           "description": "AI paper discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-24-eric-schmidt-on-ai-the-battle-with-china-and-the-future-of-america",
@@ -7622,7 +7061,8 @@
           "timestamp_seconds": 21,
           "description": "Discussion about AGI being a potential boom or bust"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-19-charlie-kirk-murder-assassination-culture-in-america-jimmy-kimmel-suspended-elli",
@@ -7698,7 +7138,8 @@
           "timestamp_seconds": 30,
           "description": "Jimmy Kimmel's suspension is announced"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-18-solanas-anatoly-yakovenko-on-cryptos-next-era-quantum-ai-and-the-future-of-money",
@@ -7781,7 +7222,8 @@
           "timestamp_seconds": 16,
           "description": "Discussion of AI's impact on crypto"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-17-uber-ceo-dara-khosrowshahi-on-self-drivings-future-changing-business-model-job-d",
@@ -7861,7 +7303,8 @@
           "timestamp_seconds": 2231,
           "description": "Discussion on potential job displacement caused by self-driving technology"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-16-the-college-crisis-heads-of-dartmouth-berkeley-debate-the-decline-of-us-universi",
@@ -7946,7 +7389,8 @@
           "timestamp_seconds": 1400,
           "description": "Rich Lyons shares his perspective on the complexity of the issues"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-15-robinhood-ceo-vlad-tenev-on-tokenizing-stocks-expanding-access-to-private-shares",
@@ -8041,7 +7485,8 @@
           "timestamp_seconds": 23,
           "description": "Harmonic and building mathematical superintelligence"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-15-tulsi-gabbard-on-russiagate-hoax-evidence-and-how-shes-reforming-politicized-int",
@@ -8129,7 +7574,8 @@
           "timestamp_seconds": 35,
           "description": "Tulsi Gabbard shares her thoughts on designating drug cartels as terrorist organizations"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-12-google-deepmind-ceo-demis-hassabis-on-ai-creativity-and-a-golden-age-of-science-",
@@ -8211,7 +7657,8 @@
           "timestamp_seconds": 24,
           "description": "Discussion of Isomorphic Labs and the golden age of science"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-10-elon-musk-on-doge-optimus-starlink-smartphones-evolving-with-ai-why-the-west-is-",
@@ -8295,7 +7742,8 @@
           "timestamp_seconds": 37,
           "description": "SpaceX plans for the Moon and Mars"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-09-palantir-ceo-alex-karp-why-the-west-is-destroying-itself-data-empire-skeptics-ho",
@@ -8373,7 +7821,8 @@
           "timestamp_seconds": 8,
           "description": "Palantir's work at the border is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-09-how-to-save-america-mark-cuban-and-tucker-carlson-debate-all-in-summit-2025",
@@ -8457,7 +7906,8 @@
           "timestamp_seconds": 39,
           "description": "Lightning round with Tucker Carlson"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-09-the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-202",
@@ -8527,7 +7977,8 @@
           "timestamp_seconds": 2,
           "description": "Big announcement about Nasdaq offering tokenized securities"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-08-energy-secretary-chris-wright-on-the-future-of-american-energy-all-in-summit-202",
@@ -8598,7 +8049,8 @@
           "timestamp_seconds": 1840,
           "description": "Chamath presents his energy framework"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-07-inside-the-white-house-tech-dinner-weak-jobs-report-tariffs-court-challenge-goog",
@@ -8684,7 +8136,8 @@
           "timestamp_seconds": 698,
           "description": "Weak jobs report discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-09-05-senator-rand-paul-tariffs-debt-china-and-a-warning-for-america",
@@ -8763,7 +8216,8 @@
           "timestamp_seconds": 61,
           "description": "The conversation turns to US relations with China"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-08-29-trump-takes-on-the-fed-us-intel-deal-why-bankruptcies-are-up-openais-longevity-b",
@@ -8840,7 +8294,8 @@
           "timestamp_seconds": 4320,
           "description": "OpenAI's breakthrough in longevity research is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-08-22-ai-bubble-pops-zuck-freezes-hiring-newsoms-2028-surge-russiaukraine-endgame",
@@ -8919,7 +8374,8 @@
           "timestamp_seconds": 54,
           "description": "Russia-Ukraine conflict and potential endgame are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-08-20-senator-eric-schmitt-exposing-the-biggest-censorship-scandal-in-us-history",
@@ -9007,7 +8463,8 @@
           "timestamp_seconds": 47,
           "description": "The Russia-Ukraine War and US foreign policy are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-08-15-ai-psychosis-americas-broken-social-fabric-trump-takes-over-dc-police-is-vc-brok",
@@ -9087,7 +8544,8 @@
           "timestamp_seconds": 49,
           "description": "Trump's takeover of DC police is announced"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-08-09-openais-gpt-5-flop-ais-unlimited-market-chinas-big-advantage-rise-in-socialism-h",
@@ -9163,7 +8621,8 @@
           "timestamp_seconds": 5271,
           "description": "Discussion of Nvidia chips being smuggled to China"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-08-01-trump-ai-speech-action-plan-dc-summit-recap-hot-gdp-print-trade-deals-altman-war",
@@ -9245,7 +8704,8 @@
           "timestamp_seconds": 62,
           "description": "Discussion of the hot GDP print and the Fed's decision not to cut interest rates"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-07-24-winning-the-ai-race-part-5-president-trump-on-the-ai-action-plan",
@@ -9326,7 +8786,8 @@
           "timestamp_seconds": 54,
           "description": "Executive Order signing for AI development"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-07-23-winning-the-ai-race-part-1-michael-kratsios-kelly-loeffler-chris-power-shyam-san",
@@ -9414,7 +8875,8 @@
           "timestamp_seconds": 44,
           "description": "Shyam Sankar emphasizes the importance of AI safety"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-07-23-winning-the-ai-race-part-4-scott-bessent-howard-lutnick-chris-wright-and-doug-bu",
@@ -9505,7 +8967,8 @@
           "timestamp_seconds": 35,
           "description": "Introduction to Howard Lutnick, Commerce Secretary"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-07-23-winning-the-ai-race-part-3-jensen-huang-lisa-su-james-litinsky-chase-lochmiller",
@@ -9607,7 +9070,8 @@
           "timestamp_seconds": 43,
           "description": "Jensen Huang shares his insights on Nvidia and AI"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-07-23-winning-the-ai-race-part-2-vice-president-jd-vance",
@@ -9693,7 +9157,8 @@
           "timestamp_seconds": 16,
           "description": "The impact of AI on jobs is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-07-19-trump-vs-powell-solving-the-debt-crisis-the-10t-agi-prize-genius-act-becomes-law",
@@ -9791,7 +9256,8 @@
           "timestamp_seconds": 3936,
           "description": "Sacks interviews Senator Bill Hagerty on the passing of the GENIUS Act"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-07-11-grok-4-wows-the-bitter-lesson-elons-third-party-ai-browsers-scotus-backs-potus-o",
@@ -9872,7 +9338,8 @@
           "timestamp_seconds": 73,
           "description": "SCOTUS decision on RIF plans"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-07-04-big-beautiful-bill-elontrump-dollar-down-big-harvards-money-problems-figma-ipo",
@@ -9955,7 +9422,8 @@
           "timestamp_seconds": 6451,
           "description": "Harvard's financial issues and potential investigation"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-06-28-12-day-war-socialism-wins-in-nyc-stocks-all-time-high-ai-copyright-science-corne",
@@ -10028,7 +9496,8 @@
           "timestamp_seconds": 1062,
           "description": "Science Corner on stem cell-driven aging reversal"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-06-21-ipos-and-spacs-are-back-mag-7-showdown-zuck-on-tilt-apples-fumble-genius-act-pas",
@@ -10113,7 +9582,8 @@
           "timestamp_seconds": 117,
           "description": "The GENIUS Act passing the Senate is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-06-19-tony-robbins-all-in-live-from-miami",
@@ -10204,7 +9674,8 @@
           "timestamp_seconds": 36,
           "description": "Tony Robbins shares his thoughts on longevity"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-06-13-ice-raids-la-riots-strong-economic-data-politicized-fed-iran-war-with-tucker-car",
@@ -10288,7 +9759,8 @@
           "timestamp_seconds": 89,
           "description": "War with Iran is discussed as a possibility"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-06-04-jared-isaacman-what-went-wrong-at-nasa-the-all-in-interview",
@@ -10368,7 +9840,8 @@
           "timestamp_seconds": 48,
           "description": "Jared Isaacman shares the truth behind his nomination being withdrawn by President Trump"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-06-03-miami-mayor-francis-suarez-the-recipe-for-creating-americas-happiest-city-all-in",
@@ -10455,7 +9928,8 @@
           "timestamp_seconds": 1025,
           "description": "Suarez's post-Mayor ambitions are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-05-31-ai-doom-vs-boom-ea-cult-returns-bbb-upside-us-steel-and-golden-votes",
@@ -10529,7 +10003,8 @@
           "timestamp_seconds": 4374,
           "description": "The hosts discuss the US Steel/Nippon Steel deal"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-05-29-nico-rosberg-on-the-booming-business-of-f1-all-in-live-from-miami",
@@ -10616,7 +10091,8 @@
           "timestamp_seconds": 16,
           "description": "Nico Rosberg talks about his post-F1 career"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-05-25-senator-ron-johnson-on-the-senate-showdown-over-trumps-big-beautiful-bill-all-in",
@@ -10697,7 +10173,8 @@
           "timestamp_seconds": 54,
           "description": "The next steps if the bill passes are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-05-24-bond-crisis-looming-gop-abandons-doge-google-disrupts-search-with-ai-openai-buys",
@@ -10779,7 +10256,8 @@
           "timestamp_seconds": 46,
           "description": "OpenAI's acquisition of Jony Ive's design startup is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-05-21-antonio-gracias-doge-updates-voter-fraud-arrests-finding-big-balls-all-in-live-f",
@@ -10860,7 +10338,8 @@
           "timestamp_seconds": 1094,
           "description": "Voter fraud findings are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-05-20-sergey-brin-google-co-founder-all-in-live-from-miami",
@@ -10946,7 +10425,8 @@
           "timestamp_seconds": 12,
           "description": "AI robotics and humanoids are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-05-17-trumps-big-week-middle-east-trip-china-deal-pharma-eo-big-beautiful-bill-with-be",
@@ -11045,7 +10525,8 @@
           "timestamp_seconds": 7098,
           "description": "Montana bans cell-based meat"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-05-16-sundar-pichai-ceo-of-alphabet-the-all-in-interview",
@@ -11128,7 +10609,8 @@
           "timestamp_seconds": 41,
           "description": "Google's progress in quantum computing and robotics"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-05-09-fed-hesitates-on-tariffs-the-new-mag-7-death-of-vc-googles-value-in-a-post-searc",
@@ -11144,7 +10626,8 @@
       "topics": [],
       "guests": [],
       "sentiment": {},
-      "notable_moments": []
+      "notable_moments": [],
+      "notable_mentions": []
     },
     {
       "id": "2025-05-06-doug-burgum-secretary-of-the-interior-all-in-dc",
@@ -11226,7 +10709,8 @@
           "timestamp_seconds": 34,
           "description": "Explanation of the National Balance Sheet idea"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-05-04-brooke-rollins-secretary-of-agriculture-all-in-dc",
@@ -11314,7 +10798,8 @@
           "timestamp_seconds": 21,
           "description": "SNAP program's impact on USDA budget"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-05-02-trumps-first-100-days-tariffs-impact-trade-ai-agents-amazon-backs-down",
@@ -11401,7 +10886,8 @@
           "timestamp_seconds": 64,
           "description": "AI agents and their potential impact"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-04-26-trump-rally-or-bessent-put-elon-back-at-tesla-googles-gemini-problem-chinas-thor",
@@ -11485,7 +10971,8 @@
           "timestamp_seconds": 65,
           "description": "Tesla's jump after Elon's return"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-04-19-trump-vs-harvard-nvidia-export-controls-how-dei-killed-hollywood-with-tim-dillon",
@@ -11556,7 +11043,8 @@
           "timestamp_seconds": 4266,
           "description": "David Friedberg updates on his Celebrity Jeopardy run"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-04-11-the-great-tariff-debate-with-david-sacks-larry-summers-and-ezra-klein",
@@ -11649,7 +11137,8 @@
           "timestamp_seconds": 119,
           "description": "The abundance agenda is discussed as a potential solution for economic growth"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-04-05-doge-updates-liberation-day-tariff-reactions-with-ben-shapiro-and-antonio-gracia",
@@ -11739,7 +11228,8 @@
           "timestamp_seconds": 103,
           "description": "Chamath discusses his best-performing asset of 2025"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-04-03-all-in-live-from-austin-colin-and-samir-chris-williamson-and-bryan-johnson",
@@ -11829,7 +11319,8 @@
           "timestamp_seconds": 79,
           "description": "Bryan Johnson shares his ketamine experience"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-03-29-the-ai-cold-war-signalgate-coreweave-ipo-tariff-endgames-el-salvador-deportation",
@@ -11902,7 +11393,8 @@
           "timestamp_seconds": 53,
           "description": "Signalgate context and fallout are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-03-22-white-house-bts-google-buys-wiz-treasury-vs-fed-space-rescue",
@@ -11991,7 +11483,8 @@
           "timestamp_seconds": 4337,
           "description": "Discussion of space rescue efforts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-03-20-howard-lutnick-all-in-dc",
@@ -12077,7 +11570,8 @@
           "timestamp_seconds": 4214,
           "description": "Lutnick shares his thoughts on AI and its potential impact"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-03-19-scott-bessent-all-in-dc",
@@ -12166,7 +11660,8 @@
           "timestamp_seconds": 50,
           "description": "Conversation around re-engineering social security"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-03-15-fixing-the-american-dream-with-andrew-schulz",
@@ -12244,7 +11739,8 @@
           "timestamp_seconds": 112,
           "description": "Andrew shares his experience in comedy"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-03-08-tariffs-trumps-economic-endgame-market-chaos-bitcoin-reserve-coreweave-ipo",
@@ -12324,7 +11820,8 @@
           "timestamp_seconds": 3212,
           "description": "The hosts discuss the CoreWeave IPO"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-03-01-epstein-files-flop-state-of-the-market-autonomous-robots-trumps-gold-card-friedb",
@@ -12402,7 +11899,8 @@
           "timestamp_seconds": 2106,
           "description": "Comparison of Stripe and Adyen's annual reports"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-02-21-the-stablecoin-future-mileis-memecoin-doge-for-the-dod-grok-3-why-stripe-stays-p",
@@ -12486,7 +11984,8 @@
           "timestamp_seconds": 60,
           "description": "Arc Institute's Evo 2 AI model discussion starts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-02-15-jd-vances-ai-speech-techno-optimists-vs-doomers-tariffs-ai-court-cases-with-nava",
@@ -12570,7 +12069,8 @@
           "timestamp_seconds": 110,
           "description": "Naval talks about his experience building AirChat and the importance of taking technical risks"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-02-07-doge-vs-usaid-crypto-framework-googles-75b-ai-spend-us-sovereign-wealth-fund-glp",
@@ -12653,7 +12153,8 @@
           "timestamp_seconds": 4097,
           "description": "Google's $75B AI spend announcement"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-01-31-deepseek-panic-us-vs-china-openai-40b-and-doge-delivers-with-travis-kalanick-and",
@@ -12735,7 +12236,8 @@
           "timestamp_seconds": 50,
           "description": "Discussion on US vs China in AI"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-01-28-ray-dalio-the-all-in-interview",
@@ -12817,7 +12319,8 @@
           "timestamp_seconds": 53,
           "description": "Discussion of DOGE, Trump, and AI's greatest risk"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-01-25-trumps-first-week-inauguration-recap-executive-actions-tiktok-stargate-sacks-is-",
@@ -12892,7 +12395,8 @@
           "timestamp_seconds": 107,
           "description": "David Sacks joins to discuss the President's new executive orders"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-01-20-inauguration-interviews-trumps-talent-democratic-rebrand-more-with-house-whip-em",
@@ -12986,7 +12490,8 @@
           "timestamp_seconds": 4081,
           "description": "Rep. Ro Khanna discusses reforming the Democratic party"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-01-19-senator-ted-cruz-the-all-in-inauguration-series",
@@ -13081,7 +12586,8 @@
           "timestamp_seconds": 35,
           "description": "Trump's strategy on Greenland/Denmark and Canada"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-01-18-red-pilled-billionaires-la-fire-update-newsoms-price-caps-tiktok-ban-jobless-mba",
@@ -13164,7 +12670,8 @@
           "timestamp_seconds": 94,
           "description": "Mark Pincus shares his thoughts on UFOs and UAPs"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-01-11-las-wildfire-disaster-zuck-flips-on-free-speech-why-trump-wants-greenland",
@@ -13239,7 +12746,8 @@
           "timestamp_seconds": 3544,
           "description": "Zuckerberg's shift on free speech is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2025-01-04-2025-predictions-with-bestie-gavin-baker",
@@ -13322,7 +12830,8 @@
           "timestamp_seconds": 106,
           "description": "Drones and UFOs discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-12-20-doge-kills-its-first-bill-zuck-vs-openai-googles-ai-comeback-with-bestie-aaron-l",
@@ -13402,7 +12911,8 @@
           "timestamp_seconds": 87,
           "description": "Google's AI turnaround is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-12-13-trumps-cabinet-googles-quantum-chip-apples-flop-tiktok-state-of-vc-with-bestie-k",
@@ -13489,7 +12999,8 @@
           "timestamp_seconds": 55,
           "description": "TikTok's ban is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-12-07-new-sec-chair-bitcoin-xai-supercomputer-unitedhealth-ceo-murder-with-gavin-baker",
@@ -13570,7 +13081,8 @@
           "timestamp_seconds": 4088,
           "description": "UnitedHealth CEO murder discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-11-23-doge-unveils-a-roadmap-unlocking-gdp-growth-ww3-escalation-fat-cell-memory",
@@ -13658,7 +13170,8 @@
           "timestamp_seconds": 60,
           "description": "Science Corner: Fat cell memory"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-11-16-trumps-market-impact-bitcoin-ma-ipos-transition-picks-polymarket-ceo-raided-by-f",
@@ -13731,7 +13244,8 @@
           "timestamp_seconds": 3497,
           "description": "FBI raid on Polymarket CEO's home discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-11-08-trump-wins-how-it-happened-and-whats-next",
@@ -13824,7 +13338,8 @@
           "timestamp_seconds": 135,
           "description": "Abortion laws being settled around the US"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-11-01-inflated-gdp-google-earnings-how-the-media-lost-trust-rogantrump-search-controve",
@@ -13902,7 +13417,8 @@
           "timestamp_seconds": 4084,
           "description": "Discussion on election integrity and voter fraud"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-10-25-markets-turn-trump-long-rates-spike-election-home-stretch-influencer-mania-savin",
@@ -13973,7 +13489,8 @@
           "timestamp_seconds": 53,
           "description": "The hosts discuss the election data and its implications"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-10-18-dueling-presidential-interviews-spacexs-big-catch-robotaxis-uber-buying-expedia-",
@@ -14044,7 +13561,8 @@
           "timestamp_seconds": 71,
           "description": "Lawfare from the California Coastal Commission"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-10-15-jd-vance-all-in-summit-2024",
@@ -14128,7 +13646,8 @@
           "timestamp_seconds": 892,
           "description": "JD Vance talks about the government procurement process"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-10-11-hurricane-fallout-alphafold-google-breakup-trump-surge-vc-giveback-tiktok-survey",
@@ -14209,7 +13728,8 @@
           "timestamp_seconds": 53,
           "description": "VC giveback: CRV returns $275M to LPs"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-10-08-elon-musk-all-in-summit-2024",
@@ -14297,7 +13817,8 @@
           "timestamp_seconds": 3243,
           "description": "Elon and Jason share unaired SNL skits"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-10-03-in-conversation-with-mark-cuban",
@@ -14377,7 +13898,8 @@
           "timestamp_seconds": 67,
           "description": "Cuban shares thoughts on international conflict and national debt"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-10-01-john-mearsheimer-and-jeffrey-sachs-all-in-summit-2024",
@@ -14456,7 +13978,8 @@
           "timestamp_seconds": 22,
           "description": "Discussion on the China threat"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-09-27-openais-150b-conversion-metas-ar-glasses-blue-collar-boom-risk-of-nuclear-war",
@@ -14541,7 +14064,8 @@
           "timestamp_seconds": 109,
           "description": "The blue-collar boom and its implications are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-09-20-big-fed-rate-cuts-ai-killing-call-centers-50b-govt-boondoggle-vcs-rough-years-tr",
@@ -14622,7 +14146,8 @@
           "timestamp_seconds": 4038,
           "description": "Reaction to the first Trump/Kamala debate"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-09-06-founder-mode-doj-alleges-russian-podcast-op-kamala-flips-proposals-tech-loses-se",
@@ -14703,7 +14228,8 @@
           "timestamp_seconds": 68,
           "description": "DOJ charges against two Russians are announced"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-08-30-in-conversation-with-reid-hoffman-robert-f-kennedy-jr",
@@ -14791,7 +14317,8 @@
           "timestamp_seconds": 1193,
           "description": "Robert F. Kennedy Jr. joins the conversation and discusses his campaign and decision to back Trump"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-08-23-massive-jobs-revision-kamalas-wealth-tax-polls-vs-prediction-markets-end-of-race",
@@ -14876,7 +14403,8 @@
           "timestamp_seconds": 3899,
           "description": "Kamala Harris supports Biden's tax plans"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-08-16-break-up-google-starbucks-ceo-out-kamalas-price-controls-boeing-disaster-kursk-o",
@@ -14952,7 +14480,8 @@
           "timestamp_seconds": 4867,
           "description": "Boeing Starliner disaster discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-08-09-yen-carry-trade-recession-odds-grow-buffett-cash-pile-google-ruled-monopoly-kama",
@@ -15030,7 +14559,8 @@
           "timestamp_seconds": 4981,
           "description": "Kamala picks Tim Walz as running mate"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-08-02-kamala-surges-trump-at-nabj-recession-fears-middle-east-escalation-ackman-postpo",
@@ -15101,7 +14631,8 @@
           "timestamp_seconds": 3977,
           "description": "Bill Ackman withdraws Pershing Square USA IPO"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-07-26-mag-7-sell-off-wiz-rejects-google-ubi-kamala-in-chinas-nuclear-buildout-sacks-re",
@@ -15186,7 +14717,8 @@
           "timestamp_seconds": 4087,
           "description": "David Sacks responds to a smear campaign"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-07-19-trump-assassination-attempt-secret-service-failure-inside-the-rnc-vc-liquidity-p",
@@ -15281,7 +14813,8 @@
           "timestamp_seconds": 59,
           "description": "VC update, including Sequoia's secondary offering for Stripe and Google's potential acquisition of Wiz"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-07-12-biden-chaos-soft-landing-secured-ai-sentiment-turns-bearish-french-elections",
@@ -15353,7 +14886,8 @@
           "timestamp_seconds": 2451,
           "description": "Mention of A16Z's 20,000 GPU cluster"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-07-10-jonathan-haidt-the-all-in-interview",
@@ -15436,7 +14970,8 @@
           "timestamp_seconds": 56,
           "description": "Lightning Round starts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-07-04-hot-swap-growing-donors-revolt-president-kamala-scotus-breakdown-immunity-chevro",
@@ -15516,7 +15051,8 @@
           "timestamp_seconds": 47,
           "description": "Discussion of SCOTUS decision on Chevron and federal agency power"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-06-29-presidential-debate-reaction-biden-hot-swap-tech-unemployment-openai-considers-f",
@@ -15587,7 +15123,8 @@
           "timestamp_seconds": 42443,
           "description": "OpenAI's potential for-profit conversion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-06-20-in-conversation-with-president-trump",
@@ -15670,7 +15207,8 @@
           "timestamp_seconds": 48,
           "description": "Debate prediction"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-06-14-elon-gets-paid-apples-ai-pop-openai-revenue-rip-macro-debate-inside-trump-fundra",
@@ -15755,7 +15293,8 @@
           "timestamp_seconds": 3936,
           "description": "Macro debate on the state of the US economy"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-06-07-doj-targets-nvidia-meme-stock-comeback-trump-fundraiser-in-sf-appleopenai-texas-",
@@ -15827,7 +15366,8 @@
           "timestamp_seconds": 2040,
           "description": "Meme stocks are back with Keith Gill's nine-figure position in GameStop"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-05-31-trump-verdict-covid-cover-up-crypto-corner-salesforce-drops-20-ai-correction",
@@ -15919,7 +15459,8 @@
           "timestamp_seconds": 3745,
           "description": "Salesforce drop discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-05-24-scarlett-johansson-vs-openai-nvidias-trillion-dollar-problem-the-vibecession-pla",
@@ -16000,7 +15541,8 @@
           "timestamp_seconds": 62,
           "description": "Discussion of the study on plastics in testicles"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-05-17-gpt-4o-launches-glue-demo-ohalo-breakthrough-drucks-argentina-bet-did-google-kil",
@@ -16093,7 +15635,8 @@
           "timestamp_seconds": 5061,
           "description": "Google launches AI summaries in search"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-05-10-in-conversation-with-sam-altman",
@@ -16182,7 +15725,8 @@
           "timestamp_seconds": 105,
           "description": "Google AlphaFold 3.0 announcement"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-05-03-in-conversation-with-sheryl-sandberg-plus-open-source-ai-gene-editing-explained",
@@ -16266,7 +15810,8 @@
           "timestamp_seconds": 59,
           "description": "Introduction to the Science Corner segment on open-source AI gene editing with OpenCRISPR-1"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-04-26-metas-scorched-earth-approach-to-ai-teslas-future-tiktok-bill-ftc-bans-noncompet",
@@ -16347,7 +15892,8 @@
           "timestamp_seconds": 5700,
           "description": "Discussion of proposed tax changes and their impact on entrepreneurship and innovation"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-04-19-google-fires-protestors-npr-chaos-humanes-ai-pin-startup-tax-crisis-sports-betti",
@@ -16423,7 +15969,8 @@
           "timestamp_seconds": 2108,
           "description": "Discussion of chaos and culture wars at NPR"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-04-12-inflation-stays-hot-ai-disclosure-bill-drone-warfare-defense-startups-more",
@@ -16513,7 +16060,8 @@
           "timestamp_seconds": 3970,
           "description": "Debate on drone warfare and its future implications"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-04-05-google-buying-hubspot-ftx-depositors-not-made-whole-ai-job-fears-ukraine-joining",
@@ -16583,7 +16131,8 @@
           "timestamp_seconds": 71,
           "description": "Discussion on Ukraine joining NATO"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-03-29-sbf-gets-25-years-trumps-meme-stock-rfk-jr-picks-vp-bidens-2025-budget-more",
@@ -16668,7 +16217,8 @@
           "timestamp_seconds": 4319,
           "description": "The price of cocoa is explained"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-03-22-doj-sues-apple-ai-arms-race-reddit-ipo-realtor-settlement-more",
@@ -16754,7 +16304,8 @@
           "timestamp_seconds": 3697,
           "description": "Reddit IPO discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-03-15-techs-vibe-shift-tiktok-ban-debate-vertical-ai-boom-florida-bans-lab-grown-meat-",
@@ -16825,7 +16376,8 @@
           "timestamp_seconds": 40,
           "description": "TikTok ban debate begins"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-03-08-elon-sues-openai-apples-decline-tiktok-ban-bitcoin-100k-science-corner-microplas",
@@ -16907,7 +16459,8 @@
           "timestamp_seconds": 4868,
           "description": "Bitcoin reaches new all-time high"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-03-01-can-google-save-itself-ai-takes-over-customer-support-reddit-ipo-teardown",
@@ -16984,7 +16537,8 @@
           "timestamp_seconds": 73,
           "description": "Reddit S-1 breakdown"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-02-23-nvidia-smashes-earnings-again-googles-woke-ai-disaster-groqs-lpu-breakthrough-mo",
@@ -17067,7 +16621,8 @@
           "timestamp_seconds": 49,
           "description": "Google's AI disaster"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-02-16-mind-blowing-ai-video-openai-launches-sora-is-biden-too-old-tuckerputin-intervie",
@@ -17142,7 +16697,8 @@
           "timestamp_seconds": 5718,
           "description": "The hosts share takeaways from Tucker's Putin interview"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-02-09-vision-pro-use-or-lose-meta-vs-snap-saas-recovery-ai-investing-rolling-real-esta",
@@ -17239,7 +16795,8 @@
           "timestamp_seconds": 4336,
           "description": "Update on the real estate crisis"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-02-02-zucks-senate-apology-elons-comp-package-voided-crony-capitalism-reddit-ipo-drone",
@@ -17320,7 +16877,8 @@
           "timestamp_seconds": 2179,
           "description": "Elon Musk's compensation package is voided"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-01-26-market-rips-media-rifs-texas-defies-biden-fintech-reckoning-arkstorm-20-more",
@@ -17414,7 +16972,8 @@
           "timestamp_seconds": 4737,
           "description": "Potential for ARkStorm 2.0 discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-01-19-live-from-davos-milei-goes-viral-adam-neumanns-headwinds-streamings-broken-model",
@@ -17503,7 +17062,8 @@
           "timestamp_seconds": 61,
           "description": "The broken streaming business model"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-01-13-us-strikes-houthis-market-instability-q1-rate-cuts-in-doubt-cartas-major-mishap-",
@@ -17579,7 +17139,8 @@
           "timestamp_seconds": 3937,
           "description": "DEI debate sparks discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2024-01-06-2024-predictions-markets-tech-politics-and-more",
@@ -17657,7 +17218,8 @@
           "timestamp_seconds": 1,
           "description": "The hosts introduce themselves and the topic of the episode"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-12-29-the-bestie-awards-recapping-the-best-and-worst-of-2023",
@@ -17739,7 +17301,8 @@
           "timestamp_seconds": null,
           "description": "The hosts discuss the biggest business loser of 2023"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-12-23-global-trade-disrupted-adobefigma-canceled-realtors-sued-trump-blocked",
@@ -17839,7 +17402,8 @@
           "timestamp_seconds": 90,
           "description": "Trump being blocked from primary ballots in Colorado is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-12-16-epic-legal-win-openai-licensing-deals-fcc-targets-elon-alex-jones-reinstated-mor",
@@ -17916,7 +17480,8 @@
           "timestamp_seconds": 58,
           "description": "Alex Jones reinstated on X"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-12-08-ivy-league-antisemitism-macro-saas-recovery-gemini-figma-deal-delay-big-friedber",
@@ -17994,7 +17559,8 @@
           "timestamp_seconds": 4250,
           "description": "Adobe's Figma acquisition stalls"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-12-01-in-conversation-with-tucker-carlson-plus-openai-chaos-explained",
@@ -18072,7 +17638,8 @@
           "timestamp_seconds": 4969,
           "description": "Discussion on the chaos at OpenAI"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-11-17-presidential-candidate-dean-phillips-in-conversation-with-the-besties-xis-sf-vis",
@@ -18145,7 +17712,8 @@
           "timestamp_seconds": 6300,
           "description": "DeepMind's new weather forecasting model is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-11-11-in-conversation-with-jared-kushner-israel-hamas-war-paths-forward-macro-picture-",
@@ -18224,7 +17792,8 @@
           "timestamp_seconds": 93,
           "description": "Big week in AI: OpenAI DevDay, xAI launches Grok, Kai-Fu Lee's announcement"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-11-03-real-estate-chaos-wework-bankruptcy-biden-regulates-ai-ukraines-cronkite-moment-",
@@ -18310,7 +17879,8 @@
           "timestamp_seconds": 4662,
           "description": "Biden's AI regulation is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-10-27-ww3-risk-war-with-iran-49-gdp-startup-failures-growing-new-speaker-more",
@@ -18386,7 +17956,8 @@
           "timestamp_seconds": 2434,
           "description": "Macro economic picture and startup shutdowns"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-10-20-israelgaza-escalating-or-not-eu-censorship-regime-penn-donors-revolt-glp-1-hype-",
@@ -18476,7 +18047,8 @@
           "timestamp_seconds": 484,
           "description": "The hosts discuss the potential for escalation and the impact on the world"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-10-13-hamas-terror-attacks-in-israel-fallout-reaction-next-steps",
@@ -18564,7 +18136,8 @@
           "timestamp_seconds": 47,
           "description": "Examination of Biden administration's next steps"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-10-07-mccarthy-ousted-border-chaos-cruises-robotaxi-accident-more",
@@ -18644,7 +18217,8 @@
           "timestamp_seconds": 3930,
           "description": "JSX faces potential regulatory capture"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-09-29-ted-goes-woke-canadas-nazi-blunder-ai-adds-vision-plus-who-owns-openai",
@@ -18725,7 +18299,8 @@
           "timestamp_seconds": 7099,
           "description": "Discussion about AI adding vision to its capabilities"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-09-22-did-the-fed-break-the-vc-model-plus-ipos-ma-revaluing-unicorns-more",
@@ -18802,7 +18377,8 @@
           "timestamp_seconds": 5171,
           "description": "Discussion of the new 'inverse-vaccine' treatment"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-09-08-presidential-candidate-chris-christie-in-conversation-with-the-besties",
@@ -18885,7 +18461,8 @@
           "timestamp_seconds": 115,
           "description": "Chris Christie explains why he's running for president"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-09-01-biden-targets-elon-brics-challenges-the-west-tiger-hit-piece-more",
@@ -18962,7 +18539,8 @@
           "timestamp_seconds": 3622,
           "description": "The hosts discuss the All-In Summit party and their experiences"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-08-25-nvidia-smashes-earnings-arm-walks-the-plank-ma-market-vivek-dominates-gop-debate",
@@ -19039,7 +18617,8 @@
           "timestamp_seconds": 3333,
           "description": "Vivek Ramaswamy's statement at the GOP debate"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-08-18-rich-men-north-of-richmond-hits-1-upward-mobility-real-estate-capital-crunch-tru",
@@ -19120,7 +18699,8 @@
           "timestamp_seconds": 72,
           "description": "Trump's indictment discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-08-11-state-of-series-as-vc-dry-powder-ipo-window-opens-more-with-bill-gurley-brad-ger",
@@ -19209,7 +18789,8 @@
           "timestamp_seconds": 86,
           "description": "Discussion on inflation and deflation risks"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-08-04-lk-99-sclerotic-establishments-fitch-downgrades-us-debt-trump-indicted-again",
@@ -19290,7 +18871,8 @@
           "timestamp_seconds": 3972,
           "description": "Trump's newest indictment"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-07-27-recapping-chamaths-wedding-vc-surplus-unions-vs-hollywood-room-temp-superconduct",
@@ -19353,7 +18935,8 @@
           "timestamp_seconds": 3904,
           "description": "Discussing the potential impact of room-temp superconductors"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-07-21-presidential-candidate-vivek-ramaswamy-in-conversation-with-the-besties",
@@ -19440,7 +19023,8 @@
           "timestamp_seconds": 54,
           "description": "Vivek Ramaswamy shares his thoughts on Trump"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-07-14-inflation-cools-market-rips-ripplemsft-beat-regulators-nato-summit-cocktails-of-",
@@ -19523,7 +19107,8 @@
           "timestamp_seconds": 64,
           "description": "NATO summit and ammo crisis discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-07-09-e136-hacking-the-pod-threads-launches-fed-minutes-immigration-debate-balloon-far",
@@ -19608,7 +19193,8 @@
           "timestamp_seconds": 4868,
           "description": "The hosts discuss the Chinese balloon incident as a political farce"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-07-01-wagner-rebels-scotus-ends-aa-ai-ma-startups-gone-bad-spacetime-warps-more",
@@ -19681,7 +19267,8 @@
           "timestamp_seconds": 3063,
           "description": "Databricks acquires MosaicML for $1.3B"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-06-24-ukraine-counteroffensive-china-tensions-covid-patient-zero-rfk-jr-reaction-more",
@@ -19759,7 +19346,8 @@
           "timestamp_seconds": 3099,
           "description": "RFK Jr's appearance on Rogan"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-06-16-market-melt-up-ipo-update-ai-startups-overheat-reddit-revolts-more-with-brad-ger",
@@ -19842,7 +19430,8 @@
           "timestamp_seconds": 64,
           "description": "Reddit moderators' revolt over API changes"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-06-10-sec-goes-after-crypto-giants-sequoia-splits-livpga-messis-deal-live-qa",
@@ -19936,7 +19525,8 @@
           "timestamp_seconds": 62,
           "description": "Live Q&A session from Angel Summit in Napa"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-06-02-2024-fantasy-president-picks-debt-ceiling-agreement-dollar-dominance-more",
@@ -20011,7 +19601,8 @@
           "timestamp_seconds": 7190,
           "description": "Nvidia's AI hardware monopoly plans"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-05-26-desantiss-twitter-spaces-debt-ceiling-nvidia-rips-state-of-vc-startup-failure-mo",
@@ -20098,7 +19689,8 @@
           "timestamp_seconds": 4253,
           "description": "The hosts discuss the state of Silicon Valley and startups"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-05-19-sam-altman-plays-chess-with-regulators-ais-nuclear-potential-big-pharma-bundling",
@@ -20174,7 +19766,8 @@
           "timestamp_seconds": 62,
           "description": "Apple's AR goggles to be unveiled at WWDC"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-05-12-google-enters-ai-wars-drucks-warning-trump-crushes-cnn-more",
@@ -20266,7 +19859,8 @@
           "timestamp_seconds": 603,
           "description": "David Sacks' thoughts on Hunter Biden"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-05-05-presidential-candidate-robert-f-kennedy-jr-in-conversation-with-the-besties",
@@ -20358,7 +19952,8 @@
           "timestamp_seconds": 544,
           "description": "RFK Jr. talks about evolving with new information"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-04-28-big-tech-blow-out-powells-recession-warning-lab-grown-meat-rfk-jr-shakes-up-race",
@@ -20434,7 +20029,8 @@
           "timestamp_seconds": 2872,
           "description": "Lab-grown meat possibilities and constraints"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-04-21-spacex-launch-fox-news-settlement-zombie-corn-exodus-to-ai-late-stage-implosion",
@@ -20515,7 +20111,8 @@
           "timestamp_seconds": 4866,
           "description": "DeSantis vs Trump polling update"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-04-14-autogpts-massive-potential-and-risk-ai-regulation-bob-leesf-update",
@@ -20599,7 +20196,8 @@
           "timestamp_seconds": 837,
           "description": "Call for AI regulation to prevent a 'shit show'"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-04-07-trump-indictment-de-dollarization-should-vcs-back-chinese-ai-rip-bob-lee",
@@ -20693,7 +20291,8 @@
           "timestamp_seconds": 3395,
           "description": "The hosts discuss VCs backing Chinese AI startups"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-03-31-is-ai-the-next-great-computing-platform-chatgpt-vs-google-containing-agi-restric",
@@ -20772,7 +20371,8 @@
           "timestamp_seconds": 808,
           "description": "ChatGPT plugins can make some MVPs obsolete"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-03-24-macro-update-fed-hike-cre-debt-bubble-balajis-bitcoin-bet-tiktoks-endgame-more",
@@ -20859,7 +20459,8 @@
           "timestamp_seconds": 901,
           "description": "The discount window borrowing spikes, exceeding anything seen in 2008"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-03-17-banking-crisis-and-the-great-vc-reset",
@@ -20944,7 +20545,8 @@
           "timestamp_seconds": 737,
           "description": "The hosts discuss the real issue behind the banking crisis, including supervisory failure"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-03-11-silicon-valley-bank-implodes-startup-extinction-event-contagion-risk-culpability",
@@ -21031,7 +20633,8 @@
           "timestamp_seconds": 346,
           "description": "The hosts discuss the potential for a run on regional banks"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-03-03-ai-fomo-frenzy-macro-update-fox-vs-dominion-us-vs-china-more-with-brad-gerstner",
@@ -21126,7 +20729,8 @@
           "timestamp_seconds": 709,
           "description": "Brad Gerstner compares AI to the internet and mobile"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-02-24-did-stripe-miss-its-window-plus-vc-market-update-ai-comes-for-saas-trumps-savvy-",
@@ -21216,7 +20820,8 @@
           "timestamp_seconds": 39,
           "description": "Discussion of AI's impact on SaaS and real-world businesses"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-02-17-toxic-out-of-control-trains-regulators-and-ai",
@@ -21308,7 +20913,8 @@
           "timestamp_seconds": 5727,
           "description": "The hosts discuss AI chatbot bias and problems."
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-02-11-the-ai-search-wars-google-vs-microsoft-nordstream-report-state-of-the-union",
@@ -21390,7 +20996,8 @@
           "timestamp_seconds": 694,
           "description": "The hosts start discussing the State of the Union address"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-02-04-markets-update-whipsaw-macro-picture-big-tech-startup-mass-extinction-event-vc-r",
@@ -21469,7 +21076,8 @@
           "timestamp_seconds": 62,
           "description": "Adani's potential fraud discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-01-27-doj-tries-to-break-up-google-vaccine-questions-ukraine-escalation-more",
@@ -21554,7 +21162,8 @@
           "timestamp_seconds": 4324,
           "description": "US to send tanks to Ukraine"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-01-20-is-davos-a-grift-plus-globalist-mishaps-debt-ceilings-tiktoks-endgame-more",
@@ -21636,7 +21245,8 @@
           "timestamp_seconds": 60,
           "description": "TikTok's future in the US is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-01-13-microsoft-to-invest-10b-in-openai-generative-ai-hype-americas-over-classificatio",
@@ -21711,7 +21321,8 @@
           "timestamp_seconds": 4097,
           "description": "Discussion of America's over-classification problem"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2023-01-06-2023-bestie-predictions",
@@ -21799,7 +21410,8 @@
           "timestamp_seconds": 4203,
           "description": "Prediction of a significant business deal in 2023"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-12-24-2022-bestie-awards-live-from-twitter-hq",
@@ -21888,7 +21500,8 @@
           "timestamp_seconds": 102,
           "description": "The hosts give out an award for worst human being"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-12-16-doxing-debate-nuclear-fusion-breakthrough-state-of-the-markets-more",
@@ -21958,7 +21571,8 @@
           "timestamp_seconds": 1258,
           "description": "Nuclear fusion breakthrough discussion starts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-12-10-the-twitter-files-parts-1-2-shadow-banning-story-suppression-interference-more",
@@ -22039,7 +21653,8 @@
           "timestamp_seconds": 58,
           "description": "Kevin O'Leary's defense of FTX and Senator Kyrsten Sinema's party switch"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-12-03-sbfs-media-strategy-ftx-culpability-chatgpt-saas-slowdown-more",
@@ -22112,7 +21727,8 @@
           "timestamp_seconds": 21,
           "description": "The hosts analyze FTX culpability and the role of media, investors, and regulators"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-11-19-tech-culture-wars-elon-vs-sbf-sabotaging-republicans-with-trump",
@@ -22195,7 +21811,8 @@
           "timestamp_seconds": 4693,
           "description": "SBF's leaked DMs and Elon's culture shift are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-11-12-ftx-collapse-with-coinbase-ceo-brian-armstrong-election-results-macro-update-mor",
@@ -22278,7 +21895,8 @@
           "timestamp_seconds": 1247,
           "description": "Brian Armstrong discusses FTX collapse and regulation"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-11-05-tech-layoffs-surge-big-tech-freezes-hiring-optimizing-for-profits-election-previ",
@@ -22360,7 +21978,8 @@
           "timestamp_seconds": 54,
           "description": "Midterm election preview starts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-10-29-elon-closes-twitter-deal-meta-uncertainty-zucks-historic-bet-big-tech-decline-mo",
@@ -22446,7 +22065,8 @@
           "timestamp_seconds": 3932,
           "description": "Big tech decline analysis"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-10-22-ye-acquires-parler-snap-drops-30-macro-outlook-vc-metrics-valuing-stocks-more",
@@ -22530,7 +22150,8 @@
           "timestamp_seconds": 32,
           "description": "Stability AI raises $101M fund"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-10-14-reflecting-on-the-first-100-shows-fan-questions-nuclear-threat-markets-amazon-mo",
@@ -22603,7 +22224,8 @@
           "timestamp_seconds": 53,
           "description": "The hosts discuss the Ukraine/Russia update and nuclear escalation"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-10-07-cheating-scandals-twitter-updates-rapid-ai-advancements-bidens-pardon-section-23",
@@ -22692,7 +22314,8 @@
           "timestamp_seconds": 3564,
           "description": "SCOTUS hearing cases on Section 230 is mentioned"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-10-01-big-tech-starts-making-cuts-fed-incompetency-global-debt-russiaukraine-more",
@@ -22772,7 +22395,8 @@
           "timestamp_seconds": 3630,
           "description": "Update on the Russia-Ukraine conflict"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-09-23-spac-updates-publicprivate-market-overview-putins-end-game-more",
@@ -22859,7 +22483,8 @@
           "timestamp_seconds": 50,
           "description": "Government-heavy climate plans and Dilbert/ESG backlash"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-09-17-adobe-acquires-figma-for-20b-tpb-spac-fedex-ceos-recession-warning-macro-picture",
@@ -22936,7 +22561,8 @@
           "timestamp_seconds": 3727,
           "description": "FedEx CEO warns of global recession"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-09-10-winter-is-coming-europes-energy-crisis-kim-kardashians-new-pe-firm-more",
@@ -23012,7 +22638,8 @@
           "timestamp_seconds": 53,
           "description": "The hosts discuss Kim Kardashian's new PE firm and its potential impact on the market"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-09-01-nft-volume-plummets-californias-overreach-fbi-meddling-climate-change-national-s",
@@ -23089,7 +22716,8 @@
           "timestamp_seconds": 2415,
           "description": "Zuckerberg's admission of FBI meddling in the 2020 election"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-08-26-twitter-whistleblower-cloud-security-vulnerabilities-student-debt-forgiveness-mo",
@@ -23166,7 +22794,8 @@
           "timestamp_seconds": 67,
           "description": "Science corner on gut microbiome and fecal transplants"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-08-20-adam-neumanns-second-act-a16zs-350m-bet-housing-policy-inflation-reduction-act-m",
@@ -23240,7 +22869,8 @@
           "timestamp_seconds": 61,
           "description": "Inflation Reduction Act signed into law"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-08-13-softbanks-21b-vision-fund-loss-signals-of-a-bubble-macro-picture-trump-raided-by",
@@ -23330,7 +22960,8 @@
           "timestamp_seconds": 50,
           "description": "FBI raid on Mar-a-Lago discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-08-05-twitter-subpoenas-market-overview-pelosis-taiwan-visit-more",
@@ -23417,7 +23048,8 @@
           "timestamp_seconds": 34,
           "description": "De-globalization trends and Pelosi's Taiwan visit discussion starts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-07-29-gdp-growth-negative-in-q2-shop-layoffs-alzheimers-fraud-ginkgo-acquires-zymergen",
@@ -23489,7 +23121,8 @@
           "timestamp_seconds": 59,
           "description": "Discussion of Alzheimer's research and Ginkgo's acquisition of Zymergen"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-07-22-first-principle-politics-china-chaos-outlook-state-of-privatepublic-markets-more",
@@ -23575,7 +23208,8 @@
           "timestamp_seconds": 5166,
           "description": "Amazon's acquisition of One Medical"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-07-14-emerging-markets-sri-lanka-91-cpi-market-sentiment-nasas-webb-telescope-more",
@@ -23659,7 +23293,8 @@
           "timestamp_seconds": 3900,
           "description": "NASA's Webb telescope images are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-07-08-macro-outlook-jobs-housing-inflation-dutch-farmers-protests-eu-climate-missteps",
@@ -23737,7 +23372,8 @@
           "timestamp_seconds": 4099,
           "description": "Biden's decline is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-06-30-sbfs-crypto-bailout-zendesk-sells-for-10b-buyout-targets-us-diplomacy-alphafold-",
@@ -23831,7 +23467,8 @@
           "timestamp_seconds": 88,
           "description": "AlphaFold breakthroughs are explained"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-06-24-markets-update-crypto-collapse-russiaukraine-endgame-state-of-the-podcast",
@@ -23908,7 +23545,8 @@
           "timestamp_seconds": 69,
           "description": "The hosts discuss the Russia-Ukraine conflict"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-06-23-ais-palmer-luckey-on-anduril",
@@ -23986,7 +23624,8 @@
           "timestamp_seconds": 53,
           "description": "Jason gives closing thoughts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-06-07-ais-bestie-ama-with-valors-antonio-gracias",
@@ -24075,7 +23714,8 @@
           "timestamp_seconds": 110,
           "description": "The conversation turns to the impact of tech on political discourse"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-06-03-ais-opening-chat-with-miami-mayor-francis-suarez",
@@ -24157,7 +23797,8 @@
           "timestamp_seconds": 5,
           "description": "Miami Mayor Francis Suarez joins the Besties on stage"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-06-02-ais-joe-lonsdale-on-the-problem-with-higher-education",
@@ -24240,7 +23881,8 @@
           "timestamp_seconds": 10,
           "description": "Q&A session with Joe Lonsdale begins"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-06-01-ais-the-lanbys-tandice-urban-on-solving-healthcares-customer-service-problem",
@@ -24316,7 +23958,8 @@
           "timestamp_seconds": 12,
           "description": "Bestie Q&A session starts, discussing various healthcare-related topics"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-05-31-ais-mp-materials-ceo-james-litinsky-on-rare-earths-supply-chain-and-energy-indep",
@@ -24398,7 +24041,8 @@
           "timestamp_seconds": 12,
           "description": "Bestie Q&A with James"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-05-30-ais-pear-vcs-mar-hershenson-on-making-successful-founders",
@@ -24481,7 +24125,8 @@
           "timestamp_seconds": 17,
           "description": "Bestie Q&A with Mar Hershenson starts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-05-29-ais-fivethirtyeights-nate-silver-on-how-gamblers-think",
@@ -24562,7 +24207,8 @@
           "timestamp_seconds": 19,
           "description": "Bestie Q&A session with Nate Silver begins"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-05-29-ais-divvy-homes-ceo-adena-hefets-breaks-down-the-state-of-the-us-housing-market",
@@ -24639,7 +24285,8 @@
           "timestamp_seconds": 30,
           "description": "Adena Hefets does a personal introduction"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-05-28-ais-glenn-greenwald-matt-taibbi-discuss-the-new-political-divide-moderated-by-da",
@@ -24736,7 +24383,8 @@
           "timestamp_seconds": 29,
           "description": "Audience Q&A session starts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-05-27-market-slide-continues-and-how-to-address-uvalde",
@@ -24815,7 +24463,8 @@
           "timestamp_seconds": 1793,
           "description": "SNAP's earnings miss and its impact on the market"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-05-26-ais-tim-urban-on-political-discourse-keith-rabois-on-early-stage-investing-in-20",
@@ -24901,7 +24550,8 @@
           "timestamp_seconds": 51,
           "description": "Keith Rabois shares his insights on early-stage investing in 2022"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-05-25-ais-antonio-garcia-martinez-glenn-greenwald-debate-ukraine-moderated-by-david-sa",
@@ -24997,7 +24647,8 @@
           "timestamp_seconds": 32,
           "description": "The debate concludes with final words from the guests"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-05-24-all-in-summit-claire-cormier-thielke-on-china-qa-with-flexports-ryan-petersen",
@@ -25082,7 +24733,8 @@
           "timestamp_seconds": 34,
           "description": "Ryan Petersen breaks down Flexport's business and the tumultuous past few years"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-05-23-all-in-summit-bill-gurley-brad-gerstner-on-markets-downturns-investment-cycles",
@@ -25167,7 +24819,8 @@
           "timestamp_seconds": 47,
           "description": "Brad predicts the market for next year and Bill shares post-Benchmark plans"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-05-16-elon-musk-on-twitters-bot-problem-spacexs-grand-plan-tesla-stories-giga-texas-mo",
@@ -25249,7 +24902,8 @@
           "timestamp_seconds": 3952,
           "description": "Elon Musk discusses SpaceX's grand vision and business model"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-05-13-recession-deep-dive-vc-psychology-macro-risks-tiger-global-predictions-and-more",
@@ -25332,7 +24986,8 @@
           "timestamp_seconds": 58,
           "description": "Advice for startup employees on how to evaluate companies"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-05-07-analyzing-the-leaked-draft-overturning-roe-v-wade-with-amy-howe-and-tom-goldstei",
@@ -25414,7 +25069,8 @@
           "timestamp_seconds": 43,
           "description": "Consideration of age limits for SC justices"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-04-30-vc-fund-metrics-that-matter-private-market-update-recession-student-loans-bill-h",
@@ -25517,7 +25173,8 @@
           "timestamp_seconds": 90,
           "description": "Elon's Twitter vision is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-04-23-tech-work-culture-crypto-regulation-stablecoins-nflx-more-w-coinbase-ceo-brian-a",
@@ -25599,7 +25256,8 @@
           "timestamp_seconds": 51,
           "description": "The conversation turns to Netflix's struggles"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-04-16-e765-food-shortage-chinas-grand-plan-inflation-french-election-plus-an-all-in-su",
@@ -25675,7 +25333,8 @@
           "timestamp_seconds": 1388,
           "description": "All-In Summit update and preview"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-04-16-elon-vs-twitter",
@@ -25761,7 +25420,8 @@
           "timestamp_seconds": 43,
           "description": "Free speech on Twitter is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-04-09-fast-shuts-down-board-culpability-elon-buys-9-of-twitter-deplatformings-evolutio",
@@ -25843,7 +25503,8 @@
           "timestamp_seconds": 63,
           "description": "Discussion of food shortages and US objectives"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-04-01-market-update-inverted-yield-curve-immigration-new-spac-rules-fb-smears-tiktok-a",
@@ -25941,7 +25602,8 @@
           "timestamp_seconds": 110,
           "description": "Biden's comments on Putin are reflected upon"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-03-26-late-stage-vc-markdowns-and-mistakes-market-strategy-ukrainerussia-update-with-b",
@@ -26016,7 +25678,8 @@
           "timestamp_seconds": 84,
           "description": "Analysis of China's tax cuts and their potential impact"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-03-19-impact-of-sanctions-deglobalization-food-shortage-risks-macroeconomic-outlook-an",
@@ -26092,7 +25755,8 @@
           "timestamp_seconds": 49,
           "description": "Discussion of the US economy and potential bullish sign in public markets"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-03-05-russiaukraine-deep-dive-escalation-risk-factors-financial-fallout-exit-ramps-and",
@@ -26164,7 +25828,8 @@
           "timestamp_seconds": 65,
           "description": "Discussion on the market impact of the war"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-02-24-emergency-pod-russia-invades-ukraine-reactions-putins-ambition-bidens-response-a",
@@ -26227,7 +25892,8 @@
           "timestamp_seconds": 42,
           "description": "Discussion of Biden's new sanctions and Chamath's Russia story"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-02-19-trudeau-invokes-emergency-powers-bitcoin-vs-government-tiger-globals-new-strateg",
@@ -26305,7 +25971,8 @@
           "timestamp_seconds": 4254,
           "description": "HIV stem cell breakthrough discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-02-12-revisiting-rogan-canadian-truckers-protest-fusion-breakthrough-msfts-savvy-move-",
@@ -26380,7 +26047,8 @@
           "timestamp_seconds": 4500,
           "description": "The hosts discuss the CIA's alleged warrantless surveillance"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-02-05-fbs-major-pullback-roganspotify-mess-xiputin-meetup-and-understanding-supply-cha",
@@ -26472,7 +26140,8 @@
           "timestamp_seconds": 5410,
           "description": "Discussion of the meeting between Xi Jinping and Vladimir Putin"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-01-29-vc-markup-dynamics-russiaus-tensions-over-ukraine-altos-labs-raises-3b-stripe-ma",
@@ -26559,7 +26228,8 @@
           "timestamp_seconds": 3768,
           "description": "The hosts talk about the Stripe Mafia"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-01-22-antitrust-standards-enforcement-tech-repricing-lab-leak-obfuscation-e63-reaction",
@@ -26640,7 +26310,8 @@
           "timestamp_seconds": 5531,
           "description": "Introduction of David Friedberg's new company, Cana"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2022-01-15-insurrection-indictments-human-rights-in-the-us-and-abroad-groundbreaking-ms-stu",
@@ -26656,7 +26327,8 @@
       "topics": [],
       "guests": [],
       "sentiment": {},
-      "notable_moments": []
+      "notable_moments": [],
+      "notable_mentions": []
     },
     {
       "id": "2022-01-08-elizabeth-holmes-verdict-fraud-origins-takeaways-navigating-the-great-markdown-m",
@@ -26746,7 +26418,8 @@
           "timestamp_seconds": 60,
           "description": "Discussion of a16z's new mega funds and potential implications of going public"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-12-29-2022-predictions-business-politics-science-tech-crypto-more",
@@ -26829,7 +26502,8 @@
           "timestamp_seconds": 3827,
           "description": "Jason discusses the potential of the metaverse"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-12-23-the-2021-bestie-awards-plus-jack-dorsey-starts-the-web3-wars",
@@ -26915,7 +26589,8 @@
           "timestamp_seconds": 35,
           "description": "Best science breakthrough discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-12-17-twitters-content-warning-algo-equity-audits-politicians-trading-stocks-feds-next",
@@ -26993,7 +26668,8 @@
           "timestamp_seconds": 69,
           "description": "Future of mRNA technology discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-12-11-novembers-cpi-preparing-for-a-downturn-macro-outlook-bettercoms-botched-layoffs-",
@@ -27070,7 +26746,8 @@
           "timestamp_seconds": 71,
           "description": "Lessons from the Jussie Smollett saga"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-12-04-understanding-omicron-tech-stocks-plummet-vcs-great-resignation-jack-dorseys-dep",
@@ -27149,7 +26826,8 @@
           "timestamp_seconds": 67,
           "description": "Jack Dorsey's departure from Twitter is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-11-20-constitution-dao-rittenhouse-trial-coverage-private-sector-efficiency-vs-the-gov",
@@ -27238,7 +26916,8 @@
           "timestamp_seconds": 67,
           "description": "Pete Davidson's appeal is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-11-13-valuing-crypto-projects-rivian-worth-100b-inflation-causes-and-corrections-and-m",
@@ -27336,7 +27015,8 @@
           "timestamp_seconds": 68,
           "description": "GE and Toshiba breakup discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-11-06-spread-trading-big-tech-capital-allocation-zillows-misfire-progressives-suffer-l",
@@ -27427,7 +27107,8 @@
           "timestamp_seconds": 4347,
           "description": "New CO2 to starch conversion discovered by Chinese researchers"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-10-30-wealth-tax-dealing-with-inflation-as-a-capital-allocator-big-tech-earnings-faceb",
@@ -27499,7 +27180,8 @@
           "timestamp_seconds": 59,
           "description": "Analysis of big tech earnings and Facebook's rebrand"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-10-23-trumps-spac-peak-venture-liquidity-tech-as-an-economic-ladder-dems-overplaying-t",
@@ -27576,7 +27258,8 @@
           "timestamp_seconds": 58,
           "description": "Talk about Democrats overplaying their hand commences"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-10-16-supply-chain-shortages-inflation-desantis-ted-sarandos-netflix-memo-cancel-cultu",
@@ -27661,7 +27344,8 @@
           "timestamp_seconds": 4024,
           "description": "The hosts discuss the FDA"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-10-09-crypto-investing-deep-dive-facebooks-whistleblower-fallout-chappelles-new-specia",
@@ -27750,7 +27434,8 @@
           "timestamp_seconds": 69,
           "description": "Chappelle's new special is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-10-02-coinbase-ceo-reflects-on-controversial-blog-state-of-the-markets-1000-unicorns-t",
@@ -27834,7 +27519,8 @@
           "timestamp_seconds": 45,
           "description": "The Golden Age of VC and 1000 unicorns are covered"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-09-25-the-role-of-decentralization-chinaus-break-down-more-with-bestie-guestie-balaji-",
@@ -27913,7 +27599,8 @@
           "timestamp_seconds": 58,
           "description": "Facebook faces lawsuits and public backlash"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-09-18-facebooks-week-from-hell-ellen-pao-on-sexism-in-elizabeth-holmes-coverage-newsom",
@@ -28005,7 +27692,8 @@
           "timestamp_seconds": 85,
           "description": "Mailchimp sells for $12B discussion"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-09-14-false-ivermectin-narratives-regulatory-grift-wartime-mentality-in-solving-issues",
@@ -28080,7 +27768,8 @@
           "timestamp_seconds": 49,
           "description": "Audience Q&A session starts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-09-04-theranos-vc-fraud-risks-china-bans-video-games-texas-sb8-apple-app-store-ca-fire",
@@ -28153,7 +27842,8 @@
           "timestamp_seconds": 12,
           "description": "Discussion on Theranos trial and VC fraud risks"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-08-28-usas-afghanistan-embarrassment-chinas-new-algo-laws-future-of-robots-italy-recap",
@@ -28241,7 +27931,8 @@
           "timestamp_seconds": 74,
           "description": "Boston Dynamics, TeslaBot, and Bezos' lawsuits"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-08-06-innovative-venture-strategies-zymergens-implosion-square-acquires-afterpay-futur",
@@ -28319,7 +28010,8 @@
           "timestamp_seconds": 67,
           "description": "Square's acquisition of Afterpay is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-07-30-chinas-tech-crackdown-crispr-breakthrough-practical-climate-change-solutions-mor",
@@ -28395,7 +28087,8 @@
           "timestamp_seconds": 50,
           "description": "Climate change solutions and population growth are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-07-23-vaccine-policy-big-tech-deepminds-latest-breakthrough-wealth-creation-opportunit",
@@ -28481,7 +28174,8 @@
           "timestamp_seconds": 59,
           "description": "Discussion on capital's role in progress begins"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-07-16-a-bestie-gets-covid-delta-breakthrough-billionaire-space-race-more",
@@ -28562,7 +28256,8 @@
           "timestamp_seconds": 3847,
           "description": "The hosts mention Melvin Capital's tough first half of 2021"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-07-09-west-coast-super-drought-climate-crisis-nuclear-virtue-signaling-chaos-in-sf-mor",
@@ -28647,7 +28342,8 @@
           "timestamp_seconds": 59,
           "description": "Israel's COVID vaccine findings are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-07-03-bestie-brawl-robinhoods-70m-fine-s-1-delta-variant-future-of-the-political-parti",
@@ -28729,7 +28425,8 @@
           "timestamp_seconds": 111,
           "description": "FTC loses case against Facebook"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-06-25-nyc-rejects-far-left-mayoral-candidates-new-developments-in-lab-leak-theory-appl",
@@ -28814,7 +28511,8 @@
           "timestamp_seconds": 54,
           "description": "Examination of Apple's App Store monopoly"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-06-18-new-ftc-chair-breaking-up-big-tech-government-silent-spying-jon-stewart-wildfire",
@@ -28904,7 +28602,8 @@
           "timestamp_seconds": 60,
           "description": "Jon Stewart's lab leak bit"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-06-13-biogens-controversial-alzheimers-drug-approval-the-billionaire-space-race-real-e",
@@ -28993,7 +28692,8 @@
           "timestamp_seconds": 107,
           "description": "Science corner with Friedberg"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-05-31-wuhan-lab-leak-theory-indias-traceability-law-coinbases-fact-check-big-techs-hol",
@@ -29078,7 +28778,8 @@
           "timestamp_seconds": 45,
           "description": "Amazon's MGM acquisition is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-05-22-apples-hypocrisy-americas-math-failure-cryptos-regulatory-correction-clubhouses-",
@@ -29161,7 +28862,8 @@
           "timestamp_seconds": 79,
           "description": "The hosts discuss UFOs"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-05-13-behind-the-scenes-of-elon-hosting-snl-cdc-failures-americas-real-time-ubi-experi",
@@ -29234,7 +28936,8 @@
           "timestamp_seconds": 23,
           "description": "The hosts discuss CDC failures and misleading information"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-05-01-post-vaccination-virtue-signaling-pandemic-lessons-immigration-caitlyn-jenner-fo",
@@ -29310,7 +29013,8 @@
           "timestamp_seconds": 60,
           "description": "Caitlyn Jenner's candidacy for CA Governor"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-04-23-ramifications-of-bidens-proposed-capital-gains-tax-hike-federal-budget-indias-co",
@@ -29404,7 +29108,8 @@
           "timestamp_seconds": 59,
           "description": "India's COVID surge is discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-04-17-coinbase-goes-public-direct-listings-vs-ipos-portfolio-management-unions-more-wi",
@@ -29493,7 +29198,8 @@
           "timestamp_seconds": 54,
           "description": "The hosts discuss the benefits of federalism during the COVID-19 pandemic"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-04-01-current-state-of-public-private-markets-archegos-debacle-us-debt-issues-wealth-t",
@@ -29588,7 +29294,8 @@
           "timestamp_seconds": 3905,
           "description": "Vaccine update"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-03-27-the-great-inflation-debate-amazon-gets-spicy-on-twitter-rethinking-supply-chains",
@@ -29682,7 +29389,8 @@
           "timestamp_seconds": 60,
           "description": "Microsoft's potential acquisition of Discord"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-03-20-state-of-venture-capital-plus-fan-questions-on-longevity-decentralization-quantu",
@@ -29767,7 +29475,8 @@
           "timestamp_seconds": 55,
           "description": "Discussion on the potential decline of growth-stage firms"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-03-13-bidens-vaccine-mandate-equity-in-distribution-nft-speculation-impact-of-inflatio",
@@ -29848,7 +29557,8 @@
           "timestamp_seconds": 3886,
           "description": "Yung Spielburg's newest track, RED PILLS, is mentioned"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-03-06-markets-trend-down-political-manipulation-via-covid-zeroism-stimulus-breakdown-b",
@@ -29925,7 +29635,8 @@
           "timestamp_seconds": 6033,
           "description": "Grading Biden's first 60 days in office"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-02-20-radical-das-breaking-down-fbgoogle-vs-australia-sustained-fear-post-vaccine-fan-",
@@ -30024,7 +29735,8 @@
           "timestamp_seconds": 58,
           "description": "Fan Q&A session"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-02-13-reflecting-on-the-robinhood-situation-with-bestie-guestie-vlad-tenev",
@@ -30115,7 +29827,8 @@
           "timestamp_seconds": 41,
           "description": "The hosts debrief on Vlad's performance"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-02-06-media-misalignment-subjects-controlling-narratives-more-with-bestie-guestie-dray",
@@ -30201,7 +29914,8 @@
           "timestamp_seconds": 68,
           "description": "Mean tweets segment"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-02-03-robinhood-wrap-up-insiders-vs-outsiders-californias-failing-report-card-how-to-f",
@@ -30289,7 +30003,8 @@
           "timestamp_seconds": 3724,
           "description": "Chamath considers running for Governor"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-01-30-breaking-down-robinhoods-gamestop-decision-why-did-it-happen-and-how-can-it-be-p",
@@ -30383,7 +30098,8 @@
           "timestamp_seconds": 4500,
           "description": "Chamath discusses his potential governorship"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-01-23-inauguration-talk-breaking-down-the-19t-stimulus-the-case-for-recalling-gavin-ne",
@@ -30445,7 +30161,8 @@
           "timestamp_seconds": 44,
           "description": "Breakdown of the $1.9T stimulus package"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-01-11-big-tech-bans-trump-ramifications-for-the-first-amendment-the-open-internet",
@@ -30524,7 +30241,8 @@
           "timestamp_seconds": 4092,
           "description": "Discussion of the current Pence/Trump relationship"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2021-01-08-reflecting-on-the-riots-at-the-us-capitol-plus-georgia-runoff-elections-vaccine-",
@@ -30617,7 +30335,8 @@
           "timestamp_seconds": 56,
           "description": "Friedberg shares his approach to vaccine distribution"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-12-18-the-besties-all-ins-inaugural-award-show-covering-the-best-worst-most-memorable-",
@@ -30694,7 +30413,8 @@
           "timestamp_seconds": 10,
           "description": "Biggest Winner - Politics discussion starts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-12-04-salesforce-acquires-slack-deepminds-alphafold-breakthrough-trust-fund-socialists",
@@ -30775,7 +30495,8 @@
           "timestamp_seconds": 47,
           "description": "Republican party misfires and Georgia runoff implications"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-11-25-spacsgiving-special-more-promising-vaccine-news-innovation-vs-regulation-reformi",
@@ -30865,7 +30586,8 @@
           "timestamp_seconds": 11450,
           "description": "The hosts discuss peace in the Middle East"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-11-11-biden-wins-pfizer-vaccine-markets-rip-trumps-next-act-covid-endgame-scenarios-mo",
@@ -30950,7 +30672,8 @@
           "timestamp_seconds": 4027,
           "description": "Analysis of San Francisco's potential bankruptcy"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-11-04-election-night-special-featuring-phil-hellmuth-bill-gurley-brad-gerstner-more",
@@ -31036,7 +30759,8 @@
           "timestamp_seconds": 2551,
           "description": "Trump declaring victory could tank markets"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-10-16-twitter-facebook-botch-censorship-again-the-publisher-vs-distributor-debate-more",
@@ -31120,7 +30844,8 @@
           "timestamp_seconds": 1710,
           "description": "Discussion of Twitter and Facebook's blunder"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-10-03-trump-has-covid-first-debate-reactions-coinbase-letter-response-more",
@@ -31196,7 +30921,8 @@
           "timestamp_seconds": 36,
           "description": "Reflection on the execution and reaction to Coinbase CEO Brian Armstrong's letter"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-09-19-tiktok-oracle-how-privacy-loss-will-impact-society-economy-covid-outlooks-for-20",
@@ -31268,7 +30994,8 @@
           "timestamp_seconds": 55,
           "description": "California wildfires are discussed"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-09-09-californias-collapse-how-spacs-are-opening-the-markets-for-growth-stocks-more",
@@ -31354,7 +31081,8 @@
           "timestamp_seconds": 50,
           "description": "Discussion on SPACs and growth stocks starts"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-07-31-big-tech-antitrust-aftermath-potential-effects-of-an-ma-clampdown-on-silicon-val",
@@ -31435,7 +31163,8 @@
           "timestamp_seconds": null,
           "description": "Analysis of potential effects on Silicon Valley"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-07-11-whos-incompetence-kicking-off-cold-war-ii-chinas-grand-plan-100xing-americas-eff",
@@ -31516,7 +31245,8 @@
           "timestamp_seconds": null,
           "description": "Analysis of China's grand plan"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-06-20-politicizing-the-pandemic-police-reform-bidens-ideal-vp-twitter-vs-facebook-on-f",
@@ -31599,7 +31329,8 @@
           "timestamp_seconds": 5144,
           "description": "Discussion on Biden's ideal VP pick"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-05-21-modern-cold-war-between-us-china-economic-recovery-potential-mass-migration-out-",
@@ -31677,7 +31408,8 @@
           "timestamp_seconds": 49,
           "description": "Discussion of the modern Cold War between the US and China"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-04-11-rebooting-the-economy-understanding-corporate-debt-steps-to-avoid-a-depression-m",
@@ -31763,7 +31495,8 @@
           "timestamp_seconds": 62,
           "description": "The hosts discuss the 2020 presidential election"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-03-19-us-response-to-covid-19-impact-on-startups-venture-capital-public-markets-with-d",
@@ -31848,7 +31581,8 @@
           "timestamp_seconds": 54,
           "description": "Discussion on bailouts for companies that manipulated their earnings-per-share ratio"
         }
-      ]
+      ],
+      "notable_mentions": []
     },
     {
       "id": "2020-03-15-covid-19-political-economic-social-ramifications-featuring-david-friedberg",
@@ -31937,7 +31671,8 @@
           "timestamp_seconds": 37,
           "description": "Comparison of COVID-19 viral coefficient to Facebook's numbers"
         }
-      ]
+      ],
+      "notable_mentions": []
     }
   ],
   "trends": {
@@ -40856,6 +40591,6 @@
     ],
     "episode_count": 377
   },
-  "brief_markdown": "# Weekly Brief — 2026-05-23\n\n**Latest episode:** SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis? — 2026-05-22\n\n## What this episode covered\nThe All-In podcast discusses various topics including Andre Karpathy joining Anthropic, NVIDIA's earnings, SpaceX's S1 filing, and the US-China relationship. The hosts also touch on the AI PR crisis, foreign interests, and the potential of recursive self-improvement in AI. The conversation covers the complexities of the AI industry, the role of foreign interests, and the need for a balanced approach to AI development.\n\n## Top takeaways\n- Andre Karpathy's experience and expertise can help Anthropic achieve significant advancements in AI\n- The AI PR crisis is fueled by concerns about power imbalances and the potential for AI to benefit only a small group of people\n- SpaceX's valuation could be justified by its potential for growth in the internet infrastructure and AI businesses\n- NVIDIA's earnings are mind-boggling, with $81.6 billion in revenue and 75% gross margins\n- The AI market is cross-sectionally inefficient, with valuations of memory makers, NVIDIA, and other accelerator companies being inconsistent\n- The US-China relationship is complex, and the recent meeting between the two countries may have had some behind-the-scenes agreements\n- Recursive self-improvement and continual learning are crucial for the future of AI, potentially leading to an order of magnitude improvement on a yearly basis\n- The focus should shift from model improvements to end-user achievements and the positive, optimistic possibilities that AI introduces\n\n## Notable quotes\n> \"He's one of these really curious people that can be sent off, and they'll just go and invent new things\" — Gavin Baker\n> \"I think that you start to, you could potentially live out this idea that there's an order of magnitude improvement on a yearly basis\" — Gavin Baker\n> \"There's something deeply disturbing for the average person about this\" — David Friedberg\n> \"Crime is a choice\" — Chamath Palihapitiya\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` — mentioned in 41 episodes\n- `economy` — mentioned in 40 episodes\n- `politics` — mentioned in 38 episodes\n- `us-politics` — mentioned in 28 episodes\n- `openai` — mentioned in 25 episodes\n- `big-tech` — mentioned in 23 episodes\n- `venture-capital` — mentioned in 22 episodes\n- `inflation` — mentioned in 21 episodes\n- `elon-musk` — mentioned in 20 episodes\n- `ai` — mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-05-23 from 377 episodes_",
-  "generated_at": "2026-05-23T04:49:38.803966+00:00"
+  "brief_markdown": "# Weekly Brief - 2026-05-25\n\n**Latest episode:** SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis? - 2026-05-22\n\n## What this episode covered\nThe All-In Podcast discusses various topics including Andre Karpathy joining Anthropic, the AI PR crisis, SpaceX's potential $2 trillion valuation, and NVIDIA's impressive earnings. The hosts also touch on the topics of AI improving itself, the potential for a new form of Moore's law, and the impact of AI on jobs. Additionally, they discuss the current state of the market, geopolitics, and the recent meeting between US and Chinese leaders.\n\n## Top takeaways\n- Andre Karpathy joining Anthropic is a significant deal\n- The AI PR crisis is fueled by concerns about power imbalances and the potential for AI to benefit only a small group of people\n- SpaceX's valuation could reach $2 trillion\n- NVIDIA's earnings are impressive, with $81.6 billion in revenue and 85% year-over-year growth\n- The AI market is cross-sectionally inefficient, with different valuations for chip companies\n- Chamath Palihapitiya believes in having a concentrated portfolio with a few large holdings\n- Gavin Baker manages over 100 positions at his firm\n- Selling NVIDIA chips to China may lower the odds of them developing their own alternative ecosystem\n\n## Notable quotes\n> \"He's one of these really curious people that can be sent off, and they'll just go and invent new things\" - Gavin Baker\n> \"I think what we should do now is focus on these end user use cases\" - Gavin Baker\n> \"I think that there's a real set of shifts happening\" - David Friedberg\n> \"Crime is a choice\" - Chamath Palihapitiya\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` - mentioned in 41 episodes\n- `economy` - mentioned in 40 episodes\n- `politics` - mentioned in 38 episodes\n- `us-politics` - mentioned in 28 episodes\n- `openai` - mentioned in 25 episodes\n- `big-tech` - mentioned in 23 episodes\n- `venture-capital` - mentioned in 22 episodes\n- `inflation` - mentioned in 21 episodes\n- `elon-musk` - mentioned in 20 episodes\n- `ai` - mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-05-25 from 377 episodes_",
+  "generated_at": "2026-05-25T17:23:19.279773+00:00"
 }
