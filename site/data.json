@@ -8,14 +8,180 @@
       "url": "https://allinchamathjason.libsyn.com/spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": [],
-      "notable_mentions": []
+      "summary": "The All-In Podcast discusses various topics including Andre Karpathy joining Anthropic, the AI PR crisis, SpaceX's potential $2 trillion valuation, and NVIDIA's impressive earnings. The hosts also touch on the topics of AI improving itself, the potential for a new form of Moore's law, and the impact of AI on jobs. Additionally, they discuss the current state of the market, geopolitics, and the recent meeting between US and Chinese leaders.",
+      "takeaways": [
+        {
+          "text": "Andre Karpathy joining Anthropic is a significant deal",
+          "timestamp_seconds": 31
+        },
+        {
+          "text": "The AI PR crisis is fueled by concerns about power imbalances and the potential for AI to benefit only a small group of people",
+          "timestamp_seconds": 1150
+        },
+        {
+          "text": "SpaceX's valuation could reach $2 trillion",
+          "timestamp_seconds": 3605
+        },
+        {
+          "text": "NVIDIA's earnings are impressive, with $81.6 billion in revenue and 85% year-over-year growth",
+          "timestamp_seconds": 4285
+        },
+        {
+          "text": "The AI market is cross-sectionally inefficient, with different valuations for chip companies",
+          "timestamp_seconds": 4521
+        },
+        {
+          "text": "Chamath Palihapitiya believes in having a concentrated portfolio with a few large holdings",
+          "timestamp_seconds": 5201
+        },
+        {
+          "text": "Gavin Baker manages over 100 positions at his firm",
+          "timestamp_seconds": 5273
+        },
+        {
+          "text": "Selling NVIDIA chips to China may lower the odds of them developing their own alternative ecosystem",
+          "timestamp_seconds": 5780
+        }
+      ],
+      "quotes": [
+        {
+          "text": "He's one of these really curious people that can be sent off, and they'll just go and invent new things",
+          "speaker": "Gavin Baker",
+          "timestamp_seconds": 231
+        },
+        {
+          "text": "I think what we should do now is focus on these end user use cases",
+          "speaker": "Gavin Baker",
+          "timestamp_seconds": 651
+        },
+        {
+          "text": "I think that there's a real set of shifts happening",
+          "speaker": "David Friedberg",
+          "timestamp_seconds": 1370
+        },
+        {
+          "text": "Crime is a choice",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 2071
+        },
+        {
+          "text": "I think it's much easier to see him selling compute to Google",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 3140
+        },
+        {
+          "text": "The AI market is cross-sectionally inefficient",
+          "speaker": "Gavin Baker",
+          "timestamp_seconds": 4521
+        },
+        {
+          "text": "I have a few companies that I really believe in",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 5201
+        },
+        {
+          "text": "Rates going up is very concerning",
+          "speaker": "Gavin Baker",
+          "timestamp_seconds": 5289
+        },
+        {
+          "text": "The story continues, there is no happy ending",
+          "speaker": "David Friedberg",
+          "timestamp_seconds": 5687
+        }
+      ],
+      "topics": [
+        "ai",
+        "anthropic",
+        "andre-karpathy",
+        "recursive-self-improvement",
+        "moore-s-law",
+        "regulation",
+        "power-imbalances",
+        "psychology",
+        "security",
+        "space-x",
+        "ipo",
+        "nvidia",
+        "chip-companies",
+        "cpu-business",
+        "geopolitics",
+        "china"
+      ],
+      "guests": [
+        "Gavin Baker",
+        "Andrej Karpathy"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The hosts discuss various topics with a mix of optimism and caution, highlighting the potential benefits and risks of AI, SpaceX, and NVIDIA, while also touching on the complexities of geopolitics and the current state of the market."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to the podcast episode"
+        },
+        {
+          "timestamp_seconds": 31,
+          "description": "Discussion of Andre Karpathy joining Anthropic"
+        },
+        {
+          "timestamp_seconds": 1150,
+          "description": "Discussion of the AI PR crisis"
+        },
+        {
+          "timestamp_seconds": 2061,
+          "description": "Discussion on AI deployment and crime rates starts"
+        },
+        {
+          "timestamp_seconds": 2719,
+          "description": "SpaceX's S1 filing and valuation are discussed"
+        },
+        {
+          "timestamp_seconds": 3605,
+          "description": "Discussion of SpaceX's potential $2 trillion valuation"
+        },
+        {
+          "timestamp_seconds": 4285,
+          "description": "NVIDIA's earnings are discussed"
+        },
+        {
+          "timestamp_seconds": 5201,
+          "description": "Chamath discusses his concerns about the market signals"
+        }
+      ],
+      "notable_mentions": [
+        "Anthropic",
+        "OpenAI",
+        "Google",
+        "Tesla",
+        "NVIDIA",
+        "Andre Karpathy",
+        "Gavin Baker",
+        "Chamath Palihapitiya",
+        "Jason Calacanis",
+        "David Sacks",
+        "David Friedberg",
+        "Elon Musk",
+        "SpaceX",
+        "Starlink",
+        "Cloudflare",
+        "Matthew Prince",
+        "Mark Zuckerberg",
+        "Facebook",
+        "Leopold Aschenbrenner",
+        "Patrick O'Shaughnessy",
+        "Jensen",
+        "Michael Burry",
+        "Trump",
+        "Xi",
+        "China",
+        "America",
+        "Russia",
+        "Iran",
+        "Venezuela",
+        "Taiwan"
+      ]
     },
     {
       "id": "2026-05-15-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory",
@@ -1143,6 +1309,76 @@
       "notable_mentions": []
     },
     {
+      "id": "2026-03-23-how-matt-mahan-thinks-he-can-save-california",
+      "number": null,
+      "title": "How Matt Mahan Thinks He Can Save California",
+      "date": "2026-03-23",
+      "url": "https://allinchamathjason.libsyn.com/how-matt-mahan-thinks-he-can-save-california",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Matt Mahan discusses his run for California governor, covering topics such as public sector unions, the housing crisis, energy crisis, and pension time bomb. He also touches on Trump, tariffs, and immigration reform. The conversation highlights the challenges facing California and potential solutions.",
+      "takeaways": [
+        {
+          "text": "California's housing crisis is exacerbated by regulation and fees",
+          "timestamp_seconds": 1905
+        },
+        {
+          "text": "Public sector unions have significant influence in Sacramento",
+          "timestamp_seconds": 1205
+        },
+        {
+          "text": "California faces a $1 trillion pension time bomb",
+          "timestamp_seconds": 4375
+        },
+        {
+          "text": "The state's energy crisis is linked to gas taxes and green policy",
+          "timestamp_seconds": 3452
+        },
+        {
+          "text": "Immigration reform is needed to provide a path to legal status",
+          "timestamp_seconds": 4105
+        },
+        {
+          "text": "Trump and tariffs have contributed to the rise of dangerous populism",
+          "timestamp_seconds": 3727
+        },
+        {
+          "text": "California's problems have worsened over time due to various factors",
+          "timestamp_seconds": 115
+        }
+      ],
+      "quotes": [
+        {
+          "text": "California went from bad to worse",
+          "speaker": "Matt Mahan",
+          "timestamp_seconds": 115
+        }
+      ],
+      "topics": [
+        "california-politics",
+        "public-sector-unions",
+        "housing-crisis",
+        "energy-crisis",
+        "pension-reform",
+        "immigration-reform",
+        "us-politics"
+      ],
+      "guests": [
+        "Matt Mahan"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation highlights the significant challenges facing California, and while potential solutions are discussed, the overall tone is cautious due to the complexity and severity of the issues."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 4375,
+          "description": "Discussion of the $1 trillion pension time bomb"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
       "id": "2026-03-23-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren",
       "number": null,
       "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
@@ -1214,76 +1450,6 @@
         {
           "timestamp_seconds": 37,
           "description": "CoreWeave CEO, Michael Intrator, joins the conversation"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
-      "id": "2026-03-23-how-matt-mahan-thinks-he-can-save-california",
-      "number": null,
-      "title": "How Matt Mahan Thinks He Can Save California",
-      "date": "2026-03-23",
-      "url": "https://allinchamathjason.libsyn.com/how-matt-mahan-thinks-he-can-save-california",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "Matt Mahan discusses his run for California governor, covering topics such as public sector unions, the housing crisis, energy crisis, and pension time bomb. He also touches on Trump, tariffs, and immigration reform. The conversation highlights the challenges facing California and potential solutions.",
-      "takeaways": [
-        {
-          "text": "California's housing crisis is exacerbated by regulation and fees",
-          "timestamp_seconds": 1905
-        },
-        {
-          "text": "Public sector unions have significant influence in Sacramento",
-          "timestamp_seconds": 1205
-        },
-        {
-          "text": "California faces a $1 trillion pension time bomb",
-          "timestamp_seconds": 4375
-        },
-        {
-          "text": "The state's energy crisis is linked to gas taxes and green policy",
-          "timestamp_seconds": 3452
-        },
-        {
-          "text": "Immigration reform is needed to provide a path to legal status",
-          "timestamp_seconds": 4105
-        },
-        {
-          "text": "Trump and tariffs have contributed to the rise of dangerous populism",
-          "timestamp_seconds": 3727
-        },
-        {
-          "text": "California's problems have worsened over time due to various factors",
-          "timestamp_seconds": 115
-        }
-      ],
-      "quotes": [
-        {
-          "text": "California went from bad to worse",
-          "speaker": "Matt Mahan",
-          "timestamp_seconds": 115
-        }
-      ],
-      "topics": [
-        "california-politics",
-        "public-sector-unions",
-        "housing-crisis",
-        "energy-crisis",
-        "pension-reform",
-        "immigration-reform",
-        "us-politics"
-      ],
-      "guests": [
-        "Matt Mahan"
-      ],
-      "sentiment": {
-        "overall": "cautious",
-        "notes": "The conversation highlights the significant challenges facing California, and while potential solutions are discussed, the overall tone is cautious due to the complexity and severity of the issues."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 4375,
-          "description": "Discussion of the $1 trillion pension time bomb"
         }
       ],
       "notable_mentions": []
@@ -5620,6 +5786,89 @@
       "notable_mentions": []
     },
     {
+      "id": "2025-10-14-bryan-johnson-the-1-longevity-secret-you-can-start-doing-today",
+      "number": null,
+      "title": "Bryan Johnson: The #1 Longevity Secret You Can Start Doing Today",
+      "date": "2025-10-14",
+      "url": "https://allinchamathjason.libsyn.com/bryan-johnson-the-1-longevity-secret-you-can-start-doing-today",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Bryan Johnson shares his top longevity hack, taking the audience through a biological age test and discussing his research. He emphasizes the importance of a single best longevity hack. The episode also features various sponsorships and promotions.",
+      "takeaways": [
+        {
+          "text": "Biological age can be measured",
+          "timestamp_seconds": 46
+        },
+        {
+          "text": "Longevity hack is crucial",
+          "timestamp_seconds": 353
+        },
+        {
+          "text": "Research is key to longevity",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Single best longevity hack exists",
+          "timestamp_seconds": 353
+        },
+        {
+          "text": "Importance of health and wellness",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Longevity is connected to lifestyle",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Bryan Johnson's expertise is valuable",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Longevity is a top priority",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "The single best longevity hack",
+          "speaker": "Bryan Johnson",
+          "timestamp_seconds": 353
+        },
+        {
+          "text": "Thanks to our partners",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "longevity",
+        "health",
+        "wellness",
+        "biological-age",
+        "research",
+        "lifestyle",
+        "priorities"
+      ],
+      "guests": [
+        "Bryan Johnson"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has a positive tone, focusing on the importance of longevity and health. Bryan Johnson's expertise and enthusiasm contribute to the optimistic mood."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 46,
+          "description": "Bryan Johnson takes the audience through a biological age test"
+        },
+        {
+          "timestamp_seconds": 353,
+          "description": "Bryan Johnson shares the single best longevity hack"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
       "id": "2025-10-14-cathie-wood-on-how-ai-can-double-gdp-bull-case-for-bitcoin-1m-elons-trillion-dol",
       "number": null,
       "title": "Cathie Wood on How AI Can Double GDP, Bull Case for Bitcoin $1M, Elon's Trillion-Dollar Pay Package",
@@ -5708,89 +5957,6 @@
         {
           "timestamp_seconds": 481,
           "description": "Discussion of Elon's trillion-dollar pay package"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
-      "id": "2025-10-14-bryan-johnson-the-1-longevity-secret-you-can-start-doing-today",
-      "number": null,
-      "title": "Bryan Johnson: The #1 Longevity Secret You Can Start Doing Today",
-      "date": "2025-10-14",
-      "url": "https://allinchamathjason.libsyn.com/bryan-johnson-the-1-longevity-secret-you-can-start-doing-today",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "Bryan Johnson shares his top longevity hack, taking the audience through a biological age test and discussing his research. He emphasizes the importance of a single best longevity hack. The episode also features various sponsorships and promotions.",
-      "takeaways": [
-        {
-          "text": "Biological age can be measured",
-          "timestamp_seconds": 46
-        },
-        {
-          "text": "Longevity hack is crucial",
-          "timestamp_seconds": 353
-        },
-        {
-          "text": "Research is key to longevity",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Single best longevity hack exists",
-          "timestamp_seconds": 353
-        },
-        {
-          "text": "Importance of health and wellness",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Longevity is connected to lifestyle",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Bryan Johnson's expertise is valuable",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Longevity is a top priority",
-          "timestamp_seconds": null
-        }
-      ],
-      "quotes": [
-        {
-          "text": "The single best longevity hack",
-          "speaker": "Bryan Johnson",
-          "timestamp_seconds": 353
-        },
-        {
-          "text": "Thanks to our partners",
-          "speaker": "Unknown",
-          "timestamp_seconds": null
-        }
-      ],
-      "topics": [
-        "longevity",
-        "health",
-        "wellness",
-        "biological-age",
-        "research",
-        "lifestyle",
-        "priorities"
-      ],
-      "guests": [
-        "Bryan Johnson"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The episode has a positive tone, focusing on the importance of longevity and health. Bryan Johnson's expertise and enthusiasm contribute to the optimistic mood."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 46,
-          "description": "Bryan Johnson takes the audience through a biological age test"
-        },
-        {
-          "timestamp_seconds": 353,
-          "description": "Bryan Johnson shares the single best longevity hack"
         }
       ],
       "notable_mentions": []
@@ -6402,6 +6568,95 @@
       "notable_mentions": []
     },
     {
+      "id": "2025-09-30-arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
+      "number": null,
+      "title": "Arm CEO Rene Haas on AI: Nvidia Lessons, Intel's Decline and the US-China Chip War",
+      "date": "2025-09-30",
+      "url": "https://allinchamathjason.libsyn.com/arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Arm CEO Rene Haas discusses lessons from working with Jensen Huang, Nvidia's dominance in AI, and the US-China chip war. He also talks about creating a US 'national champion' and manufacturing in America. The conversation covers the US-Intel deal, rare earths, and the US-China AI arms race.",
+      "takeaways": [
+        {
+          "text": "Nvidia's dominance in AI is due to its strong ecosystem",
+          "timestamp_seconds": 3
+        },
+        {
+          "text": "Arm's history is crucial to understanding the current AI landscape",
+          "timestamp_seconds": 3
+        },
+        {
+          "text": "The US needs to create a 'national champion' in the chip industry",
+          "timestamp_seconds": 10
+        },
+        {
+          "text": "Manufacturing in America requires a culture of excellence",
+          "timestamp_seconds": 15
+        },
+        {
+          "text": "The US-China AI arms race is intensifying",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "US export controls are affecting the global chip industry",
+          "timestamp_seconds": 18
+        },
+        {
+          "text": "Rare earths are a critical component in the chip industry",
+          "timestamp_seconds": 10
+        },
+        {
+          "text": "The US-Intel deal aims to boost domestic chip production",
+          "timestamp_seconds": 10
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Create a culture of excellence",
+          "speaker": "Rene Haas",
+          "timestamp_seconds": 15
+        },
+        {
+          "text": "US needs a national champion",
+          "speaker": "Rene Haas",
+          "timestamp_seconds": 10
+        }
+      ],
+      "topics": [
+        "ai-dominance",
+        "us-china-chip-war",
+        "manufacturing-in-america",
+        "nvidia",
+        "arm",
+        "intel",
+        "rare-earths",
+        "us-export-controls",
+        "ai-arms-race"
+      ],
+      "guests": [
+        "Rene Haas"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation highlights the intense competition between the US and China in the chip industry, and the need for the US to create a strong domestic industry. The tone is cautious, with a sense of urgency and importance."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 10,
+          "description": "Rene Haas discusses the US-Intel deal and rare earths"
+        },
+        {
+          "timestamp_seconds": 15,
+          "description": "Rene Haas talks about manufacturing in America and creating a culture of excellence"
+        },
+        {
+          "timestamp_seconds": 23,
+          "description": "The US-China AI arms race is discussed"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
       "id": "2025-09-30-rick-caruso-on-californias-collapse-broken-leadership-la-wildfire-failures-the-f",
       "number": null,
       "title": "Rick Caruso on California's Collapse: Broken Leadership, LA Wildfire Failures & the Fix",
@@ -6576,95 +6831,6 @@
         {
           "timestamp_seconds": 53,
           "description": "Q&A session with Keller Rinaudo Cliffton, Cleo, and Friedberg"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
-      "id": "2025-09-30-arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
-      "number": null,
-      "title": "Arm CEO Rene Haas on AI: Nvidia Lessons, Intel's Decline and the US-China Chip War",
-      "date": "2025-09-30",
-      "url": "https://allinchamathjason.libsyn.com/arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "Arm CEO Rene Haas discusses lessons from working with Jensen Huang, Nvidia's dominance in AI, and the US-China chip war. He also talks about creating a US 'national champion' and manufacturing in America. The conversation covers the US-Intel deal, rare earths, and the US-China AI arms race.",
-      "takeaways": [
-        {
-          "text": "Nvidia's dominance in AI is due to its strong ecosystem",
-          "timestamp_seconds": 3
-        },
-        {
-          "text": "Arm's history is crucial to understanding the current AI landscape",
-          "timestamp_seconds": 3
-        },
-        {
-          "text": "The US needs to create a 'national champion' in the chip industry",
-          "timestamp_seconds": 10
-        },
-        {
-          "text": "Manufacturing in America requires a culture of excellence",
-          "timestamp_seconds": 15
-        },
-        {
-          "text": "The US-China AI arms race is intensifying",
-          "timestamp_seconds": 23
-        },
-        {
-          "text": "US export controls are affecting the global chip industry",
-          "timestamp_seconds": 18
-        },
-        {
-          "text": "Rare earths are a critical component in the chip industry",
-          "timestamp_seconds": 10
-        },
-        {
-          "text": "The US-Intel deal aims to boost domestic chip production",
-          "timestamp_seconds": 10
-        }
-      ],
-      "quotes": [
-        {
-          "text": "Create a culture of excellence",
-          "speaker": "Rene Haas",
-          "timestamp_seconds": 15
-        },
-        {
-          "text": "US needs a national champion",
-          "speaker": "Rene Haas",
-          "timestamp_seconds": 10
-        }
-      ],
-      "topics": [
-        "ai-dominance",
-        "us-china-chip-war",
-        "manufacturing-in-america",
-        "nvidia",
-        "arm",
-        "intel",
-        "rare-earths",
-        "us-export-controls",
-        "ai-arms-race"
-      ],
-      "guests": [
-        "Rene Haas"
-      ],
-      "sentiment": {
-        "overall": "cautious",
-        "notes": "The conversation highlights the intense competition between the US and China in the chip industry, and the need for the US to create a strong domestic industry. The tone is cautious, with a sense of urgency and importance."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 10,
-          "description": "Rene Haas discusses the US-Intel deal and rare earths"
-        },
-        {
-          "timestamp_seconds": 15,
-          "description": "Rene Haas talks about manufacturing in America and creating a culture of excellence"
-        },
-        {
-          "timestamp_seconds": 23,
-          "description": "The US-China AI arms race is discussed"
         }
       ],
       "notable_mentions": []
@@ -7227,6 +7393,95 @@
       "notable_mentions": []
     },
     {
+      "id": "2025-09-15-tulsi-gabbard-on-russiagate-hoax-evidence-and-how-shes-reforming-politicized-int",
+      "number": null,
+      "title": "Tulsi Gabbard on Russiagate Hoax Evidence and How She's Reforming Politicized Intelligence Agencies",
+      "date": "2025-09-15",
+      "url": "https://allinchamathjason.libsyn.com/tulsi-gabbard-on-russiagate-hoax-evidence-and-how-shes-reforming-politicized-intelligence-agencies",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Tulsi Gabbard discusses the Russiagate hoax, the dangers of politicized intelligence agencies, and her efforts to reform them. She also shares her thoughts on foreign policy, war, and the impact of designating drug cartels as terrorist organizations. Gabbard reflects on her reception in Hawaii after switching parties and the drastic change in the Democratic Party.",
+      "takeaways": [
+        {
+          "text": "Russiagate was a hoax",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "Intelligence agencies are highly politicized",
+          "timestamp_seconds": 17
+        },
+        {
+          "text": "Tulsi aims to increase accountability in intelligence agencies",
+          "timestamp_seconds": 17
+        },
+        {
+          "text": "Designating drug cartels as terrorist orgs has significant implications",
+          "timestamp_seconds": 35
+        },
+        {
+          "text": "Tulsi's views on foreign policy are impacted by her experiences",
+          "timestamp_seconds": 30
+        },
+        {
+          "text": "The Democratic Party has undergone a drastic change",
+          "timestamp_seconds": 25
+        },
+        {
+          "text": "Tulsi is focused on reforming politicized intelligence agencies",
+          "timestamp_seconds": 17
+        },
+        {
+          "text": "Safety at the Southern Border is a concern",
+          "timestamp_seconds": 35
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Russiagate hoax",
+          "speaker": "Tulsi Gabbard",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "Politicized intelligence",
+          "speaker": "Tulsi Gabbard",
+          "timestamp_seconds": 17
+        }
+      ],
+      "topics": [
+        "russiagate",
+        "politicized-intelligence",
+        "foreign-policy",
+        "war",
+        "drug-cartels",
+        "terrorism",
+        "democratic-party",
+        "reform",
+        "accountability"
+      ],
+      "guests": [
+        "Tulsi Gabbard"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The episode has a cautious tone, with discussions on sensitive topics like foreign policy and intelligence agencies. Tulsi Gabbard's experiences and views are presented in a neutral and informative manner."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 1,
+          "description": "Tulsi Gabbard introduces the topic of Russiagate"
+        },
+        {
+          "timestamp_seconds": 17,
+          "description": "Discussion on politicized intelligence agencies begins"
+        },
+        {
+          "timestamp_seconds": 35,
+          "description": "Tulsi Gabbard shares her thoughts on designating drug cartels as terrorist organizations"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
       "id": "2025-09-15-robinhood-ceo-vlad-tenev-on-tokenizing-stocks-expanding-access-to-private-shares",
       "number": null,
       "title": "Robinhood CEO Vlad Tenev on tokenizing stocks, expanding access to private shares, fintech's future",
@@ -7318,95 +7573,6 @@
         {
           "timestamp_seconds": 23,
           "description": "Harmonic and building mathematical superintelligence"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
-      "id": "2025-09-15-tulsi-gabbard-on-russiagate-hoax-evidence-and-how-shes-reforming-politicized-int",
-      "number": null,
-      "title": "Tulsi Gabbard on Russiagate Hoax Evidence and How She's Reforming Politicized Intelligence Agencies",
-      "date": "2025-09-15",
-      "url": "https://allinchamathjason.libsyn.com/tulsi-gabbard-on-russiagate-hoax-evidence-and-how-shes-reforming-politicized-intelligence-agencies",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "Tulsi Gabbard discusses the Russiagate hoax, the dangers of politicized intelligence agencies, and her efforts to reform them. She also shares her thoughts on foreign policy, war, and the impact of designating drug cartels as terrorist organizations. Gabbard reflects on her reception in Hawaii after switching parties and the drastic change in the Democratic Party.",
-      "takeaways": [
-        {
-          "text": "Russiagate was a hoax",
-          "timestamp_seconds": 1
-        },
-        {
-          "text": "Intelligence agencies are highly politicized",
-          "timestamp_seconds": 17
-        },
-        {
-          "text": "Tulsi aims to increase accountability in intelligence agencies",
-          "timestamp_seconds": 17
-        },
-        {
-          "text": "Designating drug cartels as terrorist orgs has significant implications",
-          "timestamp_seconds": 35
-        },
-        {
-          "text": "Tulsi's views on foreign policy are impacted by her experiences",
-          "timestamp_seconds": 30
-        },
-        {
-          "text": "The Democratic Party has undergone a drastic change",
-          "timestamp_seconds": 25
-        },
-        {
-          "text": "Tulsi is focused on reforming politicized intelligence agencies",
-          "timestamp_seconds": 17
-        },
-        {
-          "text": "Safety at the Southern Border is a concern",
-          "timestamp_seconds": 35
-        }
-      ],
-      "quotes": [
-        {
-          "text": "Russiagate hoax",
-          "speaker": "Tulsi Gabbard",
-          "timestamp_seconds": 1
-        },
-        {
-          "text": "Politicized intelligence",
-          "speaker": "Tulsi Gabbard",
-          "timestamp_seconds": 17
-        }
-      ],
-      "topics": [
-        "russiagate",
-        "politicized-intelligence",
-        "foreign-policy",
-        "war",
-        "drug-cartels",
-        "terrorism",
-        "democratic-party",
-        "reform",
-        "accountability"
-      ],
-      "guests": [
-        "Tulsi Gabbard"
-      ],
-      "sentiment": {
-        "overall": "cautious",
-        "notes": "The episode has a cautious tone, with discussions on sensitive topics like foreign policy and intelligence agencies. Tulsi Gabbard's experiences and views are presented in a neutral and informative manner."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 1,
-          "description": "Tulsi Gabbard introduces the topic of Russiagate"
-        },
-        {
-          "timestamp_seconds": 17,
-          "description": "Discussion on politicized intelligence agencies begins"
-        },
-        {
-          "timestamp_seconds": 35,
-          "description": "Tulsi Gabbard shares her thoughts on designating drug cartels as terrorist organizations"
         }
       ],
       "notable_mentions": []
@@ -7580,6 +7746,77 @@
       "notable_mentions": []
     },
     {
+      "id": "2025-09-09-the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-202",
+      "number": null,
+      "title": "The New Era of the Stock Market with Nasdaq CEO Adena Friedman | All-In Summit 2025",
+      "date": "2025-09-09",
+      "url": "https://allinchamathjason.libsyn.com/the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-2025",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The episode features Adena Friedman, CEO of Nasdaq, discussing the evolution of the stock market, including tokenized securities and the 24/5 trading schedule. She also shares her thoughts on the IPO market and the role of the NY Fed. The conversation covers various topics, including the future of markets, data issues, and the growth of crypto.",
+      "takeaways": [
+        {
+          "text": "Nasdaq will offer tokenized securities",
+          "timestamp_seconds": 2
+        },
+        {
+          "text": "IPO market needs to change to help companies go public faster",
+          "timestamp_seconds": 7
+        },
+        {
+          "text": "Markets are evolving to include predictions, options, and secondaries",
+          "timestamp_seconds": 13
+        },
+        {
+          "text": "Data issues at the Fed need to be addressed",
+          "timestamp_seconds": 18
+        },
+        {
+          "text": "Crypto is going mainstream with the 24/5 trading schedule",
+          "timestamp_seconds": 2
+        },
+        {
+          "text": "Nasdaq is expanding beyond a stock exchange",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "The role of the NY Fed is crucial in the stock market",
+          "timestamp_seconds": 18
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Crypto going mainstream",
+          "speaker": "Adena Friedman",
+          "timestamp_seconds": 2
+        }
+      ],
+      "topics": [
+        "stock-market",
+        "tokenized-securities",
+        "ipo-market",
+        "crypto",
+        "ny-fed",
+        "data-issues",
+        "market-evolution",
+        "nasdaq"
+      ],
+      "guests": [
+        "Adena Friedman"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is forward-looking and excited about the future of the stock market and crypto. The tone is positive and enthusiastic."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 2,
+          "description": "Big announcement about Nasdaq offering tokenized securities"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
       "id": "2025-09-09-palantir-ceo-alex-karp-why-the-west-is-destroying-itself-data-empire-skeptics-ho",
       "number": null,
       "title": "Palantir CEO Alex Karp: Why the West is Destroying Itself, Data Empire, Skeptics, How to Win",
@@ -7739,77 +7976,6 @@
         {
           "timestamp_seconds": 39,
           "description": "Lightning round with Tucker Carlson"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
-      "id": "2025-09-09-the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-202",
-      "number": null,
-      "title": "The New Era of the Stock Market with Nasdaq CEO Adena Friedman | All-In Summit 2025",
-      "date": "2025-09-09",
-      "url": "https://allinchamathjason.libsyn.com/the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-2025",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "The episode features Adena Friedman, CEO of Nasdaq, discussing the evolution of the stock market, including tokenized securities and the 24/5 trading schedule. She also shares her thoughts on the IPO market and the role of the NY Fed. The conversation covers various topics, including the future of markets, data issues, and the growth of crypto.",
-      "takeaways": [
-        {
-          "text": "Nasdaq will offer tokenized securities",
-          "timestamp_seconds": 2
-        },
-        {
-          "text": "IPO market needs to change to help companies go public faster",
-          "timestamp_seconds": 7
-        },
-        {
-          "text": "Markets are evolving to include predictions, options, and secondaries",
-          "timestamp_seconds": 13
-        },
-        {
-          "text": "Data issues at the Fed need to be addressed",
-          "timestamp_seconds": 18
-        },
-        {
-          "text": "Crypto is going mainstream with the 24/5 trading schedule",
-          "timestamp_seconds": 2
-        },
-        {
-          "text": "Nasdaq is expanding beyond a stock exchange",
-          "timestamp_seconds": 1
-        },
-        {
-          "text": "The role of the NY Fed is crucial in the stock market",
-          "timestamp_seconds": 18
-        }
-      ],
-      "quotes": [
-        {
-          "text": "Crypto going mainstream",
-          "speaker": "Adena Friedman",
-          "timestamp_seconds": 2
-        }
-      ],
-      "topics": [
-        "stock-market",
-        "tokenized-securities",
-        "ipo-market",
-        "crypto",
-        "ny-fed",
-        "data-issues",
-        "market-evolution",
-        "nasdaq"
-      ],
-      "guests": [
-        "Adena Friedman"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The conversation is forward-looking and excited about the future of the stock market and crypto. The tone is positive and enthusiastic."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 2,
-          "description": "Big announcement about Nasdaq offering tokenized securities"
         }
       ],
       "notable_mentions": []
@@ -8624,187 +8790,6 @@
       "notable_mentions": []
     },
     {
-      "id": "2025-07-23-winning-the-ai-race-part-1-michael-kratsios-kelly-loeffler-chris-power-shyam-san",
-      "number": null,
-      "title": "Winning the AI Race Part 1: Michael Kratsios, Kelly Loeffler, Chris Power, Shyam Sankar, Paul Buchheit, Jake Loosararian",
-      "date": "2025-07-23",
-      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-michael-kratsios-kelly-loeffler-chris-power-shyam-sankar-paul-buchheit-jake-loosararian",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "The All-In Podcast discusses winning the AI race with various guests, including Michael Kratsios, Chris Power, and Shyam Sankar. They share insights on AI development, safety, and its potential impact on society. The guests also discuss their own experiences and perspectives on the AI industry.",
-      "takeaways": [
-        {
-          "text": "AI safety is crucial",
-          "timestamp_seconds": 18
-        },
-        {
-          "text": "US needs to lead in AI development",
-          "timestamp_seconds": 35
-        },
-        {
-          "text": "Private sector drives AI innovation",
-          "timestamp_seconds": 44
-        },
-        {
-          "text": "Regulation is necessary for AI growth",
-          "timestamp_seconds": 60
-        },
-        {
-          "text": "AI will transform various industries",
-          "timestamp_seconds": 75
-        },
-        {
-          "text": "Talent acquisition is key to AI success",
-          "timestamp_seconds": 90
-        },
-        {
-          "text": "Global cooperation is necessary for AI safety",
-          "timestamp_seconds": 100
-        }
-      ],
-      "quotes": [
-        {
-          "text": "AI is a national security issue",
-          "speaker": "Michael Kratsios",
-          "timestamp_seconds": 9
-        },
-        {
-          "text": "AI will change everything",
-          "speaker": "Chris Power",
-          "timestamp_seconds": 18
-        },
-        {
-          "text": "AI safety is a top priority",
-          "speaker": "Shyam Sankar",
-          "timestamp_seconds": 44
-        }
-      ],
-      "topics": [
-        "ai-safety",
-        "ai-development",
-        "ai-regulation",
-        "ai-innovation",
-        "national-security",
-        "global-cooperation",
-        "talent-acquisition"
-      ],
-      "guests": [
-        "Michael Kratsios",
-        "Chris Power",
-        "Shyam Sankar",
-        "Kelly Loeffler",
-        "Paul Buchheit",
-        "Jake Loosararian"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The guests and hosts express enthusiasm and optimism about the potential of AI, while also acknowledging the need for caution and regulation."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 9,
-          "description": "Michael Kratsios discusses AI as a national security issue"
-        },
-        {
-          "timestamp_seconds": 44,
-          "description": "Shyam Sankar emphasizes the importance of AI safety"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
-      "id": "2025-07-23-winning-the-ai-race-part-4-scott-bessent-howard-lutnick-chris-wright-and-doug-bu",
-      "number": null,
-      "title": "Winning the AI Race Part 4: Scott Bessent, Howard Lutnick, Chris Wright, and Doug Burgum",
-      "date": "2025-07-23",
-      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-part-4-scott-bessent-howard-lutnick-chris-wright-and-doug-burgum",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "The All-In Podcast discusses winning the AI race with guests Scott Bessent, Howard Lutnick, Chris Wright, and Doug Burgum. They share insights on AI safety, energy, and commerce. The conversation covers various topics, including the role of government in AI development.",
-      "takeaways": [
-        {
-          "text": "AI safety is crucial",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Government plays a key role in AI development",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Energy sector is impacted by AI",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Commerce Secretary has a role in AI",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "AI will change the job market",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Investing in AI is essential",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "AI regulation is necessary",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "AI will impact the economy",
-          "timestamp_seconds": null
-        }
-      ],
-      "quotes": [
-        {
-          "text": "Winning the AI race",
-          "speaker": "Unknown",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "AI is the future",
-          "speaker": "Unknown",
-          "timestamp_seconds": null
-        }
-      ],
-      "topics": [
-        "ai-safety",
-        "ai-development",
-        "energy",
-        "commerce",
-        "government",
-        "job-market",
-        "investing",
-        "regulation",
-        "economy"
-      ],
-      "guests": [
-        "Scott Bessent",
-        "Howard Lutnick",
-        "Chris Wright",
-        "Doug Burgum"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The conversation is focused on the opportunities and challenges of AI, with a positive outlook on its potential impact."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 0,
-          "description": "Introduction to Scott Bessent, Treasury Secretary"
-        },
-        {
-          "timestamp_seconds": 17,
-          "description": "Introduction to Doug Burgum, Secretary of the Interior and Chris Wright, Energy Secretary"
-        },
-        {
-          "timestamp_seconds": 35,
-          "description": "Introduction to Howard Lutnick, Commerce Secretary"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
       "id": "2025-07-23-winning-the-ai-race-part-3-jensen-huang-lisa-su-james-litinsky-chase-lochmiller",
       "number": null,
       "title": "Winning the AI Race Part 3: Jensen Huang, Lisa Su, James Litinsky, Chase Lochmiller",
@@ -8908,6 +8893,95 @@
       "notable_mentions": []
     },
     {
+      "id": "2025-07-23-winning-the-ai-race-part-1-michael-kratsios-kelly-loeffler-chris-power-shyam-san",
+      "number": null,
+      "title": "Winning the AI Race Part 1: Michael Kratsios, Kelly Loeffler, Chris Power, Shyam Sankar, Paul Buchheit, Jake Loosararian",
+      "date": "2025-07-23",
+      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-michael-kratsios-kelly-loeffler-chris-power-shyam-sankar-paul-buchheit-jake-loosararian",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Podcast discusses winning the AI race with various guests, including Michael Kratsios, Chris Power, and Shyam Sankar. They share insights on AI development, safety, and its potential impact on society. The guests also discuss their own experiences and perspectives on the AI industry.",
+      "takeaways": [
+        {
+          "text": "AI safety is crucial",
+          "timestamp_seconds": 18
+        },
+        {
+          "text": "US needs to lead in AI development",
+          "timestamp_seconds": 35
+        },
+        {
+          "text": "Private sector drives AI innovation",
+          "timestamp_seconds": 44
+        },
+        {
+          "text": "Regulation is necessary for AI growth",
+          "timestamp_seconds": 60
+        },
+        {
+          "text": "AI will transform various industries",
+          "timestamp_seconds": 75
+        },
+        {
+          "text": "Talent acquisition is key to AI success",
+          "timestamp_seconds": 90
+        },
+        {
+          "text": "Global cooperation is necessary for AI safety",
+          "timestamp_seconds": 100
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI is a national security issue",
+          "speaker": "Michael Kratsios",
+          "timestamp_seconds": 9
+        },
+        {
+          "text": "AI will change everything",
+          "speaker": "Chris Power",
+          "timestamp_seconds": 18
+        },
+        {
+          "text": "AI safety is a top priority",
+          "speaker": "Shyam Sankar",
+          "timestamp_seconds": 44
+        }
+      ],
+      "topics": [
+        "ai-safety",
+        "ai-development",
+        "ai-regulation",
+        "ai-innovation",
+        "national-security",
+        "global-cooperation",
+        "talent-acquisition"
+      ],
+      "guests": [
+        "Michael Kratsios",
+        "Chris Power",
+        "Shyam Sankar",
+        "Kelly Loeffler",
+        "Paul Buchheit",
+        "Jake Loosararian"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The guests and hosts express enthusiasm and optimism about the potential of AI, while also acknowledging the need for caution and regulation."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 9,
+          "description": "Michael Kratsios discusses AI as a national security issue"
+        },
+        {
+          "timestamp_seconds": 44,
+          "description": "Shyam Sankar emphasizes the importance of AI safety"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
       "id": "2025-07-23-winning-the-ai-race-part-2-vice-president-jd-vance",
       "number": null,
       "title": "Winning the AI Race Part 2: Vice President JD Vance",
@@ -8990,6 +9064,98 @@
         {
           "timestamp_seconds": 16,
           "description": "The impact of AI on jobs is discussed"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
+      "id": "2025-07-23-winning-the-ai-race-part-4-scott-bessent-howard-lutnick-chris-wright-and-doug-bu",
+      "number": null,
+      "title": "Winning the AI Race Part 4: Scott Bessent, Howard Lutnick, Chris Wright, and Doug Burgum",
+      "date": "2025-07-23",
+      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-part-4-scott-bessent-howard-lutnick-chris-wright-and-doug-burgum",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Podcast discusses winning the AI race with guests Scott Bessent, Howard Lutnick, Chris Wright, and Doug Burgum. They share insights on AI safety, energy, and commerce. The conversation covers various topics, including the role of government in AI development.",
+      "takeaways": [
+        {
+          "text": "AI safety is crucial",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Government plays a key role in AI development",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Energy sector is impacted by AI",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Commerce Secretary has a role in AI",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "AI will change the job market",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Investing in AI is essential",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "AI regulation is necessary",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "AI will impact the economy",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Winning the AI race",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "AI is the future",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "ai-safety",
+        "ai-development",
+        "energy",
+        "commerce",
+        "government",
+        "job-market",
+        "investing",
+        "regulation",
+        "economy"
+      ],
+      "guests": [
+        "Scott Bessent",
+        "Howard Lutnick",
+        "Chris Wright",
+        "Doug Burgum"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is focused on the opportunities and challenges of AI, with a positive outlook on its potential impact."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to Scott Bessent, Treasury Secretary"
+        },
+        {
+          "timestamp_seconds": 17,
+          "description": "Introduction to Doug Burgum, Secretary of the Interior and Chris Wright, Energy Secretary"
+        },
+        {
+          "timestamp_seconds": 35,
+          "description": "Introduction to Howard Lutnick, Commerce Secretary"
         }
       ],
       "notable_mentions": []
@@ -25094,83 +25260,6 @@
       "notable_mentions": []
     },
     {
-      "id": "2022-04-16-e765-food-shortage-chinas-grand-plan-inflation-french-election-plus-an-all-in-su",
-      "number": null,
-      "title": "E76.5: Food shortage, China's grand plan, inflation, French election plus an All-In Summit preview",
-      "date": "2022-04-16",
-      "url": "https://allinchamathjason.libsyn.com/e765-food-shortage-chinas-grand-plan-inflation-french-election-plus-an-all-in-summit-preview",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "The All-In Podcast discusses the global food crisis, China's grand plan, inflation, and the French election. They also provide an update and preview of the All-In Summit. The hosts analyze the potential causes of inflation and its impact on the global economy. Additionally, they break down the French election results and what they might mean for the future.",
-      "takeaways": [
-        {
-          "text": "Global food crisis is a major concern",
-          "timestamp_seconds": 1
-        },
-        {
-          "text": "China's grand plan involves securing food supplies",
-          "timestamp_seconds": 63
-        },
-        {
-          "text": "Inflation is at 8.5% CPI in March",
-          "timestamp_seconds": 527
-        },
-        {
-          "text": "French election results have significant implications",
-          "timestamp_seconds": 1092
-        },
-        {
-          "text": "All-In Summit will feature notable speakers and discussions",
-          "timestamp_seconds": 1388
-        },
-        {
-          "text": "Inflation may continue to rise in 2022",
-          "timestamp_seconds": 557
-        },
-        {
-          "text": "China's non-intervention principle is being reevaluated",
-          "timestamp_seconds": 93
-        }
-      ],
-      "quotes": [
-        {
-          "text": "Food crisis is a major concern",
-          "speaker": "David Friedberg",
-          "timestamp_seconds": 1
-        },
-        {
-          "text": "Inflation is a significant issue",
-          "speaker": "Chamath Palihapitiya",
-          "timestamp_seconds": 527
-        }
-      ],
-      "topics": [
-        "global-food-crisis",
-        "china",
-        "inflation",
-        "french-election",
-        "all-in-summit",
-        "economy",
-        "politics"
-      ],
-      "guests": [],
-      "sentiment": {
-        "overall": "cautious",
-        "notes": "The hosts express concern about the global food crisis and inflation, but also provide some optimism about the All-In Summit and potential solutions to these issues."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 0,
-          "description": "Surprise part two of the episode"
-        },
-        {
-          "timestamp_seconds": 1388,
-          "description": "All-In Summit update and preview"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
       "id": "2022-04-16-elon-vs-twitter",
       "number": 76,
       "title": "Elon vs. Twitter",
@@ -25253,6 +25342,83 @@
         {
           "timestamp_seconds": 43,
           "description": "Free speech on Twitter is discussed"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
+      "id": "2022-04-16-e765-food-shortage-chinas-grand-plan-inflation-french-election-plus-an-all-in-su",
+      "number": null,
+      "title": "E76.5: Food shortage, China's grand plan, inflation, French election plus an All-In Summit preview",
+      "date": "2022-04-16",
+      "url": "https://allinchamathjason.libsyn.com/e765-food-shortage-chinas-grand-plan-inflation-french-election-plus-an-all-in-summit-preview",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Podcast discusses the global food crisis, China's grand plan, inflation, and the French election. They also provide an update and preview of the All-In Summit. The hosts analyze the potential causes of inflation and its impact on the global economy. Additionally, they break down the French election results and what they might mean for the future.",
+      "takeaways": [
+        {
+          "text": "Global food crisis is a major concern",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "China's grand plan involves securing food supplies",
+          "timestamp_seconds": 63
+        },
+        {
+          "text": "Inflation is at 8.5% CPI in March",
+          "timestamp_seconds": 527
+        },
+        {
+          "text": "French election results have significant implications",
+          "timestamp_seconds": 1092
+        },
+        {
+          "text": "All-In Summit will feature notable speakers and discussions",
+          "timestamp_seconds": 1388
+        },
+        {
+          "text": "Inflation may continue to rise in 2022",
+          "timestamp_seconds": 557
+        },
+        {
+          "text": "China's non-intervention principle is being reevaluated",
+          "timestamp_seconds": 93
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Food crisis is a major concern",
+          "speaker": "David Friedberg",
+          "timestamp_seconds": 1
+        },
+        {
+          "text": "Inflation is a significant issue",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 527
+        }
+      ],
+      "topics": [
+        "global-food-crisis",
+        "china",
+        "inflation",
+        "french-election",
+        "all-in-summit",
+        "economy",
+        "politics"
+      ],
+      "guests": [],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express concern about the global food crisis and inflation, but also provide some optimism about the All-In Summit and potential solutions to these issues."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Surprise part two of the episode"
+        },
+        {
+          "timestamp_seconds": 1388,
+          "description": "All-In Summit update and preview"
         }
       ],
       "notable_mentions": []
@@ -40425,6 +40591,6 @@
     ],
     "episode_count": 377
   },
-  "brief_markdown": "# Weekly Brief - 2026-05-26\n\n**Latest episode:** SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis? - 2026-05-22\n\n## What this episode covered\n_No summary available_\n\n## Top takeaways\n\n## Notable quotes\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` - mentioned in 41 episodes\n- `economy` - mentioned in 40 episodes\n- `politics` - mentioned in 38 episodes\n- `us-politics` - mentioned in 28 episodes\n- `openai` - mentioned in 25 episodes\n- `big-tech` - mentioned in 23 episodes\n- `venture-capital` - mentioned in 22 episodes\n- `inflation` - mentioned in 21 episodes\n- `elon-musk` - mentioned in 20 episodes\n- `ai` - mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-05-26 from 377 episodes_",
-  "generated_at": "2026-05-26T02:20:20.006507+00:00"
+  "brief_markdown": "# Weekly Brief - 2026-05-26\n\n**Latest episode:** SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis? - 2026-05-22\n\n## What this episode covered\nThe All-In Podcast discusses various topics including Andre Karpathy joining Anthropic, the AI PR crisis, SpaceX's potential $2 trillion valuation, and NVIDIA's impressive earnings. The hosts also touch on the topics of AI improving itself, the potential for a new form of Moore's law, and the impact of AI on jobs. Additionally, they discuss the current state of the market, geopolitics, and the recent meeting between US and Chinese leaders.\n\n## Top takeaways\n- Andre Karpathy joining Anthropic is a significant deal\n- The AI PR crisis is fueled by concerns about power imbalances and the potential for AI to benefit only a small group of people\n- SpaceX's valuation could reach $2 trillion\n- NVIDIA's earnings are impressive, with $81.6 billion in revenue and 85% year-over-year growth\n- The AI market is cross-sectionally inefficient, with different valuations for chip companies\n- Chamath Palihapitiya believes in having a concentrated portfolio with a few large holdings\n- Gavin Baker manages over 100 positions at his firm\n- Selling NVIDIA chips to China may lower the odds of them developing their own alternative ecosystem\n\n## Notable quotes\n> \"He's one of these really curious people that can be sent off, and they'll just go and invent new things\" - Gavin Baker\n> \"I think what we should do now is focus on these end user use cases\" - Gavin Baker\n> \"I think that there's a real set of shifts happening\" - David Friedberg\n> \"Crime is a choice\" - Chamath Palihapitiya\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` - mentioned in 41 episodes\n- `economy` - mentioned in 40 episodes\n- `politics` - mentioned in 38 episodes\n- `us-politics` - mentioned in 28 episodes\n- `openai` - mentioned in 25 episodes\n- `big-tech` - mentioned in 23 episodes\n- `venture-capital` - mentioned in 22 episodes\n- `inflation` - mentioned in 21 episodes\n- `elon-musk` - mentioned in 20 episodes\n- `ai` - mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-05-26 from 377 episodes_",
+  "generated_at": "2026-05-26T03:46:13.607882+00:00"
 }
