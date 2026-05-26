@@ -16,13 +16,14 @@ const TOP_K = 12; // how many episodes to include as context
 // Level 2: pull transcript excerpts for the top N episodes at chat time. These
 // excerpts give the LLM real quoted material, not just the analyzed summary -
 // so it can answer questions about specifics the analysis layer missed.
+//
+// Each tracker sets RAW_EPISODE_BASE in its own wrangler.toml under [vars],
+// pointing at that tracker's per-episode JSON folder. This keeps the Worker
+// code reusable across different podcast/lecture trackers without code edits.
 const SNIPPET_TOP_N = 3;
 const SNIPPET_BEFORE_CHARS = 600;
 const SNIPPET_AFTER_CHARS = 1400;
 const SNIPPET_FALLBACK_CHARS = 2000; // when no query term matched in transcript
-
-const RAW_EPISODE_BASE =
-  "https://raw.githubusercontent.com/KR48VR/all-in-podcast-tracker/main/data/episodes";
 
 export default {
   async fetch(request, env) {
@@ -66,12 +67,15 @@ export default {
 
     // Level 2: enrich the top SNIPPET_TOP_N episodes with a transcript excerpt
     // so the LLM has real quoted material, not just the analyzed summary.
+    // Skip this step gracefully if RAW_EPISODE_BASE isn't configured.
     const terms = parseTerms(retrievalQuery);
-    const topForSnippets = relevant.slice(0, SNIPPET_TOP_N);
-    const snippets = await Promise.all(
-      topForSnippets.map((ep) => fetchTranscriptSnippet(ep.id, terms))
-    );
-    topForSnippets.forEach((ep, i) => { ep._snippet = snippets[i]; });
+    if (env.RAW_EPISODE_BASE) {
+      const topForSnippets = relevant.slice(0, SNIPPET_TOP_N);
+      const snippets = await Promise.all(
+        topForSnippets.map((ep) => fetchTranscriptSnippet(env.RAW_EPISODE_BASE, ep.id, terms))
+      );
+      topForSnippets.forEach((ep, i) => { ep._snippet = snippets[i]; });
+    }
 
     const context = relevant.map(formatEpisode).join("\n\n---\n\n");
     const citations = relevant.map((e) => `${e.date} · ${e.title}`);
@@ -209,12 +213,12 @@ function formatEpisode(ep) {
   return lines.join("\n");
 }
 
-async function fetchTranscriptSnippet(epId, terms) {
-  // Fetch the raw per-episode JSON from GitHub, with edge cache.
-  // We cache aggressively because episode JSONs only change on weekly workflow
-  // runs - so a 1-hour cache is comfortably safe.
-  if (!epId) return "";
-  const url = `${RAW_EPISODE_BASE}/${epId}.json`;
+async function fetchTranscriptSnippet(rawBase, epId, terms) {
+  // Fetch the raw per-episode JSON from a configurable base URL, with edge
+  // cache. We cache aggressively because episode JSONs only change on weekly
+  // workflow runs - so a 1-hour cache is comfortably safe.
+  if (!epId || !rawBase) return "";
+  const url = `${rawBase}/${epId}.json`;
   try {
     const cache = caches.default;
     const cacheKey = new Request(url);
@@ -247,19 +251,62 @@ async function fetchTranscriptSnippet(epId, terms) {
 function extractSnippet(transcript, terms) {
   if (!transcript) return "";
   const lower = transcript.toLowerCase();
-  let bestIdx = -1;
-  for (const t of terms) {
+
+  // Filter to terms that are likely meaningful for anchoring (drops very short
+  // or empty terms). Short words like "the", "did", "say", "ceo" tend to be
+  // either stopwords or so common that they don't discriminate. We keep them
+  // in the broader keyword-scoring layer (rankEpisodes), but exclude them here
+  // when picking WHERE in the transcript to anchor the snippet.
+  const meaningful = terms.filter((t) => t && t.length >= 4);
+  const anchorTerms = meaningful.length > 0 ? meaningful : terms;
+
+  // For each anchor term, collect ALL its occurrences in the transcript and
+  // weight each by inverse frequency. A term that appears 5 times has weight
+  // 0.2 per occurrence; a term that appears 500 times has weight 0.002. So
+  // rare specific terms (like "Cloudflare") dominate over common ones (like
+  // "the"), without needing an explicit stopword list.
+  const positions = []; // [{pos, weight}]
+  for (const t of anchorTerms) {
     if (!t) continue;
-    const i = lower.indexOf(t);
-    if (i >= 0 && (bestIdx < 0 || i < bestIdx)) bestIdx = i;
+    const matches = [];
+    let i = 0;
+    while ((i = lower.indexOf(t, i)) !== -1) {
+      matches.push(i);
+      i += t.length;
+      if (matches.length > 100) break; // cap to bound CPU cost
+    }
+    if (matches.length === 0) continue;
+    const weight = 1 / matches.length;
+    for (const pos of matches) positions.push({ pos, weight });
   }
-  if (bestIdx < 0) {
-    // No matching term found - fall back to the start of the transcript
+
+  if (positions.length === 0) {
+    // No matching anchor terms found - fall back to the start of the transcript
     return transcript.slice(0, SNIPPET_FALLBACK_CHARS);
   }
-  const start = Math.max(0, bestIdx - SNIPPET_BEFORE_CHARS);
-  const end = Math.min(transcript.length, bestIdx + SNIPPET_AFTER_CHARS);
-  // Add ellipses to make it clear this is an excerpt
+
+  // Pick the position with the highest density of weighted matches within a
+  // RADIUS-character window. This finds where the rare query terms CLUSTER -
+  // i.e. where the actual discussion of the topic lives, not just where the
+  // single rarest term happens to appear once.
+  const RADIUS = 1000;
+  let bestPos = positions[0].pos;
+  let bestScore = -1;
+  for (const cand of positions) {
+    let score = 0;
+    for (const other of positions) {
+      if (Math.abs(other.pos - cand.pos) <= RADIUS) {
+        score += other.weight;
+      }
+    }
+    if (score > bestScore) {
+      bestScore = score;
+      bestPos = cand.pos;
+    }
+  }
+
+  const start = Math.max(0, bestPos - SNIPPET_BEFORE_CHARS);
+  const end = Math.min(transcript.length, bestPos + SNIPPET_AFTER_CHARS);
   const prefix = start > 0 ? "..." : "";
   const suffix = end < transcript.length ? "..." : "";
   return prefix + transcript.slice(start, end) + suffix;

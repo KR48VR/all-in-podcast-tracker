@@ -4,3 +4,6 @@ compatibility_date = "2025-01-01"
 
 # Set the GROQ_API_KEY as a secret (not here in plain text):
 #   cd worker && wrangler secret put GROQ_API_KEY
+
+[vars]
+RAW_EPISODE_BASE = ""
