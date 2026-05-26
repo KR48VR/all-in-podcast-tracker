@@ -13,6 +13,17 @@ const GROQ_URL = "https://api.groq.com/openai/v1/chat/completions";
 const MODEL = "llama-3.3-70b-versatile";
 const TOP_K = 12; // how many episodes to include as context
 
+// Level 2: pull transcript excerpts for the top N episodes at chat time. These
+// excerpts give the LLM real quoted material, not just the analyzed summary -
+// so it can answer questions about specifics the analysis layer missed.
+const SNIPPET_TOP_N = 3;
+const SNIPPET_BEFORE_CHARS = 600;
+const SNIPPET_AFTER_CHARS = 1400;
+const SNIPPET_FALLBACK_CHARS = 2000; // when no query term matched in transcript
+
+const RAW_EPISODE_BASE =
+  "https://raw.githubusercontent.com/KR48VR/all-in-podcast-tracker/main/data/episodes";
+
 export default {
   async fetch(request, env) {
     // CORS
@@ -52,13 +63,29 @@ export default {
     const retrievalQuery = (recentUserText + " " + question).trim();
 
     const relevant = rankEpisodes(retrievalQuery, episodes).slice(0, TOP_K);
+
+    // Level 2: enrich the top SNIPPET_TOP_N episodes with a transcript excerpt
+    // so the LLM has real quoted material, not just the analyzed summary.
+    const terms = parseTerms(retrievalQuery);
+    const topForSnippets = relevant.slice(0, SNIPPET_TOP_N);
+    const snippets = await Promise.all(
+      topForSnippets.map((ep) => fetchTranscriptSnippet(ep.id, terms))
+    );
+    topForSnippets.forEach((ep, i) => { ep._snippet = snippets[i]; });
+
     const context = relevant.map(formatEpisode).join("\n\n---\n\n");
     const citations = relevant.map((e) => `${e.date} · ${e.title}`);
 
     const systemPrompt =
       "You are an expert analyst of the All-In Podcast. Answer the user's " +
-      "question using ONLY the episode notes below. Quote the hosts' views " +
-      "where relevant. If the notes don't contain the answer, say so plainly. " +
+      "question using the episode notes below. Quote the hosts' views where " +
+      "relevant. If the notes don't contain the answer, say so plainly. " +
+      "Some entries include a TRANSCRIPT_EXCERPT field with verbatim text " +
+      "from the recording. When the user asks what someone said or how " +
+      "someone framed something, the TRANSCRIPT_EXCERPT is your primary " +
+      "source - quote from it directly. Transcripts don't have explicit " +
+      "speaker labels, so infer the likely speaker from style and context " +
+      "and qualify your attribution (e.g. 'likely Chamath, based on phrasing'). " +
       "Keep answers tight and cite episode titles inline like (E. Title, YYYY-MM-DD). " +
       "When a takeaway or quote has a timestamp and youtube URL, include a " +
       "Markdown deep-link in the form [▶ mm:ss](youtube_url?t=SECONDSs) right " +
@@ -100,15 +127,19 @@ export default {
 
 /* ------ Helpers ------ */
 
-function rankEpisodes(question, eps) {
-  // Simple keyword score - cheap, deterministic, works well enough as a
-  // retrieval step when the corpus is a few hundred summaries. Upgrade to
-  // embeddings later if you want smarter retrieval.
-  const terms = question
+function parseTerms(question) {
+  return question
     .toLowerCase()
     .replace(/[^\w\s]/g, " ")
     .split(/\s+/)
     .filter((t) => t.length > 2);
+}
+
+function rankEpisodes(question, eps) {
+  // Simple keyword score - cheap, deterministic, works well enough as a
+  // retrieval step when the corpus is a few hundred summaries. Upgrade to
+  // embeddings later if you want smarter retrieval.
+  const terms = parseTerms(question);
 
   // Detect questions asking for the latest/newest content. When found, we
   // sort purely by date so retrieval doesn't accidentally surface an old
@@ -173,8 +204,65 @@ function formatEpisode(ep) {
     ...(ep.takeaways || []).map(fmtTake),
     (ep.quotes || []).length ? "\nQUOTES:" : "",
     ...(ep.quotes || []).map(fmtQuote),
+    ep._snippet ? `\nTRANSCRIPT_EXCERPT (verbatim from the recording):\n${ep._snippet}` : "",
   ].filter(Boolean);
   return lines.join("\n");
+}
+
+async function fetchTranscriptSnippet(epId, terms) {
+  // Fetch the raw per-episode JSON from GitHub, with edge cache.
+  // We cache aggressively because episode JSONs only change on weekly workflow
+  // runs - so a 1-hour cache is comfortably safe.
+  if (!epId) return "";
+  const url = `${RAW_EPISODE_BASE}/${epId}.json`;
+  try {
+    const cache = caches.default;
+    const cacheKey = new Request(url);
+    let resp = await cache.match(cacheKey);
+    if (!resp) {
+      resp = await fetch(url, { cf: { cacheTtl: 3600, cacheEverything: true } });
+      if (resp.ok) {
+        const cloned = resp.clone();
+        const cacheHeaders = new Headers(cloned.headers);
+        cacheHeaders.set("Cache-Control", "public, max-age=3600");
+        const cacheable = new Response(cloned.body, {
+          status: cloned.status,
+          headers: cacheHeaders,
+        });
+        // Fire-and-forget cache put; don't await so chat latency stays low.
+        cache.put(cacheKey, cacheable).catch(() => {});
+      }
+    }
+    if (!resp.ok) return "";
+    const data = await resp.json();
+    const transcript = data.transcript || "";
+    return extractSnippet(transcript, terms);
+  } catch (e) {
+    // Never let snippet fetch failure break the chat - just return empty
+    // and let the rest of the analyzed context carry the answer.
+    return "";
+  }
+}
+
+function extractSnippet(transcript, terms) {
+  if (!transcript) return "";
+  const lower = transcript.toLowerCase();
+  let bestIdx = -1;
+  for (const t of terms) {
+    if (!t) continue;
+    const i = lower.indexOf(t);
+    if (i >= 0 && (bestIdx < 0 || i < bestIdx)) bestIdx = i;
+  }
+  if (bestIdx < 0) {
+    // No matching term found - fall back to the start of the transcript
+    return transcript.slice(0, SNIPPET_FALLBACK_CHARS);
+  }
+  const start = Math.max(0, bestIdx - SNIPPET_BEFORE_CHARS);
+  const end = Math.min(transcript.length, bestIdx + SNIPPET_AFTER_CHARS);
+  // Add ellipses to make it clear this is an excerpt
+  const prefix = start > 0 ? "..." : "";
+  const suffix = end < transcript.length ? "..." : "";
+  return prefix + transcript.slice(start, end) + suffix;
 }
 
 function corsHeaders() {
