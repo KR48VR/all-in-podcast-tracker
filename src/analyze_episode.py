@@ -124,6 +124,8 @@ Return a single JSON object with exactly these fields:
 
 Rules:
 - 5 to 8 takeaways.
+- AT LEAST 2 of the takeaways MUST reference specific named people, companies, or organizations by name (not just abstract themes). For example, prefer "Matthew Prince announced 20% Cloudflare layoffs, arguing AI made 'measurers' redundant" over the generic "AI is causing layoffs at tech companies." Specific names + what they said or did beats abstract patterns. This is critical because downstream search depends on names appearing in the takeaways.
+- Where a takeaway summarizes a host's view of someone, include both the host and the subject by name (e.g. "Chamath argued that Dario's doom rhetoric correlates with Anthropic's compute constraints").
 - Core hosts (Chamath Palihapitiya, Jason Calacanis, David Sacks, David Friedberg) are NOT guests.
 - Keep quotes under 30 words.
 - Topic tags should be reusable (prefer "ai-safety" over "sam-altman-warned-about-x").
@@ -159,6 +161,7 @@ This is a partial view of a longer episode. Return a JSON object describing what
 
 Rules:
 - AT MOST 4 takeaways from THIS chunk only.
+- When the chunk contains a memorable concrete example involving a named person, company, or organization, INCLUDE it as a takeaway with the name(s) explicitly in the text. Specifics beat themes.
 - AT MOST 4 quotes from THIS chunk only.
 - notable_mentions: list every company, exec, product, book, or org mentioned in THIS chunk, even briefly. Format "Person (Org)" when both are known, else just the name. Up to 15 entries.
 - Keep quotes under 30 words.
@@ -200,6 +203,8 @@ Produce ONE JSON object in this exact schema:
 
 Rules:
 - Pick the 5-8 BEST takeaways across all chunks (dedupe near-duplicates).
+- AT LEAST 2 of the chosen takeaways MUST mention specific named people, companies, or organizations (not just abstract themes). For example, prefer "Matthew Prince announced 20% Cloudflare layoffs because AI made 'measurers' redundant" over the generic "AI is causing layoffs." This is critical for downstream search.
+- When a chunk had a specific named-example takeaway, prefer keeping it over a more abstract one from another chunk.
 - notable_mentions: union of all chunks' notable_mentions, deduplicated. Aim for 15-30 entries. Be inclusive - this powers user search.
 - Pick the 5-10 best quotes (preserve their original timestamp_seconds).
 - Topics should consolidate across all chunks; remove duplicates.
