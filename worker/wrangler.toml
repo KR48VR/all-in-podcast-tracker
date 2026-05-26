@@ -5,6 +5,7 @@ compatibility_date = "2025-01-01"
 # Set the GROQ_API_KEY as a secret (not here in plain text):
 #   cd worker && wrangler secret put GROQ_API_KEY
 
-RAW_EPISODE_BASE = ""
 
-RAW_EPISODE_BASE = "https://raw.githubusercontent.com/KR48VR/all-in-podcast-tracker/main/data/episodes"
+
+[vars]
+RAW_EPISODE_BASE = "https://raw.githubusercontent.com/KR48VR/all-in-podcast-tracker/main/data/episodes"
