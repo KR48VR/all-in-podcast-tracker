@@ -21,9 +21,12 @@ const TOP_K = 12; // how many episodes to include as context
 // pointing at that tracker's per-episode JSON folder. This keeps the Worker
 // code reusable across different podcast/lecture trackers without code edits.
 const SNIPPET_TOP_N = 3;
-const SNIPPET_BEFORE_CHARS = 600;
-const SNIPPET_AFTER_CHARS = 1400;
-const SNIPPET_FALLBACK_CHARS = 2000; // when no query term matched in transcript
+// Widened from 600/1400 to 500/3000. The anchor point is usually the SUBJECT
+// being asked about (e.g. "Matthew Prince"); the discussion ABOUT that subject
+// often unfolds in the 2-3KB AFTER the first mention. We give it room.
+const SNIPPET_BEFORE_CHARS = 500;
+const SNIPPET_AFTER_CHARS = 3000;
+const SNIPPET_FALLBACK_CHARS = 3000; // when no query term matched in transcript
 
 export default {
   async fetch(request, env) {
@@ -95,6 +98,16 @@ export default {
       "quote from X' as a reason to withhold material - the transcript IS " +
       "the verbatim recording, your job is to surface the words and " +
       "acknowledge attribution uncertainty separately. " +
+      "" +
+      "FOLLOW-UP HANDLING: When the user asks 'did they say more?', 'what " +
+      "else?', 'go deeper', 'elaborate', etc, the TRANSCRIPT_EXCERPT often " +
+      "contains additional material BEYOND what you already surfaced. Scan " +
+      "the excerpt for content you didn't quote in the previous turn - " +
+      "reactions, follow-up arguments, related anecdotes, contrasting views - " +
+      "and surface THOSE this time. Do not repeat what you already said. " +
+      "Only respond 'no more material' if you have genuinely exhausted the " +
+      "excerpt across the full conversation. " +
+      "" +
       "If the notes truly don't contain the answer, say so plainly. " +
       "Keep answers tight and cite episode titles inline like (E. Title, YYYY-MM-DD). " +
       "When a takeaway or quote has a timestamp and youtube URL, include a " +
