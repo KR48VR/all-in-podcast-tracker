@@ -1,6 +1,245 @@
 {
   "episodes": [
     {
+      "id": "2026-05-29-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown",
+      "number": null,
+      "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
+      "date": "2026-05-29",
+      "url": "https://allinchamathjason.libsyn.com/pope-vs-ai-anthropics-digital-god-ai-job-loss-narrative-flips-open-source-crackdown-coming",
+      "youtube_url": "https://www.youtube.com/watch?v=4oq91rzQcO8",
+      "youtube_video_id": "4oq91rzQcO8",
+      "summary": "The All-In podcast discusses various topics including AI, job satisfaction, education, and the potential risks and benefits of AI with guest Bill Gurley. They also talk about the importance of being AI-enabled, decentralization, and open-source solutions. The conversation covers the potential ban on open-source AI models, the growth of Anthropic, and the shifting narrative on AI's impact on jobs.",
+      "takeaways": [
+        {
+          "text": "Bill Gurley started a nonprofit and a fellowship program called Running Down a Dream to help people chase their dreams",
+          "timestamp_seconds": 299
+        },
+        {
+          "text": "The best way to protect yourself from AI is to be the most AI-enabled version of yourself",
+          "timestamp_seconds": 415
+        },
+        {
+          "text": "The Pope's AI encyclical warns of the risks of AI and calls for regulation to safeguard humanity",
+          "timestamp_seconds": 1062
+        },
+        {
+          "text": "Anthropic co-founder Chris Ola is an atheist who has worked with the Vatican on AI issues",
+          "timestamp_seconds": 1158
+        },
+        {
+          "text": "Dario Amodei and Sam Altman are walking back their AI job apocalypse predictions",
+          "timestamp_seconds": 3728
+        },
+        {
+          "text": "Bill Gurley believes that innovation has led to more prosperity for humans and that AI will create new opportunities",
+          "timestamp_seconds": 4111
+        },
+        {
+          "text": "Anthropic's approach to AI may be driven by a desire to create a safe and powerful technology, but this could lead to centralization and monopolistic control",
+          "timestamp_seconds": 2170
+        },
+        {
+          "text": "Decentralization of AI is crucial to prevent a single company or entity from controlling the technology and potentially abusing its power",
+          "timestamp_seconds": 2264
+        }
+      ],
+      "quotes": [
+        {
+          "text": "The best way to protect yourself from AI is to be the most AI-enabled version of yourself",
+          "speaker": "Bill Gurley",
+          "timestamp_seconds": 415
+        },
+        {
+          "text": "Proficiency in Claude is a highly marketable skill in the economy right now",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 667
+        },
+        {
+          "text": "I've never seen a company that is both leading their field and the most negatively outspoken commenter on what they do",
+          "speaker": "Bill Gurley",
+          "timestamp_seconds": 1617
+        },
+        {
+          "text": "The more I dig, I've met people who think it's their responsibility and they're excited about building a species that's superior to humans",
+          "speaker": "Bill Gurley",
+          "timestamp_seconds": 1826
+        },
+        {
+          "text": "It's like why would we stick to the $10 billion training runs when we can have the $10 million training runs?",
+          "speaker": "Bill Gurley",
+          "timestamp_seconds": 3157
+        },
+        {
+          "text": "The rest of the world ends up running on Chinese models if they're able to succeed",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 3264
+        },
+        {
+          "text": "I'm in the enabling camp",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 5508
+        },
+        {
+          "text": "I think it's better than having the government fix things",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 5560
+        },
+        {
+          "text": "If you're the most AI savvy person of all your peers, you are golden",
+          "speaker": "Jason",
+          "timestamp_seconds": 842
+        }
+      ],
+      "topics": [
+        "ai",
+        "education",
+        "job-satisfaction",
+        "career-development",
+        "ai-regulation",
+        "anthropic",
+        "pope-ai-encyclical",
+        "ai-risks",
+        "ai-benefits",
+        "decentralization",
+        "open-source",
+        "centralization",
+        "monopolization",
+        "ai-jobs",
+        "startups",
+        "innovation",
+        "economy",
+        "skills-trades",
+        "empathy"
+      ],
+      "guests": [
+        "Bill Gurley"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The conversation covers a wide range of topics related to AI, including its potential risks and benefits, and the importance of being AI-enabled and having high agency in one's career. The tone is generally neutral, with some guests expressing optimism about the potential of AI to create new opportunities, while others express caution about its potential risks."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to the podcast episode"
+        },
+        {
+          "timestamp_seconds": 210,
+          "description": "Bill Gurley joins the show"
+        },
+        {
+          "timestamp_seconds": 299,
+          "description": "Bill Gurley talks about his nonprofit and fellowship program"
+        },
+        {
+          "timestamp_seconds": 1062,
+          "description": "The hosts discuss the Pope's AI encyclical"
+        },
+        {
+          "timestamp_seconds": 1158,
+          "description": "The hosts discuss Anthropic co-founder Chris Ola's background and work with the Vatican"
+        },
+        {
+          "timestamp_seconds": 1695,
+          "description": "Bill Gurley introduces his 'Dr. Frankenstein theory' about Anthropic's goals"
+        },
+        {
+          "timestamp_seconds": 2170,
+          "description": "Discussion on Anthropic's approach to AI and potential risks of centralization"
+        },
+        {
+          "timestamp_seconds": 2264,
+          "description": "Importance of decentralization of AI"
+        },
+        {
+          "timestamp_seconds": 2421,
+          "description": "Benefits of open-source solutions"
+        },
+        {
+          "timestamp_seconds": 2555,
+          "description": "Commoditization of AI models and its potential impact on investment"
+        },
+        {
+          "timestamp_seconds": 3403,
+          "description": "Polymarket reveals a company spent half a billion dollars on AI in a single month"
+        },
+        {
+          "timestamp_seconds": 3604,
+          "description": "Discussion on Dario Amodei mitigating his Doomer rhetoric on AI job loss"
+        },
+        {
+          "timestamp_seconds": 4045,
+          "description": "The conversation starts with a discussion on the impact of AI on job loss"
+        },
+        {
+          "timestamp_seconds": 4111,
+          "description": "Bill Gurley shares his thoughts on the potential for AI to create new opportunities"
+        },
+        {
+          "timestamp_seconds": 4170,
+          "description": "The hosts discuss the potential for massive job displacement due to AI"
+        },
+        {
+          "timestamp_seconds": 4577,
+          "description": "David Sacks argues that the job loss is not directly attributable to AI"
+        },
+        {
+          "timestamp_seconds": 4972,
+          "description": "The hosts start discussing the impact of AI on jobs"
+        },
+        {
+          "timestamp_seconds": 5110,
+          "description": "Bill Gurley shares his thoughts on the topic"
+        },
+        {
+          "timestamp_seconds": 5437,
+          "description": "The hosts discuss the idea of 'AI washing' and its potential consequences"
+        },
+        {
+          "timestamp_seconds": 5607,
+          "description": "The hosts wrap up the episode and thank their guest"
+        }
+      ],
+      "notable_mentions": [
+        "Benchmark",
+        "Running Down a Dream",
+        "Claude",
+        "Chat GPT",
+        "Goldman Sachs",
+        "Mark Cuban",
+        "Peter Thiel",
+        "Pope Leo",
+        "Chris Ola",
+        "Anthropic",
+        "Google",
+        "Meta",
+        "Amazon",
+        "Elon Musk",
+        "Larry Page",
+        "DeepMind",
+        "OpenAI",
+        "Dario Amodei",
+        "Amanda Askell",
+        "David Solomon",
+        "Polymarket",
+        "Mike Rowe",
+        "Tulsi Gabbard",
+        "Andy Jassy",
+        "Jack Dorsey",
+        "Matthew Prince",
+        "Zuckerberg",
+        "Block",
+        "Microsoft",
+        "Shopify",
+        "Toby Lucky",
+        "Mark Benioff",
+        "Linux Foundation",
+        "Rogo",
+        "Abacus",
+        "Getty Images"
+      ]
+    },
+    {
       "id": "2026-05-22-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-b",
       "number": null,
       "title": "SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?",
@@ -191,14 +430,202 @@
       "url": "https://allinchamathjason.libsyn.com/trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nio",
       "youtube_url": "https://www.youtube.com/watch?v=jJRAvZNGUvI",
       "youtube_video_id": "jJRAvZNGUvI",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": [],
-      "notable_mentions": []
+      "summary": "The All-In Podcast discusses the Trump-Xi summit, its implications on US-China relations, and potential trade deals, with Marc Benioff sharing insights on doing business in China. The conversation also covers the impact of AI on software, the future of consumer AI, and the potential for local models running on desktop hardware. Additionally, the episode touches on the strained relationship between OpenAI and Apple, and the potential consequences of a strong El Nino event.",
+      "takeaways": [
+        {
+          "text": "Marc Benioff has a unique partnership with Alibaba to sell Salesforce in China, with all data residing in Alibaba's servers",
+          "timestamp_seconds": 599
+        },
+        {
+          "text": "Elon Musk has a direct relationship with Xi, with Tesla operating in China without a partnership, a rare exception",
+          "timestamp_seconds": 680
+        },
+        {
+          "text": "A potential trade deal could lead to deflationary effects, increasing job security and income growth for Americans",
+          "timestamp_seconds": 837
+        },
+        {
+          "text": "China has serious systematic issues with population, real estate, and GDP, which are all in decline",
+          "timestamp_seconds": 1064
+        },
+        {
+          "text": "Marc Benioff says this is not his first SaaS apocalypse, having gone through similar experiences in 2020 and 2016",
+          "timestamp_seconds": 2035
+        },
+        {
+          "text": "Anthropic's AI model has enabled companies to code more efficiently",
+          "timestamp_seconds": 3042
+        },
+        {
+          "text": "A strong El Nino event could lead to food shortages and economic crises in South Asia",
+          "timestamp_seconds": 4037
+        },
+        {
+          "text": "Anthropic is taking a stance against multi-tiered SPVs being sold to investors",
+          "timestamp_seconds": 4307
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I'm not a Democrat or a Republican, I am an American",
+          "speaker": "Marc Benioff",
+          "timestamp_seconds": 54
+        },
+        {
+          "text": "Economic cooperation is the simplest and surest path to no conflict with China",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 417
+        },
+        {
+          "text": "This is not my first SaaS apocalypse",
+          "speaker": "Marc Benioff",
+          "timestamp_seconds": 2035
+        },
+        {
+          "text": "I think the low end of the market is basically finished",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 2153
+        },
+        {
+          "text": "You can't get drunk on the stock price",
+          "speaker": "Marc Benioff",
+          "timestamp_seconds": 2080
+        },
+        {
+          "text": "Never waste a crisis",
+          "speaker": "Marc Benioff",
+          "timestamp_seconds": 2404
+        },
+        {
+          "text": "Every company should do this",
+          "speaker": "Marc Benioff",
+          "timestamp_seconds": 4468
+        },
+        {
+          "text": "Best decision I ever made 27 years ago",
+          "speaker": "Marc Benioff",
+          "timestamp_seconds": 4477
+        },
+        {
+          "text": "You're gonna have a lot of people that are going to be very upset",
+          "speaker": "David Friedberg",
+          "timestamp_seconds": 4386
+        },
+        {
+          "text": "Look, everyone should try to be a Susan",
+          "speaker": "Marc Benioff",
+          "timestamp_seconds": 4554
+        }
+      ],
+      "topics": [
+        "us-china-relations",
+        "trade-deals",
+        "salesforce",
+        "tesla",
+        "economic-cooperation",
+        "china-economy",
+        "ai-impact",
+        "semiconductor-manufacturing",
+        "ai",
+        "saas",
+        "software",
+        "acquisitions",
+        "stock-market",
+        "consumer-ai",
+        "local-models",
+        "el-nino",
+        "food-shortages",
+        "economic-crises",
+        "spvs",
+        "philanthropy"
+      ],
+      "guests": [
+        "Marc Benioff"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The episode covers a wide range of topics, including the Trump-Xi summit, AI's impact on software, and the potential consequences of a strong El Nino event. The tone is generally informative and analytical, with some moments of optimism and caution."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to the podcast episode"
+        },
+        {
+          "timestamp_seconds": 74,
+          "description": "Discussion of the Trump-Xi summit begins"
+        },
+        {
+          "timestamp_seconds": 597,
+          "description": "Marc Benioff discusses his partnership with Alibaba to sell Salesforce in China"
+        },
+        {
+          "timestamp_seconds": 1064,
+          "description": "Discussion on China's economic issues begins"
+        },
+        {
+          "timestamp_seconds": 2035,
+          "description": "Marc Benioff shares his experience with previous SaaS apocalypses"
+        },
+        {
+          "timestamp_seconds": 2847,
+          "description": "Breaking news: OpenAI considers suing Apple over Chat GPT partnership"
+        },
+        {
+          "timestamp_seconds": 3030,
+          "description": "Discussion on the impact of AI on software begins"
+        },
+        {
+          "timestamp_seconds": 4037,
+          "description": "Discussion of El Nino event consequences"
+        },
+        {
+          "timestamp_seconds": 4307,
+          "description": "Anthropic's stance on SPVs"
+        },
+        {
+          "timestamp_seconds": 4451,
+          "description": "Marc Benioff discusses his philanthropic efforts"
+        }
+      ],
+      "notable_mentions": [
+        "Salesforce",
+        "Alibaba",
+        "Tesla",
+        "Elon Musk",
+        "Xi Jinping",
+        "Donald Trump",
+        "China",
+        "US",
+        "Polymarket",
+        "Boeing",
+        "Cargill",
+        "BYD",
+        "NVIDIA",
+        "Qualcomm",
+        "Huawei",
+        "ASML",
+        "Neuralink",
+        "Tony Robbins",
+        "OpenAI",
+        "Apple",
+        "Anthropic",
+        "Thinking Machines",
+        "Gemini",
+        "Google",
+        "SpaceX",
+        "Susan Wojcicki",
+        "UCSF",
+        "Pledge1percent.org",
+        "Visa",
+        "MasterCard",
+        "Slack",
+        "Informatica",
+        "Chamath Palihapitiya",
+        "Jason Calacanis",
+        "David Sacks",
+        "David Friedberg"
+      ]
     },
     {
       "id": "2026-05-12-charles-chase-koch-on-how-they-quietly-built-a-150b-empire",
@@ -2937,6 +3364,96 @@
       "notable_mentions": []
     },
     {
+      "id": "2026-01-23-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos",
+      "number": null,
+      "title": "Coinbase CEO's Top 3 Crypto Trends for 2026 + More from Davos!",
+      "date": "2026-01-23",
+      "url": "https://allinchamathjason.libsyn.com/coinbase-ceo-brian-armstrong-breaks-down-the-three-biggest-trends-in-crypto-more-from-davos",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The episode features interviews with Brian Armstrong, Andrew Feldman, and Jake Loosararian, discussing crypto adoption, compute power, and AI's impact on work and infrastructure. They explore how AI is changing productivity in real-time. The conversation highlights the builders shaping the future of these technologies.",
+      "takeaways": [
+        {
+          "text": "Crypto adoption is increasing",
+          "timestamp_seconds": 37
+        },
+        {
+          "text": "Compute power is crucial for AI",
+          "timestamp_seconds": 3891
+        },
+        {
+          "text": "AI is changing work and infrastructure",
+          "timestamp_seconds": 7090
+        },
+        {
+          "text": "Physical robots are being integrated with AI",
+          "timestamp_seconds": 4380
+        },
+        {
+          "text": "Productivity is being impacted by AI in real-time",
+          "timestamp_seconds": 7090
+        },
+        {
+          "text": "Builders are shaping the future of AI and crypto",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "AI is transforming industries",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Crypto is adopted",
+          "speaker": "Brian Armstrong",
+          "timestamp_seconds": 37
+        },
+        {
+          "text": "Compute power matters",
+          "speaker": "Andrew Feldman",
+          "timestamp_seconds": 3891
+        },
+        {
+          "text": "AI and robots",
+          "speaker": "Jake Loosararian",
+          "timestamp_seconds": 7090
+        }
+      ],
+      "topics": [
+        "crypto-adoption",
+        "ai-safety",
+        "compute-power",
+        "productivity",
+        "physical-robots",
+        "infrastructure",
+        "future-of-work"
+      ],
+      "guests": [
+        "Brian Armstrong",
+        "Andrew Feldman",
+        "Jake Loosararian"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has an optimistic tone, with guests discussing the potential of AI and crypto to transform industries and improve productivity."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 37,
+          "description": "Brian Armstrong discusses crypto adoption"
+        },
+        {
+          "timestamp_seconds": 3891,
+          "description": "Andrew Feldman talks about compute power"
+        },
+        {
+          "timestamp_seconds": 7090,
+          "description": "Jake Loosararian discusses AI and physical robots"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
       "id": "2026-01-23-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition",
       "number": null,
       "title": "Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition",
@@ -3080,96 +3597,6 @@
         {
           "timestamp_seconds": 2778,
           "description": "Discussion on Elon Musk's comments about the impact of AI on jobs"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
-      "id": "2026-01-23-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos",
-      "number": null,
-      "title": "Coinbase CEO's Top 3 Crypto Trends for 2026 + More from Davos!",
-      "date": "2026-01-23",
-      "url": "https://allinchamathjason.libsyn.com/coinbase-ceo-brian-armstrong-breaks-down-the-three-biggest-trends-in-crypto-more-from-davos",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "The episode features interviews with Brian Armstrong, Andrew Feldman, and Jake Loosararian, discussing crypto adoption, compute power, and AI's impact on work and infrastructure. They explore how AI is changing productivity in real-time. The conversation highlights the builders shaping the future of these technologies.",
-      "takeaways": [
-        {
-          "text": "Crypto adoption is increasing",
-          "timestamp_seconds": 37
-        },
-        {
-          "text": "Compute power is crucial for AI",
-          "timestamp_seconds": 3891
-        },
-        {
-          "text": "AI is changing work and infrastructure",
-          "timestamp_seconds": 7090
-        },
-        {
-          "text": "Physical robots are being integrated with AI",
-          "timestamp_seconds": 4380
-        },
-        {
-          "text": "Productivity is being impacted by AI in real-time",
-          "timestamp_seconds": 7090
-        },
-        {
-          "text": "Builders are shaping the future of AI and crypto",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "AI is transforming industries",
-          "timestamp_seconds": null
-        }
-      ],
-      "quotes": [
-        {
-          "text": "Crypto is adopted",
-          "speaker": "Brian Armstrong",
-          "timestamp_seconds": 37
-        },
-        {
-          "text": "Compute power matters",
-          "speaker": "Andrew Feldman",
-          "timestamp_seconds": 3891
-        },
-        {
-          "text": "AI and robots",
-          "speaker": "Jake Loosararian",
-          "timestamp_seconds": 7090
-        }
-      ],
-      "topics": [
-        "crypto-adoption",
-        "ai-safety",
-        "compute-power",
-        "productivity",
-        "physical-robots",
-        "infrastructure",
-        "future-of-work"
-      ],
-      "guests": [
-        "Brian Armstrong",
-        "Andrew Feldman",
-        "Jake Loosararian"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The episode has an optimistic tone, with guests discussing the potential of AI and crypto to transform industries and improve productivity."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 37,
-          "description": "Brian Armstrong discusses crypto adoption"
-        },
-        {
-          "timestamp_seconds": 3891,
-          "description": "Andrew Feldman talks about compute power"
-        },
-        {
-          "timestamp_seconds": 7090,
-          "description": "Jake Loosararian discusses AI and physical robots"
         }
       ],
       "notable_mentions": []
@@ -5786,89 +6213,6 @@
       "notable_mentions": []
     },
     {
-      "id": "2025-10-14-bryan-johnson-the-1-longevity-secret-you-can-start-doing-today",
-      "number": null,
-      "title": "Bryan Johnson: The #1 Longevity Secret You Can Start Doing Today",
-      "date": "2025-10-14",
-      "url": "https://allinchamathjason.libsyn.com/bryan-johnson-the-1-longevity-secret-you-can-start-doing-today",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "Bryan Johnson shares his top longevity hack, taking the audience through a biological age test and discussing his research. He emphasizes the importance of a single best longevity hack. The episode also features various sponsorships and promotions.",
-      "takeaways": [
-        {
-          "text": "Biological age can be measured",
-          "timestamp_seconds": 46
-        },
-        {
-          "text": "Longevity hack is crucial",
-          "timestamp_seconds": 353
-        },
-        {
-          "text": "Research is key to longevity",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Single best longevity hack exists",
-          "timestamp_seconds": 353
-        },
-        {
-          "text": "Importance of health and wellness",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Longevity is connected to lifestyle",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Bryan Johnson's expertise is valuable",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Longevity is a top priority",
-          "timestamp_seconds": null
-        }
-      ],
-      "quotes": [
-        {
-          "text": "The single best longevity hack",
-          "speaker": "Bryan Johnson",
-          "timestamp_seconds": 353
-        },
-        {
-          "text": "Thanks to our partners",
-          "speaker": "Unknown",
-          "timestamp_seconds": null
-        }
-      ],
-      "topics": [
-        "longevity",
-        "health",
-        "wellness",
-        "biological-age",
-        "research",
-        "lifestyle",
-        "priorities"
-      ],
-      "guests": [
-        "Bryan Johnson"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The episode has a positive tone, focusing on the importance of longevity and health. Bryan Johnson's expertise and enthusiasm contribute to the optimistic mood."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 46,
-          "description": "Bryan Johnson takes the audience through a biological age test"
-        },
-        {
-          "timestamp_seconds": 353,
-          "description": "Bryan Johnson shares the single best longevity hack"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
       "id": "2025-10-14-cathie-wood-on-how-ai-can-double-gdp-bull-case-for-bitcoin-1m-elons-trillion-dol",
       "number": null,
       "title": "Cathie Wood on How AI Can Double GDP, Bull Case for Bitcoin $1M, Elon's Trillion-Dollar Pay Package",
@@ -5957,6 +6301,89 @@
         {
           "timestamp_seconds": 481,
           "description": "Discussion of Elon's trillion-dollar pay package"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
+      "id": "2025-10-14-bryan-johnson-the-1-longevity-secret-you-can-start-doing-today",
+      "number": null,
+      "title": "Bryan Johnson: The #1 Longevity Secret You Can Start Doing Today",
+      "date": "2025-10-14",
+      "url": "https://allinchamathjason.libsyn.com/bryan-johnson-the-1-longevity-secret-you-can-start-doing-today",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Bryan Johnson shares his top longevity hack, taking the audience through a biological age test and discussing his research. He emphasizes the importance of a single best longevity hack. The episode also features various sponsorships and promotions.",
+      "takeaways": [
+        {
+          "text": "Biological age can be measured",
+          "timestamp_seconds": 46
+        },
+        {
+          "text": "Longevity hack is crucial",
+          "timestamp_seconds": 353
+        },
+        {
+          "text": "Research is key to longevity",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Single best longevity hack exists",
+          "timestamp_seconds": 353
+        },
+        {
+          "text": "Importance of health and wellness",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Longevity is connected to lifestyle",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Bryan Johnson's expertise is valuable",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Longevity is a top priority",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "The single best longevity hack",
+          "speaker": "Bryan Johnson",
+          "timestamp_seconds": 353
+        },
+        {
+          "text": "Thanks to our partners",
+          "speaker": "Unknown",
+          "timestamp_seconds": null
+        }
+      ],
+      "topics": [
+        "longevity",
+        "health",
+        "wellness",
+        "biological-age",
+        "research",
+        "lifestyle",
+        "priorities"
+      ],
+      "guests": [
+        "Bryan Johnson"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has a positive tone, focusing on the importance of longevity and health. Bryan Johnson's expertise and enthusiasm contribute to the optimistic mood."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 46,
+          "description": "Bryan Johnson takes the audience through a biological age test"
+        },
+        {
+          "timestamp_seconds": 353,
+          "description": "Bryan Johnson shares the single best longevity hack"
         }
       ],
       "notable_mentions": []
@@ -6568,90 +6995,93 @@
       "notable_mentions": []
     },
     {
-      "id": "2025-09-30-arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
+      "id": "2025-09-30-science-corner-special-david-friedberg-cleo-abram-alex-filippenko-and-keller-rin",
       "number": null,
-      "title": "Arm CEO Rene Haas on AI: Nvidia Lessons, Intel's Decline and the US-China Chip War",
+      "title": "Science Corner Special: David Friedberg, Cleo Abram, Alex Filippenko, and Keller Rinaudo Cliffton",
       "date": "2025-09-30",
-      "url": "https://allinchamathjason.libsyn.com/arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
+      "url": "https://allinchamathjason.libsyn.com/science-corner-special-david-friedberg-cleo-abram-alex-filippenko-and-keller-rinaudo-cliffton",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "Arm CEO Rene Haas discusses lessons from working with Jensen Huang, Nvidia's dominance in AI, and the US-China chip war. He also talks about creating a US 'national champion' and manufacturing in America. The conversation covers the US-Intel deal, rare earths, and the US-China AI arms race.",
+      "summary": "The All-In Podcast features a Science Corner Special with guests Cleo Abram, Alex Filippenko, and Keller Rinaudo Cliffton, discussing topics such as the James Webb Space Telescope, the universe, and drone delivery. The conversation covers various scientific and technological advancements, including the Fermi Paradox and black holes. The episode also explores the future of instant delivery and its potential impact on healthcare.",
       "takeaways": [
         {
-          "text": "Nvidia's dominance in AI is due to its strong ecosystem",
-          "timestamp_seconds": 3
+          "text": "YouTube is a great platform for creators",
+          "timestamp_seconds": 72
         },
         {
-          "text": "Arm's history is crucial to understanding the current AI landscape",
-          "timestamp_seconds": 3
+          "text": "James Webb Space Telescope is a powerful tool",
+          "timestamp_seconds": 535
         },
         {
-          "text": "The US needs to create a 'national champion' in the chip industry",
-          "timestamp_seconds": 10
+          "text": "Fermi Paradox remains an open question",
+          "timestamp_seconds": 1394
         },
         {
-          "text": "Manufacturing in America requires a culture of excellence",
-          "timestamp_seconds": 15
+          "text": "Drone delivery is the future of logistics",
+          "timestamp_seconds": 2257
         },
         {
-          "text": "The US-China AI arms race is intensifying",
-          "timestamp_seconds": 23
+          "text": "Instant delivery can improve healthcare outcomes",
+          "timestamp_seconds": 3209
         },
         {
-          "text": "US export controls are affecting the global chip industry",
-          "timestamp_seconds": 18
+          "text": "Science is under attack from various fronts",
+          "timestamp_seconds": 1814
         },
         {
-          "text": "Rare earths are a critical component in the chip industry",
-          "timestamp_seconds": 10
-        },
-        {
-          "text": "The US-Intel deal aims to boost domestic chip production",
-          "timestamp_seconds": 10
+          "text": "Techno-optimism is essential for progress",
+          "timestamp_seconds": 112
         }
       ],
       "quotes": [
         {
-          "text": "Create a culture of excellence",
-          "speaker": "Rene Haas",
-          "timestamp_seconds": 15
+          "text": "Science is under attack",
+          "speaker": "Cleo Abram",
+          "timestamp_seconds": 1814
         },
         {
-          "text": "US needs a national champion",
-          "speaker": "Rene Haas",
-          "timestamp_seconds": 10
+          "text": "Universe is full of mysteries",
+          "speaker": "Alex Filippenko",
+          "timestamp_seconds": 1394
+        },
+        {
+          "text": "Drones will change logistics",
+          "speaker": "Keller Rinaudo Cliffton",
+          "timestamp_seconds": 2257
         }
       ],
       "topics": [
-        "ai-dominance",
-        "us-china-chip-war",
-        "manufacturing-in-america",
-        "nvidia",
-        "arm",
-        "intel",
-        "rare-earths",
-        "us-export-controls",
-        "ai-arms-race"
+        "space-exploration",
+        "drone-delivery",
+        "science-communication",
+        "techno-optimism",
+        "fermi-paradox",
+        "black-holes",
+        "healthcare-innovation",
+        "logistics",
+        "youtube-creators"
       ],
       "guests": [
-        "Rene Haas"
+        "Cleo Abram",
+        "Alex Filippenko",
+        "Keller Rinaudo Cliffton"
       ],
       "sentiment": {
-        "overall": "cautious",
-        "notes": "The conversation highlights the intense competition between the US and China in the chip industry, and the need for the US to create a strong domestic industry. The tone is cautious, with a sense of urgency and importance."
+        "overall": "optimistic",
+        "notes": "The episode has a positive tone, with guests discussing exciting scientific and technological advancements. The hosts and guests express enthusiasm for the potential of these developments to improve various aspects of life."
       },
       "notable_moments": [
         {
-          "timestamp_seconds": 10,
-          "description": "Rene Haas discusses the US-Intel deal and rare earths"
+          "timestamp_seconds": 8,
+          "description": "Introduction of Alex Filippenko"
         },
         {
-          "timestamp_seconds": 15,
-          "description": "Rene Haas talks about manufacturing in America and creating a culture of excellence"
+          "timestamp_seconds": 37,
+          "description": "Introduction of Keller Rinaudo Cliffton"
         },
         {
-          "timestamp_seconds": 23,
-          "description": "The US-China AI arms race is discussed"
+          "timestamp_seconds": 53,
+          "description": "Q&A session with Keller Rinaudo Cliffton, Cleo, and Friedberg"
         }
       ],
       "notable_mentions": []
@@ -6744,93 +7174,90 @@
       "notable_mentions": []
     },
     {
-      "id": "2025-09-30-science-corner-special-david-friedberg-cleo-abram-alex-filippenko-and-keller-rin",
+      "id": "2025-09-30-arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
       "number": null,
-      "title": "Science Corner Special: David Friedberg, Cleo Abram, Alex Filippenko, and Keller Rinaudo Cliffton",
+      "title": "Arm CEO Rene Haas on AI: Nvidia Lessons, Intel's Decline and the US-China Chip War",
       "date": "2025-09-30",
-      "url": "https://allinchamathjason.libsyn.com/science-corner-special-david-friedberg-cleo-abram-alex-filippenko-and-keller-rinaudo-cliffton",
+      "url": "https://allinchamathjason.libsyn.com/arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "The All-In Podcast features a Science Corner Special with guests Cleo Abram, Alex Filippenko, and Keller Rinaudo Cliffton, discussing topics such as the James Webb Space Telescope, the universe, and drone delivery. The conversation covers various scientific and technological advancements, including the Fermi Paradox and black holes. The episode also explores the future of instant delivery and its potential impact on healthcare.",
+      "summary": "Arm CEO Rene Haas discusses lessons from working with Jensen Huang, Nvidia's dominance in AI, and the US-China chip war. He also talks about creating a US 'national champion' and manufacturing in America. The conversation covers the US-Intel deal, rare earths, and the US-China AI arms race.",
       "takeaways": [
         {
-          "text": "YouTube is a great platform for creators",
-          "timestamp_seconds": 72
+          "text": "Nvidia's dominance in AI is due to its strong ecosystem",
+          "timestamp_seconds": 3
         },
         {
-          "text": "James Webb Space Telescope is a powerful tool",
-          "timestamp_seconds": 535
+          "text": "Arm's history is crucial to understanding the current AI landscape",
+          "timestamp_seconds": 3
         },
         {
-          "text": "Fermi Paradox remains an open question",
-          "timestamp_seconds": 1394
+          "text": "The US needs to create a 'national champion' in the chip industry",
+          "timestamp_seconds": 10
         },
         {
-          "text": "Drone delivery is the future of logistics",
-          "timestamp_seconds": 2257
+          "text": "Manufacturing in America requires a culture of excellence",
+          "timestamp_seconds": 15
         },
         {
-          "text": "Instant delivery can improve healthcare outcomes",
-          "timestamp_seconds": 3209
+          "text": "The US-China AI arms race is intensifying",
+          "timestamp_seconds": 23
         },
         {
-          "text": "Science is under attack from various fronts",
-          "timestamp_seconds": 1814
+          "text": "US export controls are affecting the global chip industry",
+          "timestamp_seconds": 18
         },
         {
-          "text": "Techno-optimism is essential for progress",
-          "timestamp_seconds": 112
+          "text": "Rare earths are a critical component in the chip industry",
+          "timestamp_seconds": 10
+        },
+        {
+          "text": "The US-Intel deal aims to boost domestic chip production",
+          "timestamp_seconds": 10
         }
       ],
       "quotes": [
         {
-          "text": "Science is under attack",
-          "speaker": "Cleo Abram",
-          "timestamp_seconds": 1814
+          "text": "Create a culture of excellence",
+          "speaker": "Rene Haas",
+          "timestamp_seconds": 15
         },
         {
-          "text": "Universe is full of mysteries",
-          "speaker": "Alex Filippenko",
-          "timestamp_seconds": 1394
-        },
-        {
-          "text": "Drones will change logistics",
-          "speaker": "Keller Rinaudo Cliffton",
-          "timestamp_seconds": 2257
+          "text": "US needs a national champion",
+          "speaker": "Rene Haas",
+          "timestamp_seconds": 10
         }
       ],
       "topics": [
-        "space-exploration",
-        "drone-delivery",
-        "science-communication",
-        "techno-optimism",
-        "fermi-paradox",
-        "black-holes",
-        "healthcare-innovation",
-        "logistics",
-        "youtube-creators"
+        "ai-dominance",
+        "us-china-chip-war",
+        "manufacturing-in-america",
+        "nvidia",
+        "arm",
+        "intel",
+        "rare-earths",
+        "us-export-controls",
+        "ai-arms-race"
       ],
       "guests": [
-        "Cleo Abram",
-        "Alex Filippenko",
-        "Keller Rinaudo Cliffton"
+        "Rene Haas"
       ],
       "sentiment": {
-        "overall": "optimistic",
-        "notes": "The episode has a positive tone, with guests discussing exciting scientific and technological advancements. The hosts and guests express enthusiasm for the potential of these developments to improve various aspects of life."
+        "overall": "cautious",
+        "notes": "The conversation highlights the intense competition between the US and China in the chip industry, and the need for the US to create a strong domestic industry. The tone is cautious, with a sense of urgency and importance."
       },
       "notable_moments": [
         {
-          "timestamp_seconds": 8,
-          "description": "Introduction of Alex Filippenko"
+          "timestamp_seconds": 10,
+          "description": "Rene Haas discusses the US-Intel deal and rare earths"
         },
         {
-          "timestamp_seconds": 37,
-          "description": "Introduction of Keller Rinaudo Cliffton"
+          "timestamp_seconds": 15,
+          "description": "Rene Haas talks about manufacturing in America and creating a culture of excellence"
         },
         {
-          "timestamp_seconds": 53,
-          "description": "Q&A session with Keller Rinaudo Cliffton, Cleo, and Friedberg"
+          "timestamp_seconds": 23,
+          "description": "The US-China AI arms race is discussed"
         }
       ],
       "notable_mentions": []
@@ -7746,6 +8173,91 @@
       "notable_mentions": []
     },
     {
+      "id": "2025-09-09-how-to-save-america-mark-cuban-and-tucker-carlson-debate-all-in-summit-2025",
+      "number": null,
+      "title": "How to Save America: Mark Cuban and Tucker Carlson Debate | All-In Summit 2025",
+      "date": "2025-09-09",
+      "url": "https://allinchamathjason.libsyn.com/how-to-save-america-mark-cuban-and-tucker-carlson-debate-all-in-summit-2025",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Summit 2025 features a debate between Mark Cuban and Tucker Carlson on various topics, including America's broken healthcare system, the two-party system, and how to make Americans believe in America again. They also discuss AI job displacement, antisemitism, and Israel. The conversation is wide-ranging and covers many issues facing the US today.",
+      "takeaways": [
+        {
+          "text": "America's healthcare system is broken",
+          "timestamp_seconds": 2
+        },
+        {
+          "text": "Two-party system is flawed",
+          "timestamp_seconds": 15
+        },
+        {
+          "text": "AI job displacement is a concern",
+          "timestamp_seconds": 34
+        },
+        {
+          "text": "Antisemitism is a growing issue",
+          "timestamp_seconds": 53
+        },
+        {
+          "text": "US needs to regain trust and faith in institutions",
+          "timestamp_seconds": 24
+        },
+        {
+          "text": "Polarization is a major problem in the US",
+          "timestamp_seconds": 20
+        },
+        {
+          "text": "US needs to address its social and economic issues",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Sadness over Luka Doncic",
+          "speaker": "Mark Cuban",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "West is killing itself",
+          "speaker": "Tucker Carlson",
+          "timestamp_seconds": 39
+        }
+      ],
+      "topics": [
+        "healthcare-system",
+        "two-party-system",
+        "ai-job-displacement",
+        "antisemitism",
+        "us-politics",
+        "social-issues",
+        "economic-issues",
+        "polarization"
+      ],
+      "guests": [
+        "Mark Cuban",
+        "Tucker Carlson"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation is cautious and critical, with both guests expressing concerns about the state of the US and its institutions. The tone is serious and reflective, with a sense of urgency and frustration."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 19,
+          "description": "Tucker Carlson is introduced"
+        },
+        {
+          "timestamp_seconds": 24,
+          "description": "Discussion on how to make Americans believe in America again"
+        },
+        {
+          "timestamp_seconds": 39,
+          "description": "Lightning round with Tucker Carlson"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
       "id": "2025-09-09-the-new-era-of-the-stock-market-with-nasdaq-ceo-adena-friedman-all-in-summit-202",
       "number": null,
       "title": "The New Era of the Stock Market with Nasdaq CEO Adena Friedman | All-In Summit 2025",
@@ -7891,91 +8403,6 @@
         {
           "timestamp_seconds": 8,
           "description": "Palantir's work at the border is discussed"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
-      "id": "2025-09-09-how-to-save-america-mark-cuban-and-tucker-carlson-debate-all-in-summit-2025",
-      "number": null,
-      "title": "How to Save America: Mark Cuban and Tucker Carlson Debate | All-In Summit 2025",
-      "date": "2025-09-09",
-      "url": "https://allinchamathjason.libsyn.com/how-to-save-america-mark-cuban-and-tucker-carlson-debate-all-in-summit-2025",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "The All-In Summit 2025 features a debate between Mark Cuban and Tucker Carlson on various topics, including America's broken healthcare system, the two-party system, and how to make Americans believe in America again. They also discuss AI job displacement, antisemitism, and Israel. The conversation is wide-ranging and covers many issues facing the US today.",
-      "takeaways": [
-        {
-          "text": "America's healthcare system is broken",
-          "timestamp_seconds": 2
-        },
-        {
-          "text": "Two-party system is flawed",
-          "timestamp_seconds": 15
-        },
-        {
-          "text": "AI job displacement is a concern",
-          "timestamp_seconds": 34
-        },
-        {
-          "text": "Antisemitism is a growing issue",
-          "timestamp_seconds": 53
-        },
-        {
-          "text": "US needs to regain trust and faith in institutions",
-          "timestamp_seconds": 24
-        },
-        {
-          "text": "Polarization is a major problem in the US",
-          "timestamp_seconds": 20
-        },
-        {
-          "text": "US needs to address its social and economic issues",
-          "timestamp_seconds": null
-        }
-      ],
-      "quotes": [
-        {
-          "text": "Sadness over Luka Doncic",
-          "speaker": "Mark Cuban",
-          "timestamp_seconds": 0
-        },
-        {
-          "text": "West is killing itself",
-          "speaker": "Tucker Carlson",
-          "timestamp_seconds": 39
-        }
-      ],
-      "topics": [
-        "healthcare-system",
-        "two-party-system",
-        "ai-job-displacement",
-        "antisemitism",
-        "us-politics",
-        "social-issues",
-        "economic-issues",
-        "polarization"
-      ],
-      "guests": [
-        "Mark Cuban",
-        "Tucker Carlson"
-      ],
-      "sentiment": {
-        "overall": "cautious",
-        "notes": "The conversation is cautious and critical, with both guests expressing concerns about the state of the US and its institutions. The tone is serious and reflective, with a sense of urgency and frustration."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 19,
-          "description": "Tucker Carlson is introduced"
-        },
-        {
-          "timestamp_seconds": 24,
-          "description": "Discussion on how to make Americans believe in America again"
-        },
-        {
-          "timestamp_seconds": 39,
-          "description": "Lightning round with Tucker Carlson"
         }
       ],
       "notable_mentions": []
@@ -8790,198 +9217,6 @@
       "notable_mentions": []
     },
     {
-      "id": "2025-07-23-winning-the-ai-race-part-3-jensen-huang-lisa-su-james-litinsky-chase-lochmiller",
-      "number": null,
-      "title": "Winning the AI Race Part 3: Jensen Huang, Lisa Su, James Litinsky, Chase Lochmiller",
-      "date": "2025-07-23",
-      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-part-3-jensen-huang-lisa-su-james-litinsky-chase-lochmiller",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "The All-In Podcast discusses the AI race with guests Jensen Huang, Lisa Su, James Litinsky, and Chase Lochmiller. They cover various topics including AI safety, chip manufacturing, and the future of AI. The guests share their insights and experiences in the field.",
-      "takeaways": [
-        {
-          "text": "AI safety is a major concern",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Chip manufacturing is crucial for AI development",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Nvidia is a leader in AI hardware",
-          "timestamp_seconds": 43
-        },
-        {
-          "text": "AMD is working on AI-specific chips",
-          "timestamp_seconds": 13
-        },
-        {
-          "text": "Crusoe is using AI for energy efficiency",
-          "timestamp_seconds": 30
-        },
-        {
-          "text": "MP Materials is supplying rare earth materials for AI",
-          "timestamp_seconds": 0
-        },
-        {
-          "text": "The US needs to invest in AI research and development",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "AI will have a significant impact on various industries",
-          "timestamp_seconds": null
-        }
-      ],
-      "quotes": [
-        {
-          "text": "AI is the future",
-          "speaker": "Jensen Huang",
-          "timestamp_seconds": 43
-        },
-        {
-          "text": "AI is a key focus",
-          "speaker": "Lisa Su",
-          "timestamp_seconds": 13
-        },
-        {
-          "text": "Rare earth materials are crucial",
-          "speaker": "James Litinsky",
-          "timestamp_seconds": 0
-        },
-        {
-          "text": "AI can reduce energy consumption",
-          "speaker": "Chase Lochmiller",
-          "timestamp_seconds": 30
-        }
-      ],
-      "topics": [
-        "ai-race",
-        "ai-safety",
-        "chip-manufacturing",
-        "ai-hardware",
-        "energy-efficiency",
-        "rare-earth-materials"
-      ],
-      "guests": [
-        "Jensen Huang",
-        "Lisa Su",
-        "James Litinsky",
-        "Chase Lochmiller"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The guests and hosts are excited about the potential of AI and its applications, but also acknowledge the challenges and concerns surrounding it."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 0,
-          "description": "James Litinsky discusses MP Materials"
-        },
-        {
-          "timestamp_seconds": 13,
-          "description": "Lisa Su talks about AMD's AI efforts"
-        },
-        {
-          "timestamp_seconds": 30,
-          "description": "Chase Lochmiller discusses Crusoe's AI work"
-        },
-        {
-          "timestamp_seconds": 43,
-          "description": "Jensen Huang shares his insights on Nvidia and AI"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
-      "id": "2025-07-23-winning-the-ai-race-part-1-michael-kratsios-kelly-loeffler-chris-power-shyam-san",
-      "number": null,
-      "title": "Winning the AI Race Part 1: Michael Kratsios, Kelly Loeffler, Chris Power, Shyam Sankar, Paul Buchheit, Jake Loosararian",
-      "date": "2025-07-23",
-      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-michael-kratsios-kelly-loeffler-chris-power-shyam-sankar-paul-buchheit-jake-loosararian",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "The All-In Podcast discusses winning the AI race with various guests, including Michael Kratsios, Chris Power, and Shyam Sankar. They share insights on AI development, safety, and its potential impact on society. The guests also discuss their own experiences and perspectives on the AI industry.",
-      "takeaways": [
-        {
-          "text": "AI safety is crucial",
-          "timestamp_seconds": 18
-        },
-        {
-          "text": "US needs to lead in AI development",
-          "timestamp_seconds": 35
-        },
-        {
-          "text": "Private sector drives AI innovation",
-          "timestamp_seconds": 44
-        },
-        {
-          "text": "Regulation is necessary for AI growth",
-          "timestamp_seconds": 60
-        },
-        {
-          "text": "AI will transform various industries",
-          "timestamp_seconds": 75
-        },
-        {
-          "text": "Talent acquisition is key to AI success",
-          "timestamp_seconds": 90
-        },
-        {
-          "text": "Global cooperation is necessary for AI safety",
-          "timestamp_seconds": 100
-        }
-      ],
-      "quotes": [
-        {
-          "text": "AI is a national security issue",
-          "speaker": "Michael Kratsios",
-          "timestamp_seconds": 9
-        },
-        {
-          "text": "AI will change everything",
-          "speaker": "Chris Power",
-          "timestamp_seconds": 18
-        },
-        {
-          "text": "AI safety is a top priority",
-          "speaker": "Shyam Sankar",
-          "timestamp_seconds": 44
-        }
-      ],
-      "topics": [
-        "ai-safety",
-        "ai-development",
-        "ai-regulation",
-        "ai-innovation",
-        "national-security",
-        "global-cooperation",
-        "talent-acquisition"
-      ],
-      "guests": [
-        "Michael Kratsios",
-        "Chris Power",
-        "Shyam Sankar",
-        "Kelly Loeffler",
-        "Paul Buchheit",
-        "Jake Loosararian"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The guests and hosts express enthusiasm and optimism about the potential of AI, while also acknowledging the need for caution and regulation."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 9,
-          "description": "Michael Kratsios discusses AI as a national security issue"
-        },
-        {
-          "timestamp_seconds": 44,
-          "description": "Shyam Sankar emphasizes the importance of AI safety"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
       "id": "2025-07-23-winning-the-ai-race-part-2-vice-president-jd-vance",
       "number": null,
       "title": "Winning the AI Race Part 2: Vice President JD Vance",
@@ -9156,6 +9391,198 @@
         {
           "timestamp_seconds": 35,
           "description": "Introduction to Howard Lutnick, Commerce Secretary"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
+      "id": "2025-07-23-winning-the-ai-race-part-1-michael-kratsios-kelly-loeffler-chris-power-shyam-san",
+      "number": null,
+      "title": "Winning the AI Race Part 1: Michael Kratsios, Kelly Loeffler, Chris Power, Shyam Sankar, Paul Buchheit, Jake Loosararian",
+      "date": "2025-07-23",
+      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-michael-kratsios-kelly-loeffler-chris-power-shyam-sankar-paul-buchheit-jake-loosararian",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Podcast discusses winning the AI race with various guests, including Michael Kratsios, Chris Power, and Shyam Sankar. They share insights on AI development, safety, and its potential impact on society. The guests also discuss their own experiences and perspectives on the AI industry.",
+      "takeaways": [
+        {
+          "text": "AI safety is crucial",
+          "timestamp_seconds": 18
+        },
+        {
+          "text": "US needs to lead in AI development",
+          "timestamp_seconds": 35
+        },
+        {
+          "text": "Private sector drives AI innovation",
+          "timestamp_seconds": 44
+        },
+        {
+          "text": "Regulation is necessary for AI growth",
+          "timestamp_seconds": 60
+        },
+        {
+          "text": "AI will transform various industries",
+          "timestamp_seconds": 75
+        },
+        {
+          "text": "Talent acquisition is key to AI success",
+          "timestamp_seconds": 90
+        },
+        {
+          "text": "Global cooperation is necessary for AI safety",
+          "timestamp_seconds": 100
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI is a national security issue",
+          "speaker": "Michael Kratsios",
+          "timestamp_seconds": 9
+        },
+        {
+          "text": "AI will change everything",
+          "speaker": "Chris Power",
+          "timestamp_seconds": 18
+        },
+        {
+          "text": "AI safety is a top priority",
+          "speaker": "Shyam Sankar",
+          "timestamp_seconds": 44
+        }
+      ],
+      "topics": [
+        "ai-safety",
+        "ai-development",
+        "ai-regulation",
+        "ai-innovation",
+        "national-security",
+        "global-cooperation",
+        "talent-acquisition"
+      ],
+      "guests": [
+        "Michael Kratsios",
+        "Chris Power",
+        "Shyam Sankar",
+        "Kelly Loeffler",
+        "Paul Buchheit",
+        "Jake Loosararian"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The guests and hosts express enthusiasm and optimism about the potential of AI, while also acknowledging the need for caution and regulation."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 9,
+          "description": "Michael Kratsios discusses AI as a national security issue"
+        },
+        {
+          "timestamp_seconds": 44,
+          "description": "Shyam Sankar emphasizes the importance of AI safety"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
+      "id": "2025-07-23-winning-the-ai-race-part-3-jensen-huang-lisa-su-james-litinsky-chase-lochmiller",
+      "number": null,
+      "title": "Winning the AI Race Part 3: Jensen Huang, Lisa Su, James Litinsky, Chase Lochmiller",
+      "date": "2025-07-23",
+      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-part-3-jensen-huang-lisa-su-james-litinsky-chase-lochmiller",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Podcast discusses the AI race with guests Jensen Huang, Lisa Su, James Litinsky, and Chase Lochmiller. They cover various topics including AI safety, chip manufacturing, and the future of AI. The guests share their insights and experiences in the field.",
+      "takeaways": [
+        {
+          "text": "AI safety is a major concern",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Chip manufacturing is crucial for AI development",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Nvidia is a leader in AI hardware",
+          "timestamp_seconds": 43
+        },
+        {
+          "text": "AMD is working on AI-specific chips",
+          "timestamp_seconds": 13
+        },
+        {
+          "text": "Crusoe is using AI for energy efficiency",
+          "timestamp_seconds": 30
+        },
+        {
+          "text": "MP Materials is supplying rare earth materials for AI",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "The US needs to invest in AI research and development",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "AI will have a significant impact on various industries",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI is the future",
+          "speaker": "Jensen Huang",
+          "timestamp_seconds": 43
+        },
+        {
+          "text": "AI is a key focus",
+          "speaker": "Lisa Su",
+          "timestamp_seconds": 13
+        },
+        {
+          "text": "Rare earth materials are crucial",
+          "speaker": "James Litinsky",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "AI can reduce energy consumption",
+          "speaker": "Chase Lochmiller",
+          "timestamp_seconds": 30
+        }
+      ],
+      "topics": [
+        "ai-race",
+        "ai-safety",
+        "chip-manufacturing",
+        "ai-hardware",
+        "energy-efficiency",
+        "rare-earth-materials"
+      ],
+      "guests": [
+        "Jensen Huang",
+        "Lisa Su",
+        "James Litinsky",
+        "Chase Lochmiller"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The guests and hosts are excited about the potential of AI and its applications, but also acknowledge the challenges and concerns surrounding it."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "James Litinsky discusses MP Materials"
+        },
+        {
+          "timestamp_seconds": 13,
+          "description": "Lisa Su talks about AMD's AI efforts"
+        },
+        {
+          "timestamp_seconds": 30,
+          "description": "Chase Lochmiller discusses Crusoe's AI work"
+        },
+        {
+          "timestamp_seconds": 43,
+          "description": "Jensen Huang shares his insights on Nvidia and AI"
         }
       ],
       "notable_mentions": []
@@ -40591,6 +41018,6 @@
     ],
     "episode_count": 377
   },
-  "brief_markdown": "# Weekly Brief - 2026-05-26\n\n**Latest episode:** SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis? - 2026-05-22\n\n## What this episode covered\nThe All-In Podcast discusses various topics including Andre Karpathy joining Anthropic, the AI PR crisis, SpaceX's potential $2 trillion valuation, and NVIDIA's impressive earnings. The hosts also touch on the topics of AI improving itself, the potential for a new form of Moore's law, and the impact of AI on jobs. Additionally, they discuss the current state of the market, geopolitics, and the recent meeting between US and Chinese leaders.\n\n## Top takeaways\n- Andre Karpathy joining Anthropic is a significant deal\n- The AI PR crisis is fueled by concerns about power imbalances and the potential for AI to benefit only a small group of people\n- SpaceX's valuation could reach $2 trillion\n- NVIDIA's earnings are impressive, with $81.6 billion in revenue and 85% year-over-year growth\n- The AI market is cross-sectionally inefficient, with different valuations for chip companies\n- Chamath Palihapitiya believes in having a concentrated portfolio with a few large holdings\n- Gavin Baker manages over 100 positions at his firm\n- Selling NVIDIA chips to China may lower the odds of them developing their own alternative ecosystem\n\n## Notable quotes\n> \"He's one of these really curious people that can be sent off, and they'll just go and invent new things\" - Gavin Baker\n> \"I think what we should do now is focus on these end user use cases\" - Gavin Baker\n> \"I think that there's a real set of shifts happening\" - David Friedberg\n> \"Crime is a choice\" - Chamath Palihapitiya\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` - mentioned in 41 episodes\n- `economy` - mentioned in 40 episodes\n- `politics` - mentioned in 38 episodes\n- `us-politics` - mentioned in 28 episodes\n- `openai` - mentioned in 25 episodes\n- `big-tech` - mentioned in 23 episodes\n- `venture-capital` - mentioned in 22 episodes\n- `inflation` - mentioned in 21 episodes\n- `elon-musk` - mentioned in 20 episodes\n- `ai` - mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-05-26 from 377 episodes_",
-  "generated_at": "2026-05-26T03:46:13.607882+00:00"
+  "brief_markdown": "# Weekly Brief - 2026-05-30\n\n**Latest episode:** Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming? - 2026-05-29\n\n## What this episode covered\nThe All-In podcast discusses various topics including AI, job satisfaction, education, and the potential risks and benefits of AI with guest Bill Gurley. They also talk about the importance of being AI-enabled, decentralization, and open-source solutions. The conversation covers the potential ban on open-source AI models, the growth of Anthropic, and the shifting narrative on AI's impact on jobs.\n\n## Top takeaways\n- Bill Gurley started a nonprofit and a fellowship program called Running Down a Dream to help people chase their dreams [▶ 4:59](https://www.youtube.com/watch?v=4oq91rzQcO8&t=299s)\n- The best way to protect yourself from AI is to be the most AI-enabled version of yourself [▶ 6:55](https://www.youtube.com/watch?v=4oq91rzQcO8&t=415s)\n- The Pope's AI encyclical warns of the risks of AI and calls for regulation to safeguard humanity [▶ 17:42](https://www.youtube.com/watch?v=4oq91rzQcO8&t=1062s)\n- Anthropic co-founder Chris Ola is an atheist who has worked with the Vatican on AI issues [▶ 19:18](https://www.youtube.com/watch?v=4oq91rzQcO8&t=1158s)\n- Dario Amodei and Sam Altman are walking back their AI job apocalypse predictions [▶ 1:02:08](https://www.youtube.com/watch?v=4oq91rzQcO8&t=3728s)\n- Bill Gurley believes that innovation has led to more prosperity for humans and that AI will create new opportunities [▶ 1:08:31](https://www.youtube.com/watch?v=4oq91rzQcO8&t=4111s)\n- Anthropic's approach to AI may be driven by a desire to create a safe and powerful technology, but this could lead to centralization and monopolistic control [▶ 36:10](https://www.youtube.com/watch?v=4oq91rzQcO8&t=2170s)\n- Decentralization of AI is crucial to prevent a single company or entity from controlling the technology and potentially abusing its power [▶ 37:44](https://www.youtube.com/watch?v=4oq91rzQcO8&t=2264s)\n\n## Notable quotes\n> \"The best way to protect yourself from AI is to be the most AI-enabled version of yourself\" - Bill Gurley [▶ 6:55](https://www.youtube.com/watch?v=4oq91rzQcO8&t=415s)\n> \"Proficiency in Claude is a highly marketable skill in the economy right now\" - David Sacks [▶ 11:07](https://www.youtube.com/watch?v=4oq91rzQcO8&t=667s)\n> \"I've never seen a company that is both leading their field and the most negatively outspoken commenter on what they do\" - Bill Gurley [▶ 26:57](https://www.youtube.com/watch?v=4oq91rzQcO8&t=1617s)\n> \"The more I dig, I've met people who think it's their responsibility and they're excited about building a species that's superior to humans\" - Bill Gurley [▶ 30:26](https://www.youtube.com/watch?v=4oq91rzQcO8&t=1826s)\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` - mentioned in 41 episodes\n- `economy` - mentioned in 40 episodes\n- `politics` - mentioned in 38 episodes\n- `us-politics` - mentioned in 28 episodes\n- `openai` - mentioned in 25 episodes\n- `big-tech` - mentioned in 23 episodes\n- `venture-capital` - mentioned in 22 episodes\n- `inflation` - mentioned in 21 episodes\n- `elon-musk` - mentioned in 20 episodes\n- `ai` - mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-05-30 from 378 episodes_",
+  "generated_at": "2026-05-30T06:27:54.168949+00:00"
 }
