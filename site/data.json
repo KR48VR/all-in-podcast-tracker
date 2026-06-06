@@ -1,6 +1,595 @@
 {
   "episodes": [
     {
+      "id": "2026-06-05-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back",
+      "number": null,
+      "title": "Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back",
+      "date": "2026-06-05",
+      "url": "https://allinchamathjason.libsyn.com/dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back",
+      "youtube_url": "https://www.youtube.com/watch?v=i8OI8CNdZgU",
+      "youtube_video_id": "i8OI8CNdZgU",
+      "summary": "Dan Loeb joins the All-In Podcast to discuss his evolution as an investor, from his early days on internet chat boards to running Third Point, a multibillion-dollar hedge fund. He shares his approach to short selling, the importance of understanding business quality, innovation, and disruption, and his passion for criminal justice reform. Loeb also discusses his investment journey, including his successes and mistakes, and his views on income inequality and education reform.",
+      "takeaways": [
+        {
+          "text": "Dan Loeb started his investing journey on internet chat boards, where he would exchange ideas and engage in discussions about stocks.",
+          "timestamp_seconds": 56
+        },
+        {
+          "text": "Loeb learned to invest by working at various firms, including Warburg Pinkus and Jefferies, where he gained experience in distressed debt and event-driven investing.",
+          "timestamp_seconds": 279
+        },
+        {
+          "text": "Dan Loeb sold his Facebook stock early, which would have been worth much more if he had held on",
+          "timestamp_seconds": 1237
+        },
+        {
+          "text": "Dan Loeb was an early investor in Enphase and sold some stock on the IPO, potentially missing out on $4 billion in gains",
+          "timestamp_seconds": 1175
+        },
+        {
+          "text": "Dan Loeb is passionate about criminal justice reform and worked on the pardon of Ross Ulbricht",
+          "timestamp_seconds": 1356
+        },
+        {
+          "text": "Third Point's investment approach has evolved from event-driven investing to a focus on business quality, innovation, and disruption, with a greater emphasis on understanding consumer trends and technological innovations.",
+          "timestamp_seconds": 502
+        },
+        {
+          "text": "Loeb believes that the human element is essential in investing, particularly in understanding management teams and their ability to adapt to changing circumstances.",
+          "timestamp_seconds": 928
+        },
+        {
+          "text": "Dan Loeb believes that income inequality is a major issue and that education reform is key to addressing it",
+          "timestamp_seconds": 1389
+        }
+      ],
+      "quotes": [
+        {
+          "text": "The lost art of short selling has come back and it's absolutely critical.",
+          "speaker": "Dan Loeb",
+          "timestamp_seconds": 6
+        },
+        {
+          "text": "Activism without proxy contests is like Catholicism without hell.",
+          "speaker": "Dan Loeb",
+          "timestamp_seconds": 28
+        },
+        {
+          "text": "I was the original troll.",
+          "speaker": "Dan Loeb",
+          "timestamp_seconds": 104
+        },
+        {
+          "text": "Investing is fun, particularly on the short side.",
+          "speaker": "Dan Loeb",
+          "timestamp_seconds": 121
+        },
+        {
+          "text": "I think we'll look back at some point in time and say that was a foolish way to think about NVIDIA",
+          "speaker": "Dan Loeb",
+          "timestamp_seconds": 1282
+        },
+        {
+          "text": "It's not a lack of money, it's really a lack of accountability",
+          "speaker": "Dan Loeb",
+          "timestamp_seconds": 1467
+        }
+      ],
+      "topics": [
+        "short-selling",
+        "event-driven-investing",
+        "business-quality",
+        "innovation",
+        "disruption",
+        "consumer-trends",
+        "technological-innovations",
+        "investing",
+        "criminal-justice-reform",
+        "education-reform",
+        "income-inequality"
+      ],
+      "guests": [
+        "Dan Loeb"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The overall sentiment of the episode is optimistic, with Dan Loeb sharing his passion for investing and his views on the importance of understanding business quality, innovation, and disruption. However, he also discusses his investment mistakes and the challenges of addressing income inequality and education reform."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Dan Loeb joins the podcast"
+        },
+        {
+          "timestamp_seconds": 47,
+          "description": "Loeb discusses his early days on internet chat boards"
+        },
+        {
+          "timestamp_seconds": 198,
+          "description": "Loeb shares his evolution as an investor"
+        },
+        {
+          "timestamp_seconds": 672,
+          "description": "Loeb discusses the interconnectedness of Third Point's various businesses"
+        },
+        {
+          "timestamp_seconds": 1144,
+          "description": "Dan Loeb discusses his investment mistakes"
+        },
+        {
+          "timestamp_seconds": 1350,
+          "description": "Dan Loeb talks about his passion for criminal justice reform"
+        },
+        {
+          "timestamp_seconds": 1371,
+          "description": "Dan Loeb discusses the case of Ross Ulbricht"
+        },
+        {
+          "timestamp_seconds": 1714,
+          "description": "Dan Loeb talks about his work on the pardon of Ross Ulbricht"
+        }
+      ],
+      "notable_mentions": [
+        "Third Point",
+        "Jefferies",
+        "Warburg Pinkus",
+        "Reddit",
+        "Twitter",
+        "EY",
+        "NYSE",
+        "Plaud",
+        "Bear Stearns",
+        "Payne Weber",
+        "Andreessen Horowitz",
+        "Blue Owl",
+        "Texas Instruments",
+        "Radio Communications",
+        "NVR",
+        "AOL",
+        "Yahoo",
+        "IBM",
+        "NVIDIA",
+        "Facebook",
+        "Enphase",
+        "Ross Ulbricht",
+        "Charlie Kirk",
+        "David Warrington",
+        "Atom Computing",
+        "Meta",
+        "Palantir",
+        "Google",
+        "Amazon",
+        "Brad Gerstner",
+        "Fetterman",
+        "McCormick",
+        "Intel",
+        "Olaf Carlson Wee",
+        "Aleph"
+      ]
+    },
+    {
+      "id": "2026-06-04-thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox",
+      "number": null,
+      "title": "Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox",
+      "date": "2026-06-04",
+      "url": "https://allinchamathjason.libsyn.com/thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox",
+      "youtube_url": "https://www.youtube.com/watch?v=UIoV8rG_25s",
+      "youtube_video_id": "UIoV8rG_25s",
+      "summary": "Thomas Laffont joins the All-In podcast to discuss the $4T AI IPO wave, the unicorn economy, and the 10X paradox. He highlights the growth of AI companies and their increasing dominance in the market, as well as the potential risks and opportunities in the market. The conversation also touches on the importance of public market scrutiny and the potential impact of AI companies going public on Silicon Valley.",
+      "takeaways": [
+        {
+          "text": "The funding per unicorn has increased 5x since 2021, with fewer unicorns raising more capital",
+          "timestamp_seconds": 110
+        },
+        {
+          "text": "The top 10 AI companies are capturing a significant share of funding, with Anthropic and OpenAI raising massive rounds",
+          "timestamp_seconds": 205
+        },
+        {
+          "text": "SpaceX's valuation is correlated with its launch cadence, and its business model quality increases with more launches",
+          "timestamp_seconds": 485
+        },
+        {
+          "text": "Big outcomes are expected in the AI market, with companies like Anthropic and OpenAI going public",
+          "timestamp_seconds": 1219
+        },
+        {
+          "text": "The public market will be the great test for these companies, providing scrutiny and accountability",
+          "timestamp_seconds": 1411
+        },
+        {
+          "text": "The influx of capital from AI companies going public could lead to changes in competitive dynamics and entrepreneurial dynamics in Silicon Valley",
+          "timestamp_seconds": 1772
+        },
+        {
+          "text": "There is a risk of a price war between companies like OpenAI and Anthropic, with excess capital potentially leading to competitive pricing",
+          "timestamp_seconds": 1869
+        },
+        {
+          "text": "The odds of a company becoming a decacorn or centicorn increase as it grows, with centicorns having a 31% chance of a 10x return",
+          "timestamp_seconds": 714
+        }
+      ],
+      "quotes": [
+        {
+          "text": "We're in an idea business",
+          "speaker": "Thomas Laffont",
+          "timestamp_seconds": 25
+        },
+        {
+          "text": "The power law rules our lives",
+          "speaker": "Thomas Laffont",
+          "timestamp_seconds": 1115
+        },
+        {
+          "text": "The public market is the great test",
+          "speaker": "Thomas Laffont",
+          "timestamp_seconds": 1411
+        },
+        {
+          "text": "The scale will be the great antiseptic",
+          "speaker": "Thomas Laffont",
+          "timestamp_seconds": 1391
+        }
+      ],
+      "topics": [
+        "ai",
+        "ipo",
+        "unicorn-economy",
+        "space-tech",
+        "fintech",
+        "venture-capital",
+        "public-markets"
+      ],
+      "guests": [
+        "Thomas Laffont",
+        "Bill Ackman"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is generally optimistic about the growth of AI companies and the potential for big outcomes in the market, but also acknowledges potential risks and challenges."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Thomas Laffont joins the All-In podcast"
+        },
+        {
+          "timestamp_seconds": 43,
+          "description": "Update on the unicorn economy"
+        },
+        {
+          "timestamp_seconds": 472,
+          "description": "Discussion on SpaceX's valuation and business model"
+        },
+        {
+          "timestamp_seconds": 1185,
+          "description": "Thomas Laffont starts discussing the positive outcomes in the AI market"
+        },
+        {
+          "timestamp_seconds": 1411,
+          "description": "Thomas Laffont talks about the importance of public market scrutiny"
+        },
+        {
+          "timestamp_seconds": 1772,
+          "description": "Thomas Laffont discusses the potential impact of AI companies going public on Silicon Valley"
+        }
+      ],
+      "notable_mentions": [
+        "SpaceX",
+        "Anthropic",
+        "OpenAI",
+        "Palo Alto",
+        "NYSE",
+        "EY",
+        "Plaud",
+        "Cerebras",
+        "Google",
+        "Meta",
+        "Andreessen Horowitz",
+        "Kraft Ventures",
+        "TSMC",
+        "Apple",
+        "NASDAQ",
+        "Ben Graham"
+      ]
+    },
+    {
+      "id": "2026-06-03-bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-busines",
+      "number": null,
+      "title": "Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses",
+      "date": "2026-06-03",
+      "url": "https://allinchamathjason.libsyn.com/bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses",
+      "youtube_url": "https://www.youtube.com/watch?v=_TJFqEhxQg4",
+      "youtube_video_id": "_TJFqEhxQg4",
+      "summary": "Bill Ackman joins the All-In Podcast to discuss his evolving investment philosophy, the impact of AI on businesses, and his approach to building the next Berkshire Hathaway. He shares his thoughts on the current market, the opportunities and threats posed by AI, and the importance of founder-led companies. Ackman also talks about his efforts to build a compounding machine through Howard Hughes Corporation and the power of social media in sharing his views.",
+      "takeaways": [
+        {
+          "text": "Bill Ackman's investment philosophy has evolved to focus on business quality, long-term, durable, protected, non-disruptible growth",
+          "timestamp_seconds": 93
+        },
+        {
+          "text": "Ackman believes AI is a major threat to portfolios, but also a great opportunity to build a business",
+          "timestamp_seconds": 140
+        },
+        {
+          "text": "Ackman thinks high-quality companies like Amazon, Meta, and Microsoft are undervalued",
+          "timestamp_seconds": 412
+        },
+        {
+          "text": "Founder-led companies have an advantage in navigating changing environments and generating outsized returns",
+          "timestamp_seconds": 984
+        },
+        {
+          "text": "Bill Ackman is building the next Berkshire Hathaway through Howard Hughes Corporation",
+          "timestamp_seconds": 1147
+        },
+        {
+          "text": "Ackman underwrites companies like SpaceX as venture investments, focusing on people, opportunity, context, and deal",
+          "timestamp_seconds": 688
+        },
+        {
+          "text": "Insurance companies can be a profitable and tax-efficient investment if managed well",
+          "timestamp_seconds": 1173
+        },
+        {
+          "text": "Social media has changed the way markets work, allowing for direct communication and amplification of voices",
+          "timestamp_seconds": 1508
+        }
+      ],
+      "quotes": [
+        {
+          "text": "A closed mouth gathers no foot",
+          "speaker": "Bill Ackman",
+          "timestamp_seconds": 532
+        },
+        {
+          "text": "The rubber band effect",
+          "speaker": "Bill Ackman",
+          "timestamp_seconds": 600
+        },
+        {
+          "text": "If you're founder-led, you don't give a shit, your job is to make sure the company persists",
+          "speaker": "Bill Ackman",
+          "timestamp_seconds": 1007
+        },
+        {
+          "text": "The higher a stock price goes, the more valuable the company becomes",
+          "speaker": "Bill Ackman",
+          "timestamp_seconds": 1546
+        },
+        {
+          "text": "We're going to build this into a compounding machine over the next 50 years",
+          "speaker": "Bill Ackman",
+          "timestamp_seconds": 1314
+        }
+      ],
+      "topics": [
+        "ai",
+        "investment-philosophy",
+        "business-quality",
+        "market-trends",
+        "venture-investing",
+        "investing",
+        "founder-led-companies",
+        "berkshire-hathaway",
+        "howard-hughes",
+        "insurance",
+        "social-media"
+      ],
+      "guests": [
+        "Bill Ackman"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The overall sentiment of the episode is optimistic, with Bill Ackman sharing his positive views on the market and his investment strategies. However, he also discusses the potential threats posed by AI and the importance of adapting to changing environments."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Bill Ackman joins the show"
+        },
+        {
+          "timestamp_seconds": 55,
+          "description": "Bill Ackman discusses his evolving investment philosophy"
+        },
+        {
+          "timestamp_seconds": 280,
+          "description": "Bill Ackman talks about the AI complex and its impact on businesses"
+        },
+        {
+          "timestamp_seconds": 457,
+          "description": "Bill Ackman discusses his viral moment on CNBC during COVID"
+        },
+        {
+          "timestamp_seconds": 1147,
+          "description": "Bill Ackman discusses his efforts to build the next Berkshire Hathaway through Howard Hughes Corporation"
+        },
+        {
+          "timestamp_seconds": 1508,
+          "description": "Bill Ackman talks about the impact of social media on markets and investing"
+        }
+      ],
+      "notable_mentions": [
+        "Pershing Square",
+        "Microsoft",
+        "Meta",
+        "Amazon",
+        "SpaceX",
+        "OpenAI",
+        "Palantir",
+        "Berkshire Hathaway",
+        "CNBC",
+        "NYSE",
+        "EY",
+        "Plaud",
+        "Howard Hughes Corporation",
+        "Elon Musk",
+        "Tesla",
+        "GameStop",
+        "Ryan Cohen",
+        "Ben Graham",
+        "Geico",
+        "General Growth"
+      ]
+    },
+    {
+      "id": "2026-06-02-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute",
+      "number": null,
+      "title": "OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute",
+      "date": "2026-06-02",
+      "url": "https://allinchamathjason.libsyn.com/openai-cfo-sarah-friar-on-ipo-ai-rivalries-new-device-and-spending-100b-on-compute",
+      "youtube_url": "https://www.youtube.com/watch?v=TjrShuj_Zsg",
+      "youtube_video_id": "TjrShuj_Zsg",
+      "summary": "OpenAI's CFO, Sarah Friar, discusses the company's IPO timeline, AI rivalries, and compute crunch, highlighting the importance of creating optionality and building a single foundation with multiple interfaces. OpenAI has raised over $120 billion in funding and is investing in education and community development. The company is working on its own chip with Broadcom and has a partnership with NVIDIA.",
+      "takeaways": [
+        {
+          "text": "OpenAI has raised over $120 billion in funding",
+          "timestamp_seconds": 9
+        },
+        {
+          "text": "OpenAI's strategy is to build the AI layer and infrastructure",
+          "timestamp_seconds": 239
+        },
+        {
+          "text": "One gigawatt of compute is roughly equivalent to $1 billion in revenue for OpenAI",
+          "timestamp_seconds": 472
+        },
+        {
+          "text": "OpenAI is investing in education and community development, including $45 million in education for Codex credits",
+          "timestamp_seconds": 649
+        },
+        {
+          "text": "OpenAI's compute costs are decreasing due to advancements in chip technology, with a 97% depreciation cost from ChatGPT 4 to 5",
+          "timestamp_seconds": 1083
+        },
+        {
+          "text": "The company is working on its own chip with Broadcom and has a partnership with NVIDIA",
+          "timestamp_seconds": 1485
+        },
+        {
+          "text": "OpenAI's revenue model includes API sales, consumer subscriptions, and potentially advertising, with a focus on providing value to customers",
+          "timestamp_seconds": 1277
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Luck is whatever preparation meets opportunity",
+          "speaker": "Sarah Friar",
+          "timestamp_seconds": 25
+        },
+        {
+          "text": "We're not one or the other, we're very much both",
+          "speaker": "Sarah Friar",
+          "timestamp_seconds": 370
+        },
+        {
+          "text": "Multimodality is here",
+          "speaker": "Sarah Friar",
+          "timestamp_seconds": 867
+        },
+        {
+          "text": "Technology is very mechanistic, but great design makes everything fade away",
+          "speaker": "Sarah Friar",
+          "timestamp_seconds": 947
+        },
+        {
+          "text": "We want to stick by our principles",
+          "speaker": "Sarah Friar",
+          "timestamp_seconds": 1786
+        },
+        {
+          "text": "If Google and Meta had a baby, it would be ChatGPT",
+          "speaker": "Sarah Friar",
+          "timestamp_seconds": 1811
+        },
+        {
+          "text": "Imagine putting memory and context next to intent",
+          "speaker": "Sarah Friar",
+          "timestamp_seconds": 1850
+        },
+        {
+          "text": "We're playing our own game",
+          "speaker": "Sarah Friar",
+          "timestamp_seconds": 1885
+        }
+      ],
+      "topics": [
+        "ai",
+        "ipo",
+        "compute",
+        "education",
+        "multimodality",
+        "ai-development",
+        "compute-costs",
+        "revenue-models",
+        "advertising",
+        "chip-technology",
+        "partnerships"
+      ],
+      "guests": [
+        "Sarah Friar"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The overall sentiment of the episode is optimistic, with Sarah Friar discussing OpenAI's progress and future plans with enthusiasm and confidence. The company's investments in education and community development, as well as its partnerships with other companies, suggest a positive outlook for the future of AI."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 185,
+          "description": "Anthropic has confidentially filed their S1"
+        },
+        {
+          "timestamp_seconds": 597,
+          "description": "OpenAI is building a one-gigawatt data center in Michigan"
+        },
+        {
+          "timestamp_seconds": 887,
+          "description": "OpenAI is working on a new consumer device with Johnny Ive"
+        },
+        {
+          "timestamp_seconds": 902,
+          "description": "The new device will be unveiled by the end of the year"
+        },
+        {
+          "timestamp_seconds": 982,
+          "description": "Discussion on OpenAI's approach to AI development and compute costs"
+        },
+        {
+          "timestamp_seconds": 1390,
+          "description": "Explanation of OpenAI's compute strategy and partnerships with CSPs"
+        },
+        {
+          "timestamp_seconds": 1552,
+          "description": "Discussion on the potential merging of the tech stack and its impact on the competitive landscape"
+        },
+        {
+          "timestamp_seconds": 1744,
+          "description": "Conclusion of the interview and final thoughts from Sarah Friar"
+        }
+      ],
+      "notable_mentions": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "SpaceX",
+        "NYSE",
+        "EY",
+        "Plaud",
+        "Stanford",
+        "Nextdoor",
+        "Oracle",
+        "Elon Musk",
+        "Johnny Ive",
+        "NVIDIA",
+        "Microsoft",
+        "Meta",
+        "Broadcom",
+        "SoftBank",
+        "Apple"
+      ]
+    },
+    {
       "id": "2026-05-29-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown",
       "number": null,
       "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
@@ -635,14 +1224,224 @@
       "url": "https://allinchamathjason.libsyn.com/charles-chase-koch-on-how-they-quietly-built-a-150b-empire",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": [],
-      "notable_mentions": []
+      "summary": "Charles and Chase Koch discuss their experiences building Koch Industries into a $150B empire, focusing on creating value for customers and empowering employees. They share lessons learned from failures, the importance of principle-based management, and their efforts to drive social change through Stand Together. The conversation also touches on the current state of America, the role of capitalism, and the potential of AI to enable self-actualization.",
+      "takeaways": [
+        {
+          "text": "Charles Koch joined the family business in 1961 and transformed it by focusing on creating value for customers and empowering employees",
+          "timestamp_seconds": 189
+        },
+        {
+          "text": "Koch Industries' approach is to be capability-bounded, not industry-bounded, allowing them to expand into new areas",
+          "timestamp_seconds": 615
+        },
+        {
+          "text": "The company's principle of 'Creating Virtuous Cycles of Mutual Benefit' leads to a cycle of growth, innovation, success, and failures",
+          "timestamp_seconds": 669
+        },
+        {
+          "text": "Koch Industries increased refinery capacity tenfold",
+          "timestamp_seconds": 2460
+        },
+        {
+          "text": "Chase Koch started at Koch Industries at 15, working at a feed yard",
+          "timestamp_seconds": 3123
+        },
+        {
+          "text": "Koch Industries values first, skills second, credentials last when hiring",
+          "timestamp_seconds": 2572
+        },
+        {
+          "text": "The Koch brothers believe in removing barriers to allow people to realize their potential",
+          "timestamp_seconds": 5198
+        },
+        {
+          "text": "They think occupational licensing and treatment of illegal immigrants are holding people back",
+          "timestamp_seconds": 5222
+        }
+      ],
+      "quotes": [
+        {
+          "text": "You plumb wore me out",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 227
+        },
+        {
+          "text": "If you're not failing at everything, you're not doing anything new",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 709
+        },
+        {
+          "text": "Values first, skills second, credentials last",
+          "speaker": "Chase Koch",
+          "timestamp_seconds": 2572
+        },
+        {
+          "text": "It takes a hell of a lot longer than you think to change the culture",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 2520
+        },
+        {
+          "text": "If you're not in the right job, you don't have to fire yourself",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 3591
+        },
+        {
+          "text": "Everyone has capability, and if you don't develop it, you'll be deeply unhappy",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 3777
+        },
+        {
+          "text": "If God is just, I despair for the future of our country",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 4763
+        },
+        {
+          "text": "We've got to work for a system where we remove the barriers that are holding people back",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 5198
+        },
+        {
+          "text": "The problem today is ever more people have the means to live and no meaning to live for",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 4483
+        },
+        {
+          "text": "If you choose power, you become addicted to power",
+          "speaker": "Charles Koch",
+          "timestamp_seconds": 4539
+        }
+      ],
+      "topics": [
+        "business-growth",
+        "entrepreneurship",
+        "management",
+        "innovation",
+        "failures",
+        "leadership",
+        "culture",
+        "principles",
+        "values",
+        "skills",
+        "credentials",
+        "education-reform",
+        "social-change",
+        "personal-development",
+        "philanthropy",
+        "capitalism",
+        "socialism",
+        "ai",
+        "economic-mobility",
+        "occupational-licensing",
+        "immigration"
+      ],
+      "guests": [
+        "Charles Koch",
+        "Chase Koch"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The overall sentiment of the episode is optimistic, as the Koch brothers share their success story and emphasize the importance of creating value for customers and empowering employees. However, they also discuss the challenges they faced and the need for continuous improvement."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 38,
+          "description": "Mention of Axon.ai, the AI ad platform"
+        },
+        {
+          "timestamp_seconds": 143,
+          "description": "Charles Koch starts discussing the scale of the business and its history"
+        },
+        {
+          "timestamp_seconds": 317,
+          "description": "Charles Koch's father tells him to take over the business or sell it due to health issues"
+        },
+        {
+          "timestamp_seconds": 817,
+          "description": "Chase Koch mentions the various business lines of Koch Industries"
+        },
+        {
+          "timestamp_seconds": 1282,
+          "description": "Charles Koch discusses the company's early mistakes and lessons learned"
+        },
+        {
+          "timestamp_seconds": 1989,
+          "description": "Discussion of the Georgia-Pacific acquisition and its impact on Koch Industries"
+        },
+        {
+          "timestamp_seconds": 2443,
+          "description": "Discussion about Minnesota"
+        },
+        {
+          "timestamp_seconds": 2559,
+          "description": "Chase Koch shares a story about applying principles at Koch Industries"
+        },
+        {
+          "timestamp_seconds": 2710,
+          "description": "Leader's first responsibility is to help their people"
+        },
+        {
+          "timestamp_seconds": 3075,
+          "description": "Chase Koch's introduction to the business"
+        },
+        {
+          "timestamp_seconds": 3566,
+          "description": "Charles Koch discusses the concept of creative destruction"
+        },
+        {
+          "timestamp_seconds": 4094,
+          "description": "Charles Koch introduces the topic of transforming education"
+        },
+        {
+          "timestamp_seconds": 4133,
+          "description": "Chase Koch explains the origins and mission of Stand Together"
+        },
+        {
+          "timestamp_seconds": 4396,
+          "description": "Charles Koch reflects on his past experiences in driving social change"
+        },
+        {
+          "timestamp_seconds": 4731,
+          "description": "Discussion on the current state of America and the rise of socialism"
+        },
+        {
+          "timestamp_seconds": 5142,
+          "description": "Debate on whether capitalism works long term"
+        },
+        {
+          "timestamp_seconds": 5302,
+          "description": "Discussion on AI and its potential to enable self-actualization"
+        },
+        {
+          "timestamp_seconds": 5462,
+          "description": "Chase Koch talks about his experience writing a book with his dad"
+        }
+      ],
+      "notable_mentions": [
+        "Koch Industries",
+        "Axon.ai",
+        "MIT",
+        "Arthur D. Little",
+        "Georgia Pacific",
+        "Berkshire Hathaway",
+        "Warren Buffett",
+        "Molex",
+        "AppLovin",
+        "Michael Polanyi",
+        "Stand Together",
+        "Aristotle",
+        "Milton Friedman",
+        "Frederick Douglass",
+        "Viktor Frankl",
+        "Joe LeMont",
+        "Alpha School",
+        "Khan Academy",
+        "Vela Fund",
+        "Walton Family",
+        "Cosmos",
+        "Martin Luther King III",
+        "Brian Hooks",
+        "Argentine"
+      ]
     },
     {
       "id": "2026-05-10-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-i",
@@ -41018,6 +41817,6 @@
     ],
     "episode_count": 377
   },
-  "brief_markdown": "# Weekly Brief - 2026-05-30\n\n**Latest episode:** Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming? - 2026-05-29\n\n## What this episode covered\nThe All-In podcast discusses various topics including AI, job satisfaction, education, and the potential risks and benefits of AI with guest Bill Gurley. They also talk about the importance of being AI-enabled, decentralization, and open-source solutions. The conversation covers the potential ban on open-source AI models, the growth of Anthropic, and the shifting narrative on AI's impact on jobs.\n\n## Top takeaways\n- Bill Gurley started a nonprofit and a fellowship program called Running Down a Dream to help people chase their dreams [▶ 4:59](https://www.youtube.com/watch?v=4oq91rzQcO8&t=299s)\n- The best way to protect yourself from AI is to be the most AI-enabled version of yourself [▶ 6:55](https://www.youtube.com/watch?v=4oq91rzQcO8&t=415s)\n- The Pope's AI encyclical warns of the risks of AI and calls for regulation to safeguard humanity [▶ 17:42](https://www.youtube.com/watch?v=4oq91rzQcO8&t=1062s)\n- Anthropic co-founder Chris Ola is an atheist who has worked with the Vatican on AI issues [▶ 19:18](https://www.youtube.com/watch?v=4oq91rzQcO8&t=1158s)\n- Dario Amodei and Sam Altman are walking back their AI job apocalypse predictions [▶ 1:02:08](https://www.youtube.com/watch?v=4oq91rzQcO8&t=3728s)\n- Bill Gurley believes that innovation has led to more prosperity for humans and that AI will create new opportunities [▶ 1:08:31](https://www.youtube.com/watch?v=4oq91rzQcO8&t=4111s)\n- Anthropic's approach to AI may be driven by a desire to create a safe and powerful technology, but this could lead to centralization and monopolistic control [▶ 36:10](https://www.youtube.com/watch?v=4oq91rzQcO8&t=2170s)\n- Decentralization of AI is crucial to prevent a single company or entity from controlling the technology and potentially abusing its power [▶ 37:44](https://www.youtube.com/watch?v=4oq91rzQcO8&t=2264s)\n\n## Notable quotes\n> \"The best way to protect yourself from AI is to be the most AI-enabled version of yourself\" - Bill Gurley [▶ 6:55](https://www.youtube.com/watch?v=4oq91rzQcO8&t=415s)\n> \"Proficiency in Claude is a highly marketable skill in the economy right now\" - David Sacks [▶ 11:07](https://www.youtube.com/watch?v=4oq91rzQcO8&t=667s)\n> \"I've never seen a company that is both leading their field and the most negatively outspoken commenter on what they do\" - Bill Gurley [▶ 26:57](https://www.youtube.com/watch?v=4oq91rzQcO8&t=1617s)\n> \"The more I dig, I've met people who think it's their responsibility and they're excited about building a species that's superior to humans\" - Bill Gurley [▶ 30:26](https://www.youtube.com/watch?v=4oq91rzQcO8&t=1826s)\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` - mentioned in 41 episodes\n- `economy` - mentioned in 40 episodes\n- `politics` - mentioned in 38 episodes\n- `us-politics` - mentioned in 28 episodes\n- `openai` - mentioned in 25 episodes\n- `big-tech` - mentioned in 23 episodes\n- `venture-capital` - mentioned in 22 episodes\n- `inflation` - mentioned in 21 episodes\n- `elon-musk` - mentioned in 20 episodes\n- `ai` - mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-05-30 from 378 episodes_",
-  "generated_at": "2026-05-30T06:27:54.168949+00:00"
+  "brief_markdown": "# Weekly Brief - 2026-06-06\n\n**Latest episode:** Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back - 2026-06-05\n\n## What this episode covered\nDan Loeb joins the All-In Podcast to discuss his evolution as an investor, from his early days on internet chat boards to running Third Point, a multibillion-dollar hedge fund. He shares his approach to short selling, the importance of understanding business quality, innovation, and disruption, and his passion for criminal justice reform. Loeb also discusses his investment journey, including his successes and mistakes, and his views on income inequality and education reform.\n\n## Top takeaways\n- Dan Loeb started his investing journey on internet chat boards, where he would exchange ideas and engage in discussions about stocks. [▶ 0:56](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=56s)\n- Loeb learned to invest by working at various firms, including Warburg Pinkus and Jefferies, where he gained experience in distressed debt and event-driven investing. [▶ 4:39](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=279s)\n- Dan Loeb sold his Facebook stock early, which would have been worth much more if he had held on [▶ 20:37](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=1237s)\n- Dan Loeb was an early investor in Enphase and sold some stock on the IPO, potentially missing out on $4 billion in gains [▶ 19:35](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=1175s)\n- Dan Loeb is passionate about criminal justice reform and worked on the pardon of Ross Ulbricht [▶ 22:36](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=1356s)\n- Third Point's investment approach has evolved from event-driven investing to a focus on business quality, innovation, and disruption, with a greater emphasis on understanding consumer trends and technological innovations. [▶ 8:22](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=502s)\n- Loeb believes that the human element is essential in investing, particularly in understanding management teams and their ability to adapt to changing circumstances. [▶ 15:28](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=928s)\n- Dan Loeb believes that income inequality is a major issue and that education reform is key to addressing it [▶ 23:09](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=1389s)\n\n## Notable quotes\n> \"The lost art of short selling has come back and it's absolutely critical.\" - Dan Loeb [▶ 0:06](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=6s)\n> \"Activism without proxy contests is like Catholicism without hell.\" - Dan Loeb [▶ 0:28](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=28s)\n> \"I was the original troll.\" - Dan Loeb [▶ 1:44](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=104s)\n> \"Investing is fun, particularly on the short side.\" - Dan Loeb [▶ 2:01](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=121s)\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` - mentioned in 41 episodes\n- `economy` - mentioned in 40 episodes\n- `politics` - mentioned in 38 episodes\n- `us-politics` - mentioned in 28 episodes\n- `openai` - mentioned in 25 episodes\n- `big-tech` - mentioned in 23 episodes\n- `venture-capital` - mentioned in 22 episodes\n- `inflation` - mentioned in 21 episodes\n- `elon-musk` - mentioned in 20 episodes\n- `ai` - mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-06-06 from 382 episodes_",
+  "generated_at": "2026-06-06T06:30:58.955306+00:00"
 }
