@@ -1,0 +1,3020 @@
+{
+  "id": "2026-06-08-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-comp",
+  "number": null,
+  "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+  "date": "2026-06-08",
+  "url": "https://allinchamathjason.libsyn.com/nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company",
+  "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_NikeshArora_Ch.mp3?dest-id=1928300",
+  "youtube_url": "",
+  "youtube_video_id": "",
+  "description": "<p>(0:00) Palo Alto Networks CEO Nikesh Arora joins the Besties!</p> <p>(0:47) Claude Mythos found years of vulnerabilities in Palo Alto's code in weeks</p> <p>(5:15) Are cyber defenders losing the race against AI attackers?</p> <p>(6:50) Analytical SaaS is dead, so what survives the AI wave?</p> <p>(14:06) If models become a utility, where will the money be made?</p> <p>(20:35) Armchair CEO: Nikesh rates Waymo, Google, and OpenAI</p> <p>(28:22) Palo Alto's M&amp;A playbook and the path to $1 trillion</p> <p>Thanks to our partners for making this possible!</p> <p>EY - AI ambition isn't enough. EY.ai Value Blueprints move organizations beyond pilots embedding measurable business value by design.</p> <p><a href=\"https://www.ey.com/en_us/services/ai/value-blueprints?WT.mc_id=3501320&amp;AA.tsrc=sponsorship\"> https://www.ey.com/en_us/services/ai/value-blueprints?WT.mc_id=3501320&amp;AA.tsrc=sponsorship</a></p> <p>NYSE - Thank you to our partner, the New York Stock Exchange - a modern marketplace and exchange for building the future. It all happens at the NYSE.</p> <p><a href=\"https://www.nyse.com\">https://www.nyse.com</a></p> <p>Plaud - Never miss a moment. Plaud, our official wearable AI note-taking partner at All-In Liquidity Summit, captured every insight.</p> <p><a href=\"https://www.plaud.ai\">https://www.plaud.ai</a></p> <p>Follow Nikesh:</p> <p><a href=\"https://x.com/nikesharora\">https://x.com/nikesharora</a></p> <p>Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p>",
+  "guests": [],
+  "transcript": " One of the biggest winners right now. The big daddy of the cybersecurity space. Palo Alto Networks is an outperformer in the space. CEO Nikesh Arora. This might come as news to you, but humans have been writing bad code for a very long time. I spent 10 years at Google and Google search was democratizing information. If you take that analogy and think about what AI is doing, AI is democratizing intelligence. Money is a way to keep track. It's not the goal. You've been the CEO of Apollo Aldo Networks for eight years? Coming up in eight years this week. Eight years. And I think when you started, it was $17 billion market cap, if I remember correctly. And this morning I checked, it's $238 billion, which if you listen to what we said yesterday, now that you passed 100, you're more likely to actually 10x. So the first 10x was actually much, much harder. So you're on your way to a trillion dollars. From your mouth to God's ears. Well, I think you are. Okay, so let's just double click into what you see because you are sort of in a really interesting position to see all of it. You see the birth of AI. Maybe you've seen the rise and fall of SaaS. All the models talk to you. The rise again, right? The rise again. You were one of the first in the few that got access to Mythos. So just let me just push the button. Go on, Nikesh, start. Well, first of all, thank you for having me here. I think AI is exciting. I think it's exciting to see all the stuff that's gone down the last possibly 24 months. I think Sarah just said it. They were right in anticipating the huge amount of compute that was going to be needed. So all that stuff's going on. But you can see that there's this notion, which we talked about briefly last time, that AI is really democratizing intelligence. What that means is I have 250 people in marketing that produce varied forms of output. Now I can get 90% of the output to be consistent across those 250 people. I have 5,000 people who talk to customers. My failure mode is when 5,000 people do different things where people say, I want to talk to Joe because he knows how to solve the problem and Jim doesn't. So now you can get 5,000 people to act almost consistently in their interactions with people on the other side. So I think it's going to have a phenomenal impact to how we run businesses, how we operate. It's going to change the entire landscape. Now, in that context, you touched upon Mythos, and I know Dave has been very involved with this. Mythos has shown us that all the bad code that humans have written over the last 50 years can be assessed by AI and shown, the vulnerabilities can be shown. We tested for six weeks, and in six weeks we found what would have taken us five to seven years. Wow. Say that one more time. In six weeks we found vulnerabilities which would have normally taken us five to seven years to find. So Mephos is not... These are vulnerabilities where? Sorry? These are vulnerabilities in your own code base? In our own code base. In your own code base. Oh, wow. So Mephos was not oversold. It was legit. The capabilities of AI in being able to assess vulnerabilities in code are real. Not just that. If you put it on ultra mode, which is persistent thinking, so it keeps trying until it gets an answer, you can actually daisy chain vulnerabilities, i.e. finding a new attack path into your vulnerabilities. Now, we pride ourselves as a top percentile of companies that test our code because we're in the cybersecurity business. If you take that and compound that across all the companies that exist in the world that write their own code or the 10 million developers write code, this thing is going to find stuff, which would have taken us 10 years to find. How much did it cost? Did you track the token cost? Was it $100 million, $10 million? It was in the low millions. But again, the cost, as Sarah said, the cost curve is going to come down already. OpenAI has got a model which is cheaper, more consistent. Anthropi has come out with another model. You buy the hype. It's not hype, it's true. That's the point. The capabilities are real. You know that. The capabilities are true. Yes. I mean, you saw IBM announce a project for $5 billion to fix open source. That's the biggest problem. What would have happened if Claude didn't have the restraint and they put it out in the public? Do you think it would have been a real attack factor and caused chaos in corporations? I think we're three months away, if not already there, from this being available in the wild. Okay, open source. Yeah. Just three months. Yeah. Yeah, because we've been saying that it's roughly six months away before mythos-level capabilities are available in Chinese models, open models, whatever. But you're saying it can be three months. Well, look, there's 4.8 is already out, 5.5 is already out. They have similar capabilities. And look, you don't need to crack the hardest code to crack. You just need to find a few vulnerabilities in code that are out there. Just take an old industrial system which is running OT code on the edge. You can find that vulnerability reasonably easily. So we're in a race right now between the cyber defenders finding these vulnerabilities and patching them before the cyber attackers do the same thing. Yes. And how do you feel like we're doing in that race? So not as well as we should be doing, which is great for our business, but that's a different story. So, look, every company has to go look at their code base and figure out where the vulnerabilities are and fix them. So if you talk to CIOs today, their biggest problem is all the vendors are showing up saying, please patch my piece of boxes, the hardware that you have, please patch my code that you have because I found vulnerabilities, fix it. While the CIOs are busy finding their own vulnerabilities to fix their own vulnerabilities, and then this huge thing called open source, which nobody knows quite how to solve. Is it fair to say that as model capabilities go up, systemic business risk of large enterprises also goes up? On the cyber side, yes. There are antidotes being built by people like us and others where we're going to provide some capability where you don't have to patch everything. But look, Saris did something very interesting around harnesses, memory, and context. The part we don't talk about here is organizations don't have memory and context of everything they do every day. That's why you need to store a lot more data enterprise-wide to learn what good looks like and what bad looks like. The same problem is in cybersecurity. We need to collect 10 times the data in the enterprise from a cyber perspective to be able to understand how to defend ourselves against the AI attackers. Do you think that the traditional companies like the SaaS businesses that have existed in this world, what is their place? As all this knowledge becomes more persistent and stored, what happens to SaaS? Well, you see, SaaS, as Bill said, SaaS is different pieces, right? If you're an analytical SaaS company, it's over. It's over. What is an analytical SaaS company? Somebody that says, I'm going to collect a lot of data for you and analyze it for you. I don't need you to analyze it for me. I can run models against data and analyze them myself. So if you think about, every SaaS company has a marketplace. You can buy Salesforce marketplace. What do they say? You have Salesforce data. I'm a marketplace app. Take me and I'll help you analyze the data. I don't need you. You don't need that. I can just go run an LLM against the data. So the entire incrementality that has been sold as incremental software modules to all of us doesn need to be sold to us because I much rather have LLMs run against that data Interesting you bring this up we had an instance with a SaaS product with 20 seats Nobody was logging in and using it but the data was there Yes So we created like three accounts, got rid of 17, connected it to Slack, connected it to Claude, and now everybody can interface it through a natural language and we've reduced our bill by 90%. Well not just that, what are you going to do next Jason? You're going to take data from different products, put them in one place, run the analytics against that. I want my data for my sales reps, my productivity data, my inventory data from SAP. I want it all in one place so I can run analytics against it and say, who's selling a lot? Where do I have less inventory? Let's build inventory in a region where my salespeople are extremely productive. To run that query, you'd have to talk to three different SaaS products. Tomorrow, you can put all the data in one place. So So that's sort of category one, analytical SaaS is dead. Okay, category one, analytics dead. Yes, in the medium term. You've got all these bounces today and tomorrow. These are marginally irrelevant. Infrastructure software, undervalued. Okay, what is infrastructure software? Stuff that gives you databases. You collect data into it. Stuff that allows the infrastructure to work, whether it's a database software. This is like Databricks, Snowflake, like that? Databricks, Snowflake, MongoDB, Oracle, all these things. You need core storage infrastructure, core data. We are going to need 10 times the data stored in enterprise than we have today. Right. In the next three years, 10 times. Okay. So anything that helps you collect infrastructure, data, manage it, you need. I think the category in the middle is called, let's call it system of work or system, you know, a record, people call them. Those are deeply embedded in the way businesses work. I have 6,000 salespeople. They know how this works. What's going to happen is, step one, we will take away UI and let agents do the work. UI, enterprise software and consumer software UI is the worst thing we did as technologists. You had a couple of examples of this. You told me this story, I don't know if you want to repeat it, of this one company. They tried to hold you hostage on a license. Yes, that was analytical SaaS, so that's over. And you just pointed AI at it and you just... Yes, we just got rid of them. That's a different issue. Think about it today, we've spent our lives having product managers design UI so all humans can interact with data behind the UI. If you believe agents are going to work and I say, I just tell an agent, look, figure out from my sales call, figure out the key points and go post it into whatever sales tracking system I have at this Oracle or Salesforce. An agent conceptually should be able to do it. Shit we're spending trillion dollars building these agentic backends, we need these agents to be able to do it. If that happens, UI goes away. If UI goes away, I can rewire my system of work. I have sales guys show up and say, I had the sales call, do all the paperwork and all the shit that needs to happen in the background of the company, and just, I'm done. If I can change the way work happens, which is where you will get true efficiency, where five people become one in a company, all these SaaS software that does system of work needs to be reengineered for the next five years. And it's also happening passively, which is really interesting. It's looking at email. It's automatically taking the Zoom transcript and summary. So the sales system of record is now like, you don't even need to input it. It's like, I already have the Zoom call notes. I have the deck. The deck was made. The sales deck was made by AI. It's just, we're all going to be looking at a chat window and just saying, here's what I want. Your audit trail becomes a lot better because humans are not touching your data. It's always been managed by agents. So I think the whole system of work, system of record gets reinvented in the next five years. Yeah, there's no data entry. That's an interesting point. Let's talk about national security for a second. I just want to maybe zoom out. So the one side of mythos, as you said, is like the value that it has to you and to enterprises. The red team version of mythos is where foreign state actors can essentially create economic havoc inside of a country. Yes. As these models escalate in their capability, what do you think should happen when these models are ready? Yeah, the sad truth is in a year there's a few thousand breaches or attacks that happen. They happen for pretty rudimentary reasons. It's not because somebody cracked the hard to crack thing. It happens because 89% of the attacks happen because credentials get stolen or breached. Username and password. That's it. 89% of the attacks. My password is password. Yeah, I'm sure it is. Do you have dollar sign? Dollar sign password. You're only ahead of everybody else. So 80% and 90% breaches happen because of simple things. I don't think we need more models to go crack the stuff. Now, these models can attack critical infrastructure and things we try and protect from a national security perspective. Yes, we need defenses there. I'm not worried about the national security part being protected because they're very on it. They are the right people. They spend 10% of their budgets on IT, on security. I'm worried about the small offices across the country where they're using some piece of packet software and you're running a dentist's office or a doctor's office. Remember when change healthcare got breached? Every physician's office shut down. Shut down and it's ransomware. Because of ransomware to change healthcare. That's what the clearing system. That's when UnitedHealth actually gave billions of dollars of credits to the physicians to be able to run their businesses at that point in time. That's what one should worry about. It's less about the big nuts will get cracked. It's less about cracking some PG&E power generation facility. It's more economic chaos. Yes. And so what do we do? I don't think there's a silver bullet. I think this will take time. I think this will basically take a while until every system gets upgraded, renewed, fixed over time. I just think it'll increase the terminal value of the industry. Right. Do you think that there's a world in which these models become so good that you could see yourself advocating for more nationalism around how they're controlled and how they're managed and where we point them? Or do you think there should be maybe a set of these models that never see the light of day that only the NSA and other folks could have access to or guys like you? I have a slightly differentiated view about models and how they will evolve versus what we heard earlier from an open AI perspective. I think I still believe models are going to become a utility layer. You'll be able to buy intelligence on the fly where you can say, I don't need a 180 IQ person to go do this task. Give me 120 IQ and I need 250 IQ to do this task. I'll pay $10 for this and for this I'll pay one cent. So I don't know there's a one size fits all give you the most up-to-date model to answer my customer call saying, sorry, sir, I have no idea how to solve your problem. So I think models will get differentiated from the utilitarian perspective. So if you look at already what's happening in the market, right? The profit pools are in applications, not in models. Sarah talked about Codex running away. She didn't say OpenAI is running away. She says Codex is running away. Just say, that's the way I'm sure Dario says Cloud Code is running away. You're seeing that- They're attacking profit pools. They're attacking profit pools because that's where the money is going to come from. The profit pools are in applications that companies can use. The profit pools are not in model usage by companies because most companies have no idea So you can look at these companies in a way, OpenAI and Anthropic, as the new Microsoft office coming in and doing all applications, all productivity software for organizations. No, I see there's going to be application companies which are going to arbitrage between models and solve your business problem. So you still think they won't go to the application ladder Because this is a big debate Should you engage with OpenAI and train their systems to then take your business from you And Anthropic keeps releasing their legal model their accounting model, and it does feel like in order for them to hit their revenue numbers, they might need to do what Microsoft did, which is release the Office product on top of the operating system. See, if I'm a company, I don't want to write every piece of software myself. I my HR system software, which is agentic enabled and AI enabled to be delivered by some application company. It could be a new AI application company. I want my sales management system built by the new agentic AI sales force of the world, whether it's sales force or somebody else. So I want applications. Now, what Sarah said is the profit pools are in the application layer. That's why they want to be the application layer. So I think we're still waiting for that layer of companies to be invented or created where applications will sit. Because 50,000 companies need the same application. Why would I build it myself? It's highly inefficient. It's silly for me to use OpenAI directly and rewrite my entire sales system because I'm smart, right? I'm not. I want somebody to do it for me. So I think that layer of companies is still not fully formed. We're still going to be waiting for it. You want a control plane, a harness, and then... That's right. They will build the harnesses and the memory into those application layers. Now, the question is, how big is the application layer? Is it one application? Is it one enterprise application that does everything or is it a specialized application? When you did it and you kicked out this software vendor, you did it because they were being abusive in pricing. We still use a different vendor. What's that? We swapped out for a different vendor. We just took more control. Love it. So it really is a pricing issue. And that's why the SaaSpocalypse in some ways makes sense. They're not having pricing power because you could say, I'll just put 10 developers on this and I'll save $10 million. Yes. I think the part back to what Shamad said about the regulation or whether you want to regulate these higher powered models, the question is at some point in time, when these newer models, which are even more powerful, get built, they will come at a different price point and they might have to go to a certain vetting process to understand what their capabilities are. But I think we're in a global race. I don't think holding back our models for three to six months is going to help us any. Somebody else is going to put them out in open source. I was shocked to hear when I was talking to the CEO of one of these model companies, he says the entire weights of their most recent model can fit on a USB stick. Say that again, the entire weights? The entire model weights of their newest model fits on a USB stick. That's the IP. That's incredible. Because all the data can be distilled in under 24 to 48 hours when the model comes out. I'm curious. So that's the IP. So are you telling me that you know we can hold on to that for six months right we have a debate about um how difficult it is to make a frontier model some companies are starting to think about making frontier models using their data advantage to to build their own have you thought about that palo alto because it does seem like you have proprietary knowledge on how security works could you build your own large language model or a VSML, a small language model that would give you some advantage? Here's the part nobody talks about, is the false positive rates on the models. What is the false positive rate on 4.8 and 5.5? No idea. You guys don't talk about it, you should. The false positive rate on Mythos was 30%. Oh wow. Right? So it thought it found something but it hadn't yes so the problem is it's great for attack it's horrible for defense because it finds 30 times 30 percent of time it finds something i found a problem and you say let's plug the hole wait there wasn't a hole there in the first place no missile inbound right yeah so now the same problem applies in enterprise if you use a if you use the model without the right harnesses the right training you could be running into 10 20 false positive rates let's use the model to pay i don't know insurance claims yeah oh great 10 20 false positive i just lost money the sycophantic nature of these is ridiculous so so the problem is not who wants the us model the problem is how do you take that model with 20 or 10 false positive and make it 0.01 false positive in my business i want zero percent without losing the false negative sorry without losing the negative the fault yes but it's like saying hey let's take the new self-driving car mercedes is is going to use Opus 4.8 and you can just sit in the car and it's going to drive you. I'm not putting my kids in that car with a 10% false positive rate. Are you? So there's a lot of work that happens post the model, which needs to happen to make this thing useful and effective in the business context. Let me slightly pivot for a second. You were for a very long time, the chief business officer at Google. You were the president of SoftBank. Now you're the CEO of Palo Alto Network. So So let's play armchair CEO. Armchair CEO. Armchair CEO. I'm still bristling from David Friedberg trying to create a distinction between founder CEOs and non-founder CEOs. Just saying. Just saying, David. By the way, false positives. Sorry? False negatives, too. Give us what you would keep, what you would change, and what you like about the following companies. This is going to get recorded and put out there. Is that really something I want to do? We're just getting your thoughts. You're one of the smartest business people. I don't get to live the glory of the all-in podcast. We're asking you a question. Don't... people and people are you ready yeah sure okay why you keep what you change what you like what you don't like uber in a world of the board of it dude i can't talk about it you're on the board of the board of uber i'm not going to talk about it i didn't know that sorry dr dara he's the ceo he's a great guy okay uh waymo try to get me fired waymo what do i like about remo the cars work it's It's amazing. They should have more in many more cities around the world faster. I would say that to Takeda. I think she knows. Google writ large. I think Google's underrated. I think it's going to be the first $10 trillion company in our lifetime. I think they have all the assets that are needed to make this successful. I think people underestimate. You can be a model company, you still need to have a sales force that convinces customers to go out there and embrace these models and buy them. And if you think about it, three hyperscalers have the biggest number of salespeople out there so they should part of why they're a little bit undervalued is just the conglomerate nature is hard to understand i don't know you guys are smart of that stuff i'm just a hired hand ceo i didn't say that reaper said that let's just be clear i know i know i was i was providing a thesis on recovery out of the sas apocalypse okay okay just to be nice there's a way to segment that basket okay and you're not in that basket i thought you were making a distinction about how people who are founders, CEOs, have the right to take more risk and are allowed to take more risk. I was saying that. And I think you provide a unique counterpoint to that. And the false positive in your model. And by the way, I think the same was true of Jeff Weiner. And I think that there's a few other really great CEOs, but they are like Neo in the Matrix type anomalies. And I think you're one of those people. And there's a very rare kind of personality profile of someone that's willing to take risk and take ownership of something that wasn't theirs in the first place and they make it theirs. And it's an extraordinarily unique trait, far more unique actually than being a scalable founder. That's an incredible save. You're forgiven. Yeah, good save. Incredible save. Let's go back to Armchair Steve. Wow, that was incredible. Open AI. He's more sycophantic than ChatGPT. He's like, actually, I think we're the best. Let's go back to Armchair Steve. I'm liking this. OpenAI. OpenAI. OpenAI. They do sell faster. OpenAI. They should sell faster, right? They should sell faster I mean you said it Didn you just say it when Sarah was here that Anthropic seems to have improved their ARR much faster than OpenAI I mean that just the statistics They kind of went all in on enterprise and coding specifically I think that's the conversation right now is it's a race to take over the profit pools. If you are going to need tens and tens of billions of dollars every year to get, what is that? One gigawatt is 10 billion in revenue. One gigawatt, 10 billion. What does it cost you to build? What does it cost to build you? So what are the most exciting profit pools then? So we got coding. That's been the breakout application over the past year. It's massive. You've got infrastructure, like you said, the new databases. I think cybersecurity is clearly one of them because of the threats and patching cycles are so much more dynamic. There's a slight difference. Yes, as you can see, these models are trying to be the enablers of better cybersecurity, which is good because all of us need to use them to test. you're probably going to see, I mean if you saw, Anthropic has already made their cyber capable model available generally so that everyone can use it and OpenEye has got one, I'm sure Google has one too, but they understand this is a place where CISOs or chief security officers want to use it to test the code. So this is another profit pool. I think we haven't seen the onslaught against the application software companies yet. I mean there's tens and tens of billions of dollars in application software which is waiting to get reinvented as we talked about i think eventually you'll see these people saying what if i took this 40 50 100 billion dollar time down yeah i can build a whole brand new backbone with the agenda and it'd be so differentiated that it'll cause customers to move we are seeing it as a playbook in the accelerators now in the year zero and year one companies people are coming to us with the pitch this is a thousand dollar a seat per year $500 a month, see SaaS software, we can do it for less. We're going to charge them based on consumption. We're going to take 80%, 90% of the cost out as to what Shabab is doing with 80%, 90%. The two fastest places to make revenue in enterprise are replacement TAMs. If you replace something, I already have a budget, it's easy. I take something bad or replace with something better, I get money. So replacement TAMs are beautiful. If you can replace an industry, replace the profit pool, it's great. The second place is consumer revenue. It's a lot easier to get five bucks per user on a consumer side. Netflix. So that's where, I mean, look at it. I think we collectively probably pay more on subscriptions per month than we ever did historically. And you saw your cable bill was high. Yeah. Do you think that you're gonna end up building more or less hardware in the future, if you have to guess? Hardware even today is the cheapest way to manage low latency, high throughput bits. It's really a data center. What's a data center? It's just managing high throughput, low latency bits. That's why if you look, financial services is the most reluctant industry to go to the cloud because you increase latency. If you increase latency, you reduce profit. So if you look at every of your largest financial services companies, whether it's Goldman or JPMorgan, Morgan Stanley, or these guys, they're doing hardware. to get them to run their business in the cloud they can't because they will have higher latency they will lose money right so hardware is still be made i mean i remember when i used to buy silver like and i would heard dell was done nobody wanted hardware i think those might be back to like a three four hundred billion dollar market cap so hardware is still going to be around we're going to need it's the fastest uh way to move our hardware development cycles changing because of AI? Are you seeing a lot of generative design, stuff moving in silico that historically was manual and long cycle? Yeah, but the long pole in the tent is never designed, right? Long pole in the tent is production. Today, you can't get a box produced because every piece of hardware componentry is backordered, everything's expensive, and every factory in the world is backordered because we're trying to build all these GPUs based chip cards for every data center of the world so you think the us is equipped to fill that supply chain need can we do that here 10 years with a commit with a with a firm top-down commitment well i mean the good news is that i think the hardware industry is seeing a bonanza of a lifetime and generally when you see a bonanza of lifetime you can go commit 10 20 50 100 billion and i've seen a ceo on television committing a $100 billion plan to go build more memory. So that's good. That means they have the money to go put the money in the ground, literally, to go build these things for the future. So I think that gets us more certain that the... I think the tax incentive has a lot to do with that, the accelerated depreciation on the CapEx. You get 100% write-off in the first year, right? Under the... Just a final question as we wrap up. You, over the last eight years, you've grown organically very aggressively, but you've also been pretty acquisitive. You'll take shots, and they've generally worked. So you have a ton of permission in the market. When you hear what Bill Ackman said about how there's this kind of overbeaten companies, there's a few that get celebrated, that's a ripe pool for you to pick from. But some of that would require you to go maybe a little horizontally far afield, some would say. How do you maintain the discipline, or do you see yourself at some point considering things that are not nearly so much right down the middle of cyber? So I'll tell you what, until about a year and a half ago, we used to buy product companies and throw them into our go-to-market engine. We could rewire their back end so they could work better with our go-to-market engine. So for me, if I'm selling $10 million to a customer, next time I go to it later, if I can sell them 20, it's the most efficient way for me to amortize my go-to-market spend, right? So that was the model. We played that, we ran that playbook to not to 150 billion. Then we go to a point where it says, oh we see an inflection arriving an identity it's going to be important from an agentic perspective security perspective so you've got a 25 billion dollar company which we closed three months ago now it's actually a very different opportunity has presented itself and the different opportunity sort of goes like this if you can be the best at leveraging ai to run the most efficient enterprise business in the world your operating margin can be far in excess of the industry and if you can if you crack that code gross and net you're saying gross in the 90s net in the 40s yeah if you can crack that code then it doesn't matter what you buy yeah i think the problem right now is the execution problem most sub-scale companies cannot afford to go optimize their company and run it better so if we can run our company much better than everybody else and have a higher operating margin then the street will say fine if you take something at a 20 margin make it a your first m a was really tough no like they were pretty skeptical and then you kind of shoved it in their face. They're pretty skeptical when they found a guy who didn't know cybersecurity, didn't know enterprise show up, who worked at Google and they're, you know, the track record of people leaving Google and being successful out of Google is still varied. So basically you're saying the menu's open. I think we need the next six to 12 months to figure out how this AI settles down and how can we use that effectively in enterprises. I think if you think about it, you know, the people keep hoping that less people we need to run companies, I actually have a account of you i think we're going to have more people at palo alto on the technology side than we've ever had before because ai is causing everything to ask for a transformation so i have more technical people today than i would have had if i didn't exist ladies and gentlemen See you at Palo Alto Networks, Nikesh Arora. Thank you, guys. Thank you, sir.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 1.52,
+      "text": "One of the biggest winners right now."
+    },
+    {
+      "start": 1.52,
+      "end": 3.44,
+      "text": "The big daddy of the cybersecurity space."
+    },
+    {
+      "start": 3.44,
+      "end": 5.68,
+      "text": "Palo Alto Networks is an outperformer in the space."
+    },
+    {
+      "start": 7.68,
+      "end": 9.36,
+      "text": "CEO Nikesh Arora."
+    },
+    {
+      "start": 9.36,
+      "end": 14.32,
+      "text": "This might come as news to you, but humans have been writing bad code for a very long time."
+    },
+    {
+      "start": 14.32,
+      "end": 19.36,
+      "text": "I spent 10 years at Google and Google search was democratizing information."
+    },
+    {
+      "start": 19.36,
+      "end": 25.12,
+      "text": "If you take that analogy and think about what AI is doing, AI is democratizing intelligence."
+    },
+    {
+      "start": 25.76,
+      "end": 28.08,
+      "text": "Money is a way to keep track. It's not the goal."
+    },
+    {
+      "start": 28.08,
+      "end": 33.38,
+      "text": "You've been the CEO of Apollo Aldo Networks for eight years?"
+    },
+    {
+      "start": 33.38,
+      "end": 34.38,
+      "text": "Coming up in eight years this week."
+    },
+    {
+      "start": 34.38,
+      "end": 35.38,
+      "text": "Eight years."
+    },
+    {
+      "start": 35.38,
+      "end": 39.64,
+      "text": "And I think when you started, it was $17 billion market cap, if I remember correctly."
+    },
+    {
+      "start": 39.64,
+      "end": 44.42,
+      "text": "And this morning I checked, it's $238 billion, which if you listen to what we said yesterday,"
+    },
+    {
+      "start": 44.42,
+      "end": 47.72,
+      "text": "now that you passed 100, you're more likely to actually 10x."
+    },
+    {
+      "start": 47.72,
+      "end": 50.0,
+      "text": "So the first 10x was actually much, much harder."
+    },
+    {
+      "start": 50.0,
+      "end": 51.8,
+      "text": "So you're on your way to a trillion dollars."
+    },
+    {
+      "start": 51.8,
+      "end": 53.2,
+      "text": "From your mouth to God's ears."
+    },
+    {
+      "start": 53.2,
+      "end": 54.44,
+      "text": "Well, I think you are."
+    },
+    {
+      "start": 54.44,
+      "end": 61.48,
+      "text": "Okay, so let's just double click into what you see because you are sort of in a really interesting position to see all of it."
+    },
+    {
+      "start": 62.44,
+      "end": 64.16,
+      "text": "You see the birth of AI."
+    },
+    {
+      "start": 64.84,
+      "end": 67.24,
+      "text": "Maybe you've seen the rise and fall of SaaS."
+    },
+    {
+      "start": 68.1,
+      "end": 69.8,
+      "text": "All the models talk to you."
+    },
+    {
+      "start": 70.32,
+      "end": 71.16,
+      "text": "The rise again, right?"
+    },
+    {
+      "start": 71.28,
+      "end": 71.96,
+      "text": "The rise again."
+    },
+    {
+      "start": 72.9,
+      "end": 75.84,
+      "text": "You were one of the first in the few that got access to Mythos."
+    },
+    {
+      "start": 76.46,
+      "end": 78.76,
+      "text": "So just let me just push the button."
+    },
+    {
+      "start": 78.9,
+      "end": 79.62,
+      "text": "Go on, Nikesh, start."
+    },
+    {
+      "start": 81.12,
+      "end": 83.16,
+      "text": "Well, first of all, thank you for having me here."
+    },
+    {
+      "start": 83.16,
+      "end": 91.56,
+      "text": "I think AI is exciting. I think it's exciting to see all the stuff that's gone down the last possibly 24 months."
+    },
+    {
+      "start": 93.4,
+      "end": 99.52,
+      "text": "I think Sarah just said it. They were right in anticipating the huge amount of compute that was going to be needed."
+    },
+    {
+      "start": 100.18,
+      "end": 108.86,
+      "text": "So all that stuff's going on. But you can see that there's this notion, which we talked about briefly last time,"
+    },
+    {
+      "start": 108.86,
+      "end": 112.22,
+      "text": "that AI is really democratizing intelligence."
+    },
+    {
+      "start": 113.0,
+      "end": 116.1,
+      "text": "What that means is I have 250 people in marketing"
+    },
+    {
+      "start": 116.1,
+      "end": 118.28,
+      "text": "that produce varied forms of output."
+    },
+    {
+      "start": 118.78,
+      "end": 120.98,
+      "text": "Now I can get 90% of the output"
+    },
+    {
+      "start": 120.98,
+      "end": 123.02,
+      "text": "to be consistent across those 250 people."
+    },
+    {
+      "start": 123.44,
+      "end": 125.98,
+      "text": "I have 5,000 people who talk to customers."
+    },
+    {
+      "start": 126.88,
+      "end": 130.54,
+      "text": "My failure mode is when 5,000 people do different things"
+    },
+    {
+      "start": 130.54,
+      "end": 132.72,
+      "text": "where people say, I want to talk to Joe"
+    },
+    {
+      "start": 132.72,
+      "end": 135.5,
+      "text": "because he knows how to solve the problem and Jim doesn't."
+    },
+    {
+      "start": 135.5,
+      "end": 142.32,
+      "text": "So now you can get 5,000 people to act almost consistently in their interactions with people on the other side."
+    },
+    {
+      "start": 142.42,
+      "end": 148.84,
+      "text": "So I think it's going to have a phenomenal impact to how we run businesses, how we operate."
+    },
+    {
+      "start": 148.98,
+      "end": 150.16,
+      "text": "It's going to change the entire landscape."
+    },
+    {
+      "start": 150.96,
+      "end": 155.66,
+      "text": "Now, in that context, you touched upon Mythos, and I know Dave has been very involved with this."
+    },
+    {
+      "start": 156.78,
+      "end": 161.0,
+      "text": "Mythos has shown us that all the bad code that humans have written over the last 50 years"
+    },
+    {
+      "start": 161.0,
+      "end": 164.44,
+      "text": "can be assessed by AI and shown,"
+    },
+    {
+      "start": 165.44,
+      "end": 166.32,
+      "text": "the vulnerabilities can be shown."
+    },
+    {
+      "start": 166.44,
+      "end": 167.94,
+      "text": "We tested for six weeks,"
+    },
+    {
+      "start": 168.3,
+      "end": 169.92,
+      "text": "and in six weeks we found"
+    },
+    {
+      "start": 169.92,
+      "end": 171.64,
+      "text": "what would have taken us five to seven years."
+    },
+    {
+      "start": 172.56,
+      "end": 173.0,
+      "text": "Wow."
+    },
+    {
+      "start": 173.06,
+      "end": 174.12,
+      "text": "Say that one more time."
+    },
+    {
+      "start": 174.68,
+      "end": 177.18,
+      "text": "In six weeks we found vulnerabilities"
+    },
+    {
+      "start": 177.18,
+      "end": 178.74,
+      "text": "which would have normally taken us"
+    },
+    {
+      "start": 178.74,
+      "end": 179.8,
+      "text": "five to seven years to find."
+    },
+    {
+      "start": 179.8,
+      "end": 180.84,
+      "text": "So Mephos is not..."
+    },
+    {
+      "start": 180.84,
+      "end": 181.98,
+      "text": "These are vulnerabilities where?"
+    },
+    {
+      "start": 182.42,
+      "end": 182.58,
+      "text": "Sorry?"
+    },
+    {
+      "start": 182.84,
+      "end": 184.8,
+      "text": "These are vulnerabilities in your own code base?"
+    },
+    {
+      "start": 184.88,
+      "end": 185.36,
+      "text": "In our own code base."
+    },
+    {
+      "start": 185.36,
+      "end": 187.06,
+      "text": "In your own code base."
+    },
+    {
+      "start": 187.22,
+      "end": 187.66,
+      "text": "Oh, wow."
+    },
+    {
+      "start": 187.8,
+      "end": 189.94,
+      "text": "So Mephos was not oversold."
+    },
+    {
+      "start": 189.94,
+      "end": 191.1,
+      "text": "It was legit."
+    },
+    {
+      "start": 191.46,
+      "end": 198.26,
+      "text": "The capabilities of AI in being able to assess vulnerabilities in code are real."
+    },
+    {
+      "start": 198.94,
+      "end": 199.78,
+      "text": "Not just that."
+    },
+    {
+      "start": 200.36,
+      "end": 205.56,
+      "text": "If you put it on ultra mode, which is persistent thinking, so it keeps trying until it gets an answer,"
+    },
+    {
+      "start": 206.18,
+      "end": 211.22,
+      "text": "you can actually daisy chain vulnerabilities, i.e. finding a new attack path into your vulnerabilities."
+    },
+    {
+      "start": 211.98,
+      "end": 218.08,
+      "text": "Now, we pride ourselves as a top percentile of companies that test our code because we're in the cybersecurity business."
+    },
+    {
+      "start": 218.08,
+      "end": 230.56,
+      "text": "If you take that and compound that across all the companies that exist in the world that write their own code or the 10 million developers write code, this thing is going to find stuff, which would have taken us 10 years to find."
+    },
+    {
+      "start": 230.7,
+      "end": 231.74,
+      "text": "How much did it cost?"
+    },
+    {
+      "start": 231.96,
+      "end": 233.64,
+      "text": "Did you track the token cost?"
+    },
+    {
+      "start": 233.76,
+      "end": 235.6,
+      "text": "Was it $100 million, $10 million?"
+    },
+    {
+      "start": 236.3,
+      "end": 237.7,
+      "text": "It was in the low millions."
+    },
+    {
+      "start": 238.28,
+      "end": 241.98,
+      "text": "But again, the cost, as Sarah said, the cost curve is going to come down already."
+    },
+    {
+      "start": 242.24,
+      "end": 244.62,
+      "text": "OpenAI has got a model which is cheaper, more consistent."
+    },
+    {
+      "start": 245.68,
+      "end": 247.0,
+      "text": "Anthropi has come out with another model."
+    },
+    {
+      "start": 247.0,
+      "end": 247.92,
+      "text": "You buy the hype."
+    },
+    {
+      "start": 248.08,
+      "end": 250.08,
+      "text": "It's not hype, it's true."
+    },
+    {
+      "start": 250.08,
+      "end": 251.08,
+      "text": "That's the point."
+    },
+    {
+      "start": 251.08,
+      "end": 252.08,
+      "text": "The capabilities are real."
+    },
+    {
+      "start": 252.08,
+      "end": 253.08,
+      "text": "You know that."
+    },
+    {
+      "start": 253.08,
+      "end": 254.08,
+      "text": "The capabilities are true."
+    },
+    {
+      "start": 254.08,
+      "end": 255.08,
+      "text": "Yes."
+    },
+    {
+      "start": 255.08,
+      "end": 258.8,
+      "text": "I mean, you saw IBM announce a project for $5 billion to fix open source."
+    },
+    {
+      "start": 258.8,
+      "end": 259.8,
+      "text": "That's the biggest problem."
+    },
+    {
+      "start": 259.8,
+      "end": 264.26,
+      "text": "What would have happened if Claude didn't have the restraint and they put it out in"
+    },
+    {
+      "start": 264.26,
+      "end": 265.26,
+      "text": "the public?"
+    },
+    {
+      "start": 265.26,
+      "end": 269.8,
+      "text": "Do you think it would have been a real attack factor and caused chaos in corporations?"
+    },
+    {
+      "start": 269.8,
+      "end": 277.84,
+      "text": "I think we're three months away, if not already there, from this being available in the wild."
+    },
+    {
+      "start": 277.84,
+      "end": 279.3,
+      "text": "Okay, open source."
+    },
+    {
+      "start": 279.98,
+      "end": 280.08,
+      "text": "Yeah."
+    },
+    {
+      "start": 280.2,
+      "end": 280.96,
+      "text": "Just three months."
+    },
+    {
+      "start": 281.16,
+      "end": 281.28,
+      "text": "Yeah."
+    },
+    {
+      "start": 281.68,
+      "end": 291.84,
+      "text": "Yeah, because we've been saying that it's roughly six months away before mythos-level capabilities are available in Chinese models, open models, whatever."
+    },
+    {
+      "start": 292.44,
+      "end": 293.54,
+      "text": "But you're saying it can be three months."
+    },
+    {
+      "start": 293.96,
+      "end": 297.52,
+      "text": "Well, look, there's 4.8 is already out, 5.5 is already out."
+    },
+    {
+      "start": 297.64,
+      "end": 298.76,
+      "text": "They have similar capabilities."
+    },
+    {
+      "start": 299.24,
+      "end": 303.26,
+      "text": "And look, you don't need to crack the hardest code to crack."
+    },
+    {
+      "start": 303.26,
+      "end": 307.06,
+      "text": "You just need to find a few vulnerabilities in code that are out there."
+    },
+    {
+      "start": 307.06,
+      "end": 312.68,
+      "text": "Just take an old industrial system which is running OT code on the edge."
+    },
+    {
+      "start": 312.78,
+      "end": 314.66,
+      "text": "You can find that vulnerability reasonably easily."
+    },
+    {
+      "start": 314.86,
+      "end": 325.2,
+      "text": "So we're in a race right now between the cyber defenders finding these vulnerabilities and patching them before the cyber attackers do the same thing."
+    },
+    {
+      "start": 325.38,
+      "end": 325.62,
+      "text": "Yes."
+    },
+    {
+      "start": 325.84,
+      "end": 329.06,
+      "text": "And how do you feel like we're doing in that race?"
+    },
+    {
+      "start": 329.78,
+      "end": 334.26,
+      "text": "So not as well as we should be doing, which is great for our business, but that's a different story."
+    },
+    {
+      "start": 334.26,
+      "end": 340.48,
+      "text": "So, look, every company has to go look at their code base and figure out where the vulnerabilities"
+    },
+    {
+      "start": 340.48,
+      "end": 341.62,
+      "text": "are and fix them."
+    },
+    {
+      "start": 341.62,
+      "end": 345.96,
+      "text": "So if you talk to CIOs today, their biggest problem is all the vendors are showing up"
+    },
+    {
+      "start": 345.96,
+      "end": 351.2,
+      "text": "saying, please patch my piece of boxes, the hardware that you have, please patch my code"
+    },
+    {
+      "start": 351.2,
+      "end": 354.08,
+      "text": "that you have because I found vulnerabilities, fix it."
+    },
+    {
+      "start": 354.08,
+      "end": 357.14,
+      "text": "While the CIOs are busy finding their own vulnerabilities to fix their own vulnerabilities,"
+    },
+    {
+      "start": 357.14,
+      "end": 361.26,
+      "text": "and then this huge thing called open source, which nobody knows quite how to solve."
+    },
+    {
+      "start": 361.26,
+      "end": 368.78,
+      "text": "Is it fair to say that as model capabilities go up, systemic business risk of large enterprises"
+    },
+    {
+      "start": 368.78,
+      "end": 375.02,
+      "text": "also goes up? On the cyber side, yes. There are antidotes being built by people like us and others"
+    },
+    {
+      "start": 375.02,
+      "end": 379.02,
+      "text": "where we're going to provide some capability where you don't have to patch everything. But look,"
+    },
+    {
+      "start": 379.02,
+      "end": 384.54,
+      "text": "Saris did something very interesting around harnesses, memory, and context. The part we"
+    },
+    {
+      "start": 384.54,
+      "end": 390.06,
+      "text": "don't talk about here is organizations don't have memory and context of everything they do"
+    },
+    {
+      "start": 390.06,
+      "end": 396.3,
+      "text": "every day. That's why you need to store a lot more data enterprise-wide to learn what good looks like"
+    },
+    {
+      "start": 396.3,
+      "end": 402.06,
+      "text": "and what bad looks like. The same problem is in cybersecurity. We need to collect 10 times the"
+    },
+    {
+      "start": 402.06,
+      "end": 407.9,
+      "text": "data in the enterprise from a cyber perspective to be able to understand how to defend ourselves"
+    },
+    {
+      "start": 407.9,
+      "end": 413.1,
+      "text": "against the AI attackers. Do you think that the traditional companies like the SaaS businesses"
+    },
+    {
+      "start": 413.1,
+      "end": 417.28,
+      "text": "that have existed in this world, what is their place?"
+    },
+    {
+      "start": 417.9,
+      "end": 420.66,
+      "text": "As all this knowledge becomes more persistent and stored,"
+    },
+    {
+      "start": 420.82,
+      "end": 421.94,
+      "text": "what happens to SaaS?"
+    },
+    {
+      "start": 423.48,
+      "end": 426.02,
+      "text": "Well, you see, SaaS, as Bill said,"
+    },
+    {
+      "start": 426.12,
+      "end": 427.58,
+      "text": "SaaS is different pieces, right?"
+    },
+    {
+      "start": 427.72,
+      "end": 430.28,
+      "text": "If you're an analytical SaaS company, it's over."
+    },
+    {
+      "start": 430.92,
+      "end": 431.62,
+      "text": "It's over."
+    },
+    {
+      "start": 431.88,
+      "end": 433.34,
+      "text": "What is an analytical SaaS company?"
+    },
+    {
+      "start": 433.54,
+      "end": 435.54,
+      "text": "Somebody that says, I'm going to collect a lot of data"
+    },
+    {
+      "start": 435.54,
+      "end": 436.74,
+      "text": "for you and analyze it for you."
+    },
+    {
+      "start": 436.84,
+      "end": 438.46,
+      "text": "I don't need you to analyze it for me."
+    },
+    {
+      "start": 438.46,
+      "end": 443.06,
+      "text": "I can run models against data and analyze them myself."
+    },
+    {
+      "start": 443.26,
+      "end": 446.42,
+      "text": "So if you think about, every SaaS company has a marketplace."
+    },
+    {
+      "start": 446.9,
+      "end": 448.32,
+      "text": "You can buy Salesforce marketplace."
+    },
+    {
+      "start": 448.52,
+      "end": 448.88,
+      "text": "What do they say?"
+    },
+    {
+      "start": 449.18,
+      "end": 450.16,
+      "text": "You have Salesforce data."
+    },
+    {
+      "start": 450.46,
+      "end": 451.66,
+      "text": "I'm a marketplace app."
+    },
+    {
+      "start": 451.9,
+      "end": 453.26,
+      "text": "Take me and I'll help you analyze the data."
+    },
+    {
+      "start": 453.44,
+      "end": 454.04,
+      "text": "I don't need you."
+    },
+    {
+      "start": 454.14,
+      "end": 454.92,
+      "text": "You don't need that."
+    },
+    {
+      "start": 454.94,
+      "end": 457.0,
+      "text": "I can just go run an LLM against the data."
+    },
+    {
+      "start": 457.14,
+      "end": 462.18,
+      "text": "So the entire incrementality that has been sold as incremental software modules to all of us"
+    },
+    {
+      "start": 462.18,
+      "end": 475.98,
+      "text": "doesn need to be sold to us because I much rather have LLMs run against that data Interesting you bring this up we had an instance with a SaaS product with 20 seats Nobody was logging in and using it but the data was there Yes So we"
+    },
+    {
+      "start": 475.98,
+      "end": 482.46,
+      "text": "created like three accounts, got rid of 17, connected it to Slack, connected it to Claude,"
+    },
+    {
+      "start": 482.46,
+      "end": 487.58,
+      "text": "and now everybody can interface it through a natural language and we've reduced our bill by 90%."
+    },
+    {
+      "start": 488.14,
+      "end": 493.1,
+      "text": "Well not just that, what are you going to do next Jason? You're going to take data from different"
+    },
+    {
+      "start": 493.1,
+      "end": 499.02,
+      "text": "products, put them in one place, run the analytics against that. I want my data for my sales reps,"
+    },
+    {
+      "start": 499.02,
+      "end": 505.26,
+      "text": "my productivity data, my inventory data from SAP. I want it all in one place so I can run analytics"
+    },
+    {
+      "start": 505.26,
+      "end": 510.38,
+      "text": "against it and say, who's selling a lot? Where do I have less inventory? Let's build inventory in"
+    },
+    {
+      "start": 510.38,
+      "end": 513.98,
+      "text": "a region where my salespeople are extremely productive. To run that query, you'd have to"
+    },
+    {
+      "start": 514.54,
+      "end": 518.06,
+      "text": "talk to three different SaaS products. Tomorrow, you can put all the data in one place. So"
+    },
+    {
+      "start": 518.06,
+      "end": 521.5,
+      "text": "So that's sort of category one, analytical SaaS is dead."
+    },
+    {
+      "start": 521.5,
+      "end": 524.82,
+      "text": "Okay, category one, analytics dead."
+    },
+    {
+      "start": 525.24,
+      "end": 526.62,
+      "text": "Yes, in the medium term."
+    },
+    {
+      "start": 526.82,
+      "end": 528.44,
+      "text": "You've got all these bounces today and tomorrow."
+    },
+    {
+      "start": 528.64,
+      "end": 530.02,
+      "text": "These are marginally irrelevant."
+    },
+    {
+      "start": 530.98,
+      "end": 532.96,
+      "text": "Infrastructure software, undervalued."
+    },
+    {
+      "start": 533.7,
+      "end": 535.06,
+      "text": "Okay, what is infrastructure software?"
+    },
+    {
+      "start": 535.38,
+      "end": 536.76,
+      "text": "Stuff that gives you databases."
+    },
+    {
+      "start": 536.9,
+      "end": 537.9,
+      "text": "You collect data into it."
+    },
+    {
+      "start": 537.96,
+      "end": 539.58,
+      "text": "Stuff that allows the infrastructure to work,"
+    },
+    {
+      "start": 539.66,
+      "end": 541.84,
+      "text": "whether it's a database software."
+    },
+    {
+      "start": 541.84,
+      "end": 543.34,
+      "text": "This is like Databricks, Snowflake, like that?"
+    },
+    {
+      "start": 543.36,
+      "end": 547.22,
+      "text": "Databricks, Snowflake, MongoDB, Oracle, all these things."
+    },
+    {
+      "start": 547.22,
+      "end": 549.94,
+      "text": "You need core storage infrastructure, core data."
+    },
+    {
+      "start": 549.94,
+      "end": 553.26,
+      "text": "We are going to need 10 times the data stored in enterprise than we have today."
+    },
+    {
+      "start": 553.56,
+      "end": 553.76,
+      "text": "Right."
+    },
+    {
+      "start": 553.76,
+      "end": 555.02,
+      "text": "In the next three years, 10 times."
+    },
+    {
+      "start": 555.18,
+      "end": 555.42,
+      "text": "Okay."
+    },
+    {
+      "start": 555.64,
+      "end": 559.48,
+      "text": "So anything that helps you collect infrastructure, data, manage it, you need."
+    },
+    {
+      "start": 560.16,
+      "end": 567.22,
+      "text": "I think the category in the middle is called, let's call it system of work or system, you know, a record, people call them."
+    },
+    {
+      "start": 567.92,
+      "end": 570.4,
+      "text": "Those are deeply embedded in the way businesses work."
+    },
+    {
+      "start": 570.98,
+      "end": 572.06,
+      "text": "I have 6,000 salespeople."
+    },
+    {
+      "start": 572.18,
+      "end": 573.22,
+      "text": "They know how this works."
+    },
+    {
+      "start": 573.22,
+      "end": 578.22,
+      "text": "What's going to happen is, step one, we will take away UI and let agents do the work."
+    },
+    {
+      "start": 578.22,
+      "end": 585.22,
+      "text": "UI, enterprise software and consumer software UI is the worst thing we did as technologists."
+    },
+    {
+      "start": 585.22,
+      "end": 590.22,
+      "text": "You had a couple of examples of this. You told me this story, I don't know if you want to repeat it, of this one company."
+    },
+    {
+      "start": 590.22,
+      "end": 592.22,
+      "text": "They tried to hold you hostage on a license."
+    },
+    {
+      "start": 592.22,
+      "end": 594.22,
+      "text": "Yes, that was analytical SaaS, so that's over."
+    },
+    {
+      "start": 594.22,
+      "end": 596.22,
+      "text": "And you just pointed AI at it and you just..."
+    },
+    {
+      "start": 596.22,
+      "end": 598.22,
+      "text": "Yes, we just got rid of them. That's a different issue."
+    },
+    {
+      "start": 598.22,
+      "end": 603.98,
+      "text": "Think about it today, we've spent our lives having product managers design UI so all humans"
+    },
+    {
+      "start": 603.98,
+      "end": 607.38,
+      "text": "can interact with data behind the UI."
+    },
+    {
+      "start": 607.38,
+      "end": 610.86,
+      "text": "If you believe agents are going to work and I say, I just tell an agent, look, figure"
+    },
+    {
+      "start": 610.86,
+      "end": 616.8,
+      "text": "out from my sales call, figure out the key points and go post it into whatever sales"
+    },
+    {
+      "start": 616.8,
+      "end": 619.62,
+      "text": "tracking system I have at this Oracle or Salesforce."
+    },
+    {
+      "start": 619.62,
+      "end": 621.24,
+      "text": "An agent conceptually should be able to do it."
+    },
+    {
+      "start": 621.24,
+      "end": 625.42,
+      "text": "Shit we're spending trillion dollars building these agentic backends, we need these agents"
+    },
+    {
+      "start": 625.42,
+      "end": 626.42,
+      "text": "to be able to do it."
+    },
+    {
+      "start": 626.42,
+      "end": 627.76,
+      "text": "If that happens, UI goes away."
+    },
+    {
+      "start": 628.76,
+      "end": 632.96,
+      "text": "If UI goes away, I can rewire my system of work."
+    },
+    {
+      "start": 634.38,
+      "end": 635.88,
+      "text": "I have sales guys show up and say,"
+    },
+    {
+      "start": 636.0,
+      "end": 638.54,
+      "text": "I had the sales call, do all the paperwork"
+    },
+    {
+      "start": 638.54,
+      "end": 639.78,
+      "text": "and all the shit that needs to happen"
+    },
+    {
+      "start": 639.78,
+      "end": 642.34,
+      "text": "in the background of the company, and just, I'm done."
+    },
+    {
+      "start": 642.86,
+      "end": 646.08,
+      "text": "If I can change the way work happens,"
+    },
+    {
+      "start": 646.42,
+      "end": 647.86,
+      "text": "which is where you will get true efficiency,"
+    },
+    {
+      "start": 647.86,
+      "end": 649.8,
+      "text": "where five people become one in a company,"
+    },
+    {
+      "start": 650.6,
+      "end": 653.74,
+      "text": "all these SaaS software that does system of work"
+    },
+    {
+      "start": 653.74,
+      "end": 655.66,
+      "text": "needs to be reengineered for the next five years."
+    },
+    {
+      "start": 655.66,
+      "end": 658.74,
+      "text": "And it's also happening passively, which is really interesting."
+    },
+    {
+      "start": 659.12,
+      "end": 660.28,
+      "text": "It's looking at email."
+    },
+    {
+      "start": 660.48,
+      "end": 663.06,
+      "text": "It's automatically taking the Zoom transcript and summary."
+    },
+    {
+      "start": 663.3,
+      "end": 666.98,
+      "text": "So the sales system of record is now like, you don't even need to input it."
+    },
+    {
+      "start": 667.1,
+      "end": 669.1,
+      "text": "It's like, I already have the Zoom call notes."
+    },
+    {
+      "start": 669.64,
+      "end": 671.62,
+      "text": "I have the deck."
+    },
+    {
+      "start": 671.82,
+      "end": 672.82,
+      "text": "The deck was made."
+    },
+    {
+      "start": 672.98,
+      "end": 674.48,
+      "text": "The sales deck was made by AI."
+    },
+    {
+      "start": 675.0,
+      "end": 679.86,
+      "text": "It's just, we're all going to be looking at a chat window and just saying, here's what I want."
+    },
+    {
+      "start": 680.12,
+      "end": 683.22,
+      "text": "Your audit trail becomes a lot better because humans are not touching your data."
+    },
+    {
+      "start": 683.58,
+      "end": 685.04,
+      "text": "It's always been managed by agents."
+    },
+    {
+      "start": 685.04,
+      "end": 690.0,
+      "text": "So I think the whole system of work, system of record gets reinvented in the next five years."
+    },
+    {
+      "start": 690.56,
+      "end": 692.38,
+      "text": "Yeah, there's no data entry. That's an interesting point."
+    },
+    {
+      "start": 692.56,
+      "end": 696.02,
+      "text": "Let's talk about national security for a second. I just want to maybe zoom out."
+    },
+    {
+      "start": 696.64,
+      "end": 702.54,
+      "text": "So the one side of mythos, as you said, is like the value that it has to you and to enterprises."
+    },
+    {
+      "start": 704.7,
+      "end": 713.14,
+      "text": "The red team version of mythos is where foreign state actors can essentially create economic havoc inside of a country."
+    },
+    {
+      "start": 713.14,
+      "end": 714.14,
+      "text": "Yes."
+    },
+    {
+      "start": 714.14,
+      "end": 718.02,
+      "text": "As these models escalate in their capability, what do you think should happen when these"
+    },
+    {
+      "start": 718.02,
+      "end": 719.26,
+      "text": "models are ready?"
+    },
+    {
+      "start": 719.26,
+      "end": 726.2,
+      "text": "Yeah, the sad truth is in a year there's a few thousand breaches or attacks that happen."
+    },
+    {
+      "start": 726.2,
+      "end": 728.04,
+      "text": "They happen for pretty rudimentary reasons."
+    },
+    {
+      "start": 728.04,
+      "end": 731.26,
+      "text": "It's not because somebody cracked the hard to crack thing."
+    },
+    {
+      "start": 731.26,
+      "end": 735.76,
+      "text": "It happens because 89% of the attacks happen because credentials get stolen or breached."
+    },
+    {
+      "start": 735.76,
+      "end": 736.76,
+      "text": "Username and password."
+    },
+    {
+      "start": 736.76,
+      "end": 737.76,
+      "text": "That's it."
+    },
+    {
+      "start": 737.76,
+      "end": 738.76,
+      "text": "89% of the attacks."
+    },
+    {
+      "start": 738.76,
+      "end": 739.76,
+      "text": "My password is password."
+    },
+    {
+      "start": 739.76,
+      "end": 740.76,
+      "text": "Yeah, I'm sure it is."
+    },
+    {
+      "start": 740.76,
+      "end": 741.76,
+      "text": "Do you have dollar sign?"
+    },
+    {
+      "start": 741.76,
+      "end": 742.76,
+      "text": "Dollar sign password."
+    },
+    {
+      "start": 742.76,
+      "end": 744.48,
+      "text": "You're only ahead of everybody else."
+    },
+    {
+      "start": 744.96,
+      "end": 747.7,
+      "text": "So 80% and 90% breaches happen because of simple things."
+    },
+    {
+      "start": 747.86,
+      "end": 750.3,
+      "text": "I don't think we need more models to go crack the stuff."
+    },
+    {
+      "start": 750.66,
+      "end": 753.8,
+      "text": "Now, these models can attack critical infrastructure"
+    },
+    {
+      "start": 753.8,
+      "end": 756.3,
+      "text": "and things we try and protect from a national security perspective."
+    },
+    {
+      "start": 756.42,
+      "end": 758.2,
+      "text": "Yes, we need defenses there."
+    },
+    {
+      "start": 758.5,
+      "end": 761.82,
+      "text": "I'm not worried about the national security part being protected"
+    },
+    {
+      "start": 761.82,
+      "end": 763.24,
+      "text": "because they're very on it."
+    },
+    {
+      "start": 763.36,
+      "end": 764.18,
+      "text": "They are the right people."
+    },
+    {
+      "start": 764.52,
+      "end": 767.02,
+      "text": "They spend 10% of their budgets on IT, on security."
+    },
+    {
+      "start": 767.64,
+      "end": 771.12,
+      "text": "I'm worried about the small offices across the country"
+    },
+    {
+      "start": 771.12,
+      "end": 773.22,
+      "text": "where they're using some piece of packet software"
+    },
+    {
+      "start": 773.22,
+      "end": 775.8,
+      "text": "and you're running a dentist's office or a doctor's office."
+    },
+    {
+      "start": 775.92,
+      "end": 778.3,
+      "text": "Remember when change healthcare got breached?"
+    },
+    {
+      "start": 779.42,
+      "end": 781.2,
+      "text": "Every physician's office shut down."
+    },
+    {
+      "start": 781.24,
+      "end": 782.28,
+      "text": "Shut down and it's ransomware."
+    },
+    {
+      "start": 782.56,
+      "end": 783.98,
+      "text": "Because of ransomware to change healthcare."
+    },
+    {
+      "start": 784.1,
+      "end": 785.1,
+      "text": "That's what the clearing system."
+    },
+    {
+      "start": 785.4,
+      "end": 789.9,
+      "text": "That's when UnitedHealth actually gave billions of dollars of credits"
+    },
+    {
+      "start": 789.9,
+      "end": 792.86,
+      "text": "to the physicians to be able to run their businesses at that point in time."
+    },
+    {
+      "start": 793.12,
+      "end": 794.36,
+      "text": "That's what one should worry about."
+    },
+    {
+      "start": 794.48,
+      "end": 797.72,
+      "text": "It's less about the big nuts will get cracked."
+    },
+    {
+      "start": 797.72,
+      "end": 801.26,
+      "text": "It's less about cracking some PG&E power generation facility."
+    },
+    {
+      "start": 801.68,
+      "end": 803.28,
+      "text": "It's more economic chaos."
+    },
+    {
+      "start": 803.4,
+      "end": 803.58,
+      "text": "Yes."
+    },
+    {
+      "start": 804.4,
+      "end": 806.54,
+      "text": "And so what do we do?"
+    },
+    {
+      "start": 808.16,
+      "end": 811.2,
+      "text": "I don't think there's a silver bullet."
+    },
+    {
+      "start": 811.74,
+      "end": 813.14,
+      "text": "I think this will take time."
+    },
+    {
+      "start": 813.28,
+      "end": 817.38,
+      "text": "I think this will basically take a while until every system gets upgraded,"
+    },
+    {
+      "start": 817.78,
+      "end": 819.02,
+      "text": "renewed, fixed over time."
+    },
+    {
+      "start": 819.36,
+      "end": 821.48,
+      "text": "I just think it'll increase the terminal value of the industry."
+    },
+    {
+      "start": 821.48,
+      "end": 821.68,
+      "text": "Right."
+    },
+    {
+      "start": 823.4,
+      "end": 826.98,
+      "text": "Do you think that there's a world in which these models become so good"
+    },
+    {
+      "start": 826.98,
+      "end": 834.34,
+      "text": "that you could see yourself advocating for more nationalism around how they're controlled and"
+    },
+    {
+      "start": 834.34,
+      "end": 840.18,
+      "text": "how they're managed and where we point them? Or do you think there should be maybe a set of"
+    },
+    {
+      "start": 840.18,
+      "end": 844.78,
+      "text": "these models that never see the light of day that only the NSA and other folks could have access to"
+    },
+    {
+      "start": 844.78,
+      "end": 849.14,
+      "text": "or guys like you? I have a slightly differentiated view about models and how they will evolve"
+    },
+    {
+      "start": 849.14,
+      "end": 855.78,
+      "text": "versus what we heard earlier from an open AI perspective. I think I still believe models"
+    },
+    {
+      "start": 855.78,
+      "end": 857.24,
+      "text": "are going to become a utility layer."
+    },
+    {
+      "start": 858.54,
+      "end": 861.12,
+      "text": "You'll be able to buy intelligence on the fly"
+    },
+    {
+      "start": 861.12,
+      "end": 862.72,
+      "text": "where you can say,"
+    },
+    {
+      "start": 863.18,
+      "end": 865.94,
+      "text": "I don't need a 180 IQ person to go do this task."
+    },
+    {
+      "start": 866.24,
+      "end": 869.54,
+      "text": "Give me 120 IQ and I need 250 IQ to do this task."
+    },
+    {
+      "start": 869.62,
+      "end": 871.84,
+      "text": "I'll pay $10 for this and for this I'll pay one cent."
+    },
+    {
+      "start": 872.32,
+      "end": 875.02,
+      "text": "So I don't know there's a one size fits all"
+    },
+    {
+      "start": 875.02,
+      "end": 877.06,
+      "text": "give you the most up-to-date model"
+    },
+    {
+      "start": 877.06,
+      "end": 878.58,
+      "text": "to answer my customer call saying,"
+    },
+    {
+      "start": 878.58,
+      "end": 880.8,
+      "text": "sorry, sir, I have no idea how to solve your problem."
+    },
+    {
+      "start": 881.66,
+      "end": 883.9,
+      "text": "So I think models will get differentiated"
+    },
+    {
+      "start": 883.9,
+      "end": 885.62,
+      "text": "from the utilitarian perspective."
+    },
+    {
+      "start": 885.78,
+      "end": 890.2,
+      "text": "So if you look at already what's happening in the market, right?"
+    },
+    {
+      "start": 890.2,
+      "end": 894.08,
+      "text": "The profit pools are in applications, not in models."
+    },
+    {
+      "start": 894.08,
+      "end": 896.56,
+      "text": "Sarah talked about Codex running away."
+    },
+    {
+      "start": 896.56,
+      "end": 898.62,
+      "text": "She didn't say OpenAI is running away."
+    },
+    {
+      "start": 898.62,
+      "end": 899.62,
+      "text": "She says Codex is running away."
+    },
+    {
+      "start": 899.62,
+      "end": 903.24,
+      "text": "Just say, that's the way I'm sure Dario says Cloud Code is running away."
+    },
+    {
+      "start": 903.24,
+      "end": 905.3,
+      "text": "You're seeing that- They're attacking profit pools."
+    },
+    {
+      "start": 905.3,
+      "end": 907.9,
+      "text": "They're attacking profit pools because that's where the money is going to come from."
+    },
+    {
+      "start": 907.9,
+      "end": 910.7,
+      "text": "The profit pools are in applications that companies can use."
+    },
+    {
+      "start": 910.7,
+      "end": 915.14,
+      "text": "The profit pools are not in model usage by companies because most companies have no idea"
+    },
+    {
+      "start": 915.14,
+      "end": 921.3,
+      "text": "So you can look at these companies in a way, OpenAI and Anthropic, as the new Microsoft office"
+    },
+    {
+      "start": 921.3,
+      "end": 927.22,
+      "text": "coming in and doing all applications, all productivity software for organizations."
+    },
+    {
+      "start": 927.78,
+      "end": 931.18,
+      "text": "No, I see there's going to be application companies which are going to arbitrage between"
+    },
+    {
+      "start": 931.18,
+      "end": 935.4,
+      "text": "models and solve your business problem. So you still think they won't go to the"
+    },
+    {
+      "start": 935.4,
+      "end": 948.06,
+      "text": "application ladder Because this is a big debate Should you engage with OpenAI and train their systems to then take your business from you And Anthropic keeps releasing their legal model"
+    },
+    {
+      "start": 948.06,
+      "end": 952.62,
+      "text": "their accounting model, and it does feel like in order for them to hit their revenue numbers,"
+    },
+    {
+      "start": 952.62,
+      "end": 957.24,
+      "text": "they might need to do what Microsoft did, which is release the Office product on top of the"
+    },
+    {
+      "start": 957.24,
+      "end": 963.48,
+      "text": "operating system. See, if I'm a company, I don't want to write every piece of software myself. I"
+    },
+    {
+      "start": 963.48,
+      "end": 969.36,
+      "text": "my HR system software, which is agentic enabled and AI enabled to be delivered by some application"
+    },
+    {
+      "start": 969.36,
+      "end": 975.18,
+      "text": "company. It could be a new AI application company. I want my sales management system built by the new"
+    },
+    {
+      "start": 975.18,
+      "end": 980.46,
+      "text": "agentic AI sales force of the world, whether it's sales force or somebody else. So I want applications."
+    },
+    {
+      "start": 980.92,
+      "end": 985.58,
+      "text": "Now, what Sarah said is the profit pools are in the application layer. That's why they want to be"
+    },
+    {
+      "start": 985.58,
+      "end": 990.36,
+      "text": "the application layer. So I think we're still waiting for that layer of companies to be invented"
+    },
+    {
+      "start": 990.36,
+      "end": 992.72,
+      "text": "or created where applications will sit."
+    },
+    {
+      "start": 992.98,
+      "end": 996.26,
+      "text": "Because 50,000 companies need the same application."
+    },
+    {
+      "start": 996.62,
+      "end": 998.06,
+      "text": "Why would I build it myself?"
+    },
+    {
+      "start": 998.16,
+      "end": 998.94,
+      "text": "It's highly inefficient."
+    },
+    {
+      "start": 999.12,
+      "end": 1000.84,
+      "text": "It's silly for me to use OpenAI directly"
+    },
+    {
+      "start": 1000.84,
+      "end": 1002.64,
+      "text": "and rewrite my entire sales system"
+    },
+    {
+      "start": 1002.64,
+      "end": 1005.1,
+      "text": "because I'm smart, right?"
+    },
+    {
+      "start": 1005.1,
+      "end": 1005.62,
+      "text": "I'm not."
+    },
+    {
+      "start": 1005.7,
+      "end": 1006.6,
+      "text": "I want somebody to do it for me."
+    },
+    {
+      "start": 1006.62,
+      "end": 1008.3,
+      "text": "So I think that layer of companies"
+    },
+    {
+      "start": 1008.3,
+      "end": 1009.86,
+      "text": "is still not fully formed."
+    },
+    {
+      "start": 1010.0,
+      "end": 1010.62,
+      "text": "We're still going to be waiting for it."
+    },
+    {
+      "start": 1010.62,
+      "end": 1012.94,
+      "text": "You want a control plane, a harness, and then..."
+    },
+    {
+      "start": 1012.94,
+      "end": 1013.28,
+      "text": "That's right."
+    },
+    {
+      "start": 1013.7,
+      "end": 1015.38,
+      "text": "They will build the harnesses and the memory"
+    },
+    {
+      "start": 1015.38,
+      "end": 1017.08,
+      "text": "into those application layers."
+    },
+    {
+      "start": 1017.2,
+      "end": 1018.9,
+      "text": "Now, the question is, how big is the application layer?"
+    },
+    {
+      "start": 1019.18,
+      "end": 1020.14,
+      "text": "Is it one application?"
+    },
+    {
+      "start": 1020.14,
+      "end": 1024.94,
+      "text": "Is it one enterprise application that does everything or is it a specialized application?"
+    },
+    {
+      "start": 1024.94,
+      "end": 1027.98,
+      "text": "When you did it and you kicked out this software vendor,"
+    },
+    {
+      "start": 1027.98,
+      "end": 1030.22,
+      "text": "you did it because they were being abusive in pricing."
+    },
+    {
+      "start": 1030.22,
+      "end": 1031.9,
+      "text": "We still use a different vendor."
+    },
+    {
+      "start": 1031.9,
+      "end": 1032.38,
+      "text": "What's that?"
+    },
+    {
+      "start": 1032.38,
+      "end": 1034.78,
+      "text": "We swapped out for a different vendor. We just took more control."
+    },
+    {
+      "start": 1034.78,
+      "end": 1040.7,
+      "text": "Love it. So it really is a pricing issue. And that's why the SaaSpocalypse in some ways makes"
+    },
+    {
+      "start": 1040.7,
+      "end": 1045.98,
+      "text": "sense. They're not having pricing power because you could say, I'll just put 10 developers on this"
+    },
+    {
+      "start": 1045.98,
+      "end": 1047.58,
+      "text": "and I'll save $10 million."
+    },
+    {
+      "start": 1047.58,
+      "end": 1051.9,
+      "text": "Yes. I think the part back to what Shamad said about the regulation or whether you want to"
+    },
+    {
+      "start": 1051.9,
+      "end": 1057.1,
+      "text": "regulate these higher powered models, the question is at some point in time, when these newer models,"
+    },
+    {
+      "start": 1057.1,
+      "end": 1061.26,
+      "text": "which are even more powerful, get built, they will come at a different price point and they might"
+    },
+    {
+      "start": 1061.26,
+      "end": 1064.38,
+      "text": "have to go to a certain vetting process to understand what their capabilities are. But"
+    },
+    {
+      "start": 1065.1,
+      "end": 1069.58,
+      "text": "I think we're in a global race. I don't think holding back our models for three to six months"
+    },
+    {
+      "start": 1069.58,
+      "end": 1075.34,
+      "text": "is going to help us any. Somebody else is going to put them out in open source. I was shocked to hear"
+    },
+    {
+      "start": 1075.34,
+      "end": 1079.26,
+      "text": "when I was talking to the CEO of one of these model companies, he says the entire weights of"
+    },
+    {
+      "start": 1079.26,
+      "end": 1084.7,
+      "text": "their most recent model can fit on a USB stick. Say that again, the entire weights?"
+    },
+    {
+      "start": 1084.7,
+      "end": 1090.22,
+      "text": "The entire model weights of their newest model fits on a USB stick. That's the IP."
+    },
+    {
+      "start": 1092.14,
+      "end": 1095.18,
+      "text": "That's incredible. Because all the data can be distilled"
+    },
+    {
+      "start": 1095.18,
+      "end": 1100.94,
+      "text": "in under 24 to 48 hours when the model comes out. I'm curious. So that's the IP. So are you telling"
+    },
+    {
+      "start": 1100.94,
+      "end": 1109.9,
+      "text": "me that you know we can hold on to that for six months right we have a debate about um how"
+    },
+    {
+      "start": 1109.9,
+      "end": 1114.38,
+      "text": "difficult it is to make a frontier model some companies are starting to think about making"
+    },
+    {
+      "start": 1114.38,
+      "end": 1120.14,
+      "text": "frontier models using their data advantage to to build their own have you thought about that"
+    },
+    {
+      "start": 1120.86,
+      "end": 1125.82,
+      "text": "palo alto because it does seem like you have proprietary knowledge on how security works"
+    },
+    {
+      "start": 1125.82,
+      "end": 1130.86,
+      "text": "could you build your own large language model or a VSML, a small language model that would"
+    },
+    {
+      "start": 1131.42,
+      "end": 1137.82,
+      "text": "give you some advantage? Here's the part nobody talks about, is the false positive rates on the"
+    },
+    {
+      "start": 1137.82,
+      "end": 1144.78,
+      "text": "models. What is the false positive rate on 4.8 and 5.5? No idea. You guys don't talk about it,"
+    },
+    {
+      "start": 1144.78,
+      "end": 1152.62,
+      "text": "you should. The false positive rate on Mythos was 30%. Oh wow. Right? So it thought it found"
+    },
+    {
+      "start": 1152.62,
+      "end": 1158.62,
+      "text": "something but it hadn't yes so the problem is it's great for attack it's horrible for defense"
+    },
+    {
+      "start": 1159.82,
+      "end": 1164.06,
+      "text": "because it finds 30 times 30 percent of time it finds something i found a problem and you say"
+    },
+    {
+      "start": 1164.06,
+      "end": 1168.14,
+      "text": "let's plug the hole wait there wasn't a hole there in the first place no missile inbound right yeah"
+    },
+    {
+      "start": 1168.14,
+      "end": 1173.02,
+      "text": "so now the same problem applies in enterprise if you use a if you use the model without the right"
+    },
+    {
+      "start": 1173.02,
+      "end": 1178.46,
+      "text": "harnesses the right training you could be running into 10 20 false positive rates let's use the"
+    },
+    {
+      "start": 1178.46,
+      "end": 1185.74,
+      "text": "model to pay i don't know insurance claims yeah oh great 10 20 false positive i just lost money"
+    },
+    {
+      "start": 1185.74,
+      "end": 1191.98,
+      "text": "the sycophantic nature of these is ridiculous so so the problem is not who wants the us model the"
+    },
+    {
+      "start": 1191.98,
+      "end": 1198.86,
+      "text": "problem is how do you take that model with 20 or 10 false positive and make it 0.01 false positive"
+    },
+    {
+      "start": 1198.86,
+      "end": 1203.18,
+      "text": "in my business i want zero percent without losing the false negative sorry without losing the"
+    },
+    {
+      "start": 1203.18,
+      "end": 1207.9,
+      "text": "negative the fault yes but it's like saying hey let's take the new self-driving car mercedes is"
+    },
+    {
+      "start": 1207.9,
+      "end": 1211.9,
+      "text": "is going to use Opus 4.8 and you can just sit in the car and it's going to drive you."
+    },
+    {
+      "start": 1211.9,
+      "end": 1216.52,
+      "text": "I'm not putting my kids in that car with a 10% false positive rate. Are you? So there's"
+    },
+    {
+      "start": 1216.52,
+      "end": 1222.62,
+      "text": "a lot of work that happens post the model, which needs to happen to make this thing useful"
+    },
+    {
+      "start": 1222.62,
+      "end": 1224.64,
+      "text": "and effective in the business context."
+    },
+    {
+      "start": 1224.64,
+      "end": 1229.06,
+      "text": "Let me slightly pivot for a second. You were for a very long time, the chief business officer"
+    },
+    {
+      "start": 1229.06,
+      "end": 1234.14,
+      "text": "at Google. You were the president of SoftBank. Now you're the CEO of Palo Alto Network. So"
+    },
+    {
+      "start": 1234.14,
+      "end": 1236.68,
+      "text": "So let's play armchair CEO."
+    },
+    {
+      "start": 1236.68,
+      "end": 1237.68,
+      "text": "Armchair CEO."
+    },
+    {
+      "start": 1237.68,
+      "end": 1238.68,
+      "text": "Armchair CEO."
+    },
+    {
+      "start": 1238.68,
+      "end": 1242.64,
+      "text": "I'm still bristling from David Friedberg trying to create a distinction between founder CEOs"
+    },
+    {
+      "start": 1242.64,
+      "end": 1243.64,
+      "text": "and non-founder CEOs."
+    },
+    {
+      "start": 1243.64,
+      "end": 1244.64,
+      "text": "Just saying."
+    },
+    {
+      "start": 1244.64,
+      "end": 1245.64,
+      "text": "Just saying, David."
+    },
+    {
+      "start": 1245.64,
+      "end": 1246.64,
+      "text": "By the way, false positives."
+    },
+    {
+      "start": 1246.64,
+      "end": 1247.64,
+      "text": "Sorry?"
+    },
+    {
+      "start": 1247.64,
+      "end": 1249.38,
+      "text": "False negatives, too."
+    },
+    {
+      "start": 1249.38,
+      "end": 1253.38,
+      "text": "Give us what you would keep, what you would change, and what you like about the following"
+    },
+    {
+      "start": 1253.38,
+      "end": 1254.38,
+      "text": "companies."
+    },
+    {
+      "start": 1254.38,
+      "end": 1255.74,
+      "text": "This is going to get recorded and put out there."
+    },
+    {
+      "start": 1255.74,
+      "end": 1256.74,
+      "text": "Is that really something I want to do?"
+    },
+    {
+      "start": 1256.74,
+      "end": 1257.74,
+      "text": "We're just getting your thoughts."
+    },
+    {
+      "start": 1257.74,
+      "end": 1258.74,
+      "text": "You're one of the smartest business people."
+    },
+    {
+      "start": 1258.74,
+      "end": 1261.74,
+      "text": "I don't get to live the glory of the all-in podcast."
+    },
+    {
+      "start": 1261.74,
+      "end": 1262.74,
+      "text": "We're asking you a question."
+    },
+    {
+      "start": 1262.74,
+      "end": 1263.74,
+      "text": "Don't..."
+    },
+    {
+      "start": 1263.74,
+      "end": 1270.14,
+      "text": "people and people are you ready yeah sure okay why you keep what you change what you like what"
+    },
+    {
+      "start": 1270.14,
+      "end": 1275.42,
+      "text": "you don't like uber in a world of the board of it dude i can't talk about it you're on the board"
+    },
+    {
+      "start": 1275.42,
+      "end": 1280.14,
+      "text": "of the board of uber i'm not going to talk about it i didn't know that sorry dr dara he's the ceo"
+    },
+    {
+      "start": 1280.14,
+      "end": 1288.78,
+      "text": "he's a great guy okay uh waymo try to get me fired waymo what do i like about remo the cars work it's"
+    },
+    {
+      "start": 1288.78,
+      "end": 1289.78,
+      "text": "It's amazing."
+    },
+    {
+      "start": 1289.78,
+      "end": 1293.5,
+      "text": "They should have more in many more cities around the world faster."
+    },
+    {
+      "start": 1293.5,
+      "end": 1294.88,
+      "text": "I would say that to Takeda."
+    },
+    {
+      "start": 1294.88,
+      "end": 1295.88,
+      "text": "I think she knows."
+    },
+    {
+      "start": 1295.88,
+      "end": 1297.78,
+      "text": "Google writ large."
+    },
+    {
+      "start": 1297.78,
+      "end": 1300.4,
+      "text": "I think Google's underrated."
+    },
+    {
+      "start": 1300.4,
+      "end": 1303.24,
+      "text": "I think it's going to be the first $10 trillion company in our lifetime."
+    },
+    {
+      "start": 1303.24,
+      "end": 1306.72,
+      "text": "I think they have all the assets that are needed to make this successful."
+    },
+    {
+      "start": 1306.72,
+      "end": 1308.16,
+      "text": "I think people underestimate."
+    },
+    {
+      "start": 1308.16,
+      "end": 1311.68,
+      "text": "You can be a model company, you still need to have a sales force that convinces customers"
+    },
+    {
+      "start": 1311.68,
+      "end": 1314.48,
+      "text": "to go out there and embrace these models and buy them."
+    },
+    {
+      "start": 1314.48,
+      "end": 1318.26,
+      "text": "And if you think about it, three hyperscalers have the biggest number of salespeople out"
+    },
+    {
+      "start": 1318.26,
+      "end": 1322.26,
+      "text": "there so they should part of why they're a little bit undervalued is just the conglomerate nature"
+    },
+    {
+      "start": 1322.26,
+      "end": 1326.66,
+      "text": "is hard to understand i don't know you guys are smart of that stuff i'm just a hired hand ceo"
+    },
+    {
+      "start": 1327.38,
+      "end": 1333.22,
+      "text": "i didn't say that reaper said that let's just be clear i know i know i was i was providing a thesis"
+    },
+    {
+      "start": 1333.22,
+      "end": 1339.86,
+      "text": "on recovery out of the sas apocalypse okay okay just to be nice there's a way to segment that"
+    },
+    {
+      "start": 1339.86,
+      "end": 1343.7,
+      "text": "basket okay and you're not in that basket i thought you were making a distinction about how"
+    },
+    {
+      "start": 1343.7,
+      "end": 1351.0,
+      "text": "people who are founders, CEOs, have the right to take more risk and are allowed to take more risk."
+    },
+    {
+      "start": 1351.02,
+      "end": 1356.3,
+      "text": "I was saying that. And I think you provide a unique counterpoint to that."
+    },
+    {
+      "start": 1356.66,
+      "end": 1358.64,
+      "text": "And the false positive in your model."
+    },
+    {
+      "start": 1358.66,
+      "end": 1360.08,
+      "text": "And by the way, I think the same was true of Jeff Weiner."
+    },
+    {
+      "start": 1360.28,
+      "end": 1366.32,
+      "text": "And I think that there's a few other really great CEOs, but they are like Neo in the Matrix type anomalies."
+    },
+    {
+      "start": 1366.84,
+      "end": 1368.16,
+      "text": "And I think you're one of those people."
+    },
+    {
+      "start": 1368.16,
+      "end": 1372.48,
+      "text": "And there's a very rare kind of personality profile of someone that's willing to take"
+    },
+    {
+      "start": 1372.48,
+      "end": 1375.92,
+      "text": "risk and take ownership of something that wasn't theirs in the first place and they"
+    },
+    {
+      "start": 1375.92,
+      "end": 1377.54,
+      "text": "make it theirs."
+    },
+    {
+      "start": 1377.54,
+      "end": 1382.94,
+      "text": "And it's an extraordinarily unique trait, far more unique actually than being a scalable"
+    },
+    {
+      "start": 1382.94,
+      "end": 1383.94,
+      "text": "founder."
+    },
+    {
+      "start": 1383.94,
+      "end": 1384.94,
+      "text": "That's an incredible save."
+    },
+    {
+      "start": 1384.94,
+      "end": 1385.94,
+      "text": "You're forgiven."
+    },
+    {
+      "start": 1385.94,
+      "end": 1386.94,
+      "text": "Yeah, good save."
+    },
+    {
+      "start": 1386.94,
+      "end": 1387.94,
+      "text": "Incredible save."
+    },
+    {
+      "start": 1387.94,
+      "end": 1388.94,
+      "text": "Let's go back to Armchair Steve."
+    },
+    {
+      "start": 1388.94,
+      "end": 1389.94,
+      "text": "Wow, that was incredible."
+    },
+    {
+      "start": 1389.94,
+      "end": 1390.94,
+      "text": "Open AI."
+    },
+    {
+      "start": 1390.94,
+      "end": 1391.94,
+      "text": "He's more sycophantic than ChatGPT."
+    },
+    {
+      "start": 1391.94,
+      "end": 1395.76,
+      "text": "He's like, actually, I think we're the best."
+    },
+    {
+      "start": 1395.76,
+      "end": 1396.76,
+      "text": "Let's go back to Armchair Steve."
+    },
+    {
+      "start": 1396.76,
+      "end": 1397.76,
+      "text": "I'm liking this."
+    },
+    {
+      "start": 1397.76,
+      "end": 1398.6,
+      "text": "OpenAI."
+    },
+    {
+      "start": 1398.6,
+      "end": 1399.42,
+      "text": "OpenAI."
+    },
+    {
+      "start": 1399.42,
+      "end": 1400.26,
+      "text": "OpenAI."
+    },
+    {
+      "start": 1400.26,
+      "end": 1402.22,
+      "text": "They do sell faster."
+    },
+    {
+      "start": 1402.22,
+      "end": 1403.04,
+      "text": "OpenAI."
+    },
+    {
+      "start": 1403.04,
+      "end": 1405.02,
+      "text": "They should sell faster, right?"
+    },
+    {
+      "start": 1405.02,
+      "end": 1418.43,
+      "text": "They should sell faster I mean you said it Didn you just say it when Sarah was here that Anthropic seems to have improved their ARR much faster than OpenAI I mean that just the statistics They kind of went all in on enterprise and coding specifically"
+    },
+    {
+      "start": 1418.43,
+      "end": 1426.27,
+      "text": "I think that's the conversation right now is it's a race to take over the profit pools."
+    },
+    {
+      "start": 1426.27,
+      "end": 1429.53,
+      "text": "If you are going to need tens and tens of billions of dollars every year to get, what"
+    },
+    {
+      "start": 1429.53,
+      "end": 1430.53,
+      "text": "is that?"
+    },
+    {
+      "start": 1430.53,
+      "end": 1431.53,
+      "text": "One gigawatt is 10 billion in revenue."
+    },
+    {
+      "start": 1431.53,
+      "end": 1432.53,
+      "text": "One gigawatt, 10 billion."
+    },
+    {
+      "start": 1432.53,
+      "end": 1433.53,
+      "text": "What does it cost you to build?"
+    },
+    {
+      "start": 1433.53,
+      "end": 1434.53,
+      "text": "What does it cost to build you?"
+    },
+    {
+      "start": 1434.53,
+      "end": 1439.65,
+      "text": "So what are the most exciting profit pools then?"
+    },
+    {
+      "start": 1439.77,
+      "end": 1440.61,
+      "text": "So we got coding."
+    },
+    {
+      "start": 1440.89,
+      "end": 1443.15,
+      "text": "That's been the breakout application over the past year."
+    },
+    {
+      "start": 1443.29,
+      "end": 1443.91,
+      "text": "It's massive."
+    },
+    {
+      "start": 1444.77,
+      "end": 1448.41,
+      "text": "You've got infrastructure, like you said, the new databases."
+    },
+    {
+      "start": 1448.81,
+      "end": 1454.19,
+      "text": "I think cybersecurity is clearly one of them because of the threats and patching cycles are so much more dynamic."
+    },
+    {
+      "start": 1454.71,
+      "end": 1455.83,
+      "text": "There's a slight difference."
+    },
+    {
+      "start": 1456.13,
+      "end": 1463.53,
+      "text": "Yes, as you can see, these models are trying to be the enablers of better cybersecurity, which is good because all of us need to use them to test."
+    },
+    {
+      "start": 1463.53,
+      "end": 1470.33,
+      "text": "you're probably going to see, I mean if you saw, Anthropic has already made their cyber capable"
+    },
+    {
+      "start": 1470.33,
+      "end": 1476.01,
+      "text": "model available generally so that everyone can use it and OpenEye has got one, I'm sure Google has"
+    },
+    {
+      "start": 1476.01,
+      "end": 1480.81,
+      "text": "one too, but they understand this is a place where CISOs or chief security officers want to use it to"
+    },
+    {
+      "start": 1480.81,
+      "end": 1486.65,
+      "text": "test the code. So this is another profit pool. I think we haven't seen the onslaught against the"
+    },
+    {
+      "start": 1486.65,
+      "end": 1491.45,
+      "text": "application software companies yet. I mean there's tens and tens of billions of dollars in application"
+    },
+    {
+      "start": 1491.45,
+      "end": 1495.61,
+      "text": "software which is waiting to get reinvented as we talked about i think eventually you'll see these"
+    },
+    {
+      "start": 1495.61,
+      "end": 1500.09,
+      "text": "people saying what if i took this 40 50 100 billion dollar time down yeah i can build a"
+    },
+    {
+      "start": 1500.09,
+      "end": 1505.85,
+      "text": "whole brand new backbone with the agenda and it'd be so differentiated that it'll cause customers to"
+    },
+    {
+      "start": 1505.85,
+      "end": 1512.09,
+      "text": "move we are seeing it as a playbook in the accelerators now in the year zero and year"
+    },
+    {
+      "start": 1512.09,
+      "end": 1516.49,
+      "text": "one companies people are coming to us with the pitch this is a thousand dollar a seat per year"
+    },
+    {
+      "start": 1516.49,
+      "end": 1520.43,
+      "text": "$500 a month, see SaaS software, we can do it for less."
+    },
+    {
+      "start": 1520.51,
+      "end": 1521.93,
+      "text": "We're going to charge them based on consumption."
+    },
+    {
+      "start": 1522.39,
+      "end": 1527.47,
+      "text": "We're going to take 80%, 90% of the cost out as to what Shabab is doing with 80%, 90%."
+    },
+    {
+      "start": 1527.47,
+      "end": 1532.39,
+      "text": "The two fastest places to make revenue in enterprise are replacement TAMs."
+    },
+    {
+      "start": 1532.43,
+      "end": 1534.91,
+      "text": "If you replace something, I already have a budget, it's easy."
+    },
+    {
+      "start": 1535.09,
+      "end": 1538.39,
+      "text": "I take something bad or replace with something better, I get money."
+    },
+    {
+      "start": 1538.53,
+      "end": 1540.27,
+      "text": "So replacement TAMs are beautiful."
+    },
+    {
+      "start": 1540.27,
+      "end": 1543.79,
+      "text": "If you can replace an industry, replace the profit pool, it's great."
+    },
+    {
+      "start": 1543.79,
+      "end": 1547.33,
+      "text": "The second place is consumer revenue."
+    },
+    {
+      "start": 1547.33,
+      "end": 1550.19,
+      "text": "It's a lot easier to get five bucks per user"
+    },
+    {
+      "start": 1550.19,
+      "end": 1551.03,
+      "text": "on a consumer side."
+    },
+    {
+      "start": 1551.03,
+      "end": 1551.87,
+      "text": "Netflix."
+    },
+    {
+      "start": 1551.87,
+      "end": 1553.43,
+      "text": "So that's where, I mean, look at it."
+    },
+    {
+      "start": 1553.43,
+      "end": 1555.61,
+      "text": "I think we collectively probably pay more"
+    },
+    {
+      "start": 1555.61,
+      "end": 1558.41,
+      "text": "on subscriptions per month than we ever did historically."
+    },
+    {
+      "start": 1558.41,
+      "end": 1560.09,
+      "text": "And you saw your cable bill was high."
+    },
+    {
+      "start": 1560.09,
+      "end": 1560.99,
+      "text": "Yeah."
+    },
+    {
+      "start": 1560.99,
+      "end": 1562.55,
+      "text": "Do you think that you're gonna end up building"
+    },
+    {
+      "start": 1562.55,
+      "end": 1565.75,
+      "text": "more or less hardware in the future, if you have to guess?"
+    },
+    {
+      "start": 1565.75,
+      "end": 1570.75,
+      "text": "Hardware even today is the cheapest way"
+    },
+    {
+      "start": 1570.75,
+      "end": 1575.75,
+      "text": "to manage low latency, high throughput bits."
+    },
+    {
+      "start": 1576.31,
+      "end": 1577.75,
+      "text": "It's really a data center."
+    },
+    {
+      "start": 1577.75,
+      "end": 1578.59,
+      "text": "What's a data center?"
+    },
+    {
+      "start": 1578.59,
+      "end": 1582.07,
+      "text": "It's just managing high throughput, low latency bits."
+    },
+    {
+      "start": 1582.07,
+      "end": 1584.09,
+      "text": "That's why if you look, financial services"
+    },
+    {
+      "start": 1584.09,
+      "end": 1588.15,
+      "text": "is the most reluctant industry to go to the cloud"
+    },
+    {
+      "start": 1588.15,
+      "end": 1589.83,
+      "text": "because you increase latency."
+    },
+    {
+      "start": 1589.83,
+      "end": 1592.11,
+      "text": "If you increase latency, you reduce profit."
+    },
+    {
+      "start": 1592.11,
+      "end": 1593.43,
+      "text": "So if you look at every of your largest"
+    },
+    {
+      "start": 1593.43,
+      "end": 1595.27,
+      "text": "financial services companies, whether it's Goldman"
+    },
+    {
+      "start": 1595.27,
+      "end": 1598.15,
+      "text": "or JPMorgan, Morgan Stanley, or these guys,"
+    },
+    {
+      "start": 1598.15,
+      "end": 1599.51,
+      "text": "they're doing hardware."
+    },
+    {
+      "start": 1599.51,
+      "end": 1603.03,
+      "text": "to get them to run their business in the cloud they can't because they will have higher latency"
+    },
+    {
+      "start": 1603.03,
+      "end": 1609.91,
+      "text": "they will lose money right so hardware is still be made i mean i remember when i used to buy silver"
+    },
+    {
+      "start": 1609.91,
+      "end": 1615.91,
+      "text": "like and i would heard dell was done nobody wanted hardware i think those might be back to like a"
+    },
+    {
+      "start": 1615.91,
+      "end": 1619.11,
+      "text": "three four hundred billion dollar market cap so hardware is still going to be around we're going"
+    },
+    {
+      "start": 1619.11,
+      "end": 1624.31,
+      "text": "to need it's the fastest uh way to move our hardware development cycles changing because of"
+    },
+    {
+      "start": 1624.31,
+      "end": 1630.79,
+      "text": "AI? Are you seeing a lot of generative design, stuff moving in silico that historically was"
+    },
+    {
+      "start": 1630.79,
+      "end": 1634.47,
+      "text": "manual and long cycle? Yeah, but the long pole in the tent is never designed, right?"
+    },
+    {
+      "start": 1635.03,
+      "end": 1642.39,
+      "text": "Long pole in the tent is production. Today, you can't get a box produced because every piece of"
+    },
+    {
+      "start": 1642.39,
+      "end": 1648.15,
+      "text": "hardware componentry is backordered, everything's expensive, and every factory in the world is"
+    },
+    {
+      "start": 1648.15,
+      "end": 1653.51,
+      "text": "backordered because we're trying to build all these GPUs based chip cards for every data center"
+    },
+    {
+      "start": 1653.51,
+      "end": 1658.47,
+      "text": "of the world so you think the us is equipped to fill that supply chain need can we do that here"
+    },
+    {
+      "start": 1659.99,
+      "end": 1665.83,
+      "text": "10 years with a commit with a with a firm top-down commitment well i mean the good news is that"
+    },
+    {
+      "start": 1667.19,
+      "end": 1674.15,
+      "text": "i think the hardware industry is seeing a bonanza of a lifetime and generally when you see a bonanza"
+    },
+    {
+      "start": 1674.15,
+      "end": 1679.03,
+      "text": "of lifetime you can go commit 10 20 50 100 billion and i've seen a ceo on television"
+    },
+    {
+      "start": 1679.03,
+      "end": 1682.13,
+      "text": "committing a $100 billion plan to go build more memory."
+    },
+    {
+      "start": 1682.95,
+      "end": 1683.63,
+      "text": "So that's good."
+    },
+    {
+      "start": 1683.77,
+      "end": 1686.19,
+      "text": "That means they have the money to go put the money in the ground,"
+    },
+    {
+      "start": 1686.47,
+      "end": 1688.51,
+      "text": "literally, to go build these things for the future."
+    },
+    {
+      "start": 1688.65,
+      "end": 1691.09,
+      "text": "So I think that gets us more certain that the..."
+    },
+    {
+      "start": 1691.09,
+      "end": 1694.33,
+      "text": "I think the tax incentive has a lot to do with that,"
+    },
+    {
+      "start": 1694.45,
+      "end": 1697.55,
+      "text": "the accelerated depreciation on the CapEx."
+    },
+    {
+      "start": 1697.97,
+      "end": 1699.79,
+      "text": "You get 100% write-off in the first year, right?"
+    },
+    {
+      "start": 1700.67,
+      "end": 1701.81,
+      "text": "Under the..."
+    },
+    {
+      "start": 1701.81,
+      "end": 1703.59,
+      "text": "Just a final question as we wrap up."
+    },
+    {
+      "start": 1703.67,
+      "end": 1705.17,
+      "text": "You, over the last eight years,"
+    },
+    {
+      "start": 1706.03,
+      "end": 1707.67,
+      "text": "you've grown organically very aggressively,"
+    },
+    {
+      "start": 1707.67,
+      "end": 1709.59,
+      "text": "but you've also been pretty acquisitive."
+    },
+    {
+      "start": 1709.77,
+      "end": 1712.35,
+      "text": "You'll take shots, and they've generally worked."
+    },
+    {
+      "start": 1712.79,
+      "end": 1714.91,
+      "text": "So you have a ton of permission in the market."
+    },
+    {
+      "start": 1715.61,
+      "end": 1717.75,
+      "text": "When you hear what Bill Ackman said"
+    },
+    {
+      "start": 1717.75,
+      "end": 1721.09,
+      "text": "about how there's this kind of overbeaten companies,"
+    },
+    {
+      "start": 1721.17,
+      "end": 1722.35,
+      "text": "there's a few that get celebrated,"
+    },
+    {
+      "start": 1722.65,
+      "end": 1725.07,
+      "text": "that's a ripe pool for you to pick from."
+    },
+    {
+      "start": 1725.63,
+      "end": 1727.33,
+      "text": "But some of that would require you to go"
+    },
+    {
+      "start": 1727.33,
+      "end": 1730.21,
+      "text": "maybe a little horizontally far afield, some would say."
+    },
+    {
+      "start": 1730.97,
+      "end": 1732.19,
+      "text": "How do you maintain the discipline,"
+    },
+    {
+      "start": 1732.29,
+      "end": 1733.65,
+      "text": "or do you see yourself at some point"
+    },
+    {
+      "start": 1733.65,
+      "end": 1736.37,
+      "text": "considering things that are not nearly so much"
+    },
+    {
+      "start": 1736.37,
+      "end": 1737.91,
+      "text": "right down the middle of cyber?"
+    },
+    {
+      "start": 1738.37,
+      "end": 1739.01,
+      "text": "So I'll tell you what,"
+    },
+    {
+      "start": 1739.93,
+      "end": 1741.61,
+      "text": "until about a year and a half ago,"
+    },
+    {
+      "start": 1742.23,
+      "end": 1743.53,
+      "text": "we used to buy product companies"
+    },
+    {
+      "start": 1743.53,
+      "end": 1745.29,
+      "text": "and throw them into our go-to-market engine."
+    },
+    {
+      "start": 1745.97,
+      "end": 1747.63,
+      "text": "We could rewire their back end"
+    },
+    {
+      "start": 1747.63,
+      "end": 1749.51,
+      "text": "so they could work better with our go-to-market engine."
+    },
+    {
+      "start": 1749.65,
+      "end": 1752.35,
+      "text": "So for me, if I'm selling $10 million to a customer,"
+    },
+    {
+      "start": 1752.65,
+      "end": 1754.59,
+      "text": "next time I go to it later, if I can sell them 20,"
+    },
+    {
+      "start": 1754.65,
+      "end": 1755.99,
+      "text": "it's the most efficient way"
+    },
+    {
+      "start": 1755.99,
+      "end": 1758.25,
+      "text": "for me to amortize my go-to-market spend, right?"
+    },
+    {
+      "start": 1758.29,
+      "end": 1759.09,
+      "text": "So that was the model."
+    },
+    {
+      "start": 1759.47,
+      "end": 1761.67,
+      "text": "We played that, we ran that playbook"
+    },
+    {
+      "start": 1761.67,
+      "end": 1763.13,
+      "text": "to not to 150 billion."
+    },
+    {
+      "start": 1763.55,
+      "end": 1764.61,
+      "text": "Then we go to a point where it says,"
+    },
+    {
+      "start": 1764.61,
+      "end": 1768.69,
+      "text": "oh we see an inflection arriving an identity it's going to be important from an agentic perspective"
+    },
+    {
+      "start": 1768.69,
+      "end": 1773.41,
+      "text": "security perspective so you've got a 25 billion dollar company which we closed three months ago"
+    },
+    {
+      "start": 1775.17,
+      "end": 1780.53,
+      "text": "now it's actually a very different opportunity has presented itself and the different opportunity"
+    },
+    {
+      "start": 1780.53,
+      "end": 1787.17,
+      "text": "sort of goes like this if you can be the best at leveraging ai to run the most efficient enterprise"
+    },
+    {
+      "start": 1787.17,
+      "end": 1792.69,
+      "text": "business in the world your operating margin can be far in excess of the industry and if you can if"
+    },
+    {
+      "start": 1792.69,
+      "end": 1797.49,
+      "text": "you crack that code gross and net you're saying gross in the 90s net in the 40s yeah if you can"
+    },
+    {
+      "start": 1797.49,
+      "end": 1802.05,
+      "text": "crack that code then it doesn't matter what you buy yeah i think the problem right now is the"
+    },
+    {
+      "start": 1802.05,
+      "end": 1808.37,
+      "text": "execution problem most sub-scale companies cannot afford to go optimize their company and run it"
+    },
+    {
+      "start": 1808.37,
+      "end": 1813.25,
+      "text": "better so if we can run our company much better than everybody else and have a higher operating"
+    },
+    {
+      "start": 1813.25,
+      "end": 1818.45,
+      "text": "margin then the street will say fine if you take something at a 20 margin make it a your first m"
+    },
+    {
+      "start": 1818.45,
+      "end": 1822.13,
+      "text": "a was really tough no like they were pretty skeptical and then you kind of shoved it in"
+    },
+    {
+      "start": 1822.13,
+      "end": 1824.85,
+      "text": "their face. They're pretty skeptical when they found a guy who didn't know cybersecurity,"
+    },
+    {
+      "start": 1824.85,
+      "end": 1828.13,
+      "text": "didn't know enterprise show up, who worked at Google and they're, you know, the track record"
+    },
+    {
+      "start": 1828.13,
+      "end": 1833.73,
+      "text": "of people leaving Google and being successful out of Google is still varied. So basically you're"
+    },
+    {
+      "start": 1833.73,
+      "end": 1839.73,
+      "text": "saying the menu's open. I think we need the next six to 12 months to figure out how this AI settles"
+    },
+    {
+      "start": 1839.73,
+      "end": 1843.97,
+      "text": "down and how can we use that effectively in enterprises. I think if you think about it,"
+    },
+    {
+      "start": 1844.93,
+      "end": 1850.77,
+      "text": "you know, the people keep hoping that less people we need to run companies, I actually have a"
+    },
+    {
+      "start": 1850.77,
+      "end": 1854.53,
+      "text": "account of you i think we're going to have more people at palo alto on the technology side than"
+    },
+    {
+      "start": 1854.53,
+      "end": 1859.97,
+      "text": "we've ever had before because ai is causing everything to ask for a transformation so i"
+    },
+    {
+      "start": 1859.97,
+      "end": 1865.25,
+      "text": "have more technical people today than i would have had if i didn't exist ladies and gentlemen"
+    },
+    {
+      "start": 1865.25,
+      "end": 1867.09,
+      "text": "See you at Palo Alto Networks, Nikesh Arora."
+    },
+    {
+      "start": 1867.09,
+      "end": 1867.73,
+      "text": "Thank you, guys."
+    },
+    {
+      "start": 1871.49,
+      "end": 1880.77,
+      "text": "Thank you, sir."
+    }
+  ],
+  "analysis": {
+    "summary": "Nikesh Arora, CEO of Palo Alto Networks, joins the All-In Podcast to discuss the impact of AI on cybersecurity, the future of SaaS companies, and the potential for Google to become a $10 trillion company. He shares his experience with Mythos, an AI tool that found vulnerabilities in Palo Alto's codebase in just six weeks. Arora believes analytical SaaS companies are 'over' due to the rise of AI and expects the cost of AI models to decrease.",
+    "takeaways": [
+      {
+        "text": "Mythos found vulnerabilities in Palo Alto's codebase in six weeks, which would have taken 5-7 years to find manually",
+        "timestamp_seconds": 174
+      },
+      {
+        "text": "Nikesh Arora believes analytical SaaS companies are 'over' due to the rise of AI",
+        "timestamp_seconds": 427
+      },
+      {
+        "text": "Nikesh Arora thinks Google can be the first $10 trillion company",
+        "timestamp_seconds": 1300
+      },
+      {
+        "text": "Palo Alto Networks is considering building its own large language model to gain a competitive advantage",
+        "timestamp_seconds": 1120
+      },
+      {
+        "text": "Nikesh Arora expects the next 6-12 months to be crucial for figuring out how AI settles in enterprises",
+        "timestamp_seconds": 1833
+      },
+      {
+        "text": "Palo Alto Networks' market cap has grown from $17 billion to $238 billion in eight years under Nikesh Arora's leadership",
+        "timestamp_seconds": 39
+      },
+      {
+        "text": "Nikesh Arora expects the cost of AI models to decrease, with OpenAI and Anthropi already offering cheaper alternatives",
+        "timestamp_seconds": 242
+      },
+      {
+        "text": "AI will cause a transformation in enterprises, requiring more technical personnel",
+        "timestamp_seconds": 1859
+      }
+    ],
+    "quotes": [
+      {
+        "text": "AI is democratizing intelligence",
+        "speaker": "Nikesh Arora",
+        "timestamp_seconds": 19
+      },
+      {
+        "text": "SaaS is different pieces, right? If you're an analytical SaaS company, it's over",
+        "speaker": "Nikesh Arora",
+        "timestamp_seconds": 426
+      },
+      {
+        "text": "I think Google's underrated",
+        "speaker": "Nikesh Arora",
+        "timestamp_seconds": 1297
+      },
+      {
+        "text": "I think they have all the assets that are needed to make this successful",
+        "speaker": "Nikesh Arora",
+        "timestamp_seconds": 1303
+      },
+      {
+        "text": "The problem is not who wants the US model, the problem is how do you take that model with 20 or 10 false positive and make it 0.01 false positive",
+        "speaker": "Nikesh Arora",
+        "timestamp_seconds": 1191
+      },
+      {
+        "text": "I think we're in a global race",
+        "speaker": "Nikesh Arora",
+        "timestamp_seconds": 1065
+      },
+      {
+        "text": "I have more technical people today",
+        "speaker": "Nikesh Arora",
+        "timestamp_seconds": 1859
+      },
+      {
+        "text": "See you at Palo Alto Networks",
+        "speaker": "Nikesh Arora",
+        "timestamp_seconds": 1865
+      }
+    ],
+    "topics": [
+      "ai",
+      "cybersecurity",
+      "saas",
+      "mythos",
+      "palo-alto-networks",
+      "google",
+      "openai",
+      "anthropic",
+      "ai-transformation",
+      "technical-personnel",
+      "enterprise-changes"
+    ],
+    "guests": [
+      "Nikesh Arora"
+    ],
+    "sentiment": {
+      "overall": "optimistic",
+      "notes": "The overall sentiment of the episode is optimistic, with Nikesh Arora discussing the potential for Google to become a $10 trillion company and the growth of Palo Alto Networks. However, he also acknowledges the challenges posed by AI and the need for companies to adapt."
+    },
+    "notable_moments": [
+      {
+        "timestamp_seconds": 47,
+        "description": "Nikesh Arora discusses the growth of Palo Alto Networks' market cap"
+      },
+      {
+        "timestamp_seconds": 174,
+        "description": "Nikesh Arora shares the results of Mythos' vulnerability scan"
+      },
+      {
+        "timestamp_seconds": 427,
+        "description": "Nikesh Arora declares analytical SaaS companies 'over'"
+      },
+      {
+        "timestamp_seconds": 935,
+        "description": "Discussion on the application ladder and the need for companies to build harnesses and controls around AI models"
+      },
+      {
+        "timestamp_seconds": 1224,
+        "description": "Armchair CEO segment begins, with Nikesh Arora sharing his thoughts on various companies"
+      },
+      {
+        "timestamp_seconds": 1390,
+        "description": "Discussion on OpenAI and its potential for growth"
+      },
+      {
+        "timestamp_seconds": 1703,
+        "description": "Final question on Palo Alto Networks' acquisition strategy and potential for expansion"
+      },
+      {
+        "timestamp_seconds": 1833,
+        "description": "Nikesh Arora discusses the impact of AI on enterprises"
+      },
+      {
+        "timestamp_seconds": 1865,
+        "description": "Nikesh Arora says farewell"
+      }
+    ],
+    "notable_mentions": [
+      "Palo Alto Networks",
+      "Mythos",
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "IBM",
+      "Databricks",
+      "Snowflake",
+      "MongoDB",
+      "Oracle",
+      "Salesforce",
+      "NSA",
+      "Microsoft",
+      "Uber",
+      "Waymo",
+      "SoftBank",
+      "EY",
+      "NYSE",
+      "Plaud"
+    ],
+    "chunk_count": 3,
+    "transcript_truncated": false
+  }
+}

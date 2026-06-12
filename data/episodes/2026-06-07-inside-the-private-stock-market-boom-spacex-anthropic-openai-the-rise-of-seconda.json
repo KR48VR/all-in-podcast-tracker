@@ -1,0 +1,2510 @@
+{
+  "id": "2026-06-07-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-seconda",
+  "number": null,
+  "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
+  "date": "2026-06-07",
+  "url": "https://allinchamathjason.libsyn.com/inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries",
+  "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_MarketsPanel_Ch.mp3?dest-id=1928300",
+  "youtube_url": "",
+  "youtube_video_id": "",
+  "description": "<p>(0:00) Brad Gerstner, Gavin Baker, and Kelly Rodriques join the Besties!</p> <p>(0:47) Secondary Markets are Booming & Competing with IPOs</p> <p>(3:10) Why Companies are Staying Private So Long?</p> <p>(9:22) SPVs, the Forge-Schwab Deal, Democratizing Private Market Access</p> <p>(13:28) Secondary Markets as Exit Liquidity for VCs</p> <p>(27:00) The Private Market Bubble?</p> <p>(32:03) Hottest Secondary Companies Right Now</p> <p dir=\"ltr\">Thanks to our partners for making this possible!</p> <p dir=\"ltr\">EY - Agentic AI is introducing a new investment discipline. As AI shifts to consumption-based models, EY connects spend to enterprise value.</p> <p dir=\"ltr\"><a href=\"https://www.ey.com/en_us/insights/ai/agentic-ai-token-costs?WT.mc_id=3501318&amp;AA.tsrc=sponsorship\"> https://www.ey.com/en_us/insights/ai/agentic-ai-token-costs?WT.mc_id=3501318&amp;AA.tsrc=sponsorship</a></p> <p dir=\"ltr\">NYSE - Thank you to our partner, the New York Stock Exchange - a modern marketplace and exchange for building the future. It all happens at the NYSE.</p> <p dir=\"ltr\"><a href=\"https://www.nyse.com\">https://www.nyse.com</a></p> <p dir=\"ltr\">Plaud - Never miss a moment. Plaud, our official wearable AI note-taking partner at All-In Liquidity Summit, captured every insight.</p> <p dir=\"ltr\"><a href=\"https://www.plaud.ai\">https://www.plaud.ai</a></p> <p>Follow Brad:</p> <p><a href=\"https://x.com/altcap\">https://x.com/altcap</a></p> <p>Follow Gavin:</p> <p><a href=\"https://x.com/GavinSBaker\">https://x.com/GavinSBaker</a></p> <p>Follow Kelly:</p> <p><a href=\"https://www.linkedin.com/in/kelly-rodriques-9b49418\">https://www.linkedin.com/in/kelly-rodriques-9b49418</a></p> <p>Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href=\"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href=\"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href=\"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href=\"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href=\"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href=\"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href=\"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p>",
+  "guests": [],
+  "transcript": " Everybody wants access to these private markets. Right now to discuss all of this is Kelly Rodriguez, the Forge CEO. We see a world where the private market opens up and is accessible to any U.S. and global investor. There's 19 companies in the private market AI basket. These companies have grown on average 300%. Please join us in welcoming Gavin Baker, Managing Partner and CIO of Atreides. The ROI on AI has empirically, factually, unambiguously been positive. Investing is the search for truth. We welcome in Brad Gerstner. It's good to be back with you. You have a program called Invest America. I think we have a historic moment right now to get everybody into the game of capitalism. We have a few slides from Brad to kick this off. You know, let's get going. Like old times, like old times. This panel, I actually was backstage, I said, Gavin, do you know we're talking about secondaries? He's like, what do you mean? And I said, okay. So here, let's just set this up for everybody. The room's full of people who are allocators, people who are looking for distributions. So this is secondary markets over the course of the last decade. This is the amount of money going into VC each year, the amount of money coming out of VC each year. The red line represents the net effect of that. So, Chamath, we're in like five years, right? Where a lot more is going in than is coming out. But the secondary market is at record volume. So this is, you know, I call these companies quasi-public companies. These are these later stage companies. There's buying and selling that's going on every day. Look at that, Jason, relative to the 21 peak. We thought that was crazy. At the end of 21, we're double that now in terms of secondary transactions. This is the amount of employee secondary. So this is people buying into Andral, Anthropic, SpaceX, now represents 31% of all primary venture activity is buying into these secondaries in 2025. Secondaries are now competing with IPOs and acquisitions as the principal way that these guys are exiting. So I thought that was a decent setup to start the conversation this morning, just a level set how important secondaries have become. And then the final one is secondaries over the last couple of years were trading at a discount to market. So if we wanted to sell shares in one of our companies, right, to buyers out there, they were willing to give us 80 cents on the dollar in order for us to get liquid so that we could send DPI back to our LPs. Today it's at 106. So a premium in the market as a q and this doesn't include some of the wild west of spvs that have been unraveled recently people charging 10 load in fees double carry and a lot of gray market off market stuff this is also having a profound impact gavin on employees at these companies that i want to hear about because you've seen it up close and personal with spacex and they have a very orderly process here so why don't we start there what impact is this having on the employees gavin and then on the market how orderly is this and who are the buyers are the buyers the sucker at the table are these family offices high net worth individuals who keep hearing us talk about anthropic or spacex or andrel and they just say i have to own the name and they're not discerning So Gavin, maybe you could start about the impact on the SpaceX employees you saw firsthand, etc. Maybe broadening beyond SpaceX. I do just think if companies are going to be staying private longer, this is absolutely necessary. I think there are a lot of people who are very wealthy on paper, but actually cash poor. and if you're making tremendous sacrifices because you know you work for a company that you really believe in and you're contributing a lot to that company it's hard if you can't buy a nice house for your family it's hard if you can't afford to do nice things especially in your seven eight or nine of working at the company you tell your spouse we're worth 10 million on paper 30 million on paper and you don't own your home yeah or year 15 and so i think this is necessary and important and you know whether it is good or bad i think it is very clear that companies um are going to stay private for longer what's the reason to stay private longer truly i i i don't think there is actually a good reason to stay private longer here here and i completely agree with you too yeah and why is it happening this is founders don't want let's just call it what it is founders don't want to be under a microscope they want to build and enjoy life and have it easier than being on the public market microscoped yeah i think there is a perception that life as a private company is easier and you have more freedom and you can think long term i don't agree with this i always think about um mark zuckerberg's commentary that had he been public so just you know facebook um i won't call it a near-death experience but long ago it's difficult to believe but out of 2010 11 12 facebook did not believe in apps they believed in something called html6 and five five html5 html5 yes you you you you were the actual expert it was the cataclysmic debate and it was me and brett taylor me versus brett i was like apps i want to go build a phone brett was like html5 Zuck picked Brett, spent the next three years unwinding that decision. Absolutely. And Mark Zuckerberg, basically the idea was, you know, the iPhone comes out, and initially there was not a big app ecosystem. And there was a thought that, hey, there's no need for apps, you're just going to use the web browser on your phone, and HTML5 was a way of making websites look mobile native. Dynamic. Yeah, and this seemed like kind of the future to a lot of very smart people, including Google, Facebook, but it was not the future. It was wrong. And what Mark Zuckerberg has said, I think several times in public, is he profoundly believes that had he been a public company, when there was this internal debate between Chamath and Brett. And the detail was actually, I went to Zuckerberg and I said, I need a billion dollars to build this phone. and we are in this moment in 2010 where we can have the third leg of the stool there's android there's iphone neither have really taken off yet and and he's like we don't have a billion and i said but the public markets will give us a billion and he said no but then we went public a year later yeah but that year made all the difference made all the difference and he has said that had i had the constant pressure testing from public market investors there's a dynamic i was i was talking to another CEO here this morning, when you're the CEO of a private company, you are the most special flower to all of your investors. You're as important to your board members, particularly if you're really successful. Maybe as the board members' families or parents, the board members think about you a lot. Once you're public, you're one of thousands of companies, and that's its own dynamic. But the consequence of this is that private investors are often selling to management teams. And at some level, that can mean telling management teams what they need to hear, because you want to be able to keep participating in the rounds. Once a company's public, you can buy or sell as you wish. And this means that investors feel freer to give companies management teams. And Zuckerberg said, had I been public, had I been getting rigorous, detailed questions from really smart public equity investors, I think I would have made the right The second unwritten story of that, which has never been said, he called me. He's like, hey, man, what the fuck is going on over there? And I was like, yeah, I know, because I had just left. And then we wrote a deck. And I walked over to Zach, and I'm like, here's the deck of what you need to do. Do these things. Well, this is a key point, I think, Gavin. When you're private, you do not get clean information as the CEO and the management team, because people want access. And once you give the truth or you ask the hard questions, you might lose access. 100%. The sycophantic nature of private markets is real. Now, an exceptional CEO. Elon. Seeks out negative feedback. He's looking for that. But not many, and actively discards, but not many CEOs maybe are wired that way. By the way, I do think we have to give Brad credit. That was a very good deck. You sit back in 2012. No, because he did a second one. He did the second one. He did the open letter to Zuckerberg at the end of, was that at the end of 22? 22. October 22. What did you call it? Get fit? What was the... Time to get fit. Time to get fit. That was an impact. Those are two very impactful... Okay. So look, you're hearing the bulls on going public, but Kelly, take the red team the other side, because you're on the other side. You built a private business, you sold it to Schwab. So clearly one of the largest financial institutions now is going to ram its way into this market. but then you're seeing a lot of pushback. Anthropic is like, hey, dissolve these SPVs. OpenAI, I think, was saying today now, dissolve these SPVs. Should we dissolve the SPVs? Where are they coming from? And why are you on the right side of history? And have you had to dissolve any of the ones on your marketplace? No, no. Look I think that first of all being a private company CEO for most of my career and then being a public company CEO for three years I recognize the job is incredibly different It's much less fun. Hold on, hold on. What do you mean when you say much less fun? Turning into an investment manager primarily as a public company CEO is a very different job than being a visionary product first first principles business when you become a public company ceo everything changes and i would say in the world we're in now the kind of capital you can raise the kind of capital that was represented in the very last discussion allows you to extend your private life spacex a private company for 24 years but the reality is these spvs that are now emerging because these companies are getting so big is because a market's trying to happen and a company like spacex has done this extraordinarily well they've run essentially liquidity programs for almost a decade because there's so much pent-up interest in both being an investor and getting liquidity for some of the reasons that Gavin was mentioning. So I think what we see now is the next phase of this. This Schwab deal with Forge basically says to the world, this is a real asset class. It's more than just secondaries. We're going to put these companies, the company's equity into fund products, into very well managed regulated SPV structures, because they do serve a purpose in the market yeah but if you're how do you convince elon specifically to give you access to that when he wants to do it himself and he has a team and every six months he runs it himself how do you get access to that what's your pitch to the next elon here's the pitch the pitch is you're going to go from being a private company eventually to a public company what schwab represents is 46 million investors and 12 trillion dollars this will change capital access and the way that you distribute your shares moving from private to public how did that work when you pitched them on that were you sure well i'll tell you we got our first spvs on spacex in 2018 in 2019 were they was he okay with it absolutely totally permissioned and then as we got closer to the ipo we said guess what um we've got 30 million retail investors that would like to have a 50 000 slice of spacex and and he went out publicly and talked about having broad-based distribution at the ipo press the ipo price and schwab was named one of the ipo allocations beautiful i do think this is actually a very effective pitch i think a lot of these ceos they're a little bit ambivalent about you know and i think they understand that maybe the institutions who are investing in these private rounds you know they may represent you know unions they may represent retirement plans but i do think they like the idea of democratizing access and if they're building something that they think is great giving ordinary americans an opportunity to participate i actually think that's a very appealing story to a lot of these ceos because they're capitalists and and they understand the power of equity so brad what is the downside then of because you're part of the go direct movement now bg2 pod officially fifth bestie gavin officially six bestie you got that's gavin that's new news we officially made you six bestie today but does that mean definitively behind brad because that that's the real news i can you're you're standing behind brad you're just giving him that big bear hug right behind him wow yeah so are are you saying i'm the big spoon you're the big spoon now in the in the side draw with the extra spoons but brad it's getting very weird very quick in all seriousness with great power comes great responsibility sometimes the you know the enthusiasm people can have can exceed reality right going direct you've become more measured i've noticed as your profile has gone up i think all of us have to like just make sure people don't blindly follow trades don't yeah i mean you were talking stuff down on cnbc a couple of times saying hey i don't think the average american needs to be in some of these companies there's time i get worried i get worried at this point in the market stage particularly on cnbc where you're talking to retail investors at home yes i was one of those retail guys looking up to everybody on this stage trusting everybody on this stage and when people are telling you to yolo into right double fee structure spvs and all this you know like it's time to be careful to do your work to be thoughtful we're in this because we want this to be durable democratization for a long time yeah we want to build trust among those who feel left out and left behind in capitalism we all think that we need to go public sooner the reason And I think it is destabilizing when you're creating trillions of dollars in private value and 80% of America think it's a scam where they're left out and left behind. And then they come rushing in and they could be playing not so good cards. Right. So all I'm saying, like I said about, they asked the question on CNBC last week, if you had $100,000 of fresh capital and you were sitting at home, is today the day that you would shove it all into the market? And I said, no, I think about it in sizes, right? We just had two of the biggest months in the last 10 years in the public markets. They've been big months. So if I had a stack of 100, I may put 30 to work today. I'm never going to pick the bottom. I'm never going to pick the top, but I certainly wouldn't be putting it all to work. And I'd say the same thing about late stage privates, people who are YOLOing into this stuff, and then they feel really disappointed. They're like, hold on a second. And I bought the SpaceX IPO and it didn't go up 3x. Let me ask you then. Yeah. Do you view this as exit liquidity for you? Like, would you shape your portfolio in returns and increasingly say, you know what? I don't know when this guy's going to go public. Yes. Let me just pump the stuff out. Let me get the distribution. Let me send it to my LPs and just call it a day. We are selling into this. You're selling into this. Right. So I have LPs in this room who say, listen, we invested in your VC5 or VC6 seven or eight years ago. If you can go sell a slice of that at four or five X and we get DPI and it's priced really high, then go sell some of it. And we often don't talk about this in venture land. Half of what we do is in the public markets. Gavin and I get up every morning and we think to ourselves, should we buy today or should we sell today? Venture capitalists don't think about the sell part. They think about the buy part. So if we're going to stay private for longer and we're going to have trillion dollar private companies and Databricks at $200 billion, you've got to think about is today a day we should be selling some and returning it to our investors? But doesn't it create though, as what Jason said, these very complicated personality dynamics where maybe you get shut out of a new company. Maybe you get shut out of an incremental round and there's bad blood because you're a credible investor and there's the signaling risk. Whereas in the privates, if you and Gavin decide to sell, nobody knows. Well, no. In the privates- Sorry, in the publics, nobody knows. Exactly. In the publics, they don't know until our 13F comes out. But in the private market, it, it's always a conversation between me and the founder to say, listen, we're going to sell 30% of our position. They never like it, Chamath. They're always like, we wish you wouldn't do that. They don't want it known, et cetera. But my job as a fiduciary to the LPs in this room is to do that. It does feel, Gavin, like we have crossed over for early stage venture to a point in which there is a third way either your company had m&a and we saw in the presentation yesterday that during the wrath of lena khan there was no m&a and they just froze the market now it's coming back ipos we did have some freezing of that market for certain periods but this third way is now fantastic i can tell you as the earliest of the early we are now pari persu selling into every chance we get because our average investment is at 10 to 20 million dollar valuations when they hit 500 million i tell the founder you're going to start selling at 500 million i'm going to sell right alongside you so that i can invest in the next you coming into the market everybody's fine with it i but i can tell you six or seven years ago when i did this with a company they begged me to not participate when they hit peak zerp 2021 they begged me jay cow you have to be loyal to us you can't sell pari parsu and i said you guys are clearing 40 million of the 110 million dollar round i'm just asking to be next to you same amount can i ask kelly a question how do you systematize this so that it's like an exchange so like if we just want to hit the bid we can do it like what i don't like about the secondary markets is you know i ask my cfo he calls five guys then my fund cfo she calls like four you know it's like ticket brokers yes we get a bunch of bids none of it makes any sense and I'm like, and I already dealing with this Brad said the agita from the CEO it gotta be easier than this Yes Yeah Look 10 years ago we said there needs to be infrastructure to pull this off This can't just be a big shadow market. We're sort of in this tipping point now where we spent the last three years building this brand new platform so that a company could plug into it the same way they could list on an exchange and say, we're going to offer liquidity. And furthermore, if a vc and you're on that cap structure for 10 years and you want to offer lp liquidity you can do it in a way specific what do you mean you're like we would be plugging into schwab's 30 million humans that are buying stuff yes there's a platform we brought a a platform with about three million investors and now we're going to add 46 million investors to them yeah but wait hold on a second aren't those are those accredited investors who do they need to be because so today the chair of the sec on so today if you are trading individual shares whether it's in an spv or direct on a cap table you're accredited however there are products coming to market we can talk about this in detail later that have 60 companies including spacex that are listed products for unaccredited 500 minimums and that capital for those funds will be the underlying closed end funds these are interval funds. I think Naval just did US VC as one of these. He's going to contribute. Now, the closed-end funds are a very different bet because you're betting on FOMO. Because if you look at the underlying value of some of the assets in those closed-end funds, they have no bearing to reality of what those underlying shares are actually worth. So price discovery is another key component of this structural shift. But to answer your question specifically if a vc's lps want to recycle or want to get liquid then a platform like this will allow them to recycle that capital and put it back into the next vintage fund if they want i have a i have a question for you based on this when these returns come out the mean return in venture is going to look incredible the median return is still going to be shit So walk us through how people will sort through that and the reality of what's going to happen in the next year. Well, so I think there's two very important things. One, I observe if you were a venture firm and you do not have material exposure to one of these trillion-dollar-plus companies that you had many, many chances to buy into, you're not only your returns not going to be good but you're not going to have dpi on a relative basis but you're not going to have dpi and you know there's exceptions you know our you know you know great series a firms they may not have this but their returns are still amazing with great dpi but and so i am beginning to see venture firms who don't have exposure to one of these companies behave in strange ways because i think they're starting to feel a little bit of franchise risk because their dpi and their returns are going to go from you know hey top quintile top tertile tercel so they're doing unnatural they're doing unnatural things they're writing what i see as call options like a bunch of these you know neo labs well i need a story i've done something and maybe some of these call options pay off but i do think they're engaging at some level and maybe they're chasing it they're chasing gambling terms whereas the people who have exposure to this like are being a lot more disciplined because they know they're in in a great position i think another very important dynamic is going to happen in the world of long-only mutual funds and crossover funds so long-only mutual funds uh you know my former employer fidelity amazing place love it. Bailey Gifford, Capital Research, Wellington, T. Rowe, they all can, per SEC rules, allocate up to 15% of their funds into privates. And these are the biggest pools of capital in the world. They dwarf sovereign wealth funds. But most firms, because they don't want to get in trouble with the SEC, they say, hey, we're going to cap it at 3% or 5% or 7%. It was very public. Bailey Gifford was forced to sell SpaceX last year for regulatory reasons. And what's going to happen has these companies go public. All of these long-only mutual funds are by and large finding it hard to participate in private markets right now because they're at the limits of their self-imposed 3%, 5%. When a company goes public and lockup expires, it moves out of that bucket. nice so this is going to be hundreds of billions of dollars of new late stage demand that is coming back to the market after kind of being out out of the market for a while that's a lot of dry powder there's a lot of dry powder the next trade is up then the the marginal trade is is the founders are going to be in the catbird seat people are going to be looking to put money to work interesting buzz going around about accreditation rules we had the head of the SEC on all ends interview show we did it and they're gonna have a sophisticated investor test something I've been talking about it for a long time that would really democratize the way invest America has access and then funds I've been getting pitch for years on oh put your fund on blockchain or or sell your fund into this ETF. Maybe you could talk a little, Kelly, about the possibilities around venture funds being more tradable like secondaries are. Is that on your roadmap? Obviously there's demand for it. What would that, because I can tell you what that would do for my LPs, Brad Chamath's LPs and previous funds. If you could come in and out of these funds the way you can come in and out of Anthropic, my Lord, that could be just incredible for folks who, I don't know, they have a divorce, they have a life event, you know, just a little more fluidity. So there's been secondary fund trading for a long time. I think blockchain and tokenization makes it more efficient. That world will come. But the question we're asking ourselves now is, if you're an LP in a fund that's holding something as valuable as this, are you really interested in trading your fund position or do you just want to get out of that big winner that name um and our view is it's probably the latter um and in some cases funds will come to us and say we've got a vintage fund that has two companies in it that are 15 years old and we can't clear that fund. And so that's an application of liquidity to the market that we think is coming to the market. Are you worried at all over this next year about this idea of retail being exit liquidity for these three ginormous companies? Is there any risk? How do you bucket the risk? How do you manage the risk? What is the risk? If something were to happen, what's the blowback? I was talking with Brad about this yesterday. We're watching these valuations and these multiples. We had this conversation at dinner last night and saying, wow, these are extraordinary and people should come into this market. Extraordinary is a coded word for elevating. Okay, fine. It's a bubble, call it what it is. You're saying you think they're high, the valuations are high. I think the retail investor coming into this space needs to look down market and look at interesting opportunities that aren't the things that are on cnbc every day and have access to them earlier and we had a bunch of retail investors show up in 2018 and 2019 that wanted to be in spacex and they're and they're thrilled that they got in when the valuation was 30 billion yeah um and i think if the market opens up that's what we'll be talking about what what's what do i want to get into now that's not you know at the very very top of the market getting ready to go also Also, Brad and Gavin, we're getting better, shout out to Gurley, we're getting better at pricing these IPOs and not leaving money on the table. They're fully valued in most cases when they go public, yeah? Or in some cases, maybe- No, they're still mispriced. They're massively mispriced. Well, no, we have seen some that have gone down after they go out. Nothing good that anybody wants. I mean, listen- Well, anyway, what do you guys think? Are we closer to correctly pricing them? I mean, Gavin and I have been doing this 25 years. There are moments that the public market is undervalued relative to privates and moments where privates are undervalued relative to public. Right now, everything in the world of technology is pretty fully valued, right? Like, you can't have the parabolic moves we've had and think that everything is cheap. That's not to say that we're not going to go higher. But when you've been punched in the face as many times as all of us have over the last 15 years in technology, we know it's a jagged line up and to the right. So for the retail investors, so long as they have staying power. So if you're going to launch a product, as long as the retail investor can stay in that product through the drawdown, they're going to do fine. The problem is most of them YOLO at the top because everybody gets them all jimmied up and excited. And so they're levering up, they're doing 2X levered memory trades and all this shit that Gavin and I are watching, there are 14 ETFs launching on the day of the SpaceX IPO They levered ETFs into SpaceX at like whatever 1 trillion So this just tells me that there a lot of signal We may not be at the top but we ain at the bottom We're bouncing along the top might be a fair description, Gavin. You know, you got to allocate accordingly. And that's what active management is about. If we do not, if we're not thinking about that, when people are puking into their garbage cans at the start of iran war and the market is down gavin and i are looking at each other and saying good god these anthropic revenues are off the charts we got to get more dollars at risk shove more onto the table in both anthropic and public market stocks but then 75 days later it's all changed right now have you guys ever been in a market cycle where these moves are just so concentrated in time where Where you take like a year or two's worth of moves and you compress it into 30 days? 60 days? I mean, this is nothing relative to 99 and 2000. Nothing. This is nothing relative to that. Like, I mean, describe it. Sometimes I wake up. What was 99, 2000 like in terms of like, if this is a roller coaster, what was that? Yeah. And what was that? I mean, I don't, you know, this is like a, this is a roller coaster that's like kind of a gentle sine wave. Yes, fun. 99 was Vegas on a Friday night after way too many drugs. Yes. Okay. Like it was out of control nuts. CMGI had no revenue and the stock went from $2 to $2,000 over the course of six months. Quite a big deal. They buy Foxborough Stadium. They're on the cover of Time Magazine and they're out of business two years later. Right? Like that is very different than Anthropic, OpenAI and SpaceX. these are extraordinarily real businesses so i think the better compare is like 2021 yeah right where valuations get ahead of themselves or they're at the top end of the range we could have a normal run-of-the-mill consolidation in the public markets in the semi index of 10 or 20 which means high beta would be down 30 to 40 percent and a lot of people who just got in would be panicking right but the people have been in for six months or three years would would would notice that that's just a blip so i don't think it's at all like okay i have a question for the three of you four yeah final question final question take the top 10 names private companies off okay forget those you can't pick those give me a sub you know in the tens of billions a few hundred billion private company that you could buy today a secondary and that you do not own that you would would want to own? I'll start with you, Brad, just go around the horn. Something you don't own, but if you had the chance to buy secondary, you would. I mean, I take a company, you know, in that what I call inflection growth, Jamash, so these are companies, the thousand companies that are over 3 billion, but let's call it sub 50 billion. I think it's the trickiest area of the investing landscape because they're the beneficiaries of high valuations, yet they still have binary risk. Right. Right. Like Anthropic Open AI, SpaceX. I don't think these companies have binary risk, but there are a lot in, you know, in that bucket that do. And so, I mean, we own most of the ones I want to own. I can't give you one. If I want to own it, I generally own it. It's a hard question. How about the last one? I'll give you one. I'd say like Sierra, Brett Taylor's company. What do they do? So they're building basically Salesforce agent native. Got it. So sales, marketing, customer service agents that are agent native. I'll give you the downside and the upside. We also own a company called Parlo in the same space in Europe that I think is really interesting. Downside, OpenAI and Anthropix say, we're going to do this. And all of a sudden, it eviscerates their hundreds of millions of dollars in revenue. the upside on on these businesses is that they actually have already built very sophisticated agentic layers and that all these guys meta Google SpaceX come along and say we want to buy you because we want to accelerate our path into a job I'll give you the name that I was convinced of today yesterday but by Thomas the font which was Revolut you know I had always the kind of like I had some early explain what they Jack like I own some coinbase I own some Robin Hood we did all of that stuff it was fine kind of ignored fintech and thomas backstage gave me an incredibly we were together an incredibly compelling pitch for revolut and and i and i actually went and i was like okay show me what the revolut share price is in these secondary markets i got kind of curious maybe i should pick up some that so that that would be what does revolut do it's a bank and what's interesting is it's a neo bank that has a completely next generation stack kind of what brad said is like that theme of you rebuild it in the modern era and you unbundle the incumbent that that has a lot of legs and in a regulated market that has a ton of legs and so you know they're doing really well in europe they're coming to the united states the founder seems to be just an absolute star tens of millions of customers 14 lines of business they're like a billion dollars i like that i i have gavin do you have shareholders that you've bought recently no i would just say um well you know two names that um we've been involved in publicly as leading are ARIA and DriveNets, and they're both in the networking space. And basically, as data centers get more specialized and complicated, you're going to have increasingly specialized chips. It's called the disaggregation of inference and pre-fill and decode. And to make all of these chips work together like a symphony and have the kind of the right chip for the right job at the right time, I do think we need to reinvent networking. And ARIA and DriveNets are coming at the problem in a very different way. And if you're an AI lab, you've been one of the earliest. I'll give you credit. I think that you framed this on one on a podcast that I saw, which is there is an impending super cycle in infra networking, silicon. You've really been at the front end. I buy into it completely now, too. I really it's really it's really good. It's really I have any names. Neuro robotics in Europe. Neuro robotics is a company name. Yes. And what are they? AI-powered logistics robotics. Love it. They're not in the main strip of high-value real estate in Silicon Valley. They're in Germany. Quiet company, big investors, 100 million revenue, kicking ass. Love it. Jason, names? I have a couple of thesis that I've been looking at. One is, what is Elon helping put into space as the price goes down? And so we did direct on the cap table an SPV for VAST, which is building space stations, and we think they're going to win. The other one is what I'll just call Uber 2.0. You know, Gurley and I took a lot of notes on that, Brad, as well. And so we were able to do Zipline, and we put a small ticket size into Zipline as well. Because if you can take the delivery cost down from $15 to $5 and then eventually $2, that's going to just drive consumption massively, and it's going to happen in the air. and these actual drones had such a false start that everybody gave up on the entire sector and now it works and it was just a very simple innovation that keller told me which was it's the drone stays up in the air and drops a tether with the box in your burrito if you grab the tether and you pull it it just comes down you don't have to land like this giant robot in your backyard with blade spinning to kill your dog well i think there's actually a very important like on zipline it's an amazing it has done great things for the world um so my atreides is also involved in zipline but zipline started so the hard thing is to make anything autonomous work you need to get it out into the world and gathering real world data this is how ai works and it's hard to get approval to fly things around um autonomously in american airspace so keller had the idea of we're going to go to African countries and we are going to, you know, if we're going to help or deliver medicines to these small villages and they focused on maternity and they have cut the maternal mortality rate in some of these African countries by 90 to 95 percent. So you're in a small village, there's a one midwife, there's an app, a woman goes into labor, they press a button and, you know, an hour later a zipline drone drops a refrigerated package of modern medicine and blood and everything that was needed he did it for seven years and it's had a huge impact on health outcomes in these african countries and now it's come to america i this is an incredible story and i've basically now reconstructed my firm to do the barbell i missed the seed investment i turned him down because i was like we don't invest on that continent we don't have any insight into it we don't understand it and hardware is hard and he has the email whatever and i've stayed in touch with him and he said listen i figured it out and i said hey you know i have the syndicate let me see if i can correct that mistake may i invest he said i you're my dream investor i've wanted you on this whole time and it's just so important uh no no we've been friends for all this time and i you know i've had him on the pod three times and he said when are you going to be on the cap table and i said you know what i learning from you guys specifically this late I'm like, well, I can do that. And here we are. And on that note, yes, let's wrap up. Yes. Well done guys. Thank you so much. Thank you, Kelly. Thank you, Brad. Thank you.",
+  "transcript_segments": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "Everybody wants access to these private markets."
+    },
+    {
+      "start": 2.46,
+      "end": 6.54,
+      "text": "Right now to discuss all of this is Kelly Rodriguez, the Forge CEO."
+    },
+    {
+      "start": 6.66,
+      "end": 13.2,
+      "text": "We see a world where the private market opens up and is accessible to any U.S. and global investor."
+    },
+    {
+      "start": 13.38,
+      "end": 16.78,
+      "text": "There's 19 companies in the private market AI basket."
+    },
+    {
+      "start": 17.24,
+      "end": 19.9,
+      "text": "These companies have grown on average 300%."
+    },
+    {
+      "start": 19.9,
+      "end": 24.18,
+      "text": "Please join us in welcoming Gavin Baker, Managing Partner and CIO of Atreides."
+    },
+    {
+      "start": 24.18,
+      "end": 31.16,
+      "text": "The ROI on AI has empirically, factually, unambiguously been positive."
+    },
+    {
+      "start": 31.66,
+      "end": 33.3,
+      "text": "Investing is the search for truth."
+    },
+    {
+      "start": 33.46,
+      "end": 36.06,
+      "text": "We welcome in Brad Gerstner. It's good to be back with you."
+    },
+    {
+      "start": 36.2,
+      "end": 37.98,
+      "text": "You have a program called Invest America."
+    },
+    {
+      "start": 38.2,
+      "end": 44.1,
+      "text": "I think we have a historic moment right now to get everybody into the game of capitalism."
+    },
+    {
+      "start": 46.46,
+      "end": 49.26,
+      "text": "We have a few slides from Brad to kick this off."
+    },
+    {
+      "start": 49.96,
+      "end": 51.74,
+      "text": "You know, let's get going."
+    },
+    {
+      "start": 51.74,
+      "end": 53.92,
+      "text": "Like old times, like old times."
+    },
+    {
+      "start": 54.18,
+      "end": 57.24,
+      "text": "This panel, I actually was backstage, I said,"
+    },
+    {
+      "start": 57.3,
+      "end": 58.82,
+      "text": "Gavin, do you know we're talking about secondaries?"
+    },
+    {
+      "start": 59.34,
+      "end": 60.54,
+      "text": "He's like, what do you mean?"
+    },
+    {
+      "start": 61.48,
+      "end": 62.18,
+      "text": "And I said, okay."
+    },
+    {
+      "start": 62.8,
+      "end": 64.52,
+      "text": "So here, let's just set this up for everybody."
+    },
+    {
+      "start": 64.6,
+      "end": 66.34,
+      "text": "The room's full of people who are allocators,"
+    },
+    {
+      "start": 66.74,
+      "end": 68.0,
+      "text": "people who are looking for distributions."
+    },
+    {
+      "start": 68.66,
+      "end": 72.94,
+      "text": "So this is secondary markets over the course of the last decade."
+    },
+    {
+      "start": 73.42,
+      "end": 75.94,
+      "text": "This is the amount of money going into VC each year,"
+    },
+    {
+      "start": 76.02,
+      "end": 77.9,
+      "text": "the amount of money coming out of VC each year."
+    },
+    {
+      "start": 78.14,
+      "end": 80.66,
+      "text": "The red line represents the net effect of that."
+    },
+    {
+      "start": 80.66,
+      "end": 83.78,
+      "text": "So, Chamath, we're in like five years, right?"
+    },
+    {
+      "start": 83.78,
+      "end": 85.56,
+      "text": "Where a lot more is going in than is coming out."
+    },
+    {
+      "start": 85.94,
+      "end": 88.86,
+      "text": "But the secondary market is at record volume."
+    },
+    {
+      "start": 89.46,
+      "end": 93.02,
+      "text": "So this is, you know, I call these companies quasi-public companies."
+    },
+    {
+      "start": 93.14,
+      "end": 94.76,
+      "text": "These are these later stage companies."
+    },
+    {
+      "start": 95.24,
+      "end": 97.68,
+      "text": "There's buying and selling that's going on every day."
+    },
+    {
+      "start": 97.76,
+      "end": 100.54,
+      "text": "Look at that, Jason, relative to the 21 peak."
+    },
+    {
+      "start": 100.74,
+      "end": 101.96,
+      "text": "We thought that was crazy."
+    },
+    {
+      "start": 102.34,
+      "end": 106.24,
+      "text": "At the end of 21, we're double that now in terms of secondary transactions."
+    },
+    {
+      "start": 107.04,
+      "end": 108.86,
+      "text": "This is the amount of employee secondary."
+    },
+    {
+      "start": 108.86,
+      "end": 116.82,
+      "text": "So this is people buying into Andral, Anthropic, SpaceX, now represents 31% of all primary"
+    },
+    {
+      "start": 116.82,
+      "end": 121.02,
+      "text": "venture activity is buying into these secondaries in 2025."
+    },
+    {
+      "start": 122.36,
+      "end": 129.08,
+      "text": "Secondaries are now competing with IPOs and acquisitions as the principal way that these"
+    },
+    {
+      "start": 129.08,
+      "end": 129.88,
+      "text": "guys are exiting."
+    },
+    {
+      "start": 130.08,
+      "end": 136.22,
+      "text": "So I thought that was a decent setup to start the conversation this morning, just a level"
+    },
+    {
+      "start": 136.22,
+      "end": 141.72,
+      "text": "set how important secondaries have become. And then the final one is secondaries over the last"
+    },
+    {
+      "start": 141.72,
+      "end": 146.72,
+      "text": "couple of years were trading at a discount to market. So if we wanted to sell shares in one"
+    },
+    {
+      "start": 146.72,
+      "end": 151.32,
+      "text": "of our companies, right, to buyers out there, they were willing to give us 80 cents on the dollar in"
+    },
+    {
+      "start": 151.32,
+      "end": 158.94,
+      "text": "order for us to get liquid so that we could send DPI back to our LPs. Today it's at 106. So a"
+    },
+    {
+      "start": 158.94,
+      "end": 166.14,
+      "text": "premium in the market as a q and this doesn't include some of the wild west of spvs that have"
+    },
+    {
+      "start": 166.14,
+      "end": 175.26,
+      "text": "been unraveled recently people charging 10 load in fees double carry and a lot of gray market off"
+    },
+    {
+      "start": 175.26,
+      "end": 182.14,
+      "text": "market stuff this is also having a profound impact gavin on employees at these companies that i want"
+    },
+    {
+      "start": 182.14,
+      "end": 186.94,
+      "text": "to hear about because you've seen it up close and personal with spacex and they have a very orderly"
+    },
+    {
+      "start": 186.94,
+      "end": 193.82,
+      "text": "process here so why don't we start there what impact is this having on the employees gavin and"
+    },
+    {
+      "start": 193.82,
+      "end": 202.3,
+      "text": "then on the market how orderly is this and who are the buyers are the buyers the sucker at the table"
+    },
+    {
+      "start": 202.3,
+      "end": 206.86,
+      "text": "are these family offices high net worth individuals who keep hearing us talk about"
+    },
+    {
+      "start": 206.86,
+      "end": 212.38,
+      "text": "anthropic or spacex or andrel and they just say i have to own the name and they're not discerning"
+    },
+    {
+      "start": 212.38,
+      "end": 217.62,
+      "text": "So Gavin, maybe you could start about the impact on the SpaceX employees you saw firsthand, etc."
+    },
+    {
+      "start": 218.14,
+      "end": 220.44,
+      "text": "Maybe broadening beyond SpaceX."
+    },
+    {
+      "start": 220.88,
+      "end": 226.82,
+      "text": "I do just think if companies are going to be staying private longer, this is absolutely necessary."
+    },
+    {
+      "start": 227.72,
+      "end": 234.56,
+      "text": "I think there are a lot of people who are very wealthy on paper, but actually cash poor."
+    },
+    {
+      "start": 234.56,
+      "end": 241.88,
+      "text": "and if you're making tremendous sacrifices because you know you work for a company that you really"
+    },
+    {
+      "start": 241.88,
+      "end": 248.36,
+      "text": "believe in and you're contributing a lot to that company it's hard if you can't buy a nice house"
+    },
+    {
+      "start": 248.36,
+      "end": 253.98,
+      "text": "for your family it's hard if you can't afford to do nice things especially in your seven eight or"
+    },
+    {
+      "start": 253.98,
+      "end": 258.3,
+      "text": "nine of working at the company you tell your spouse we're worth 10 million on paper 30 million"
+    },
+    {
+      "start": 258.3,
+      "end": 265.18,
+      "text": "on paper and you don't own your home yeah or year 15 and so i think this is necessary and important"
+    },
+    {
+      "start": 265.18,
+      "end": 270.78,
+      "text": "and you know whether it is good or bad i think it is very clear that companies um are going to stay"
+    },
+    {
+      "start": 270.78,
+      "end": 279.5,
+      "text": "private for longer what's the reason to stay private longer truly i i i don't think there is"
+    },
+    {
+      "start": 279.5,
+      "end": 285.18,
+      "text": "actually a good reason to stay private longer here here and i completely agree with you too yeah and"
+    },
+    {
+      "start": 285.18,
+      "end": 290.3,
+      "text": "why is it happening this is founders don't want let's just call it what it is founders don't want"
+    },
+    {
+      "start": 290.3,
+      "end": 295.02,
+      "text": "to be under a microscope they want to build and enjoy life and have it easier than being on the"
+    },
+    {
+      "start": 295.02,
+      "end": 299.82,
+      "text": "public market microscoped yeah i think there is a perception that life as a private company is"
+    },
+    {
+      "start": 299.82,
+      "end": 305.5,
+      "text": "easier and you have more freedom and you can think long term i don't agree with this i always think"
+    },
+    {
+      "start": 305.5,
+      "end": 314.7,
+      "text": "about um mark zuckerberg's commentary that had he been public so just you know facebook um i won't"
+    },
+    {
+      "start": 314.7,
+      "end": 321.18,
+      "text": "call it a near-death experience but long ago it's difficult to believe but out of 2010 11 12"
+    },
+    {
+      "start": 322.38,
+      "end": 331.26,
+      "text": "facebook did not believe in apps they believed in something called html6 and five five html5 html5"
+    },
+    {
+      "start": 331.26,
+      "end": 336.22,
+      "text": "yes you you you you were the actual expert it was the cataclysmic debate and it was me and"
+    },
+    {
+      "start": 336.22,
+      "end": 341.42,
+      "text": "brett taylor me versus brett i was like apps i want to go build a phone brett was like html5"
+    },
+    {
+      "start": 341.42,
+      "end": 345.58,
+      "text": "Zuck picked Brett, spent the next three years unwinding that decision."
+    },
+    {
+      "start": 345.88,
+      "end": 346.32,
+      "text": "Absolutely."
+    },
+    {
+      "start": 346.68,
+      "end": 352.08,
+      "text": "And Mark Zuckerberg, basically the idea was, you know, the iPhone comes out, and initially"
+    },
+    {
+      "start": 352.08,
+      "end": 354.56,
+      "text": "there was not a big app ecosystem."
+    },
+    {
+      "start": 355.3,
+      "end": 358.96,
+      "text": "And there was a thought that, hey, there's no need for apps, you're just going to use"
+    },
+    {
+      "start": 358.96,
+      "end": 367.42,
+      "text": "the web browser on your phone, and HTML5 was a way of making websites look mobile native."
+    },
+    {
+      "start": 367.58,
+      "end": 368.02,
+      "text": "Dynamic."
+    },
+    {
+      "start": 368.02,
+      "end": 375.22,
+      "text": "Yeah, and this seemed like kind of the future to a lot of very smart people, including Google, Facebook, but it was not the future."
+    },
+    {
+      "start": 375.98,
+      "end": 376.86,
+      "text": "It was wrong."
+    },
+    {
+      "start": 377.38,
+      "end": 389.86,
+      "text": "And what Mark Zuckerberg has said, I think several times in public, is he profoundly believes that had he been a public company, when there was this internal debate between Chamath and Brett."
+    },
+    {
+      "start": 389.86,
+      "end": 394.24,
+      "text": "And the detail was actually, I went to Zuckerberg and I said, I need a billion dollars to build this phone."
+    },
+    {
+      "start": 394.24,
+      "end": 399.96,
+      "text": "and we are in this moment in 2010 where we can have the third leg of the stool there's android"
+    },
+    {
+      "start": 399.96,
+      "end": 406.08,
+      "text": "there's iphone neither have really taken off yet and and he's like we don't have a billion and i"
+    },
+    {
+      "start": 406.08,
+      "end": 412.5,
+      "text": "said but the public markets will give us a billion and he said no but then we went public a year"
+    },
+    {
+      "start": 412.5,
+      "end": 417.48,
+      "text": "later yeah but that year made all the difference made all the difference and he has said that had"
+    },
+    {
+      "start": 417.48,
+      "end": 424.04,
+      "text": "i had the constant pressure testing from public market investors there's a dynamic i was i was"
+    },
+    {
+      "start": 424.04,
+      "end": 427.86,
+      "text": "talking to another CEO here this morning, when you're the CEO of a private company,"
+    },
+    {
+      "start": 428.48,
+      "end": 434.78,
+      "text": "you are the most special flower to all of your investors. You're as important to your board"
+    },
+    {
+      "start": 434.78,
+      "end": 440.48,
+      "text": "members, particularly if you're really successful. Maybe as the board members' families or parents,"
+    },
+    {
+      "start": 440.48,
+      "end": 447.48,
+      "text": "the board members think about you a lot. Once you're public, you're one of thousands of companies,"
+    },
+    {
+      "start": 448.1,
+      "end": 453.52,
+      "text": "and that's its own dynamic. But the consequence of this is that private investors are often"
+    },
+    {
+      "start": 453.52,
+      "end": 459.0,
+      "text": "selling to management teams. And at some level, that can mean telling management teams what they"
+    },
+    {
+      "start": 459.0,
+      "end": 463.68,
+      "text": "need to hear, because you want to be able to keep participating in the rounds. Once a company's"
+    },
+    {
+      "start": 463.68,
+      "end": 469.14,
+      "text": "public, you can buy or sell as you wish. And this means that investors feel freer to give companies"
+    },
+    {
+      "start": 469.14,
+      "end": 475.54,
+      "text": "management teams. And Zuckerberg said, had I been public, had I been getting rigorous, detailed"
+    },
+    {
+      "start": 475.54,
+      "end": 481.32,
+      "text": "questions from really smart public equity investors, I think I would have made the right"
+    },
+    {
+      "start": 481.32,
+      "end": 485.66,
+      "text": "The second unwritten story of that, which has never been said, he called me."
+    },
+    {
+      "start": 485.98,
+      "end": 488.26,
+      "text": "He's like, hey, man, what the fuck is going on over there?"
+    },
+    {
+      "start": 489.04,
+      "end": 491.78,
+      "text": "And I was like, yeah, I know, because I had just left."
+    },
+    {
+      "start": 492.2,
+      "end": 493.78,
+      "text": "And then we wrote a deck."
+    },
+    {
+      "start": 495.0,
+      "end": 498.96,
+      "text": "And I walked over to Zach, and I'm like, here's the deck of what you need to do."
+    },
+    {
+      "start": 499.44,
+      "end": 500.72,
+      "text": "Do these things."
+    },
+    {
+      "start": 500.72,
+      "end": 503.32,
+      "text": "Well, this is a key point, I think, Gavin."
+    },
+    {
+      "start": 503.94,
+      "end": 509.98,
+      "text": "When you're private, you do not get clean information as the CEO and the management team,"
+    },
+    {
+      "start": 509.98,
+      "end": 511.74,
+      "text": "because people want access."
+    },
+    {
+      "start": 512.24,
+      "end": 513.7,
+      "text": "And once you give the truth"
+    },
+    {
+      "start": 513.7,
+      "end": 514.92,
+      "text": "or you ask the hard questions,"
+    },
+    {
+      "start": 514.92,
+      "end": 516.3,
+      "text": "you might lose access."
+    },
+    {
+      "start": 516.76,
+      "end": 517.2,
+      "text": "100%."
+    },
+    {
+      "start": 517.2,
+      "end": 519.86,
+      "text": "The sycophantic nature of private markets is real."
+    },
+    {
+      "start": 520.04,
+      "end": 521.62,
+      "text": "Now, an exceptional CEO."
+    },
+    {
+      "start": 522.06,
+      "end": 522.4,
+      "text": "Elon."
+    },
+    {
+      "start": 524.0,
+      "end": 526.06,
+      "text": "Seeks out negative feedback."
+    },
+    {
+      "start": 526.36,
+      "end": 526.98,
+      "text": "He's looking for that."
+    },
+    {
+      "start": 527.08,
+      "end": 529.82,
+      "text": "But not many, and actively discards,"
+    },
+    {
+      "start": 530.18,
+      "end": 533.14,
+      "text": "but not many CEOs maybe are wired that way."
+    },
+    {
+      "start": 533.24,
+      "end": 534.88,
+      "text": "By the way, I do think we have to give Brad credit."
+    },
+    {
+      "start": 535.12,
+      "end": 536.48,
+      "text": "That was a very good deck."
+    },
+    {
+      "start": 536.54,
+      "end": 537.7,
+      "text": "You sit back in 2012."
+    },
+    {
+      "start": 538.18,
+      "end": 539.34,
+      "text": "No, because he did a second one."
+    },
+    {
+      "start": 539.34,
+      "end": 544.88,
+      "text": "He did the second one. He did the open letter to Zuckerberg at the end of, was that at the end of 22?"
+    },
+    {
+      "start": 545.36,
+      "end": 546.94,
+      "text": "22. October 22."
+    },
+    {
+      "start": 547.04,
+      "end": 549.12,
+      "text": "What did you call it? Get fit? What was the..."
+    },
+    {
+      "start": 549.12,
+      "end": 550.16,
+      "text": "Time to get fit."
+    },
+    {
+      "start": 550.24,
+      "end": 553.58,
+      "text": "Time to get fit. That was an impact. Those are two very impactful..."
+    },
+    {
+      "start": 553.58,
+      "end": 566.32,
+      "text": "Okay. So look, you're hearing the bulls on going public, but Kelly, take the red team the other side, because you're on the other side. You built a private business, you sold it to Schwab. So clearly one of the largest financial institutions now is going to ram its way into this market."
+    },
+    {
+      "start": 566.32,
+      "end": 568.68,
+      "text": "but then you're seeing a lot of pushback."
+    },
+    {
+      "start": 569.5,
+      "end": 572.68,
+      "text": "Anthropic is like, hey, dissolve these SPVs."
+    },
+    {
+      "start": 573.1,
+      "end": 576.76,
+      "text": "OpenAI, I think, was saying today now, dissolve these SPVs."
+    },
+    {
+      "start": 578.9,
+      "end": 580.56,
+      "text": "Should we dissolve the SPVs?"
+    },
+    {
+      "start": 580.62,
+      "end": 581.96,
+      "text": "Where are they coming from?"
+    },
+    {
+      "start": 582.52,
+      "end": 585.5,
+      "text": "And why are you on the right side of history?"
+    },
+    {
+      "start": 585.66,
+      "end": 588.58,
+      "text": "And have you had to dissolve any of the ones on your marketplace?"
+    },
+    {
+      "start": 589.18,
+      "end": 589.42,
+      "text": "No, no."
+    },
+    {
+      "start": 589.86,
+      "end": 602.56,
+      "text": "Look I think that first of all being a private company CEO for most of my career and then being a public company CEO for three years I recognize the job is incredibly different"
+    },
+    {
+      "start": 603.3,
+      "end": 604.4,
+      "text": "It's much less fun."
+    },
+    {
+      "start": 605.74,
+      "end": 606.56,
+      "text": "Hold on, hold on."
+    },
+    {
+      "start": 606.64,
+      "end": 608.56,
+      "text": "What do you mean when you say much less fun?"
+    },
+    {
+      "start": 609.22,
+      "end": 616.92,
+      "text": "Turning into an investment manager primarily as a public company CEO is a very different"
+    },
+    {
+      "start": 616.92,
+      "end": 626.28,
+      "text": "job than being a visionary product first first principles business when you become a public"
+    },
+    {
+      "start": 626.28,
+      "end": 633.64,
+      "text": "company ceo everything changes and i would say in the world we're in now the kind of capital you can"
+    },
+    {
+      "start": 633.64,
+      "end": 639.16,
+      "text": "raise the kind of capital that was represented in the very last discussion allows you to extend your"
+    },
+    {
+      "start": 639.16,
+      "end": 647.8,
+      "text": "private life spacex a private company for 24 years but the reality is these spvs that are now"
+    },
+    {
+      "start": 647.8,
+      "end": 653.08,
+      "text": "emerging because these companies are getting so big is because a market's trying to happen"
+    },
+    {
+      "start": 654.44,
+      "end": 661.08,
+      "text": "and a company like spacex has done this extraordinarily well they've run essentially"
+    },
+    {
+      "start": 661.08,
+      "end": 669.0,
+      "text": "liquidity programs for almost a decade because there's so much pent-up interest in both being"
+    },
+    {
+      "start": 669.0,
+      "end": 674.36,
+      "text": "an investor and getting liquidity for some of the reasons that Gavin was mentioning. So I think what"
+    },
+    {
+      "start": 674.36,
+      "end": 681.08,
+      "text": "we see now is the next phase of this. This Schwab deal with Forge basically says to the world,"
+    },
+    {
+      "start": 681.72,
+      "end": 689.0,
+      "text": "this is a real asset class. It's more than just secondaries. We're going to put these companies,"
+    },
+    {
+      "start": 689.0,
+      "end": 697.8,
+      "text": "the company's equity into fund products, into very well managed regulated SPV structures,"
+    },
+    {
+      "start": 697.8,
+      "end": 704.6,
+      "text": "because they do serve a purpose in the market yeah but if you're how do you convince elon specifically"
+    },
+    {
+      "start": 704.6,
+      "end": 710.04,
+      "text": "to give you access to that when he wants to do it himself and he has a team and every six months he"
+    },
+    {
+      "start": 710.04,
+      "end": 714.52,
+      "text": "runs it himself how do you get access to that what's your pitch to the next elon here's the"
+    },
+    {
+      "start": 714.52,
+      "end": 720.68,
+      "text": "pitch the pitch is you're going to go from being a private company eventually to a public company"
+    },
+    {
+      "start": 721.64,
+      "end": 728.92,
+      "text": "what schwab represents is 46 million investors and 12 trillion dollars this will change capital"
+    },
+    {
+      "start": 728.92,
+      "end": 736.44,
+      "text": "access and the way that you distribute your shares moving from private to public how did that work"
+    },
+    {
+      "start": 736.44,
+      "end": 742.44,
+      "text": "when you pitched them on that were you sure well i'll tell you we got our first spvs on spacex in"
+    },
+    {
+      "start": 742.44,
+      "end": 749.48,
+      "text": "2018 in 2019 were they was he okay with it absolutely totally permissioned and then as we"
+    },
+    {
+      "start": 749.48,
+      "end": 755.72,
+      "text": "got closer to the ipo we said guess what um we've got 30 million retail investors"
+    },
+    {
+      "start": 756.6,
+      "end": 764.68,
+      "text": "that would like to have a 50 000 slice of spacex and and he went out publicly and talked about"
+    },
+    {
+      "start": 764.68,
+      "end": 771.4,
+      "text": "having broad-based distribution at the ipo press the ipo price and schwab was named one of the ipo"
+    },
+    {
+      "start": 771.4,
+      "end": 777.24,
+      "text": "allocations beautiful i do think this is actually a very effective pitch i think a lot of these ceos"
+    },
+    {
+      "start": 777.8,
+      "end": 781.72,
+      "text": "they're a little bit ambivalent about you know and i think they understand that maybe the"
+    },
+    {
+      "start": 781.72,
+      "end": 786.68,
+      "text": "institutions who are investing in these private rounds you know they may represent you know unions"
+    },
+    {
+      "start": 786.68,
+      "end": 792.52,
+      "text": "they may represent retirement plans but i do think they like the idea of democratizing access"
+    },
+    {
+      "start": 793.4,
+      "end": 799.56,
+      "text": "and if they're building something that they think is great giving ordinary americans an opportunity"
+    },
+    {
+      "start": 799.56,
+      "end": 804.28,
+      "text": "to participate i actually think that's a very appealing story to a lot of these ceos because"
+    },
+    {
+      "start": 804.28,
+      "end": 810.68,
+      "text": "they're capitalists and and they understand the power of equity so brad what is the downside then"
+    },
+    {
+      "start": 811.32,
+      "end": 817.08,
+      "text": "of because you're part of the go direct movement now bg2 pod officially fifth bestie gavin"
+    },
+    {
+      "start": 817.08,
+      "end": 822.44,
+      "text": "officially six bestie you got that's gavin that's new news we officially made you six bestie today"
+    },
+    {
+      "start": 822.44,
+      "end": 827.4,
+      "text": "but does that mean definitively behind brad because that that's the real news i can you're"
+    },
+    {
+      "start": 827.4,
+      "end": 833.16,
+      "text": "you're standing behind brad you're just giving him that big bear hug right behind him wow yeah so are"
+    },
+    {
+      "start": 833.16,
+      "end": 838.36,
+      "text": "are you saying i'm the big spoon you're the big spoon now in the in the side draw with the extra"
+    },
+    {
+      "start": 838.36,
+      "end": 846.12,
+      "text": "spoons but brad it's getting very weird very quick in all seriousness with great power comes great"
+    },
+    {
+      "start": 846.12,
+      "end": 855.56,
+      "text": "responsibility sometimes the you know the enthusiasm people can have can exceed reality"
+    },
+    {
+      "start": 855.56,
+      "end": 862.84,
+      "text": "right going direct you've become more measured i've noticed as your profile has gone up i think"
+    },
+    {
+      "start": 862.84,
+      "end": 869.16,
+      "text": "all of us have to like just make sure people don't blindly follow trades don't yeah i mean you were"
+    },
+    {
+      "start": 869.16,
+      "end": 875.32,
+      "text": "talking stuff down on cnbc a couple of times saying hey i don't think the average american"
+    },
+    {
+      "start": 875.32,
+      "end": 881.24,
+      "text": "needs to be in some of these companies there's time i get worried i get worried at this point"
+    },
+    {
+      "start": 881.24,
+      "end": 885.96,
+      "text": "in the market stage particularly on cnbc where you're talking to retail investors at home yes"
+    },
+    {
+      "start": 885.96,
+      "end": 891.08,
+      "text": "i was one of those retail guys looking up to everybody on this stage trusting everybody on"
+    },
+    {
+      "start": 891.08,
+      "end": 897.64,
+      "text": "this stage and when people are telling you to yolo into right double fee structure spvs and all this"
+    },
+    {
+      "start": 897.64,
+      "end": 903.24,
+      "text": "you know like it's time to be careful to do your work to be thoughtful we're in this because we"
+    },
+    {
+      "start": 903.24,
+      "end": 910.36,
+      "text": "want this to be durable democratization for a long time yeah we want to build trust among those who"
+    },
+    {
+      "start": 910.36,
+      "end": 916.84,
+      "text": "feel left out and left behind in capitalism we all think that we need to go public sooner the reason"
+    },
+    {
+      "start": 916.84,
+      "end": 923.84,
+      "text": "And I think it is destabilizing when you're creating trillions of dollars in private value"
+    },
+    {
+      "start": 923.84,
+      "end": 929.46,
+      "text": "and 80% of America think it's a scam where they're left out and left behind."
+    },
+    {
+      "start": 930.08,
+      "end": 935.32,
+      "text": "And then they come rushing in and they could be playing not so good cards."
+    },
+    {
+      "start": 935.32,
+      "end": 935.56,
+      "text": "Right."
+    },
+    {
+      "start": 935.66,
+      "end": 940.36,
+      "text": "So all I'm saying, like I said about, they asked the question on CNBC last week,"
+    },
+    {
+      "start": 940.36,
+      "end": 944.24,
+      "text": "if you had $100,000 of fresh capital and you were sitting at home,"
+    },
+    {
+      "start": 944.24,
+      "end": 947.06,
+      "text": "is today the day that you would shove it all into the market?"
+    },
+    {
+      "start": 947.18,
+      "end": 950.28,
+      "text": "And I said, no, I think about it in sizes, right?"
+    },
+    {
+      "start": 950.92,
+      "end": 952.66,
+      "text": "We just had two of the biggest months"
+    },
+    {
+      "start": 952.66,
+      "end": 955.28,
+      "text": "in the last 10 years in the public markets."
+    },
+    {
+      "start": 955.68,
+      "end": 956.6,
+      "text": "They've been big months."
+    },
+    {
+      "start": 956.68,
+      "end": 959.9,
+      "text": "So if I had a stack of 100, I may put 30 to work today."
+    },
+    {
+      "start": 960.2,
+      "end": 962.1,
+      "text": "I'm never going to pick the bottom."
+    },
+    {
+      "start": 962.24,
+      "end": 963.4,
+      "text": "I'm never going to pick the top,"
+    },
+    {
+      "start": 963.46,
+      "end": 965.78,
+      "text": "but I certainly wouldn't be putting it all to work."
+    },
+    {
+      "start": 965.8,
+      "end": 968.32,
+      "text": "And I'd say the same thing about late stage privates,"
+    },
+    {
+      "start": 968.78,
+      "end": 970.8,
+      "text": "people who are YOLOing into this stuff,"
+    },
+    {
+      "start": 970.9,
+      "end": 972.74,
+      "text": "and then they feel really disappointed."
+    },
+    {
+      "start": 972.74,
+      "end": 973.84,
+      "text": "They're like, hold on a second."
+    },
+    {
+      "start": 973.84,
+      "end": 977.26,
+      "text": "And I bought the SpaceX IPO and it didn't go up 3x."
+    },
+    {
+      "start": 977.38,
+      "end": 978.08,
+      "text": "Let me ask you then."
+    },
+    {
+      "start": 978.14,
+      "end": 978.3,
+      "text": "Yeah."
+    },
+    {
+      "start": 978.92,
+      "end": 981.42,
+      "text": "Do you view this as exit liquidity for you?"
+    },
+    {
+      "start": 981.64,
+      "end": 985.5,
+      "text": "Like, would you shape your portfolio in returns and increasingly say, you know what?"
+    },
+    {
+      "start": 985.74,
+      "end": 987.62,
+      "text": "I don't know when this guy's going to go public."
+    },
+    {
+      "start": 987.76,
+      "end": 988.02,
+      "text": "Yes."
+    },
+    {
+      "start": 988.34,
+      "end": 989.66,
+      "text": "Let me just pump the stuff out."
+    },
+    {
+      "start": 989.76,
+      "end": 990.66,
+      "text": "Let me get the distribution."
+    },
+    {
+      "start": 990.82,
+      "end": 993.18,
+      "text": "Let me send it to my LPs and just call it a day."
+    },
+    {
+      "start": 993.56,
+      "end": 995.74,
+      "text": "We are selling into this."
+    },
+    {
+      "start": 995.88,
+      "end": 996.7,
+      "text": "You're selling into this."
+    },
+    {
+      "start": 996.76,
+      "end": 996.92,
+      "text": "Right."
+    },
+    {
+      "start": 996.92,
+      "end": 1004.4,
+      "text": "So I have LPs in this room who say, listen, we invested in your VC5 or VC6 seven or eight years"
+    },
+    {
+      "start": 1004.4,
+      "end": 1013.56,
+      "text": "ago. If you can go sell a slice of that at four or five X and we get DPI and it's priced really high,"
+    },
+    {
+      "start": 1013.7,
+      "end": 1019.48,
+      "text": "then go sell some of it. And we often don't talk about this in venture land. Half of what we do is"
+    },
+    {
+      "start": 1019.48,
+      "end": 1023.56,
+      "text": "in the public markets. Gavin and I get up every morning and we think to ourselves, should we buy"
+    },
+    {
+      "start": 1023.56,
+      "end": 1030.04,
+      "text": "today or should we sell today? Venture capitalists don't think about the sell part. They think about"
+    },
+    {
+      "start": 1030.04,
+      "end": 1036.2,
+      "text": "the buy part. So if we're going to stay private for longer and we're going to have trillion dollar"
+    },
+    {
+      "start": 1036.2,
+      "end": 1042.9,
+      "text": "private companies and Databricks at $200 billion, you've got to think about is today a day we should"
+    },
+    {
+      "start": 1042.9,
+      "end": 1049.22,
+      "text": "be selling some and returning it to our investors? But doesn't it create though, as what Jason said,"
+    },
+    {
+      "start": 1049.22,
+      "end": 1055.66,
+      "text": "these very complicated personality dynamics where maybe you get shut out of a new company. Maybe you"
+    },
+    {
+      "start": 1055.66,
+      "end": 1061.1,
+      "text": "get shut out of an incremental round and there's bad blood because you're a credible investor and"
+    },
+    {
+      "start": 1061.1,
+      "end": 1064.98,
+      "text": "there's the signaling risk. Whereas in the privates, if you and Gavin decide to sell,"
+    },
+    {
+      "start": 1065.22,
+      "end": 1070.16,
+      "text": "nobody knows. Well, no. In the privates- Sorry, in the publics, nobody knows."
+    },
+    {
+      "start": 1070.16,
+      "end": 1075.64,
+      "text": "Exactly. In the publics, they don't know until our 13F comes out. But in the private market,"
+    },
+    {
+      "start": 1075.64,
+      "end": 1082.54,
+      "text": "it, it's always a conversation between me and the founder to say, listen, we're going to sell 30%"
+    },
+    {
+      "start": 1082.54,
+      "end": 1086.82,
+      "text": "of our position. They never like it, Chamath. They're always like, we wish you wouldn't do that."
+    },
+    {
+      "start": 1087.14,
+      "end": 1094.14,
+      "text": "They don't want it known, et cetera. But my job as a fiduciary to the LPs in this room is to do that."
+    },
+    {
+      "start": 1094.14,
+      "end": 1100.48,
+      "text": "It does feel, Gavin, like we have crossed over for early stage venture to a point in which"
+    },
+    {
+      "start": 1100.48,
+      "end": 1106.74,
+      "text": "there is a third way either your company had m&a and we saw in the presentation yesterday"
+    },
+    {
+      "start": 1106.74,
+      "end": 1112.66,
+      "text": "that during the wrath of lena khan there was no m&a and they just froze the market now it's coming"
+    },
+    {
+      "start": 1112.66,
+      "end": 1120.0,
+      "text": "back ipos we did have some freezing of that market for certain periods but this third way is now"
+    },
+    {
+      "start": 1120.0,
+      "end": 1127.44,
+      "text": "fantastic i can tell you as the earliest of the early we are now pari persu selling into"
+    },
+    {
+      "start": 1127.44,
+      "end": 1132.76,
+      "text": "every chance we get because our average investment is at 10 to 20 million dollar valuations when they"
+    },
+    {
+      "start": 1132.76,
+      "end": 1137.2,
+      "text": "hit 500 million i tell the founder you're going to start selling at 500 million i'm going to sell"
+    },
+    {
+      "start": 1137.2,
+      "end": 1142.44,
+      "text": "right alongside you so that i can invest in the next you coming into the market everybody's fine"
+    },
+    {
+      "start": 1142.44,
+      "end": 1147.86,
+      "text": "with it i but i can tell you six or seven years ago when i did this with a company they begged me"
+    },
+    {
+      "start": 1147.86,
+      "end": 1154.34,
+      "text": "to not participate when they hit peak zerp 2021 they begged me jay cow you have to be loyal to"
+    },
+    {
+      "start": 1154.34,
+      "end": 1160.26,
+      "text": "us you can't sell pari parsu and i said you guys are clearing 40 million of the 110 million dollar"
+    },
+    {
+      "start": 1160.26,
+      "end": 1165.78,
+      "text": "round i'm just asking to be next to you same amount can i ask kelly a question how do you"
+    },
+    {
+      "start": 1165.78,
+      "end": 1169.74,
+      "text": "systematize this so that it's like an exchange so like if we just want to hit the bid we can do it"
+    },
+    {
+      "start": 1169.74,
+      "end": 1176.08,
+      "text": "like what i don't like about the secondary markets is you know i ask my cfo he calls five guys then"
+    },
+    {
+      "start": 1176.08,
+      "end": 1181.2,
+      "text": "my fund cfo she calls like four you know it's like ticket brokers yes we get a bunch of bids none of"
+    },
+    {
+      "start": 1181.2,
+      "end": 1182.44,
+      "text": "it makes any sense and I'm like,"
+    },
+    {
+      "start": 1182.44,
+      "end": 1194.67,
+      "text": "and I already dealing with this Brad said the agita from the CEO it gotta be easier than this Yes Yeah Look 10 years ago we said there needs to be infrastructure to pull this off"
+    },
+    {
+      "start": 1195.11,
+      "end": 1201.57,
+      "text": "This can't just be a big shadow market. We're sort of in this tipping point now where we spent the"
+    },
+    {
+      "start": 1201.57,
+      "end": 1207.37,
+      "text": "last three years building this brand new platform so that a company could plug into it the same way"
+    },
+    {
+      "start": 1207.37,
+      "end": 1211.89,
+      "text": "they could list on an exchange and say, we're going to offer liquidity. And furthermore, if"
+    },
+    {
+      "start": 1211.89,
+      "end": 1217.89,
+      "text": "a vc and you're on that cap structure for 10 years and you want to offer lp liquidity you can do it"
+    },
+    {
+      "start": 1217.89,
+      "end": 1225.25,
+      "text": "in a way specific what do you mean you're like we would be plugging into schwab's 30 million humans"
+    },
+    {
+      "start": 1225.25,
+      "end": 1230.13,
+      "text": "that are buying stuff yes there's a platform we brought a a platform with about three million"
+    },
+    {
+      "start": 1230.13,
+      "end": 1233.81,
+      "text": "investors and now we're going to add 46 million investors to them yeah but wait hold on a second"
+    },
+    {
+      "start": 1233.81,
+      "end": 1239.17,
+      "text": "aren't those are those accredited investors who do they need to be because so today the chair of the"
+    },
+    {
+      "start": 1239.17,
+      "end": 1245.33,
+      "text": "sec on so today if you are trading individual shares whether it's in an spv or direct on a"
+    },
+    {
+      "start": 1245.33,
+      "end": 1251.97,
+      "text": "cap table you're accredited however there are products coming to market we can talk about this"
+    },
+    {
+      "start": 1251.97,
+      "end": 1260.77,
+      "text": "in detail later that have 60 companies including spacex that are listed products for unaccredited"
+    },
+    {
+      "start": 1260.77,
+      "end": 1267.41,
+      "text": "500 minimums and that capital for those funds will be the underlying closed end funds these are"
+    },
+    {
+      "start": 1267.41,
+      "end": 1275.33,
+      "text": "interval funds. I think Naval just did US VC as one of these. He's going to contribute."
+    },
+    {
+      "start": 1275.63,
+      "end": 1281.53,
+      "text": "Now, the closed-end funds are a very different bet because you're betting on FOMO. Because if"
+    },
+    {
+      "start": 1281.53,
+      "end": 1284.85,
+      "text": "you look at the underlying value of some of the assets in those closed-end funds,"
+    },
+    {
+      "start": 1285.25,
+      "end": 1288.93,
+      "text": "they have no bearing to reality of what those underlying shares are actually worth."
+    },
+    {
+      "start": 1289.31,
+      "end": 1293.73,
+      "text": "So price discovery is another key component of this structural shift. But to answer your"
+    },
+    {
+      "start": 1293.73,
+      "end": 1301.65,
+      "text": "question specifically if a vc's lps want to recycle or want to get liquid then a platform"
+    },
+    {
+      "start": 1301.65,
+      "end": 1308.25,
+      "text": "like this will allow them to recycle that capital and put it back into the next vintage fund if they"
+    },
+    {
+      "start": 1308.25,
+      "end": 1314.93,
+      "text": "want i have a i have a question for you based on this when these returns come out the mean"
+    },
+    {
+      "start": 1314.93,
+      "end": 1321.09,
+      "text": "return in venture is going to look incredible the median return is still going to be shit"
+    },
+    {
+      "start": 1321.09,
+      "end": 1328.37,
+      "text": "So walk us through how people will sort through that and the reality of what's going to happen in the next year."
+    },
+    {
+      "start": 1328.37,
+      "end": 1331.43,
+      "text": "Well, so I think there's two very important things."
+    },
+    {
+      "start": 1331.71,
+      "end": 1346.31,
+      "text": "One, I observe if you were a venture firm and you do not have material exposure to one of these trillion-dollar-plus companies that you had many, many chances to buy into,"
+    },
+    {
+      "start": 1346.31,
+      "end": 1352.31,
+      "text": "you're not only your returns not going to be good but you're not going to have dpi on a relative"
+    },
+    {
+      "start": 1352.31,
+      "end": 1355.99,
+      "text": "basis but you're not going to have dpi and you know there's exceptions you know our you know"
+    },
+    {
+      "start": 1355.99,
+      "end": 1360.43,
+      "text": "you know great series a firms they may not have this but their returns are still amazing with"
+    },
+    {
+      "start": 1360.43,
+      "end": 1368.17,
+      "text": "great dpi but and so i am beginning to see venture firms who don't have exposure to one of these"
+    },
+    {
+      "start": 1368.17,
+      "end": 1374.01,
+      "text": "companies behave in strange ways because i think they're starting to feel a little bit of franchise"
+    },
+    {
+      "start": 1374.01,
+      "end": 1382.09,
+      "text": "risk because their dpi and their returns are going to go from you know hey top quintile top tertile"
+    },
+    {
+      "start": 1382.09,
+      "end": 1387.65,
+      "text": "tercel so they're doing unnatural they're doing unnatural things they're writing what i see as"
+    },
+    {
+      "start": 1387.65,
+      "end": 1394.57,
+      "text": "call options like a bunch of these you know neo labs well i need a story i've done something and"
+    },
+    {
+      "start": 1394.57,
+      "end": 1401.09,
+      "text": "maybe some of these call options pay off but i do think they're engaging at some level and maybe"
+    },
+    {
+      "start": 1401.09,
+      "end": 1406.67,
+      "text": "they're chasing it they're chasing gambling terms whereas the people who have exposure to this"
+    },
+    {
+      "start": 1406.67,
+      "end": 1411.01,
+      "text": "like are being a lot more disciplined because they know they're in in a great position i think"
+    },
+    {
+      "start": 1411.01,
+      "end": 1415.43,
+      "text": "another very important dynamic is going to happen in the world of long-only mutual funds and"
+    },
+    {
+      "start": 1415.43,
+      "end": 1422.03,
+      "text": "crossover funds so long-only mutual funds uh you know my former employer fidelity amazing place"
+    },
+    {
+      "start": 1422.03,
+      "end": 1431.09,
+      "text": "love it. Bailey Gifford, Capital Research, Wellington, T. Rowe, they all can, per SEC rules,"
+    },
+    {
+      "start": 1431.31,
+      "end": 1436.73,
+      "text": "allocate up to 15% of their funds into privates. And these are the biggest pools of capital in the"
+    },
+    {
+      "start": 1436.73,
+      "end": 1441.97,
+      "text": "world. They dwarf sovereign wealth funds. But most firms, because they don't want to get in"
+    },
+    {
+      "start": 1441.97,
+      "end": 1447.31,
+      "text": "trouble with the SEC, they say, hey, we're going to cap it at 3% or 5% or 7%. It was very public."
+    },
+    {
+      "start": 1447.31,
+      "end": 1456.43,
+      "text": "Bailey Gifford was forced to sell SpaceX last year for regulatory reasons. And what's going to happen"
+    },
+    {
+      "start": 1456.43,
+      "end": 1463.13,
+      "text": "has these companies go public. All of these long-only mutual funds are by and large finding"
+    },
+    {
+      "start": 1463.13,
+      "end": 1468.53,
+      "text": "it hard to participate in private markets right now because they're at the limits of their"
+    },
+    {
+      "start": 1468.53,
+      "end": 1475.75,
+      "text": "self-imposed 3%, 5%. When a company goes public and lockup expires, it moves out of that bucket."
+    },
+    {
+      "start": 1475.75,
+      "end": 1484.87,
+      "text": "nice so this is going to be hundreds of billions of dollars of new late stage demand that is coming"
+    },
+    {
+      "start": 1484.87,
+      "end": 1489.75,
+      "text": "back to the market after kind of being out out of the market for a while that's a lot of dry powder"
+    },
+    {
+      "start": 1489.75,
+      "end": 1495.51,
+      "text": "there's a lot of dry powder the next trade is up then the the marginal trade is is the founders"
+    },
+    {
+      "start": 1495.51,
+      "end": 1498.71,
+      "text": "are going to be in the catbird seat people are going to be looking to put money to work"
+    },
+    {
+      "start": 1498.71,
+      "end": 1504.65,
+      "text": "interesting buzz going around about accreditation rules we had the head of"
+    },
+    {
+      "start": 1504.65,
+      "end": 1508.95,
+      "text": "the SEC on all ends interview show we did it and they're gonna have a"
+    },
+    {
+      "start": 1508.95,
+      "end": 1511.85,
+      "text": "sophisticated investor test something I've been talking about it for a long"
+    },
+    {
+      "start": 1511.85,
+      "end": 1519.21,
+      "text": "time that would really democratize the way invest America has access and then"
+    },
+    {
+      "start": 1519.21,
+      "end": 1524.39,
+      "text": "funds I've been getting pitch for years on oh put your fund on blockchain or"
+    },
+    {
+      "start": 1524.39,
+      "end": 1526.65,
+      "text": "or sell your fund into this ETF."
+    },
+    {
+      "start": 1526.65,
+      "end": 1527.69,
+      "text": "Maybe you could talk a little, Kelly,"
+    },
+    {
+      "start": 1527.69,
+      "end": 1532.21,
+      "text": "about the possibilities around venture funds"
+    },
+    {
+      "start": 1532.21,
+      "end": 1535.47,
+      "text": "being more tradable like secondaries are."
+    },
+    {
+      "start": 1535.47,
+      "end": 1536.91,
+      "text": "Is that on your roadmap?"
+    },
+    {
+      "start": 1536.91,
+      "end": 1539.29,
+      "text": "Obviously there's demand for it."
+    },
+    {
+      "start": 1539.29,
+      "end": 1540.13,
+      "text": "What would that,"
+    },
+    {
+      "start": 1540.13,
+      "end": 1543.85,
+      "text": "because I can tell you what that would do for my LPs,"
+    },
+    {
+      "start": 1543.85,
+      "end": 1546.41,
+      "text": "Brad Chamath's LPs and previous funds."
+    },
+    {
+      "start": 1546.41,
+      "end": 1549.15,
+      "text": "If you could come in and out of these funds"
+    },
+    {
+      "start": 1549.15,
+      "end": 1551.67,
+      "text": "the way you can come in and out of Anthropic,"
+    },
+    {
+      "start": 1551.67,
+      "end": 1556.89,
+      "text": "my Lord, that could be just incredible for folks who, I don't know, they have a divorce,"
+    },
+    {
+      "start": 1556.99,
+      "end": 1560.43,
+      "text": "they have a life event, you know, just a little more fluidity."
+    },
+    {
+      "start": 1561.21,
+      "end": 1568.61,
+      "text": "So there's been secondary fund trading for a long time. I think blockchain and tokenization"
+    },
+    {
+      "start": 1568.61,
+      "end": 1574.13,
+      "text": "makes it more efficient. That world will come. But the question we're asking ourselves now is,"
+    },
+    {
+      "start": 1574.79,
+      "end": 1581.65,
+      "text": "if you're an LP in a fund that's holding something as valuable as this, are you really"
+    },
+    {
+      "start": 1581.65,
+      "end": 1587.17,
+      "text": "interested in trading your fund position or do you just want to get out of that big winner that name"
+    },
+    {
+      "start": 1588.05,
+      "end": 1597.25,
+      "text": "um and our view is it's probably the latter um and in some cases funds will come to us and say"
+    },
+    {
+      "start": 1597.89,
+      "end": 1604.61,
+      "text": "we've got a vintage fund that has two companies in it that are 15 years old and we can't clear"
+    },
+    {
+      "start": 1604.61,
+      "end": 1611.03,
+      "text": "that fund. And so that's an application of liquidity to the market that we think"
+    },
+    {
+      "start": 1611.03,
+      "end": 1618.45,
+      "text": "is coming to the market. Are you worried at all over this next year about this idea of retail"
+    },
+    {
+      "start": 1618.45,
+      "end": 1624.51,
+      "text": "being exit liquidity for these three ginormous companies? Is there any risk? How do you bucket"
+    },
+    {
+      "start": 1624.51,
+      "end": 1628.53,
+      "text": "the risk? How do you manage the risk? What is the risk? If something were to happen,"
+    },
+    {
+      "start": 1628.61,
+      "end": 1633.01,
+      "text": "what's the blowback? I was talking with Brad about this yesterday. We're watching these"
+    },
+    {
+      "start": 1633.01,
+      "end": 1637.69,
+      "text": "valuations and these multiples. We had this conversation at dinner last night and saying,"
+    },
+    {
+      "start": 1638.01,
+      "end": 1642.93,
+      "text": "wow, these are extraordinary and people should come into this market."
+    },
+    {
+      "start": 1643.55,
+      "end": 1647.23,
+      "text": "Extraordinary is a coded word for elevating."
+    },
+    {
+      "start": 1647.65,
+      "end": 1648.65,
+      "text": "Okay, fine."
+    },
+    {
+      "start": 1649.61,
+      "end": 1651.39,
+      "text": "It's a bubble, call it what it is."
+    },
+    {
+      "start": 1651.41,
+      "end": 1653.45,
+      "text": "You're saying you think they're high, the valuations are high."
+    },
+    {
+      "start": 1653.45,
+      "end": 1659.09,
+      "text": "I think the retail investor coming into this space needs to look down market and look at"
+    },
+    {
+      "start": 1659.09,
+      "end": 1664.61,
+      "text": "interesting opportunities that aren't the things that are on cnbc every day and have access to them"
+    },
+    {
+      "start": 1664.61,
+      "end": 1669.81,
+      "text": "earlier and we had a bunch of retail investors show up in 2018 and 2019 that wanted to be in"
+    },
+    {
+      "start": 1669.81,
+      "end": 1675.97,
+      "text": "spacex and they're and they're thrilled that they got in when the valuation was 30 billion yeah um"
+    },
+    {
+      "start": 1675.97,
+      "end": 1680.53,
+      "text": "and i think if the market opens up that's what we'll be talking about what what's what do i want"
+    },
+    {
+      "start": 1680.53,
+      "end": 1685.49,
+      "text": "to get into now that's not you know at the very very top of the market getting ready to go also"
+    },
+    {
+      "start": 1685.49,
+      "end": 1691.09,
+      "text": "Also, Brad and Gavin, we're getting better, shout out to Gurley, we're getting better"
+    },
+    {
+      "start": 1691.09,
+      "end": 1694.35,
+      "text": "at pricing these IPOs and not leaving money on the table."
+    },
+    {
+      "start": 1694.35,
+      "end": 1697.47,
+      "text": "They're fully valued in most cases when they go public, yeah?"
+    },
+    {
+      "start": 1697.47,
+      "end": 1698.47,
+      "text": "Or in some cases, maybe-"
+    },
+    {
+      "start": 1698.47,
+      "end": 1699.87,
+      "text": "No, they're still mispriced."
+    },
+    {
+      "start": 1699.87,
+      "end": 1700.87,
+      "text": "They're massively mispriced."
+    },
+    {
+      "start": 1700.87,
+      "end": 1706.17,
+      "text": "Well, no, we have seen some that have gone down after they go out."
+    },
+    {
+      "start": 1706.17,
+      "end": 1707.49,
+      "text": "Nothing good that anybody wants."
+    },
+    {
+      "start": 1707.49,
+      "end": 1708.49,
+      "text": "I mean, listen-"
+    },
+    {
+      "start": 1708.49,
+      "end": 1710.51,
+      "text": "Well, anyway, what do you guys think?"
+    },
+    {
+      "start": 1710.51,
+      "end": 1713.81,
+      "text": "Are we closer to correctly pricing them?"
+    },
+    {
+      "start": 1713.81,
+      "end": 1716.05,
+      "text": "I mean, Gavin and I have been doing this 25 years."
+    },
+    {
+      "start": 1716.39,
+      "end": 1720.81,
+      "text": "There are moments that the public market is undervalued relative to privates and moments"
+    },
+    {
+      "start": 1720.81,
+      "end": 1723.17,
+      "text": "where privates are undervalued relative to public."
+    },
+    {
+      "start": 1723.67,
+      "end": 1728.91,
+      "text": "Right now, everything in the world of technology is pretty fully valued, right?"
+    },
+    {
+      "start": 1729.07,
+      "end": 1735.07,
+      "text": "Like, you can't have the parabolic moves we've had and think that everything is cheap."
+    },
+    {
+      "start": 1735.07,
+      "end": 1737.29,
+      "text": "That's not to say that we're not going to go higher."
+    },
+    {
+      "start": 1737.55,
+      "end": 1742.99,
+      "text": "But when you've been punched in the face as many times as all of us have over the last"
+    },
+    {
+      "start": 1742.99,
+      "end": 1748.53,
+      "text": "15 years in technology, we know it's a jagged line up and to the right. So for the retail"
+    },
+    {
+      "start": 1748.53,
+      "end": 1753.95,
+      "text": "investors, so long as they have staying power. So if you're going to launch a product, as long"
+    },
+    {
+      "start": 1753.95,
+      "end": 1759.11,
+      "text": "as the retail investor can stay in that product through the drawdown, they're going to do fine."
+    },
+    {
+      "start": 1759.71,
+      "end": 1764.99,
+      "text": "The problem is most of them YOLO at the top because everybody gets them all jimmied up and"
+    },
+    {
+      "start": 1764.99,
+      "end": 1772.05,
+      "text": "excited. And so they're levering up, they're doing 2X levered memory trades and all this shit that"
+    },
+    {
+      "start": 1772.05,
+      "end": 1775.49,
+      "text": "Gavin and I are watching, there are 14 ETFs launching"
+    },
+    {
+      "start": 1775.49,
+      "end": 1791.29,
+      "text": "on the day of the SpaceX IPO They levered ETFs into SpaceX at like whatever 1 trillion So this just tells me that there a lot of signal We may not be at the top but we ain at the bottom"
+    },
+    {
+      "start": 1791.53,
+      "end": 1794.67,
+      "text": "We're bouncing along the top might be a fair description, Gavin."
+    },
+    {
+      "start": 1794.85,
+      "end": 1799.99,
+      "text": "You know, you got to allocate accordingly. And that's what active management is about. If we do"
+    },
+    {
+      "start": 1799.99,
+      "end": 1806.21,
+      "text": "not, if we're not thinking about that, when people are puking into their garbage cans at the start of"
+    },
+    {
+      "start": 1806.21,
+      "end": 1811.49,
+      "text": "iran war and the market is down gavin and i are looking at each other and saying good god these"
+    },
+    {
+      "start": 1811.49,
+      "end": 1818.13,
+      "text": "anthropic revenues are off the charts we got to get more dollars at risk shove more onto the table"
+    },
+    {
+      "start": 1818.13,
+      "end": 1825.17,
+      "text": "in both anthropic and public market stocks but then 75 days later it's all changed right now"
+    },
+    {
+      "start": 1825.17,
+      "end": 1831.09,
+      "text": "have you guys ever been in a market cycle where these moves are just so concentrated in time where"
+    },
+    {
+      "start": 1831.09,
+      "end": 1835.43,
+      "text": "Where you take like a year or two's worth of moves and you compress it into 30 days?"
+    },
+    {
+      "start": 1835.93,
+      "end": 1836.81,
+      "text": "60 days?"
+    },
+    {
+      "start": 1836.91,
+      "end": 1840.79,
+      "text": "I mean, this is nothing relative to 99 and 2000."
+    },
+    {
+      "start": 1841.29,
+      "end": 1841.67,
+      "text": "Nothing."
+    },
+    {
+      "start": 1841.81,
+      "end": 1843.85,
+      "text": "This is nothing relative to that."
+    },
+    {
+      "start": 1844.01,
+      "end": 1845.33,
+      "text": "Like, I mean, describe it."
+    },
+    {
+      "start": 1845.33,
+      "end": 1847.27,
+      "text": "Sometimes I wake up."
+    },
+    {
+      "start": 1847.27,
+      "end": 1851.39,
+      "text": "What was 99, 2000 like in terms of like, if this is a roller coaster, what was that?"
+    },
+    {
+      "start": 1851.73,
+      "end": 1851.85,
+      "text": "Yeah."
+    },
+    {
+      "start": 1852.83,
+      "end": 1853.77,
+      "text": "And what was that?"
+    },
+    {
+      "start": 1853.89,
+      "end": 1859.91,
+      "text": "I mean, I don't, you know, this is like a, this is a roller coaster that's like kind"
+    },
+    {
+      "start": 1859.91,
+      "end": 1861.47,
+      "text": "of a gentle sine wave."
+    },
+    {
+      "start": 1861.79,
+      "end": 1861.95,
+      "text": "Yes, fun."
+    },
+    {
+      "start": 1862.23,
+      "end": 1866.49,
+      "text": "99 was Vegas on a Friday night after way too many drugs."
+    },
+    {
+      "start": 1866.69,
+      "end": 1866.91,
+      "text": "Yes."
+    },
+    {
+      "start": 1867.41,
+      "end": 1867.69,
+      "text": "Okay."
+    },
+    {
+      "start": 1868.03,
+      "end": 1870.97,
+      "text": "Like it was out of control nuts."
+    },
+    {
+      "start": 1871.39,
+      "end": 1878.25,
+      "text": "CMGI had no revenue and the stock went from $2 to $2,000 over the course of six months."
+    },
+    {
+      "start": 1878.29,
+      "end": 1878.81,
+      "text": "Quite a big deal."
+    },
+    {
+      "start": 1878.81,
+      "end": 1880.13,
+      "text": "They buy Foxborough Stadium."
+    },
+    {
+      "start": 1880.61,
+      "end": 1883.81,
+      "text": "They're on the cover of Time Magazine and they're out of business two years later."
+    },
+    {
+      "start": 1884.35,
+      "end": 1884.49,
+      "text": "Right?"
+    },
+    {
+      "start": 1884.59,
+      "end": 1888.27,
+      "text": "Like that is very different than Anthropic, OpenAI and SpaceX."
+    },
+    {
+      "start": 1888.27,
+      "end": 1895.47,
+      "text": "these are extraordinarily real businesses so i think the better compare is like 2021 yeah right"
+    },
+    {
+      "start": 1895.47,
+      "end": 1901.23,
+      "text": "where valuations get ahead of themselves or they're at the top end of the range we could have"
+    },
+    {
+      "start": 1901.23,
+      "end": 1906.99,
+      "text": "a normal run-of-the-mill consolidation in the public markets in the semi index of 10 or 20"
+    },
+    {
+      "start": 1907.71,
+      "end": 1912.91,
+      "text": "which means high beta would be down 30 to 40 percent and a lot of people who just got in would"
+    },
+    {
+      "start": 1912.91,
+      "end": 1919.23,
+      "text": "be panicking right but the people have been in for six months or three years would would would notice"
+    },
+    {
+      "start": 1919.23,
+      "end": 1923.31,
+      "text": "that that's just a blip so i don't think it's at all like okay i have a question for the three of"
+    },
+    {
+      "start": 1923.31,
+      "end": 1929.79,
+      "text": "you four yeah final question final question take the top 10 names private companies off okay forget"
+    },
+    {
+      "start": 1929.79,
+      "end": 1937.39,
+      "text": "those you can't pick those give me a sub you know in the tens of billions a few hundred billion"
+    },
+    {
+      "start": 1937.39,
+      "end": 1942.19,
+      "text": "private company that you could buy today a secondary and that you do not own that you would"
+    },
+    {
+      "start": 1942.19,
+      "end": 1947.19,
+      "text": "would want to own? I'll start with you, Brad, just go around the horn. Something you don't own,"
+    },
+    {
+      "start": 1948.05,
+      "end": 1950.45,
+      "text": "but if you had the chance to buy secondary, you would."
+    },
+    {
+      "start": 1951.71,
+      "end": 1956.41,
+      "text": "I mean, I take a company, you know, in that what I call inflection growth, Jamash,"
+    },
+    {
+      "start": 1956.45,
+      "end": 1961.35,
+      "text": "so these are companies, the thousand companies that are over 3 billion, but let's call it sub"
+    },
+    {
+      "start": 1961.35,
+      "end": 1967.01,
+      "text": "50 billion. I think it's the trickiest area of the investing landscape because they're the"
+    },
+    {
+      "start": 1967.01,
+      "end": 1972.73,
+      "text": "beneficiaries of high valuations, yet they still have binary risk. Right. Right. Like Anthropic"
+    },
+    {
+      "start": 1972.73,
+      "end": 1977.51,
+      "text": "Open AI, SpaceX. I don't think these companies have binary risk, but there are a lot in, you know,"
+    },
+    {
+      "start": 1977.51,
+      "end": 1984.35,
+      "text": "in that bucket that do. And so, I mean, we own most of the ones I want to own. I can't give you"
+    },
+    {
+      "start": 1984.35,
+      "end": 1990.85,
+      "text": "one. If I want to own it, I generally own it. It's a hard question. How about the last one?"
+    },
+    {
+      "start": 1990.93,
+      "end": 1996.63,
+      "text": "I'll give you one. I'd say like Sierra, Brett Taylor's company. What do they do?"
+    },
+    {
+      "start": 1997.01,
+      "end": 2001.63,
+      "text": "So they're building basically Salesforce agent native."
+    },
+    {
+      "start": 2002.05,
+      "end": 2002.33,
+      "text": "Got it."
+    },
+    {
+      "start": 2002.33,
+      "end": 2006.27,
+      "text": "So sales, marketing, customer service agents that are agent native."
+    },
+    {
+      "start": 2006.49,
+      "end": 2007.65,
+      "text": "I'll give you the downside and the upside."
+    },
+    {
+      "start": 2007.75,
+      "end": 2011.95,
+      "text": "We also own a company called Parlo in the same space in Europe that I think is really interesting."
+    },
+    {
+      "start": 2012.67,
+      "end": 2015.57,
+      "text": "Downside, OpenAI and Anthropix say, we're going to do this."
+    },
+    {
+      "start": 2015.85,
+      "end": 2019.85,
+      "text": "And all of a sudden, it eviscerates their hundreds of millions of dollars in revenue."
+    },
+    {
+      "start": 2019.85,
+      "end": 2025.07,
+      "text": "the upside on on these businesses is that they actually have already built"
+    },
+    {
+      "start": 2025.07,
+      "end": 2031.83,
+      "text": "very sophisticated agentic layers and that all these guys meta Google SpaceX"
+    },
+    {
+      "start": 2031.83,
+      "end": 2035.33,
+      "text": "come along and say we want to buy you because we want to accelerate our path"
+    },
+    {
+      "start": 2035.33,
+      "end": 2040.47,
+      "text": "into a job I'll give you the name that I was convinced of today yesterday but by"
+    },
+    {
+      "start": 2040.47,
+      "end": 2044.57,
+      "text": "Thomas the font which was Revolut you know I had always the kind of like I had"
+    },
+    {
+      "start": 2044.57,
+      "end": 2048.29,
+      "text": "some early explain what they Jack like I own some coinbase I own some Robin Hood"
+    },
+    {
+      "start": 2048.29,
+      "end": 2053.81,
+      "text": "we did all of that stuff it was fine kind of ignored fintech and thomas backstage gave me"
+    },
+    {
+      "start": 2053.81,
+      "end": 2059.17,
+      "text": "an incredibly we were together an incredibly compelling pitch for revolut and and i and i"
+    },
+    {
+      "start": 2059.17,
+      "end": 2063.17,
+      "text": "actually went and i was like okay show me what the revolut share price is in these secondary markets"
+    },
+    {
+      "start": 2063.17,
+      "end": 2067.17,
+      "text": "i got kind of curious maybe i should pick up some that so that that would be what does revolut do"
+    },
+    {
+      "start": 2068.37,
+      "end": 2072.61,
+      "text": "it's a bank and what's interesting is it's a neo bank that has a completely next generation"
+    },
+    {
+      "start": 2072.61,
+      "end": 2078.13,
+      "text": "stack kind of what brad said is like that theme of you rebuild it in the modern era and you unbundle"
+    },
+    {
+      "start": 2078.13,
+      "end": 2084.77,
+      "text": "the incumbent that that has a lot of legs and in a regulated market that has a ton of legs and so you"
+    },
+    {
+      "start": 2084.77,
+      "end": 2088.13,
+      "text": "know they're doing really well in europe they're coming to the united states the founder seems to"
+    },
+    {
+      "start": 2088.13,
+      "end": 2092.45,
+      "text": "be just an absolute star tens of millions of customers 14 lines of business they're like a"
+    },
+    {
+      "start": 2092.45,
+      "end": 2097.01,
+      "text": "billion dollars i like that i i have gavin do you have shareholders that you've bought recently no"
+    },
+    {
+      "start": 2097.01,
+      "end": 2103.57,
+      "text": "i would just say um well you know two names that um we've been involved in publicly as leading are"
+    },
+    {
+      "start": 2103.57,
+      "end": 2110.49,
+      "text": "ARIA and DriveNets, and they're both in the networking space. And basically, as data centers"
+    },
+    {
+      "start": 2110.49,
+      "end": 2116.41,
+      "text": "get more specialized and complicated, you're going to have increasingly specialized chips."
+    },
+    {
+      "start": 2116.57,
+      "end": 2120.79,
+      "text": "It's called the disaggregation of inference and pre-fill and decode. And to make all of these"
+    },
+    {
+      "start": 2120.79,
+      "end": 2126.33,
+      "text": "chips work together like a symphony and have the kind of the right chip for the right job at the"
+    },
+    {
+      "start": 2126.33,
+      "end": 2131.37,
+      "text": "right time, I do think we need to reinvent networking. And ARIA and DriveNets are coming"
+    },
+    {
+      "start": 2131.37,
+      "end": 2133.55,
+      "text": "at the problem in a very different way."
+    },
+    {
+      "start": 2133.55,
+      "end": 2136.13,
+      "text": "And if you're an AI lab, you've been one of the earliest."
+    },
+    {
+      "start": 2136.13,
+      "end": 2137.13,
+      "text": "I'll give you credit."
+    },
+    {
+      "start": 2137.13,
+      "end": 2142.15,
+      "text": "I think that you framed this on one on a podcast that I saw, which is there is an impending"
+    },
+    {
+      "start": 2142.15,
+      "end": 2146.55,
+      "text": "super cycle in infra networking, silicon."
+    },
+    {
+      "start": 2146.55,
+      "end": 2147.55,
+      "text": "You've really been at the front end."
+    },
+    {
+      "start": 2147.55,
+      "end": 2149.41,
+      "text": "I buy into it completely now, too."
+    },
+    {
+      "start": 2149.41,
+      "end": 2151.21,
+      "text": "I really it's really it's really good."
+    },
+    {
+      "start": 2151.21,
+      "end": 2154.25,
+      "text": "It's really I have any names."
+    },
+    {
+      "start": 2154.25,
+      "end": 2156.43,
+      "text": "Neuro robotics in Europe."
+    },
+    {
+      "start": 2156.43,
+      "end": 2158.61,
+      "text": "Neuro robotics is a company name."
+    },
+    {
+      "start": 2158.61,
+      "end": 2159.61,
+      "text": "Yes."
+    },
+    {
+      "start": 2159.61,
+      "end": 2160.61,
+      "text": "And what are they?"
+    },
+    {
+      "start": 2160.61,
+      "end": 2164.79,
+      "text": "AI-powered logistics robotics."
+    },
+    {
+      "start": 2165.41,
+      "end": 2165.83,
+      "text": "Love it."
+    },
+    {
+      "start": 2166.61,
+      "end": 2172.03,
+      "text": "They're not in the main strip of high-value real estate in Silicon Valley."
+    },
+    {
+      "start": 2172.15,
+      "end": 2172.69,
+      "text": "They're in Germany."
+    },
+    {
+      "start": 2173.91,
+      "end": 2179.67,
+      "text": "Quiet company, big investors, 100 million revenue, kicking ass."
+    },
+    {
+      "start": 2179.91,
+      "end": 2180.27,
+      "text": "Love it."
+    },
+    {
+      "start": 2180.37,
+      "end": 2181.01,
+      "text": "Jason, names?"
+    },
+    {
+      "start": 2181.01,
+      "end": 2184.95,
+      "text": "I have a couple of thesis that I've been looking at."
+    },
+    {
+      "start": 2185.05,
+      "end": 2189.33,
+      "text": "One is, what is Elon helping put into space as the price goes down?"
+    },
+    {
+      "start": 2189.33,
+      "end": 2197.77,
+      "text": "And so we did direct on the cap table an SPV for VAST, which is building space stations, and we think they're going to win."
+    },
+    {
+      "start": 2198.01,
+      "end": 2200.21,
+      "text": "The other one is what I'll just call Uber 2.0."
+    },
+    {
+      "start": 2200.37,
+      "end": 2203.27,
+      "text": "You know, Gurley and I took a lot of notes on that, Brad, as well."
+    },
+    {
+      "start": 2203.67,
+      "end": 2208.51,
+      "text": "And so we were able to do Zipline, and we put a small ticket size into Zipline as well."
+    },
+    {
+      "start": 2208.95,
+      "end": 2218.13,
+      "text": "Because if you can take the delivery cost down from $15 to $5 and then eventually $2, that's going to just drive consumption massively, and it's going to happen in the air."
+    },
+    {
+      "start": 2218.13,
+      "end": 2223.49,
+      "text": "and these actual drones had such a false start that everybody gave up on the entire sector and"
+    },
+    {
+      "start": 2223.49,
+      "end": 2228.45,
+      "text": "now it works and it was just a very simple innovation that keller told me which was it's"
+    },
+    {
+      "start": 2228.45,
+      "end": 2234.21,
+      "text": "the drone stays up in the air and drops a tether with the box in your burrito if you grab the"
+    },
+    {
+      "start": 2234.21,
+      "end": 2239.57,
+      "text": "tether and you pull it it just comes down you don't have to land like this giant robot in your"
+    },
+    {
+      "start": 2239.57,
+      "end": 2244.29,
+      "text": "backyard with blade spinning to kill your dog well i think there's actually a very important like on"
+    },
+    {
+      "start": 2244.29,
+      "end": 2252.69,
+      "text": "zipline it's an amazing it has done great things for the world um so my atreides is also involved"
+    },
+    {
+      "start": 2252.69,
+      "end": 2258.53,
+      "text": "in zipline but zipline started so the hard thing is to make anything autonomous work you need to"
+    },
+    {
+      "start": 2258.53,
+      "end": 2263.97,
+      "text": "get it out into the world and gathering real world data this is how ai works and it's hard to get"
+    },
+    {
+      "start": 2263.97,
+      "end": 2271.17,
+      "text": "approval to fly things around um autonomously in american airspace so keller had the idea of we're"
+    },
+    {
+      "start": 2271.17,
+      "end": 2277.65,
+      "text": "going to go to African countries and we are going to, you know, if we're going to help or deliver"
+    },
+    {
+      "start": 2277.65,
+      "end": 2284.61,
+      "text": "medicines to these small villages and they focused on maternity and they have cut the maternal"
+    },
+    {
+      "start": 2284.61,
+      "end": 2289.89,
+      "text": "mortality rate in some of these African countries by 90 to 95 percent. So you're in a small village,"
+    },
+    {
+      "start": 2290.45,
+      "end": 2297.57,
+      "text": "there's a one midwife, there's an app, a woman goes into labor, they press a button and, you know,"
+    },
+    {
+      "start": 2297.57,
+      "end": 2304.21,
+      "text": "an hour later a zipline drone drops a refrigerated package of modern medicine and blood and everything"
+    },
+    {
+      "start": 2304.21,
+      "end": 2308.85,
+      "text": "that was needed he did it for seven years and it's had a huge impact on health outcomes in these"
+    },
+    {
+      "start": 2308.85,
+      "end": 2314.77,
+      "text": "african countries and now it's come to america i this is an incredible story and i've basically"
+    },
+    {
+      "start": 2314.77,
+      "end": 2320.39,
+      "text": "now reconstructed my firm to do the barbell i missed the seed investment i turned him down"
+    },
+    {
+      "start": 2320.39,
+      "end": 2324.21,
+      "text": "because i was like we don't invest on that continent we don't have any insight into it"
+    },
+    {
+      "start": 2324.21,
+      "end": 2329.55,
+      "text": "we don't understand it and hardware is hard and he has the email whatever and i've stayed in touch"
+    },
+    {
+      "start": 2329.55,
+      "end": 2332.39,
+      "text": "with him and he said listen i figured it out and i said hey you know i have the syndicate"
+    },
+    {
+      "start": 2332.39,
+      "end": 2337.09,
+      "text": "let me see if i can correct that mistake may i invest he said i you're my dream investor i've"
+    },
+    {
+      "start": 2337.09,
+      "end": 2344.43,
+      "text": "wanted you on this whole time and it's just so important uh no no we've been friends for all"
+    },
+    {
+      "start": 2344.43,
+      "end": 2348.83,
+      "text": "this time and i you know i've had him on the pod three times and he said when are you going to be"
+    },
+    {
+      "start": 2348.83,
+      "end": 2353.37,
+      "text": "on the cap table and i said you know what i learning from you guys specifically this late"
+    },
+    {
+      "start": 2353.37,
+      "end": 2358.99,
+      "text": "I'm like, well, I can do that. And here we are. And on that note, yes, let's wrap up. Yes. Well"
+    },
+    {
+      "start": 2358.99,
+      "end": 2362.31,
+      "text": "done guys. Thank you so much. Thank you, Kelly. Thank you, Brad. Thank you."
+    }
+  ]
+}

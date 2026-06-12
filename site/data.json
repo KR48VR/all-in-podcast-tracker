@@ -1,6 +1,846 @@
 {
   "episodes": [
     {
+      "id": "2026-06-12-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live",
+      "number": null,
+      "title": "All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live",
+      "date": "2026-06-12",
+      "url": "https://allinchamathjason.libsyn.com/all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live",
+      "youtube_url": "https://www.youtube.com/watch?v=fO5sC7qS04E",
+      "youtube_video_id": "fO5sC7qS04E",
+      "summary": "The All-In podcast hosts a Best Ideas pitch competition, where four investors, Aaron Cowen, Dan Dreyfus, Oleg Nodelman, and Kyle Samani, present their top trades. The pitches include MGM Resorts, Talen Energy, Aktis Oncology, and GeoNet. The hosts discuss the pitches, risk-reward profiles, and potential returns, and announce the winners of the competition.",
+      "takeaways": [
+        {
+          "text": "Aaron Cowen pitches MGM Resorts, citing its hidden assets in Osaka, Japan, and Dubai",
+          "timestamp_seconds": 194
+        },
+        {
+          "text": "Dan Dreyfus pitches Talen Energy, a power producer with 2GW of nuclear power and 6GW of natural gas baseload power",
+          "timestamp_seconds": 962
+        },
+        {
+          "text": "Talen Energy can be purchased at a $25 billion enterprise value, which is a discount to its replacement cost of $45 billion",
+          "timestamp_seconds": 974
+        },
+        {
+          "text": "Oleg Nodelman pitches Aktis Oncology, a biotech company focused on radio pharmaceuticals for cancer treatment",
+          "timestamp_seconds": 1886
+        },
+        {
+          "text": "Kyle Samani pitches GeoNet, a decentralized RTK network for precise geolocation, and its applications in various industries",
+          "timestamp_seconds": 2539
+        },
+        {
+          "text": "Aaron Cowen's pitch for MGM Resorts wins the competition with 50% of the vote",
+          "timestamp_seconds": 4002
+        },
+        {
+          "text": "Dan Dreyfus's pitch for Talen Energy comes in second with 24% of the vote",
+          "timestamp_seconds": 3996
+        },
+        {
+          "text": "Microsoft convinced Constellation Energy to restart the Three Mile Island nuclear reactor",
+          "timestamp_seconds": 1249
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I would not sell my shares to him for a second",
+          "speaker": "Aaron Cowen",
+          "timestamp_seconds": 261
+        },
+        {
+          "text": "I think the stock could be easily worth over 100",
+          "speaker": "Aaron Cowen",
+          "timestamp_seconds": 560
+        },
+        {
+          "text": "We need all of it",
+          "speaker": "Dan Dreyfus",
+          "timestamp_seconds": 1518
+        },
+        {
+          "text": "Investing in biotech companies is a horrible idea",
+          "speaker": "Oleg Nodelman",
+          "timestamp_seconds": 1673
+        },
+        {
+          "text": "I think it's gonna probably more than triple over the next 12 months",
+          "speaker": "Kyle Samani",
+          "timestamp_seconds": 2794
+        },
+        {
+          "text": "I apply the Stan Druckenmiller school of invest and investigate",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 3296
+        }
+      ],
+      "topics": [
+        "investing",
+        "mgm-resorts",
+        "talenergy",
+        "aktis-oncology",
+        "geodnet",
+        "biotech",
+        "cancer-treatment",
+        "nuclear-power",
+        "solar-power",
+        "orbital-power",
+        "rtk-network",
+        "geolocation",
+        "agriculture",
+        "autonomous-vehicles",
+        "consumer-robotics"
+      ],
+      "guests": [
+        "Aaron Cowen",
+        "Dan Dreyfus",
+        "Oleg Nodelman",
+        "Kyle Samani"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The hosts and guests seem enthusiastic about the pitches and the potential for returns. The competition is seen as a fun and engaging way to discuss investment ideas."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Chamath explains the Best Ideas format"
+        },
+        {
+          "timestamp_seconds": 2,
+          "description": "Suvretta Capital Management's Aaron Cowen pitches MGM Resorts"
+        },
+        {
+          "timestamp_seconds": 13,
+          "description": "Bornite Capital's Dan Dreyfus pitches Talen Energy"
+        },
+        {
+          "timestamp_seconds": 1249,
+          "description": "Microsoft convinces Constellation Energy to restart the Three Mile Island nuclear reactor"
+        },
+        {
+          "timestamp_seconds": 4002,
+          "description": "Aaron Cowen is announced as the winner of the pitch competition"
+        }
+      ],
+      "notable_mentions": [
+        "MGM Resorts",
+        "Talen Energy",
+        "Aktis Oncology",
+        "GeoNet",
+        "Microsoft",
+        "Constellation Energy",
+        "Three Mile Island",
+        "EY",
+        "NYSE",
+        "Plaud",
+        "Barry Diller",
+        "Suvretta Capital Management",
+        "Bornite Capital",
+        "EcoR1 Capital",
+        "Multicoin Capital",
+        "Helium",
+        "Solana",
+        "John Deere",
+        "TomTom",
+        "DJI",
+        "Yarbo",
+        "Sunseeker",
+        "SpaceX",
+        "Caesars",
+        "Sam Zell",
+        "Equity Office Properties",
+        "Eli Lilly",
+        "Bristol",
+        "Novartis",
+        "Bayer"
+      ]
+    },
+    {
+      "id": "2026-06-10-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenter",
+      "number": null,
+      "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
+      "date": "2026-06-10",
+      "url": "https://allinchamathjason.libsyn.com/senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner",
+      "youtube_url": "https://www.youtube.com/watch?v=0y28p0jqPro",
+      "youtube_video_id": "0y28p0jqPro",
+      "summary": "Pennsylvania Senators John Fetterman and Dave McCormick discuss bipartisanship, the state of the Senate, and issues like wealth concentration, AI, and energy policy. They emphasize the importance of finding common ground and working together despite party differences. The senators also touch on the blue collar boom in Pennsylvania and the need to address misinformation and the impact of money in politics.",
+      "takeaways": [
+        {
+          "text": "Senators Fetterman and McCormick agree on the need to reject extremism and find common ground",
+          "timestamp_seconds": 13
+        },
+        {
+          "text": "Senator Fetterman believes that holding Iran accountable is crucial, even if it means high energy prices",
+          "timestamp_seconds": 471
+        },
+        {
+          "text": "Senator McCormick highlights the importance of rebuilding trust in institutions through personal conduct and bipartisan legislation",
+          "timestamp_seconds": 720
+        },
+        {
+          "text": "Pennsylvania has seen a blue collar boom with hundreds of thousands of new construction jobs created and 25-30% wage increases for construction workers",
+          "timestamp_seconds": 2219
+        },
+        {
+          "text": "Data centers and energy projects are driving economic growth in Pennsylvania, with companies like US Steel, Eli Lilly, and Hanwha investing in the state",
+          "timestamp_seconds": 2249
+        },
+        {
+          "text": "Senator Fetterman believes that the Democratic Party should not reject AI and capitalism, but rather work to make them more equitable",
+          "timestamp_seconds": 1128
+        },
+        {
+          "text": "The influx of money in politics is a significant problem, with billions of dollars being spent on campaigns and special interests",
+          "timestamp_seconds": 2470
+        },
+        {
+          "text": "The US needs to invest in both energy and AI to remain competitive and secure",
+          "timestamp_seconds": 1946
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Our votes are about country over party",
+          "speaker": "John Fetterman",
+          "timestamp_seconds": 27
+        },
+        {
+          "text": "We look for every opportunity for bipartisan legislation",
+          "speaker": "Dave McCormick",
+          "timestamp_seconds": 735
+        },
+        {
+          "text": "I'm always going to be honest",
+          "speaker": "Senator Fetterman",
+          "timestamp_seconds": 1543
+        },
+        {
+          "text": "Energy is national security",
+          "speaker": "Senator McCormick",
+          "timestamp_seconds": 1941
+        },
+        {
+          "text": "I refuse to become a party of luddites",
+          "speaker": "Senator Fetterman",
+          "timestamp_seconds": 1999
+        },
+        {
+          "text": "We need to make sure that the outlines of what these data centers mean to communities is clear",
+          "speaker": "Senator McCormick",
+          "timestamp_seconds": 1852
+        },
+        {
+          "text": "Vote me out if you think it's okay to give China a benefit to win the AI race",
+          "speaker": "Senator Fetterman",
+          "timestamp_seconds": 2155
+        },
+        {
+          "text": "These things are economic engines",
+          "speaker": "Senator McCormick",
+          "timestamp_seconds": 2343
+        },
+        {
+          "text": "I'm job placement, never misrepresent me",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 2435
+        },
+        {
+          "text": "Job displacement is occurring, and that new jobs need to be created to fill that in",
+          "speaker": "Senator Fetterman",
+          "timestamp_seconds": 2449
+        }
+      ],
+      "topics": [
+        "bipartisanship",
+        "senate",
+        "wealth-concentration",
+        "ai",
+        "energy-policy",
+        "fentanyl-crisis",
+        "anti-semitism",
+        "extremism",
+        "data-centers",
+        "energy",
+        "economy",
+        "politics",
+        "blue-collar-boom",
+        "job-creation",
+        "money-in-politics"
+      ],
+      "guests": [
+        "John Fetterman",
+        "Dave McCormick",
+        "Graham Platner"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The episode has a mixed sentiment, with discussions on both positive topics like bipartisanship and the blue collar boom in Pennsylvania, as well as negative topics like the impact of money in politics and the rise of extremism."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Introduction to the state of Pennsylvania and its importance in the presidential race"
+        },
+        {
+          "timestamp_seconds": 13,
+          "description": "Discussion on finding common ground and working together despite party differences"
+        },
+        {
+          "timestamp_seconds": 471,
+          "description": "Senator Fetterman's stance on holding Iran accountable"
+        },
+        {
+          "timestamp_seconds": 720,
+          "description": "Senator McCormick's emphasis on rebuilding trust in institutions"
+        },
+        {
+          "timestamp_seconds": 1194,
+          "description": "Discussion of Graham Platner's candidacy and his controversial views"
+        },
+        {
+          "timestamp_seconds": 1327,
+          "description": "Mention of the rise of anti-Semitism and hatred in the US"
+        },
+        {
+          "timestamp_seconds": 1823,
+          "description": "Discussion of the misinformation surrounding data centers"
+        },
+        {
+          "timestamp_seconds": 1946,
+          "description": "The senators agree on the importance of investing in energy and AI"
+        },
+        {
+          "timestamp_seconds": 2219,
+          "description": "Discussion of the blue collar boom in Pennsylvania"
+        },
+        {
+          "timestamp_seconds": 2249,
+          "description": "Mention of companies investing in Pennsylvania, such as US Steel and Eli Lilly"
+        },
+        {
+          "timestamp_seconds": 2270,
+          "description": "Discussion of the most secure jobs in Pennsylvania, including skilled tradespeople"
+        },
+        {
+          "timestamp_seconds": 2470,
+          "description": "Discussion of the issue of money in politics"
+        }
+      ],
+      "notable_mentions": [
+        "Iran",
+        "Pennsylvania",
+        "US Senate",
+        "Democratic Party",
+        "Republican Party",
+        "Joe Biden",
+        "Donald Trump",
+        "Andrew Carnegie",
+        "China",
+        "CCP",
+        "NYSE",
+        "EY",
+        "Plaud",
+        "Trump",
+        "Bernie Sanders",
+        "McCain",
+        "US Steel",
+        "Eli Lilly",
+        "Hanwha",
+        "Graham Platner",
+        "Soros",
+        "Chuck Schumer",
+        "Elizabeth Warren",
+        "Josh Shapiro"
+      ]
+    },
+    {
+      "id": "2026-06-10-dan-dreyfus-americas-critical-minerals-crisis-is-here",
+      "number": null,
+      "title": "Dan Dreyfus: America's Critical Minerals Crisis is Here",
+      "date": "2026-06-10",
+      "url": "https://allinchamathjason.libsyn.com/dan-dreyfus-americas-critical-minerals-crisis-is-here",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Dan Dreyfus discusses the critical minerals crisis in the US, highlighting the country's dependence on China for essential minerals and the need for massive investment to upgrade infrastructure. He emphasizes the importance of copper, citing its widespread use in clean energy, data centers, and electric cars. The US needs to develop its own rare earth mining and processing capabilities to reduce dependence on China.",
+      "takeaways": [
+        {
+          "text": "The US is facing a critical minerals crisis due to its dependence on China for essential minerals",
+          "timestamp_seconds": 339
+        },
+        {
+          "text": "The US needs to invest trillions of dollars in infrastructure to achieve its technological and national security objectives",
+          "timestamp_seconds": 36
+        },
+        {
+          "text": "Copper demand is expected to increase significantly due to its use in clean energy, data centers, and electric cars",
+          "timestamp_seconds": 500
+        },
+        {
+          "text": "The US needs to develop its own rare earth mining and processing capabilities to reduce dependence on China",
+          "timestamp_seconds": 1128
+        },
+        {
+          "text": "Innovation in mining technology can help increase productivity and reduce costs",
+          "timestamp_seconds": 1073
+        },
+        {
+          "text": "The US has a significant opportunity to create high-paying jobs in the critical minerals industry",
+          "timestamp_seconds": 1168
+        },
+        {
+          "text": "Understanding supply chains is crucial to making informed investment decisions in the critical minerals industry",
+          "timestamp_seconds": 1429
+        },
+        {
+          "text": "China's control over critical minerals is a significant threat to the US economy and national security",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "We're going to need five world-class mega tier one mines coming online every single year",
+          "speaker": "Dan Dreyfus",
+          "timestamp_seconds": 654
+        },
+        {
+          "text": "Commodity cycles typically last 15 years and have multiple hundreds percents of upside",
+          "speaker": "Dan Dreyfus",
+          "timestamp_seconds": 710
+        },
+        {
+          "text": "We just can't have China leading over us and squeezing our testicles every time that we don't do something that they don't like",
+          "speaker": "Dan Dreyfus",
+          "timestamp_seconds": 470
+        },
+        {
+          "text": "It's going to take at least 10 years, probably 20 to catch up",
+          "speaker": "Dan Dreyfus",
+          "timestamp_seconds": 464
+        },
+        {
+          "text": "The clock's ticking. We got three years left",
+          "speaker": "Dan Dreyfus",
+          "timestamp_seconds": 1376
+        }
+      ],
+      "topics": [
+        "critical-minerals",
+        "infrastructure",
+        "copper",
+        "china",
+        "us-economy",
+        "energy",
+        "data-centers",
+        "electric-cars",
+        "rare-earths",
+        "mining-technology",
+        "supply-chains",
+        "job-creation"
+      ],
+      "guests": [
+        "Dan Dreyfus"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The episode has a cautious tone, highlighting the significant challenges facing the US in terms of critical minerals and the need for urgent action to address these challenges."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 23,
+          "description": "Dan Dreyfus begins explaining the critical minerals crisis"
+        },
+        {
+          "timestamp_seconds": 339,
+          "description": "Dan Dreyfus discusses China's control over critical minerals"
+        },
+        {
+          "timestamp_seconds": 500,
+          "description": "Dan Dreyfus highlights the importance of copper"
+        },
+        {
+          "timestamp_seconds": 710,
+          "description": "Dan Dreyfus discusses commodity cycles and their potential for upside"
+        },
+        {
+          "timestamp_seconds": 1057,
+          "description": "Discussion on new technology and mining"
+        },
+        {
+          "timestamp_seconds": 1128,
+          "description": "China's control over rare earths"
+        }
+      ],
+      "notable_mentions": [
+        "China",
+        "US",
+        "Ford Motor Company",
+        "Boeing",
+        "Airbus",
+        "NYSE",
+        "EY",
+        "Plaud",
+        "Apple",
+        "Google",
+        "Meta",
+        "WhatsApp",
+        "Quanta University",
+        "Korea"
+      ]
+    },
+    {
+      "id": "2026-06-09-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-ata",
+      "number": null,
+      "title": "Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage",
+      "date": "2026-06-09",
+      "url": "https://allinchamathjason.libsyn.com/bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage",
+      "youtube_url": "https://www.youtube.com/watch?v=0umrMuUClC4",
+      "youtube_video_id": "0umrMuUClC4",
+      "summary": "Bill Maris joins the All-In Podcast to discuss his career, lessons learned, and the current state of the venture capital industry, AI, and life sciences. He shares his experiences founding Google Ventures and his new fund Section 32, highlighting the importance of being selective with investments and not betting against computer science. Maris also discusses the potential impact of AI on various industries and the need for understanding incentives and dynamics in the venture capital industry.",
+      "takeaways": [
+        {
+          "text": "Bill Maris raised $150 million for his new fund Section 32",
+          "timestamp_seconds": 6
+        },
+        {
+          "text": "Bill Maris founded Google Ventures and used machine learning to design the ideal portfolio construction",
+          "timestamp_seconds": 384
+        },
+        {
+          "text": "Bill Maris believes small funds outperform large funds due to increased focus and ability to give attention to founders",
+          "timestamp_seconds": 602
+        },
+        {
+          "text": "75% of venture funds lose money",
+          "timestamp_seconds": 1102
+        },
+        {
+          "text": "Venture capital incentives are broken, favoring large funds over performance",
+          "timestamp_seconds": 1612
+        },
+        {
+          "text": "Bill Maris invested in companies like CrowdStrike, Cohere, and Coinbase through Section 32",
+          "timestamp_seconds": 568
+        },
+        {
+          "text": "Bill Maris is interested in investing in platforms that enable AI, such as physics engines and GPUs",
+          "timestamp_seconds": 1236
+        },
+        {
+          "text": "The biotech path to market may be faster in countries like India and China, but the US prioritizes human safety over speed",
+          "timestamp_seconds": 1376
+        }
+      ],
+      "quotes": [
+        {
+          "text": "don't bet against computer science",
+          "speaker": "Bill Maris",
+          "timestamp_seconds": 511
+        },
+        {
+          "text": "small funds outperform large funds",
+          "speaker": "Bill Maris",
+          "timestamp_seconds": 597
+        },
+        {
+          "text": "venture is a different craft",
+          "speaker": "Bill Maris",
+          "timestamp_seconds": 839
+        },
+        {
+          "text": "what humanity needs is money",
+          "speaker": "Bill Maris",
+          "timestamp_seconds": 875
+        },
+        {
+          "text": "We're at the Atari command line stage of AI",
+          "speaker": "Bill Maris",
+          "timestamp_seconds": 1253
+        },
+        {
+          "text": "I don't plan on investing in larger models",
+          "speaker": "Bill Maris",
+          "timestamp_seconds": 1228
+        }
+      ],
+      "topics": [
+        "venture-capital",
+        "ai",
+        "google-ventures",
+        "section-32",
+        "small-funds",
+        "large-funds",
+        "life-sciences",
+        "gaming-industry",
+        "biotech"
+      ],
+      "guests": [
+        "Bill Maris"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The episode has a mixed sentiment, with Bill Maris discussing both the opportunities and challenges in the venture capital industry and AI. He highlights the importance of understanding incentives and dynamics, but also expresses optimism about the potential impact of AI on various industries."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "Bill Maris joins the podcast"
+        },
+        {
+          "timestamp_seconds": 74,
+          "description": "Bill Maris starts discussing his four lessons"
+        },
+        {
+          "timestamp_seconds": 357,
+          "description": "Bill Maris talks about the founding of Google Ventures"
+        },
+        {
+          "timestamp_seconds": 719,
+          "description": "Bill Maris finishes his four lessons and starts discussing with the hosts"
+        },
+        {
+          "timestamp_seconds": 1092,
+          "description": "Discussion on venture capital industry and its bimodal nature"
+        },
+        {
+          "timestamp_seconds": 1149,
+          "description": "Analogy to the gaming industry to understand AI's future"
+        },
+        {
+          "timestamp_seconds": 1325,
+          "description": "Discussion on the potential for a massive breakthrough in human health"
+        },
+        {
+          "timestamp_seconds": 1605,
+          "description": "Discussion on the incentive structure of venture capital"
+        }
+      ],
+      "notable_mentions": [
+        "Google",
+        "Section 32",
+        "Google Ventures",
+        "CrowdStrike",
+        "Cohere",
+        "Coinbase",
+        "OpenAI",
+        "Anthropic",
+        "SpaceX",
+        "Calico",
+        "Flatiron",
+        "Veer",
+        "New Limit",
+        "Blake Byers",
+        "Brian Armstrong",
+        "Andreessen Horowitz",
+        "EY",
+        "NYSE",
+        "Plaud",
+        "Uber",
+        "S&P 500",
+        "ETFs"
+      ]
+    },
+    {
+      "id": "2026-06-08-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-comp",
+      "number": null,
+      "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+      "date": "2026-06-08",
+      "url": "https://allinchamathjason.libsyn.com/nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Nikesh Arora, CEO of Palo Alto Networks, joins the All-In Podcast to discuss the impact of AI on cybersecurity, the future of SaaS companies, and the potential for Google to become a $10 trillion company. He shares his experience with Mythos, an AI tool that found vulnerabilities in Palo Alto's codebase in just six weeks. Arora believes analytical SaaS companies are 'over' due to the rise of AI and expects the cost of AI models to decrease.",
+      "takeaways": [
+        {
+          "text": "Mythos found vulnerabilities in Palo Alto's codebase in six weeks, which would have taken 5-7 years to find manually",
+          "timestamp_seconds": 174
+        },
+        {
+          "text": "Nikesh Arora believes analytical SaaS companies are 'over' due to the rise of AI",
+          "timestamp_seconds": 427
+        },
+        {
+          "text": "Nikesh Arora thinks Google can be the first $10 trillion company",
+          "timestamp_seconds": 1300
+        },
+        {
+          "text": "Palo Alto Networks is considering building its own large language model to gain a competitive advantage",
+          "timestamp_seconds": 1120
+        },
+        {
+          "text": "Nikesh Arora expects the next 6-12 months to be crucial for figuring out how AI settles in enterprises",
+          "timestamp_seconds": 1833
+        },
+        {
+          "text": "Palo Alto Networks' market cap has grown from $17 billion to $238 billion in eight years under Nikesh Arora's leadership",
+          "timestamp_seconds": 39
+        },
+        {
+          "text": "Nikesh Arora expects the cost of AI models to decrease, with OpenAI and Anthropi already offering cheaper alternatives",
+          "timestamp_seconds": 242
+        },
+        {
+          "text": "AI will cause a transformation in enterprises, requiring more technical personnel",
+          "timestamp_seconds": 1859
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI is democratizing intelligence",
+          "speaker": "Nikesh Arora",
+          "timestamp_seconds": 19
+        },
+        {
+          "text": "SaaS is different pieces, right? If you're an analytical SaaS company, it's over",
+          "speaker": "Nikesh Arora",
+          "timestamp_seconds": 426
+        },
+        {
+          "text": "I think Google's underrated",
+          "speaker": "Nikesh Arora",
+          "timestamp_seconds": 1297
+        },
+        {
+          "text": "I think they have all the assets that are needed to make this successful",
+          "speaker": "Nikesh Arora",
+          "timestamp_seconds": 1303
+        },
+        {
+          "text": "The problem is not who wants the US model, the problem is how do you take that model with 20 or 10 false positive and make it 0.01 false positive",
+          "speaker": "Nikesh Arora",
+          "timestamp_seconds": 1191
+        },
+        {
+          "text": "I think we're in a global race",
+          "speaker": "Nikesh Arora",
+          "timestamp_seconds": 1065
+        },
+        {
+          "text": "I have more technical people today",
+          "speaker": "Nikesh Arora",
+          "timestamp_seconds": 1859
+        },
+        {
+          "text": "See you at Palo Alto Networks",
+          "speaker": "Nikesh Arora",
+          "timestamp_seconds": 1865
+        }
+      ],
+      "topics": [
+        "ai",
+        "cybersecurity",
+        "saas",
+        "mythos",
+        "palo-alto-networks",
+        "google",
+        "openai",
+        "anthropic",
+        "ai-transformation",
+        "technical-personnel",
+        "enterprise-changes"
+      ],
+      "guests": [
+        "Nikesh Arora"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The overall sentiment of the episode is optimistic, with Nikesh Arora discussing the potential for Google to become a $10 trillion company and the growth of Palo Alto Networks. However, he also acknowledges the challenges posed by AI and the need for companies to adapt."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 47,
+          "description": "Nikesh Arora discusses the growth of Palo Alto Networks' market cap"
+        },
+        {
+          "timestamp_seconds": 174,
+          "description": "Nikesh Arora shares the results of Mythos' vulnerability scan"
+        },
+        {
+          "timestamp_seconds": 427,
+          "description": "Nikesh Arora declares analytical SaaS companies 'over'"
+        },
+        {
+          "timestamp_seconds": 935,
+          "description": "Discussion on the application ladder and the need for companies to build harnesses and controls around AI models"
+        },
+        {
+          "timestamp_seconds": 1224,
+          "description": "Armchair CEO segment begins, with Nikesh Arora sharing his thoughts on various companies"
+        },
+        {
+          "timestamp_seconds": 1390,
+          "description": "Discussion on OpenAI and its potential for growth"
+        },
+        {
+          "timestamp_seconds": 1703,
+          "description": "Final question on Palo Alto Networks' acquisition strategy and potential for expansion"
+        },
+        {
+          "timestamp_seconds": 1833,
+          "description": "Nikesh Arora discusses the impact of AI on enterprises"
+        },
+        {
+          "timestamp_seconds": 1865,
+          "description": "Nikesh Arora says farewell"
+        }
+      ],
+      "notable_mentions": [
+        "Palo Alto Networks",
+        "Mythos",
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "IBM",
+        "Databricks",
+        "Snowflake",
+        "MongoDB",
+        "Oracle",
+        "Salesforce",
+        "NSA",
+        "Microsoft",
+        "Uber",
+        "Waymo",
+        "SoftBank",
+        "EY",
+        "NYSE",
+        "Plaud"
+      ]
+    },
+    {
+      "id": "2026-06-07-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-seconda",
+      "number": null,
+      "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
+      "date": "2026-06-07",
+      "url": "https://allinchamathjason.libsyn.com/inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": [],
+      "notable_mentions": []
+    },
+    {
+      "id": "2026-06-06-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-p",
+      "number": null,
+      "title": "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel",
+      "date": "2026-06-06",
+      "url": "https://allinchamathjason.libsyn.com/the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel",
+      "youtube_url": "https://www.youtube.com/watch?v=jLICvWE7w2Q",
+      "youtube_video_id": "jLICvWE7w2Q",
+      "summary": "",
+      "takeaways": [],
+      "quotes": [],
+      "topics": [],
+      "guests": [],
+      "sentiment": {},
+      "notable_moments": [],
+      "notable_mentions": []
+    },
+    {
       "id": "2026-06-05-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back",
       "number": null,
       "title": "Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back",
@@ -4163,96 +5003,6 @@
       "notable_mentions": []
     },
     {
-      "id": "2026-01-23-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos",
-      "number": null,
-      "title": "Coinbase CEO's Top 3 Crypto Trends for 2026 + More from Davos!",
-      "date": "2026-01-23",
-      "url": "https://allinchamathjason.libsyn.com/coinbase-ceo-brian-armstrong-breaks-down-the-three-biggest-trends-in-crypto-more-from-davos",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "The episode features interviews with Brian Armstrong, Andrew Feldman, and Jake Loosararian, discussing crypto adoption, compute power, and AI's impact on work and infrastructure. They explore how AI is changing productivity in real-time. The conversation highlights the builders shaping the future of these technologies.",
-      "takeaways": [
-        {
-          "text": "Crypto adoption is increasing",
-          "timestamp_seconds": 37
-        },
-        {
-          "text": "Compute power is crucial for AI",
-          "timestamp_seconds": 3891
-        },
-        {
-          "text": "AI is changing work and infrastructure",
-          "timestamp_seconds": 7090
-        },
-        {
-          "text": "Physical robots are being integrated with AI",
-          "timestamp_seconds": 4380
-        },
-        {
-          "text": "Productivity is being impacted by AI in real-time",
-          "timestamp_seconds": 7090
-        },
-        {
-          "text": "Builders are shaping the future of AI and crypto",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "AI is transforming industries",
-          "timestamp_seconds": null
-        }
-      ],
-      "quotes": [
-        {
-          "text": "Crypto is adopted",
-          "speaker": "Brian Armstrong",
-          "timestamp_seconds": 37
-        },
-        {
-          "text": "Compute power matters",
-          "speaker": "Andrew Feldman",
-          "timestamp_seconds": 3891
-        },
-        {
-          "text": "AI and robots",
-          "speaker": "Jake Loosararian",
-          "timestamp_seconds": 7090
-        }
-      ],
-      "topics": [
-        "crypto-adoption",
-        "ai-safety",
-        "compute-power",
-        "productivity",
-        "physical-robots",
-        "infrastructure",
-        "future-of-work"
-      ],
-      "guests": [
-        "Brian Armstrong",
-        "Andrew Feldman",
-        "Jake Loosararian"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The episode has an optimistic tone, with guests discussing the potential of AI and crypto to transform industries and improve productivity."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 37,
-          "description": "Brian Armstrong discusses crypto adoption"
-        },
-        {
-          "timestamp_seconds": 3891,
-          "description": "Andrew Feldman talks about compute power"
-        },
-        {
-          "timestamp_seconds": 7090,
-          "description": "Jake Loosararian discusses AI and physical robots"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
       "id": "2026-01-23-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition",
       "number": null,
       "title": "Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition",
@@ -4396,6 +5146,96 @@
         {
           "timestamp_seconds": 2778,
           "description": "Discussion on Elon Musk's comments about the impact of AI on jobs"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
+      "id": "2026-01-23-coinbase-ceos-top-3-crypto-trends-for-2026-more-from-davos",
+      "number": null,
+      "title": "Coinbase CEO's Top 3 Crypto Trends for 2026 + More from Davos!",
+      "date": "2026-01-23",
+      "url": "https://allinchamathjason.libsyn.com/coinbase-ceo-brian-armstrong-breaks-down-the-three-biggest-trends-in-crypto-more-from-davos",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The episode features interviews with Brian Armstrong, Andrew Feldman, and Jake Loosararian, discussing crypto adoption, compute power, and AI's impact on work and infrastructure. They explore how AI is changing productivity in real-time. The conversation highlights the builders shaping the future of these technologies.",
+      "takeaways": [
+        {
+          "text": "Crypto adoption is increasing",
+          "timestamp_seconds": 37
+        },
+        {
+          "text": "Compute power is crucial for AI",
+          "timestamp_seconds": 3891
+        },
+        {
+          "text": "AI is changing work and infrastructure",
+          "timestamp_seconds": 7090
+        },
+        {
+          "text": "Physical robots are being integrated with AI",
+          "timestamp_seconds": 4380
+        },
+        {
+          "text": "Productivity is being impacted by AI in real-time",
+          "timestamp_seconds": 7090
+        },
+        {
+          "text": "Builders are shaping the future of AI and crypto",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "AI is transforming industries",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Crypto is adopted",
+          "speaker": "Brian Armstrong",
+          "timestamp_seconds": 37
+        },
+        {
+          "text": "Compute power matters",
+          "speaker": "Andrew Feldman",
+          "timestamp_seconds": 3891
+        },
+        {
+          "text": "AI and robots",
+          "speaker": "Jake Loosararian",
+          "timestamp_seconds": 7090
+        }
+      ],
+      "topics": [
+        "crypto-adoption",
+        "ai-safety",
+        "compute-power",
+        "productivity",
+        "physical-robots",
+        "infrastructure",
+        "future-of-work"
+      ],
+      "guests": [
+        "Brian Armstrong",
+        "Andrew Feldman",
+        "Jake Loosararian"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The episode has an optimistic tone, with guests discussing the potential of AI and crypto to transform industries and improve productivity."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 37,
+          "description": "Brian Armstrong discusses crypto adoption"
+        },
+        {
+          "timestamp_seconds": 3891,
+          "description": "Andrew Feldman talks about compute power"
+        },
+        {
+          "timestamp_seconds": 7090,
+          "description": "Jake Loosararian discusses AI and physical robots"
         }
       ],
       "notable_mentions": []
@@ -7794,6 +8634,95 @@
       "notable_mentions": []
     },
     {
+      "id": "2025-09-30-arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
+      "number": null,
+      "title": "Arm CEO Rene Haas on AI: Nvidia Lessons, Intel's Decline and the US-China Chip War",
+      "date": "2025-09-30",
+      "url": "https://allinchamathjason.libsyn.com/arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Arm CEO Rene Haas discusses lessons from working with Jensen Huang, Nvidia's dominance in AI, and the US-China chip war. He also talks about creating a US 'national champion' and manufacturing in America. The conversation covers the US-Intel deal, rare earths, and the US-China AI arms race.",
+      "takeaways": [
+        {
+          "text": "Nvidia's dominance in AI is due to its strong ecosystem",
+          "timestamp_seconds": 3
+        },
+        {
+          "text": "Arm's history is crucial to understanding the current AI landscape",
+          "timestamp_seconds": 3
+        },
+        {
+          "text": "The US needs to create a 'national champion' in the chip industry",
+          "timestamp_seconds": 10
+        },
+        {
+          "text": "Manufacturing in America requires a culture of excellence",
+          "timestamp_seconds": 15
+        },
+        {
+          "text": "The US-China AI arms race is intensifying",
+          "timestamp_seconds": 23
+        },
+        {
+          "text": "US export controls are affecting the global chip industry",
+          "timestamp_seconds": 18
+        },
+        {
+          "text": "Rare earths are a critical component in the chip industry",
+          "timestamp_seconds": 10
+        },
+        {
+          "text": "The US-Intel deal aims to boost domestic chip production",
+          "timestamp_seconds": 10
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Create a culture of excellence",
+          "speaker": "Rene Haas",
+          "timestamp_seconds": 15
+        },
+        {
+          "text": "US needs a national champion",
+          "speaker": "Rene Haas",
+          "timestamp_seconds": 10
+        }
+      ],
+      "topics": [
+        "ai-dominance",
+        "us-china-chip-war",
+        "manufacturing-in-america",
+        "nvidia",
+        "arm",
+        "intel",
+        "rare-earths",
+        "us-export-controls",
+        "ai-arms-race"
+      ],
+      "guests": [
+        "Rene Haas"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation highlights the intense competition between the US and China in the chip industry, and the need for the US to create a strong domestic industry. The tone is cautious, with a sense of urgency and importance."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 10,
+          "description": "Rene Haas discusses the US-Intel deal and rare earths"
+        },
+        {
+          "timestamp_seconds": 15,
+          "description": "Rene Haas talks about manufacturing in America and creating a culture of excellence"
+        },
+        {
+          "timestamp_seconds": 23,
+          "description": "The US-China AI arms race is discussed"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
       "id": "2025-09-30-science-corner-special-david-friedberg-cleo-abram-alex-filippenko-and-keller-rin",
       "number": null,
       "title": "Science Corner Special: David Friedberg, Cleo Abram, Alex Filippenko, and Keller Rinaudo Cliffton",
@@ -7968,95 +8897,6 @@
         {
           "timestamp_seconds": 17,
           "description": "Caruso proposes solutions to California's problems"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
-      "id": "2025-09-30-arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
-      "number": null,
-      "title": "Arm CEO Rene Haas on AI: Nvidia Lessons, Intel's Decline and the US-China Chip War",
-      "date": "2025-09-30",
-      "url": "https://allinchamathjason.libsyn.com/arm-ceo-rene-haas-on-ai-nvidia-lessons-intels-decline-and-the-us-china-chip-war",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "Arm CEO Rene Haas discusses lessons from working with Jensen Huang, Nvidia's dominance in AI, and the US-China chip war. He also talks about creating a US 'national champion' and manufacturing in America. The conversation covers the US-Intel deal, rare earths, and the US-China AI arms race.",
-      "takeaways": [
-        {
-          "text": "Nvidia's dominance in AI is due to its strong ecosystem",
-          "timestamp_seconds": 3
-        },
-        {
-          "text": "Arm's history is crucial to understanding the current AI landscape",
-          "timestamp_seconds": 3
-        },
-        {
-          "text": "The US needs to create a 'national champion' in the chip industry",
-          "timestamp_seconds": 10
-        },
-        {
-          "text": "Manufacturing in America requires a culture of excellence",
-          "timestamp_seconds": 15
-        },
-        {
-          "text": "The US-China AI arms race is intensifying",
-          "timestamp_seconds": 23
-        },
-        {
-          "text": "US export controls are affecting the global chip industry",
-          "timestamp_seconds": 18
-        },
-        {
-          "text": "Rare earths are a critical component in the chip industry",
-          "timestamp_seconds": 10
-        },
-        {
-          "text": "The US-Intel deal aims to boost domestic chip production",
-          "timestamp_seconds": 10
-        }
-      ],
-      "quotes": [
-        {
-          "text": "Create a culture of excellence",
-          "speaker": "Rene Haas",
-          "timestamp_seconds": 15
-        },
-        {
-          "text": "US needs a national champion",
-          "speaker": "Rene Haas",
-          "timestamp_seconds": 10
-        }
-      ],
-      "topics": [
-        "ai-dominance",
-        "us-china-chip-war",
-        "manufacturing-in-america",
-        "nvidia",
-        "arm",
-        "intel",
-        "rare-earths",
-        "us-export-controls",
-        "ai-arms-race"
-      ],
-      "guests": [
-        "Rene Haas"
-      ],
-      "sentiment": {
-        "overall": "cautious",
-        "notes": "The conversation highlights the intense competition between the US and China in the chip industry, and the need for the US to create a strong domestic industry. The tone is cautious, with a sense of urgency and importance."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 10,
-          "description": "Rene Haas discusses the US-Intel deal and rare earths"
-        },
-        {
-          "timestamp_seconds": 15,
-          "description": "Rene Haas talks about manufacturing in America and creating a culture of excellence"
-        },
-        {
-          "timestamp_seconds": 23,
-          "description": "The US-China AI arms race is discussed"
         }
       ],
       "notable_mentions": []
@@ -8972,6 +9812,85 @@
       "notable_mentions": []
     },
     {
+      "id": "2025-09-09-palantir-ceo-alex-karp-why-the-west-is-destroying-itself-data-empire-skeptics-ho",
+      "number": null,
+      "title": "Palantir CEO Alex Karp: Why the West is Destroying Itself, Data Empire, Skeptics, How to Win",
+      "date": "2025-09-09",
+      "url": "https://allinchamathjason.libsyn.com/palantir-ceo-alex-karp-why-the-west-is-destroying-itself-data-empire-skeptics-how-to-win",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "Palantir CEO Alex Karp discusses the West's self-destruction, data collection, and modern progressivism. He also touches on Israel/Palestine, antisemitism, and China's strategy. Karp shares his insights on the importance of data and its role in shaping the future.",
+      "takeaways": [
+        {
+          "text": "The West is committing cultural suicide",
+          "timestamp_seconds": 22
+        },
+        {
+          "text": "Data collection is crucial for national security",
+          "timestamp_seconds": 8
+        },
+        {
+          "text": "Modern progressivism is not truly progressive",
+          "timestamp_seconds": 36
+        },
+        {
+          "text": "Antisemitism is a growing concern",
+          "timestamp_seconds": 30
+        },
+        {
+          "text": "China's strategy is to deal with cartels and expand its influence",
+          "timestamp_seconds": 31
+        },
+        {
+          "text": "Palantir's work at the border includes data collection and surveillance",
+          "timestamp_seconds": 8
+        },
+        {
+          "text": "The West needs to rethink its values and priorities",
+          "timestamp_seconds": 22
+        },
+        {
+          "text": "Data is key to understanding and addressing global challenges",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "The West is committing cultural suicide",
+          "speaker": "Alex Karp",
+          "timestamp_seconds": 22
+        }
+      ],
+      "topics": [
+        "data-collection",
+        "national-security",
+        "modern-progressivism",
+        "antisemitism",
+        "china-strategy",
+        "border-control",
+        "western-values",
+        "global-challenges"
+      ],
+      "guests": [
+        "Alex Karp"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The episode has a cautious tone, with discussions on the West's self-destruction and growing concerns about antisemitism. However, Karp's insights on data collection and its role in shaping the future offer a sense of hope and optimism."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 22,
+          "description": "Alex Karp discusses the West's self-destruction"
+        },
+        {
+          "timestamp_seconds": 8,
+          "description": "Palantir's work at the border is discussed"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
       "id": "2025-09-09-how-to-save-america-mark-cuban-and-tucker-carlson-debate-all-in-summit-2025",
       "number": null,
       "title": "How to Save America: Mark Cuban and Tucker Carlson Debate | All-In Summit 2025",
@@ -9123,85 +10042,6 @@
         {
           "timestamp_seconds": 2,
           "description": "Big announcement about Nasdaq offering tokenized securities"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
-      "id": "2025-09-09-palantir-ceo-alex-karp-why-the-west-is-destroying-itself-data-empire-skeptics-ho",
-      "number": null,
-      "title": "Palantir CEO Alex Karp: Why the West is Destroying Itself, Data Empire, Skeptics, How to Win",
-      "date": "2025-09-09",
-      "url": "https://allinchamathjason.libsyn.com/palantir-ceo-alex-karp-why-the-west-is-destroying-itself-data-empire-skeptics-how-to-win",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "Palantir CEO Alex Karp discusses the West's self-destruction, data collection, and modern progressivism. He also touches on Israel/Palestine, antisemitism, and China's strategy. Karp shares his insights on the importance of data and its role in shaping the future.",
-      "takeaways": [
-        {
-          "text": "The West is committing cultural suicide",
-          "timestamp_seconds": 22
-        },
-        {
-          "text": "Data collection is crucial for national security",
-          "timestamp_seconds": 8
-        },
-        {
-          "text": "Modern progressivism is not truly progressive",
-          "timestamp_seconds": 36
-        },
-        {
-          "text": "Antisemitism is a growing concern",
-          "timestamp_seconds": 30
-        },
-        {
-          "text": "China's strategy is to deal with cartels and expand its influence",
-          "timestamp_seconds": 31
-        },
-        {
-          "text": "Palantir's work at the border includes data collection and surveillance",
-          "timestamp_seconds": 8
-        },
-        {
-          "text": "The West needs to rethink its values and priorities",
-          "timestamp_seconds": 22
-        },
-        {
-          "text": "Data is key to understanding and addressing global challenges",
-          "timestamp_seconds": null
-        }
-      ],
-      "quotes": [
-        {
-          "text": "The West is committing cultural suicide",
-          "speaker": "Alex Karp",
-          "timestamp_seconds": 22
-        }
-      ],
-      "topics": [
-        "data-collection",
-        "national-security",
-        "modern-progressivism",
-        "antisemitism",
-        "china-strategy",
-        "border-control",
-        "western-values",
-        "global-challenges"
-      ],
-      "guests": [
-        "Alex Karp"
-      ],
-      "sentiment": {
-        "overall": "cautious",
-        "notes": "The episode has a cautious tone, with discussions on the West's self-destruction and growing concerns about antisemitism. However, Karp's insights on data collection and its role in shaping the future offer a sense of hope and optimism."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 22,
-          "description": "Alex Karp discusses the West's self-destruction"
-        },
-        {
-          "timestamp_seconds": 8,
-          "description": "Palantir's work at the border is discussed"
         }
       ],
       "notable_mentions": []
@@ -10016,6 +10856,198 @@
       "notable_mentions": []
     },
     {
+      "id": "2025-07-23-winning-the-ai-race-part-3-jensen-huang-lisa-su-james-litinsky-chase-lochmiller",
+      "number": null,
+      "title": "Winning the AI Race Part 3: Jensen Huang, Lisa Su, James Litinsky, Chase Lochmiller",
+      "date": "2025-07-23",
+      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-part-3-jensen-huang-lisa-su-james-litinsky-chase-lochmiller",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Podcast discusses the AI race with guests Jensen Huang, Lisa Su, James Litinsky, and Chase Lochmiller. They cover various topics including AI safety, chip manufacturing, and the future of AI. The guests share their insights and experiences in the field.",
+      "takeaways": [
+        {
+          "text": "AI safety is a major concern",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Chip manufacturing is crucial for AI development",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "Nvidia is a leader in AI hardware",
+          "timestamp_seconds": 43
+        },
+        {
+          "text": "AMD is working on AI-specific chips",
+          "timestamp_seconds": 13
+        },
+        {
+          "text": "Crusoe is using AI for energy efficiency",
+          "timestamp_seconds": 30
+        },
+        {
+          "text": "MP Materials is supplying rare earth materials for AI",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "The US needs to invest in AI research and development",
+          "timestamp_seconds": null
+        },
+        {
+          "text": "AI will have a significant impact on various industries",
+          "timestamp_seconds": null
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI is the future",
+          "speaker": "Jensen Huang",
+          "timestamp_seconds": 43
+        },
+        {
+          "text": "AI is a key focus",
+          "speaker": "Lisa Su",
+          "timestamp_seconds": 13
+        },
+        {
+          "text": "Rare earth materials are crucial",
+          "speaker": "James Litinsky",
+          "timestamp_seconds": 0
+        },
+        {
+          "text": "AI can reduce energy consumption",
+          "speaker": "Chase Lochmiller",
+          "timestamp_seconds": 30
+        }
+      ],
+      "topics": [
+        "ai-race",
+        "ai-safety",
+        "chip-manufacturing",
+        "ai-hardware",
+        "energy-efficiency",
+        "rare-earth-materials"
+      ],
+      "guests": [
+        "Jensen Huang",
+        "Lisa Su",
+        "James Litinsky",
+        "Chase Lochmiller"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The guests and hosts are excited about the potential of AI and its applications, but also acknowledge the challenges and concerns surrounding it."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "James Litinsky discusses MP Materials"
+        },
+        {
+          "timestamp_seconds": 13,
+          "description": "Lisa Su talks about AMD's AI efforts"
+        },
+        {
+          "timestamp_seconds": 30,
+          "description": "Chase Lochmiller discusses Crusoe's AI work"
+        },
+        {
+          "timestamp_seconds": 43,
+          "description": "Jensen Huang shares his insights on Nvidia and AI"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
+      "id": "2025-07-23-winning-the-ai-race-part-1-michael-kratsios-kelly-loeffler-chris-power-shyam-san",
+      "number": null,
+      "title": "Winning the AI Race Part 1: Michael Kratsios, Kelly Loeffler, Chris Power, Shyam Sankar, Paul Buchheit, Jake Loosararian",
+      "date": "2025-07-23",
+      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-michael-kratsios-kelly-loeffler-chris-power-shyam-sankar-paul-buchheit-jake-loosararian",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "summary": "The All-In Podcast discusses winning the AI race with various guests, including Michael Kratsios, Chris Power, and Shyam Sankar. They share insights on AI development, safety, and its potential impact on society. The guests also discuss their own experiences and perspectives on the AI industry.",
+      "takeaways": [
+        {
+          "text": "AI safety is crucial",
+          "timestamp_seconds": 18
+        },
+        {
+          "text": "US needs to lead in AI development",
+          "timestamp_seconds": 35
+        },
+        {
+          "text": "Private sector drives AI innovation",
+          "timestamp_seconds": 44
+        },
+        {
+          "text": "Regulation is necessary for AI growth",
+          "timestamp_seconds": 60
+        },
+        {
+          "text": "AI will transform various industries",
+          "timestamp_seconds": 75
+        },
+        {
+          "text": "Talent acquisition is key to AI success",
+          "timestamp_seconds": 90
+        },
+        {
+          "text": "Global cooperation is necessary for AI safety",
+          "timestamp_seconds": 100
+        }
+      ],
+      "quotes": [
+        {
+          "text": "AI is a national security issue",
+          "speaker": "Michael Kratsios",
+          "timestamp_seconds": 9
+        },
+        {
+          "text": "AI will change everything",
+          "speaker": "Chris Power",
+          "timestamp_seconds": 18
+        },
+        {
+          "text": "AI safety is a top priority",
+          "speaker": "Shyam Sankar",
+          "timestamp_seconds": 44
+        }
+      ],
+      "topics": [
+        "ai-safety",
+        "ai-development",
+        "ai-regulation",
+        "ai-innovation",
+        "national-security",
+        "global-cooperation",
+        "talent-acquisition"
+      ],
+      "guests": [
+        "Michael Kratsios",
+        "Chris Power",
+        "Shyam Sankar",
+        "Kelly Loeffler",
+        "Paul Buchheit",
+        "Jake Loosararian"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The guests and hosts express enthusiasm and optimism about the potential of AI, while also acknowledging the need for caution and regulation."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 9,
+          "description": "Michael Kratsios discusses AI as a national security issue"
+        },
+        {
+          "timestamp_seconds": 44,
+          "description": "Shyam Sankar emphasizes the importance of AI safety"
+        }
+      ],
+      "notable_mentions": []
+    },
+    {
       "id": "2025-07-23-winning-the-ai-race-part-2-vice-president-jd-vance",
       "number": null,
       "title": "Winning the AI Race Part 2: Vice President JD Vance",
@@ -10190,198 +11222,6 @@
         {
           "timestamp_seconds": 35,
           "description": "Introduction to Howard Lutnick, Commerce Secretary"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
-      "id": "2025-07-23-winning-the-ai-race-part-1-michael-kratsios-kelly-loeffler-chris-power-shyam-san",
-      "number": null,
-      "title": "Winning the AI Race Part 1: Michael Kratsios, Kelly Loeffler, Chris Power, Shyam Sankar, Paul Buchheit, Jake Loosararian",
-      "date": "2025-07-23",
-      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-michael-kratsios-kelly-loeffler-chris-power-shyam-sankar-paul-buchheit-jake-loosararian",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "The All-In Podcast discusses winning the AI race with various guests, including Michael Kratsios, Chris Power, and Shyam Sankar. They share insights on AI development, safety, and its potential impact on society. The guests also discuss their own experiences and perspectives on the AI industry.",
-      "takeaways": [
-        {
-          "text": "AI safety is crucial",
-          "timestamp_seconds": 18
-        },
-        {
-          "text": "US needs to lead in AI development",
-          "timestamp_seconds": 35
-        },
-        {
-          "text": "Private sector drives AI innovation",
-          "timestamp_seconds": 44
-        },
-        {
-          "text": "Regulation is necessary for AI growth",
-          "timestamp_seconds": 60
-        },
-        {
-          "text": "AI will transform various industries",
-          "timestamp_seconds": 75
-        },
-        {
-          "text": "Talent acquisition is key to AI success",
-          "timestamp_seconds": 90
-        },
-        {
-          "text": "Global cooperation is necessary for AI safety",
-          "timestamp_seconds": 100
-        }
-      ],
-      "quotes": [
-        {
-          "text": "AI is a national security issue",
-          "speaker": "Michael Kratsios",
-          "timestamp_seconds": 9
-        },
-        {
-          "text": "AI will change everything",
-          "speaker": "Chris Power",
-          "timestamp_seconds": 18
-        },
-        {
-          "text": "AI safety is a top priority",
-          "speaker": "Shyam Sankar",
-          "timestamp_seconds": 44
-        }
-      ],
-      "topics": [
-        "ai-safety",
-        "ai-development",
-        "ai-regulation",
-        "ai-innovation",
-        "national-security",
-        "global-cooperation",
-        "talent-acquisition"
-      ],
-      "guests": [
-        "Michael Kratsios",
-        "Chris Power",
-        "Shyam Sankar",
-        "Kelly Loeffler",
-        "Paul Buchheit",
-        "Jake Loosararian"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The guests and hosts express enthusiasm and optimism about the potential of AI, while also acknowledging the need for caution and regulation."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 9,
-          "description": "Michael Kratsios discusses AI as a national security issue"
-        },
-        {
-          "timestamp_seconds": 44,
-          "description": "Shyam Sankar emphasizes the importance of AI safety"
-        }
-      ],
-      "notable_mentions": []
-    },
-    {
-      "id": "2025-07-23-winning-the-ai-race-part-3-jensen-huang-lisa-su-james-litinsky-chase-lochmiller",
-      "number": null,
-      "title": "Winning the AI Race Part 3: Jensen Huang, Lisa Su, James Litinsky, Chase Lochmiller",
-      "date": "2025-07-23",
-      "url": "https://allinchamathjason.libsyn.com/winning-the-ai-race-part-3-jensen-huang-lisa-su-james-litinsky-chase-lochmiller",
-      "youtube_url": "",
-      "youtube_video_id": "",
-      "summary": "The All-In Podcast discusses the AI race with guests Jensen Huang, Lisa Su, James Litinsky, and Chase Lochmiller. They cover various topics including AI safety, chip manufacturing, and the future of AI. The guests share their insights and experiences in the field.",
-      "takeaways": [
-        {
-          "text": "AI safety is a major concern",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Chip manufacturing is crucial for AI development",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "Nvidia is a leader in AI hardware",
-          "timestamp_seconds": 43
-        },
-        {
-          "text": "AMD is working on AI-specific chips",
-          "timestamp_seconds": 13
-        },
-        {
-          "text": "Crusoe is using AI for energy efficiency",
-          "timestamp_seconds": 30
-        },
-        {
-          "text": "MP Materials is supplying rare earth materials for AI",
-          "timestamp_seconds": 0
-        },
-        {
-          "text": "The US needs to invest in AI research and development",
-          "timestamp_seconds": null
-        },
-        {
-          "text": "AI will have a significant impact on various industries",
-          "timestamp_seconds": null
-        }
-      ],
-      "quotes": [
-        {
-          "text": "AI is the future",
-          "speaker": "Jensen Huang",
-          "timestamp_seconds": 43
-        },
-        {
-          "text": "AI is a key focus",
-          "speaker": "Lisa Su",
-          "timestamp_seconds": 13
-        },
-        {
-          "text": "Rare earth materials are crucial",
-          "speaker": "James Litinsky",
-          "timestamp_seconds": 0
-        },
-        {
-          "text": "AI can reduce energy consumption",
-          "speaker": "Chase Lochmiller",
-          "timestamp_seconds": 30
-        }
-      ],
-      "topics": [
-        "ai-race",
-        "ai-safety",
-        "chip-manufacturing",
-        "ai-hardware",
-        "energy-efficiency",
-        "rare-earth-materials"
-      ],
-      "guests": [
-        "Jensen Huang",
-        "Lisa Su",
-        "James Litinsky",
-        "Chase Lochmiller"
-      ],
-      "sentiment": {
-        "overall": "optimistic",
-        "notes": "The guests and hosts are excited about the potential of AI and its applications, but also acknowledge the challenges and concerns surrounding it."
-      },
-      "notable_moments": [
-        {
-          "timestamp_seconds": 0,
-          "description": "James Litinsky discusses MP Materials"
-        },
-        {
-          "timestamp_seconds": 13,
-          "description": "Lisa Su talks about AMD's AI efforts"
-        },
-        {
-          "timestamp_seconds": 30,
-          "description": "Chase Lochmiller discusses Crusoe's AI work"
-        },
-        {
-          "timestamp_seconds": 43,
-          "description": "Jensen Huang shares his insights on Nvidia and AI"
         }
       ],
       "notable_mentions": []
@@ -41817,6 +42657,6 @@
     ],
     "episode_count": 377
   },
-  "brief_markdown": "# Weekly Brief - 2026-06-06\n\n**Latest episode:** Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back - 2026-06-05\n\n## What this episode covered\nDan Loeb joins the All-In Podcast to discuss his evolution as an investor, from his early days on internet chat boards to running Third Point, a multibillion-dollar hedge fund. He shares his approach to short selling, the importance of understanding business quality, innovation, and disruption, and his passion for criminal justice reform. Loeb also discusses his investment journey, including his successes and mistakes, and his views on income inequality and education reform.\n\n## Top takeaways\n- Dan Loeb started his investing journey on internet chat boards, where he would exchange ideas and engage in discussions about stocks. [▶ 0:56](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=56s)\n- Loeb learned to invest by working at various firms, including Warburg Pinkus and Jefferies, where he gained experience in distressed debt and event-driven investing. [▶ 4:39](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=279s)\n- Dan Loeb sold his Facebook stock early, which would have been worth much more if he had held on [▶ 20:37](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=1237s)\n- Dan Loeb was an early investor in Enphase and sold some stock on the IPO, potentially missing out on $4 billion in gains [▶ 19:35](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=1175s)\n- Dan Loeb is passionate about criminal justice reform and worked on the pardon of Ross Ulbricht [▶ 22:36](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=1356s)\n- Third Point's investment approach has evolved from event-driven investing to a focus on business quality, innovation, and disruption, with a greater emphasis on understanding consumer trends and technological innovations. [▶ 8:22](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=502s)\n- Loeb believes that the human element is essential in investing, particularly in understanding management teams and their ability to adapt to changing circumstances. [▶ 15:28](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=928s)\n- Dan Loeb believes that income inequality is a major issue and that education reform is key to addressing it [▶ 23:09](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=1389s)\n\n## Notable quotes\n> \"The lost art of short selling has come back and it's absolutely critical.\" - Dan Loeb [▶ 0:06](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=6s)\n> \"Activism without proxy contests is like Catholicism without hell.\" - Dan Loeb [▶ 0:28](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=28s)\n> \"I was the original troll.\" - Dan Loeb [▶ 1:44](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=104s)\n> \"Investing is fun, particularly on the short side.\" - Dan Loeb [▶ 2:01](https://www.youtube.com/watch?v=i8OI8CNdZgU&t=121s)\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` - mentioned in 41 episodes\n- `economy` - mentioned in 40 episodes\n- `politics` - mentioned in 38 episodes\n- `us-politics` - mentioned in 28 episodes\n- `openai` - mentioned in 25 episodes\n- `big-tech` - mentioned in 23 episodes\n- `venture-capital` - mentioned in 22 episodes\n- `inflation` - mentioned in 21 episodes\n- `elon-musk` - mentioned in 20 episodes\n- `ai` - mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-06-06 from 382 episodes_",
-  "generated_at": "2026-06-06T06:30:58.955306+00:00"
+  "brief_markdown": "# Weekly Brief - 2026-06-12\n\n**Latest episode:** All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live - 2026-06-12\n\n## What this episode covered\nThe All-In podcast hosts a Best Ideas pitch competition, where four investors, Aaron Cowen, Dan Dreyfus, Oleg Nodelman, and Kyle Samani, present their top trades. The pitches include MGM Resorts, Talen Energy, Aktis Oncology, and GeoNet. The hosts discuss the pitches, risk-reward profiles, and potential returns, and announce the winners of the competition.\n\n## Top takeaways\n- Aaron Cowen pitches MGM Resorts, citing its hidden assets in Osaka, Japan, and Dubai [▶ 3:14](https://www.youtube.com/watch?v=fO5sC7qS04E&t=194s)\n- Dan Dreyfus pitches Talen Energy, a power producer with 2GW of nuclear power and 6GW of natural gas baseload power [▶ 16:02](https://www.youtube.com/watch?v=fO5sC7qS04E&t=962s)\n- Talen Energy can be purchased at a $25 billion enterprise value, which is a discount to its replacement cost of $45 billion [▶ 16:14](https://www.youtube.com/watch?v=fO5sC7qS04E&t=974s)\n- Oleg Nodelman pitches Aktis Oncology, a biotech company focused on radio pharmaceuticals for cancer treatment [▶ 31:26](https://www.youtube.com/watch?v=fO5sC7qS04E&t=1886s)\n- Kyle Samani pitches GeoNet, a decentralized RTK network for precise geolocation, and its applications in various industries [▶ 42:19](https://www.youtube.com/watch?v=fO5sC7qS04E&t=2539s)\n- Aaron Cowen's pitch for MGM Resorts wins the competition with 50% of the vote [▶ 1:06:42](https://www.youtube.com/watch?v=fO5sC7qS04E&t=4002s)\n- Dan Dreyfus's pitch for Talen Energy comes in second with 24% of the vote [▶ 1:06:36](https://www.youtube.com/watch?v=fO5sC7qS04E&t=3996s)\n- Microsoft convinced Constellation Energy to restart the Three Mile Island nuclear reactor [▶ 20:49](https://www.youtube.com/watch?v=fO5sC7qS04E&t=1249s)\n\n## Notable quotes\n> \"I would not sell my shares to him for a second\" - Aaron Cowen [▶ 4:21](https://www.youtube.com/watch?v=fO5sC7qS04E&t=261s)\n> \"I think the stock could be easily worth over 100\" - Aaron Cowen [▶ 9:20](https://www.youtube.com/watch?v=fO5sC7qS04E&t=560s)\n> \"We need all of it\" - Dan Dreyfus [▶ 25:18](https://www.youtube.com/watch?v=fO5sC7qS04E&t=1518s)\n> \"Investing in biotech companies is a horrible idea\" - Oleg Nodelman [▶ 27:53](https://www.youtube.com/watch?v=fO5sC7qS04E&t=1673s)\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` - mentioned in 41 episodes\n- `economy` - mentioned in 40 episodes\n- `politics` - mentioned in 38 episodes\n- `us-politics` - mentioned in 28 episodes\n- `openai` - mentioned in 25 episodes\n- `big-tech` - mentioned in 23 episodes\n- `venture-capital` - mentioned in 22 episodes\n- `inflation` - mentioned in 21 episodes\n- `elon-musk` - mentioned in 20 episodes\n- `ai` - mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-06-12 from 389 episodes_",
+  "generated_at": "2026-06-12T15:46:04.133317+00:00"
 }
