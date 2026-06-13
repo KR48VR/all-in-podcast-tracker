@@ -20,7 +20,7 @@ const TOP_K = 12; // how many episodes to include as context
 // Each tracker sets RAW_EPISODE_BASE in its own wrangler.toml under [vars],
 // pointing at that tracker's per-episode JSON folder. This keeps the Worker
 // code reusable across different podcast/lecture trackers without code edits.
-const SNIPPET_TOP_N = 3;
+const SNIPPET_TOP_N = 6;
 // Widened from 600/1400 to 500/3000. The anchor point is usually the SUBJECT
 // being asked about (e.g. "Matthew Prince"); the discussion ABOUT that subject
 // often unfolds in the 2-3KB AFTER the first mention. We give it room.
@@ -170,9 +170,21 @@ function rankEpisodes(question, eps) {
   // Match plain recency words OR phrases like "last 10 episodes", "past
   // few weeks", "recent shows" so questions that name a count still trigger
   // a date-sorted retrieval rather than keyword similarity.
+  // Detect "latest/recent" intent. Now handles spelled-out numbers like "last
+  // ten episodes" alongside digits ("last 10 episodes") and quantifiers like
+  // "few", "several", "couple", "dozen".
+  const NUMBER_WORD =
+    "(?:\\d+|few|several|many|couple|dozen|handful" +
+    "|one|two|three|four|five|six|seven|eight|nine|ten" +
+    "|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty" +
+    "|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred)";
+  const RECENCY_NUMBERED = new RegExp(
+    "\\b(?:last|past|recent)\\s+(?:" + NUMBER_WORD + "\\s+)?(?:episode|week|show)s?\\b",
+    "i"
+  );
   const wantsRecent =
     /\b(latest|newest|most\s+recent|recently)\b/i.test(question) ||
-    /\b(?:last|past|recent)\s+(?:\d+\s+|few\s+)?(?:episode|week|show)s?\b/i.test(question);
+    RECENCY_NUMBERED.test(question);
 
   const ranked = eps.map((ep) => {
     // Takeaways may be strings (legacy) or {text, timestamp_seconds}.
