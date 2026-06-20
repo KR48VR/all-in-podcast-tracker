@@ -1,6 +1,198 @@
 {
   "episodes": [
     {
+      "id": "2026-06-19-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-de",
+      "number": null,
+      "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+      "date": "2026-06-19",
+      "url": "https://allinchamathjason.libsyn.com/worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal",
+      "youtube_url": "https://www.youtube.com/watch?v=3Amlu4y94Ho",
+      "youtube_video_id": "3Amlu4y94Ho",
+      "summary": "The All-In Podcast discusses various topics including the formation of a new oligarchy in the US, SpaceX's record-breaking IPO, Anthropic's Fable ban, and the Iran peace deal. The hosts also touch on the importance of capitalism, free markets, and self-regulation in the AI industry. The conversation revolves around the potential risks and implications of these events and the need for a set of standards in the AI industry.",
+      "takeaways": [
+        {
+          "text": "The new oligarchs are taking control of the US economy and eroding individual liberties",
+          "timestamp_seconds": 159
+        },
+        {
+          "text": "Elon Musk's net worth increased due to SpaceX's IPO, but he doesn't have more cash than before",
+          "timestamp_seconds": 1127
+        },
+        {
+          "text": "Anthropic's Fable model was shut down due to a jailbreak, which raised security concerns",
+          "timestamp_seconds": 2024
+        },
+        {
+          "text": "Dario Amodei convinced key officials in the Biden administration that AI was extremely dangerous and needed to be controlled by the government",
+          "timestamp_seconds": 3966
+        },
+        {
+          "text": "Isolating dictators and waiting them out is often a better approach than starting full-scale wars",
+          "timestamp_seconds": 4912
+        },
+        {
+          "text": "The US has successfully contained North Korea for a long time",
+          "timestamp_seconds": 4939
+        },
+        {
+          "text": "Enforcing democracy in the Middle East is not feasible, and the people must lead their own revolution",
+          "timestamp_seconds": 4983
+        },
+        {
+          "text": "The Iran peace deal may not be worth the risk and cost of the conflict",
+          "timestamp_seconds": 4875
+        }
+      ],
+      "quotes": [
+        {
+          "text": "The new oligarchs are taking their seats",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 159
+        },
+        {
+          "text": "Human agency is limitless",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 462
+        },
+        {
+          "text": "Wealth is created by building machines that make things people want",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 1201
+        },
+        {
+          "text": "Let people buy private company stock, it's crazy that we still have this rule keeping poor people poor",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 1826
+        },
+        {
+          "text": "They're sharing these capabilities with parties that the White House believes might have connections to China",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 2287
+        },
+        {
+          "text": "Competition is a good force",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 4046
+        },
+        {
+          "text": "They're trying to create a monopoly or duopoly or cartel",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 4032
+        },
+        {
+          "text": "Centralization is the greatest threat of AI",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 4066
+        },
+        {
+          "text": "Let your winners ride",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 5005
+        }
+      ],
+      "topics": [
+        "oligarchy",
+        "learned-helplessness",
+        "individual-liberties",
+        "capitalism",
+        "free-markets",
+        "wealth-creation",
+        "elon-musk",
+        "spacex",
+        "ipo",
+        "ai-safety",
+        "export-controls",
+        "national-security",
+        "cyber-weapon",
+        "anthropic",
+        "iran-peace-deal",
+        "regulatory-capture",
+        "centralization",
+        "middle-east-politics",
+        "dictatorship",
+        "democracy",
+        "revolution"
+      ],
+      "guests": [],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express caution about the formation of a new oligarchy, the risks associated with AI, and the implications of the Iran peace deal. They also emphasize the importance of self-regulation in the AI industry and the need for a set of standards."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 159,
+          "description": "Discussion of the new oligarchy in the US"
+        },
+        {
+          "timestamp_seconds": 1127,
+          "description": "Explanation of how wealth is created"
+        },
+        {
+          "timestamp_seconds": 2024,
+          "description": "US government pulls the plug on Anthropic's Fable model"
+        },
+        {
+          "timestamp_seconds": 3966,
+          "description": "Dario Amodei's conversation with the Biden administration about AI safety"
+        },
+        {
+          "timestamp_seconds": 4912,
+          "description": "Discussion on the Iran peace deal begins"
+        },
+        {
+          "timestamp_seconds": 4997,
+          "description": "The hosts wrap up the episode and sign off"
+        }
+      ],
+      "notable_mentions": [
+        "Elizabeth Warren",
+        "Bernie Sanders",
+        "Ro Khanna",
+        "Nancy Pelosi",
+        "Pritzker",
+        "Elon Musk",
+        "SpaceX",
+        "Tesla",
+        "Anthropic",
+        "Robinhood",
+        "Charles Schwab",
+        "SEC",
+        "Vlad",
+        "Andy Jassy",
+        "Dario Amodei",
+        "SK Telecom",
+        "White House",
+        "US Government",
+        "Mythos",
+        "Fable",
+        "AWS",
+        "Reid Hoffman",
+        "Gemini",
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "OpenAI",
+        "Greg Brockman",
+        "Pete Hegseth",
+        "Department of War",
+        "Trump Administration",
+        "Biden administration",
+        "Iran",
+        "Pakistan",
+        "US",
+        "Gulf states",
+        "IAEA",
+        "Strait of Hormuz",
+        "Lebanon",
+        "Israel",
+        "Trump",
+        "John Podoritz",
+        "Reza Pahlavi",
+        "North Korea",
+        "Graham Allison"
+      ]
+    },
+    {
       "id": "2026-06-13-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken",
       "number": null,
       "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
@@ -8,14 +200,169 @@
       "url": "https://allinchamathjason.libsyn.com/anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections",
       "youtube_url": "https://www.youtube.com/watch?v=gH4FTjDm9FQ",
       "youtube_video_id": "gH4FTjDm9FQ",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
+      "summary": "The All-In podcast discusses Anthropic's Fable model, AI regulation, nationalizing AI, inflation, and California's election integrity. The hosts touch on Anthropic's Fable backlash, censorship, and governance risks, as well as the potential for companies to be forced to use open-source models. They also discuss Bernie Sanders' proposal for a 50% tax on AI companies and the idea of reforming social security into a sovereign wealth fund to invest in AI companies.",
+      "takeaways": [
+        {
+          "text": "Anthropic's Fable model has sparked controversy over its data retention and censorship policies",
+          "timestamp_seconds": 94
+        },
+        {
+          "text": "Bernie Sanders proposes a 50% tax on AI companies to create a sovereign wealth fund",
+          "timestamp_seconds": 2301
+        },
+        {
+          "text": "Dario Amodei's comments on AI potentially putting 50% of people out of work sparks concern and discussion",
+          "timestamp_seconds": 2400
+        },
+        {
+          "text": "Chamath Palihapitiya suggests that the government should own a percentage of AI companies due to their reliance on critical infrastructure",
+          "timestamp_seconds": 3236
+        },
+        {
+          "text": "Inflation is rising, with CPI at 4.2% and PPI at 6.5% year over year",
+          "timestamp_seconds": 3939
+        },
+        {
+          "text": "California's election system is vulnerable to fraud due to loopholes and lack of audit requirements",
+          "timestamp_seconds": 4929
+        },
+        {
+          "text": "The hosts believe that voter ID laws are necessary to prevent fraud",
+          "timestamp_seconds": 5336
+        },
+        {
+          "text": "Congress has the power to pass laws to prevent election fraud, but has not done so",
+          "timestamp_seconds": 5386
+        }
+      ],
+      "quotes": [
+        {
+          "text": "It's a really incredible model",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 157
+        },
+        {
+          "text": "We're going to end up needing to use open-source models and run them locally ourselves",
+          "speaker": "David Friedberg",
+          "timestamp_seconds": 415
+        },
+        {
+          "text": "You just can't confiscate property",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 2374
+        },
+        {
+          "text": "They asked for it",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 2613
+        },
+        {
+          "text": "If I were sitting in government, I would make the case for why I should own a percentage of these companies",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 3236
+        },
+        {
+          "text": "There is no spoon",
+          "speaker": "David Friedberg",
+          "timestamp_seconds": 4388
+        },
+        {
+          "text": "The system is operating exactly as intended",
+          "speaker": "David Friedberg",
+          "timestamp_seconds": 4607
+        },
+        {
+          "text": "The system itself has become a system of appointment, not a system of election",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 5600
+        }
+      ],
+      "topics": [
+        "ai",
+        "anthropic",
+        "fable",
+        "censorship",
+        "governance",
+        "open-source",
+        "ai-regulation",
+        "nationalizing-ai",
+        "sovereign-wealth-fund",
+        "social-security",
+        "job-loss",
+        "inflation",
+        "iran-war",
+        "election-integrity",
+        "california-politics",
+        "election-fraud",
+        "voter-id",
+        "socialism",
+        "media-bias"
+      ],
       "guests": [],
-      "sentiment": {},
-      "notable_moments": [],
-      "notable_mentions": []
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The hosts express concern over Anthropic's Fable model, AI regulation, and election integrity in California. They also discuss the potential risks and consequences of nationalizing AI and the need for voter ID laws to prevent fraud."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 19,
+          "description": "Discussion of Anthropic's Fable model begins"
+        },
+        {
+          "timestamp_seconds": 1014,
+          "description": "Discussion of Anthropic's Fable backlash begins"
+        },
+        {
+          "timestamp_seconds": 2301,
+          "description": "Bernie Sanders' proposal for a 50% tax on AI companies is introduced"
+        },
+        {
+          "timestamp_seconds": 3236,
+          "description": "Chamath Palihapitiya suggests government ownership of AI companies"
+        },
+        {
+          "timestamp_seconds": 3939,
+          "description": "Discussion of CPI and PPI numbers begins"
+        },
+        {
+          "timestamp_seconds": 4929,
+          "description": "Discussion of election fraud in California begins"
+        }
+      ],
+      "notable_mentions": [
+        "Anthropic",
+        "Fable",
+        "Mythos",
+        "Nikesh",
+        "Palo Alto Networks",
+        "Dario Amodei",
+        "Bernie Sanders",
+        "Apple",
+        "Stratechery",
+        "Ben Thompson",
+        "Novartis",
+        "Lilly",
+        "JP Morgan",
+        "Citibank",
+        "Elon Musk",
+        "Open AI",
+        "XAI",
+        "Steve Bannon",
+        "Donald Trump",
+        "CPI",
+        "PPI",
+        "Iran",
+        "California",
+        "LA",
+        "Spencer Pratt",
+        "Karen Bass",
+        "Nithya Raman",
+        "Congress",
+        "Heritage Foundation",
+        "Newsom",
+        "Steve Hilton",
+        "DOJ"
+      ]
     },
     {
       "id": "2026-06-12-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live",
@@ -42674,6 +43021,6 @@
     ],
     "episode_count": 377
   },
-  "brief_markdown": "# Weekly Brief - 2026-06-13\n\n**Latest episode:** Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections - 2026-06-13\n\n## What this episode covered\n_No summary available_\n\n## Top takeaways\n\n## Notable quotes\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` - mentioned in 41 episodes\n- `economy` - mentioned in 40 episodes\n- `politics` - mentioned in 38 episodes\n- `us-politics` - mentioned in 28 episodes\n- `openai` - mentioned in 25 episodes\n- `big-tech` - mentioned in 23 episodes\n- `venture-capital` - mentioned in 22 episodes\n- `inflation` - mentioned in 21 episodes\n- `elon-musk` - mentioned in 20 episodes\n- `ai` - mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-06-13 from 390 episodes_",
-  "generated_at": "2026-06-13T06:56:19.499345+00:00"
+  "brief_markdown": "# Weekly Brief - 2026-06-20\n\n**Latest episode:** World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal - 2026-06-19\n\n## What this episode covered\nThe All-In Podcast discusses various topics including the formation of a new oligarchy in the US, SpaceX's record-breaking IPO, Anthropic's Fable ban, and the Iran peace deal. The hosts also touch on the importance of capitalism, free markets, and self-regulation in the AI industry. The conversation revolves around the potential risks and implications of these events and the need for a set of standards in the AI industry.\n\n## Top takeaways\n- The new oligarchs are taking control of the US economy and eroding individual liberties [▶ 2:39](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=159s)\n- Elon Musk's net worth increased due to SpaceX's IPO, but he doesn't have more cash than before [▶ 18:47](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=1127s)\n- Anthropic's Fable model was shut down due to a jailbreak, which raised security concerns [▶ 33:44](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=2024s)\n- Dario Amodei convinced key officials in the Biden administration that AI was extremely dangerous and needed to be controlled by the government [▶ 1:06:06](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=3966s)\n- Isolating dictators and waiting them out is often a better approach than starting full-scale wars [▶ 1:21:52](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=4912s)\n- The US has successfully contained North Korea for a long time [▶ 1:22:19](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=4939s)\n- Enforcing democracy in the Middle East is not feasible, and the people must lead their own revolution [▶ 1:23:03](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=4983s)\n- The Iran peace deal may not be worth the risk and cost of the conflict [▶ 1:21:15](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=4875s)\n\n## Notable quotes\n> \"The new oligarchs are taking their seats\" - David Sacks [▶ 2:39](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=159s)\n> \"Human agency is limitless\" - Chamath Palihapitiya [▶ 7:42](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=462s)\n> \"Wealth is created by building machines that make things people want\" - David Sacks [▶ 20:01](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=1201s)\n> \"Let people buy private company stock, it's crazy that we still have this rule keeping poor people poor\" - Jason Calacanis [▶ 30:26](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=1826s)\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` - mentioned in 41 episodes\n- `economy` - mentioned in 40 episodes\n- `politics` - mentioned in 38 episodes\n- `us-politics` - mentioned in 28 episodes\n- `openai` - mentioned in 25 episodes\n- `big-tech` - mentioned in 23 episodes\n- `venture-capital` - mentioned in 22 episodes\n- `inflation` - mentioned in 21 episodes\n- `elon-musk` - mentioned in 20 episodes\n- `ai` - mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-06-20 from 391 episodes_",
+  "generated_at": "2026-06-20T06:52:28.138657+00:00"
 }
