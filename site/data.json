@@ -1,6 +1,375 @@
 {
   "episodes": [
     {
+      "id": "2026-06-26-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout",
+      "number": null,
+      "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+      "date": "2026-06-26",
+      "url": "https://allinchamathjason.libsyn.com/socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter",
+      "youtube_url": "https://www.youtube.com/watch?v=w8ah_tA0yfg",
+      "youtube_video_id": "w8ah_tA0yfg",
+      "summary": "The All-In Podcast discusses the socialist sweep in NYC congressional primaries, the rise of socialism in the US, and the progress of Chinese open-source AI models. The hosts also cover the future of data centers, the challenges of standing up new data centers, and the potential for orbital compute. Additionally, they talk about recent IPOs, including SpaceX and Cerebrus, and how the market will absorb the new inventory.",
+      "takeaways": [
+        {
+          "text": "Mamdani-endorsed socialists sweep congressional primaries in NYC",
+          "timestamp_seconds": 63
+        },
+        {
+          "text": "The DSA's voting base consists of relatively wealthy, white liberals who are downwardly mobile.",
+          "timestamp_seconds": 1117
+        },
+        {
+          "text": "China's GLM 5.2 model is now as good as the currently available models from OpenAI and Anthropic",
+          "timestamp_seconds": 3281
+        },
+        {
+          "text": "Micron's earnings smash expectations, with revenue up 9 billion to 42 billion, and their stock is up 10x",
+          "timestamp_seconds": 3726
+        },
+        {
+          "text": "Anthropic is valued at $3 trillion",
+          "timestamp_seconds": 5310
+        },
+        {
+          "text": "Standing up a new data center can take 2-3 years and cost $35 billion in semiconductors and $25 billion in power and cooling equipment",
+          "timestamp_seconds": 4313
+        },
+        {
+          "text": "Dario Amodei's strategy may have been to provoke the US government into regulating AI, giving Anthropic a regulatory moat",
+          "timestamp_seconds": 3320
+        },
+        {
+          "text": "Israel has a PR problem and needs a young, fluent spokesperson",
+          "timestamp_seconds": 2331
+        }
+      ],
+      "quotes": [
+        {
+          "text": "We've lost the script",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 197
+        },
+        {
+          "text": "AI is the greatest economic leveler",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 212
+        },
+        {
+          "text": "I think the DSA is is dangerous",
+          "speaker": "Gavin Baker",
+          "timestamp_seconds": 1141
+        },
+        {
+          "text": "It's brain rot for real.",
+          "speaker": "Travis Kalanick",
+          "timestamp_seconds": 1626
+        },
+        {
+          "text": "We are in a very competitive situation with China",
+          "speaker": "David Sacks",
+          "timestamp_seconds": 3294
+        },
+        {
+          "text": "It's the intersection of magic and science",
+          "speaker": "Gavin Baker",
+          "timestamp_seconds": 4249
+        },
+        {
+          "text": "I'll be making love to myself when this happens",
+          "speaker": "Travis Kalanick",
+          "timestamp_seconds": 4528
+        },
+        {
+          "text": "Whatever's left on the ground, though, will be incredibly, incredibly valuable",
+          "speaker": "Chamath Palihapitiya",
+          "timestamp_seconds": 4458
+        },
+        {
+          "text": "This is the economics that underpin orbital compute from first principles",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 4389
+        }
+      ],
+      "topics": [
+        "socialism",
+        "nyc-primaries",
+        "ai",
+        "dsa",
+        "democratic-party",
+        "israel-palestine",
+        "open-source",
+        "china",
+        "us",
+        "data-centers",
+        "orbital-compute",
+        "modular-data-centers",
+        "distributed-inference",
+        "ipo",
+        "valuation",
+        "space-x",
+        "cerebrus",
+        "anthropic",
+        "market-absorption"
+      ],
+      "guests": [
+        "Gavin Baker",
+        "Travis Kalanick"
+      ],
+      "sentiment": {
+        "overall": "mixed",
+        "notes": "The hosts discuss various topics with a mix of optimism and caution, highlighting the potential benefits and challenges of emerging technologies and trends."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 63,
+          "description": "Discussion of socialist sweep in NYC congressional primaries begins"
+        },
+        {
+          "timestamp_seconds": 204,
+          "description": "Chamath Palihapitiya discusses AI as an economic leveler"
+        },
+        {
+          "timestamp_seconds": 2143,
+          "description": "Discussion on the Israeli-Palestinian conflict begins"
+        },
+        {
+          "timestamp_seconds": 2712,
+          "description": "Conversation turns to Chinese open-source AI models"
+        },
+        {
+          "timestamp_seconds": 3160,
+          "description": "Discussion on OpenAI's jalapeno chip and potential competition from NVIDIA"
+        },
+        {
+          "timestamp_seconds": 3708,
+          "description": "Micron's earnings announcement and impact on the industry"
+        },
+        {
+          "timestamp_seconds": 4213,
+          "description": "Gavin Baker discusses the challenges of standing up a new data center"
+        },
+        {
+          "timestamp_seconds": 5218,
+          "description": "Discussion about Elon's home battery backup systems"
+        },
+        {
+          "timestamp_seconds": 5480,
+          "description": "Cerebrus' tough two days since reporting its first quarter as a public company"
+        }
+      ],
+      "notable_mentions": [
+        "Mamdani",
+        "DSA",
+        "Democratic Party",
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "SpaceX",
+        "Cerebras",
+        "Micron",
+        "Apple",
+        "Polymarket",
+        "Zoran Mamdani",
+        "AOC",
+        "Bernie Sanders",
+        "Ro Khanna",
+        "Trump",
+        "Canada",
+        "UK",
+        "Australia",
+        "Florida",
+        "EU",
+        "X",
+        "Israel",
+        "China",
+        "US",
+        "GLM 5.2",
+        "Grok",
+        "Google",
+        "BB Netanyahu",
+        "Gustavo Gordillo",
+        "Tesla",
+        "NVIDIA",
+        "Huawei",
+        "Dario Amodei",
+        "Elon Musk",
+        "Facebook",
+        "Uber",
+        "Fidelity",
+        "Rivian"
+      ]
+    },
+    {
+      "id": "2026-06-23-gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay",
+      "number": null,
+      "title": "GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay",
+      "date": "2026-06-23",
+      "url": "https://allinchamathjason.libsyn.com/gamestop-ceo-ryan-cohens-56b-plan-to-take-over-ebay",
+      "youtube_url": "https://www.youtube.com/watch?v=4j9RPGLENNI",
+      "youtube_video_id": "4j9RPGLENNI",
+      "summary": "Ryan Cohen, GameStop CEO, discusses his background, building and selling Chewy for $3.35B, and his plans for eBay, including a $56B acquisition offer. He shares his approach to business, focusing on execution, supply chain optimization, and customer experience. Cohen's vision for eBay includes cutting costs, expanding live commerce, and creating a digital in-game collectible marketplace.",
+      "takeaways": [
+        {
+          "text": "Ryan Cohen built and sold Chewy for $3.35B, focusing on supply chain optimization and customer experience",
+          "timestamp_seconds": 220
+        },
+        {
+          "text": "Cohen looks for established businesses with strong historical track records, often out of favor with passive or activist investments",
+          "timestamp_seconds": 749
+        },
+        {
+          "text": "Ryan Cohen wants to buy eBay for $56B and has a three-part vision for the company",
+          "timestamp_seconds": 2438
+        },
+        {
+          "text": "Cohen plans to cut $2 billion in costs from eBay's operating expenses",
+          "timestamp_seconds": 2691
+        },
+        {
+          "text": "Cohen wants to create a marketplace for in-game digital items, which he believes has significant potential",
+          "timestamp_seconds": 2873
+        },
+        {
+          "text": "Ryan Cohen believes that acquiring eBay would be a good idea due to the complementary nature of the two businesses and his understanding of e-commerce",
+          "timestamp_seconds": 1691
+        },
+        {
+          "text": "eBay's early success was largely due to its first-mover advantage and marketplace model, but its execution has been poor in recent years, leading to stagnation",
+          "timestamp_seconds": 1941
+        },
+        {
+          "text": "Cohen is committed to succeeding in the acquisition, even if it requires going hostile",
+          "timestamp_seconds": 3613
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I look for will over skill",
+          "speaker": "Ryan Cohen",
+          "timestamp_seconds": 583
+        },
+        {
+          "text": "A's only put up with A's",
+          "speaker": "Ryan Cohen",
+          "timestamp_seconds": 655
+        },
+        {
+          "text": "Life is too short to do it small",
+          "speaker": "Ryan Cohen",
+          "timestamp_seconds": 1671
+        },
+        {
+          "text": "You make your sellers happy",
+          "speaker": "Ryan Cohen",
+          "timestamp_seconds": 2525
+        },
+        {
+          "text": "I'm not going to stop, I'm not going to go away",
+          "speaker": "Ryan Cohen",
+          "timestamp_seconds": 3700
+        },
+        {
+          "text": "Beauty is in the eye of the beholder",
+          "speaker": "Ryan Cohen",
+          "timestamp_seconds": 3653
+        },
+        {
+          "text": "It's worth it for me to do something like that",
+          "speaker": "Ryan Cohen",
+          "timestamp_seconds": 3687
+        },
+        {
+          "text": "I'm gonna do whatever we need to do in order to succeed",
+          "speaker": "Ryan Cohen",
+          "timestamp_seconds": 3607
+        },
+        {
+          "text": "They're not making their sellers happy",
+          "speaker": "Ryan Cohen",
+          "timestamp_seconds": 2594
+        }
+      ],
+      "topics": [
+        "e-commerce",
+        "supply-chain",
+        "customer-experience",
+        "investing",
+        "gamestop",
+        "chewy",
+        "ebay-acquisition",
+        "physical-retail",
+        "collectibles",
+        "live-commerce",
+        "digital-collectibles",
+        "digital-marketplace"
+      ],
+      "guests": [
+        "Ryan Cohen"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The overall sentiment of the episode is optimistic, as Ryan Cohen shares his vision for eBay and his plans for the company's future. He is confident in his ability to succeed in the acquisition and is committed to making it happen."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 0,
+          "description": "David Friedberg intros Ryan Cohen"
+        },
+        {
+          "timestamp_seconds": 66,
+          "description": "Ryan Cohen is welcomed to the All In interview"
+        },
+        {
+          "timestamp_seconds": 115,
+          "description": "Ryan Cohen discusses the idea behind starting Chewy"
+        },
+        {
+          "timestamp_seconds": 831,
+          "description": "Ryan Cohen is offered a board seat at GameStop"
+        },
+        {
+          "timestamp_seconds": 1843,
+          "description": "Ryan Cohen shares the moment he thought of acquiring eBay"
+        },
+        {
+          "timestamp_seconds": 1941,
+          "description": "Ryan Cohen discusses eBay's early success and recent stagnation"
+        },
+        {
+          "timestamp_seconds": 2420,
+          "description": "Discussion of post-Donahoe era at eBay"
+        },
+        {
+          "timestamp_seconds": 2679,
+          "description": "Cohen outlines his three-part vision for eBay"
+        },
+        {
+          "timestamp_seconds": 2975,
+          "description": "Discussion of eBay board's rejection of Cohen's offer"
+        },
+        {
+          "timestamp_seconds": 3411,
+          "description": "Cohen announces he is putting $500 million of his own money into the transaction"
+        }
+      ],
+      "notable_mentions": [
+        "GameStop",
+        "eBay",
+        "Chewy",
+        "Amazon",
+        "AppLovin",
+        "Nasdaq",
+        "Petco",
+        "PetSmart",
+        "Shopify",
+        "PayPal",
+        "Skype",
+        "Microsoft",
+        "Koch Industries",
+        "Ryan Cohen"
+      ]
+    },
+    {
       "id": "2026-06-19-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-de",
       "number": null,
       "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
@@ -1178,14 +1547,158 @@
       "url": "https://allinchamathjason.libsyn.com/inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries",
       "youtube_url": "",
       "youtube_video_id": "",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": [],
-      "notable_mentions": []
+      "summary": "The All-In Podcast discusses the boom in private stock markets, with companies like SpaceX, Anthropic, and OpenAI, and the rise of secondary markets as a means of exit liquidity for VCs. Guests Brad Gerstner, Gavin Baker, and Kelly Rodriques join the discussion, covering topics such as the challenges of pricing IPOs, the potential for retail investors to participate in private markets, and the risks associated with high valuations. The conversation also touches on notable companies in the space, including ARIA, DriveNets, Neuro Robotics, VAST, and Zipline.",
+      "takeaways": [
+        {
+          "text": "Secondary markets are competing with IPOs as a means of exit for private companies",
+          "timestamp_seconds": 122
+        },
+        {
+          "text": "Companies are staying private longer, with some like SpaceX remaining private for 24 years",
+          "timestamp_seconds": 639
+        },
+        {
+          "text": "The rise of SPVs is allowing for more liquidity in private markets, but also raises concerns about access and fairness",
+          "timestamp_seconds": 697
+        },
+        {
+          "text": "Companies like SpaceX, Anthropic, and OpenAI have significant valuations and are driving the private market boom",
+          "timestamp_seconds": 1251
+        },
+        {
+          "text": "ARIA and DriveNets are working on reinventing networking in the data center space",
+          "timestamp_seconds": 2126
+        },
+        {
+          "text": "Neuro Robotics is an AI-powered logistics robotics company in Germany with $100 million revenue",
+          "timestamp_seconds": 2160
+        },
+        {
+          "text": "VAST is building space stations and could be a winner in the space industry",
+          "timestamp_seconds": 2189
+        },
+        {
+          "text": "Zipline has reduced maternal mortality rates in African countries by 90-95% with its drone delivery system",
+          "timestamp_seconds": 2284
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I think there are a lot of people who are very wealthy on paper, but actually cash poor",
+          "speaker": "Gavin Baker",
+          "timestamp_seconds": 227
+        },
+        {
+          "text": "It's much less fun being a public company CEO",
+          "speaker": "Kelly Rodriques",
+          "timestamp_seconds": 603
+        },
+        {
+          "text": "It's a bubble, call it what it is",
+          "speaker": "Gavin Baker",
+          "timestamp_seconds": 1649
+        },
+        {
+          "text": "I think the retail investor coming into this space needs to look down market",
+          "speaker": "Brad Gerstner",
+          "timestamp_seconds": 1659
+        },
+        {
+          "text": "I buy into it completely now, too",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 2147
+        },
+        {
+          "text": "Love it",
+          "speaker": "Jason Calacanis",
+          "timestamp_seconds": 2165
+        }
+      ],
+      "topics": [
+        "private-markets",
+        "secondary-markets",
+        "ipo",
+        "venture-capital",
+        "spvs",
+        "democratization",
+        "capital-access",
+        "retail-investors",
+        "space-industry",
+        "logistics-robotics",
+        "drones"
+      ],
+      "guests": [
+        "Brad Gerstner",
+        "Gavin Baker",
+        "Kelly Rodriques"
+      ],
+      "sentiment": {
+        "overall": "cautious",
+        "notes": "The conversation is cautious due to the discussion of high valuations and potential bubbles in the private market, but also optimistic about the potential for growth in areas like space and logistics robotics."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 73,
+          "description": "Discussion of the amount of money going into VC each year and the amount of money coming out of VC each year"
+        },
+        {
+          "timestamp_seconds": 212,
+          "description": "Mention of family offices and high net worth individuals as potential buyers in secondary markets"
+        },
+        {
+          "timestamp_seconds": 289,
+          "description": "Founders don't want to be under a microscope and prefer the freedom of being private"
+        },
+        {
+          "timestamp_seconds": 923,
+          "description": "Concerns about destabilization when creating trillions of dollars in private value and leaving 80% of America behind"
+        },
+        {
+          "timestamp_seconds": 1070,
+          "description": "Discussion on secondary markets and exit liquidity for VCs"
+        },
+        {
+          "timestamp_seconds": 1415,
+          "description": "Long-only mutual funds looking to allocate to private markets"
+        },
+        {
+          "timestamp_seconds": 1653,
+          "description": "Warning about high valuations and potential bubble"
+        },
+        {
+          "timestamp_seconds": 1948,
+          "description": "Guests discuss potential private company investments"
+        },
+        {
+          "timestamp_seconds": 2131,
+          "description": "Discussion on ARIA and DriveNets' approach to networking"
+        },
+        {
+          "timestamp_seconds": 2181,
+          "description": "Jason mentions his investment thesis, including space and Uber 2.0"
+        }
+      ],
+      "notable_mentions": [
+        "SpaceX",
+        "Anthropic",
+        "OpenAI",
+        "Schwab",
+        "NYSE",
+        "Plaud",
+        "Facebook",
+        "Mark Zuckerberg",
+        "Elon Musk",
+        "ARIA",
+        "DriveNets",
+        "Neuro Robotics",
+        "VAST",
+        "Zipline",
+        "Uber",
+        "EY",
+        "Revolut",
+        "Coinbase",
+        "Robin Hood"
+      ]
     },
     {
       "id": "2026-06-06-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-p",
@@ -1195,14 +1708,128 @@
       "url": "https://allinchamathjason.libsyn.com/the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel",
       "youtube_url": "https://www.youtube.com/watch?v=jLICvWE7w2Q",
       "youtube_video_id": "jLICvWE7w2Q",
-      "summary": "",
-      "takeaways": [],
-      "quotes": [],
-      "topics": [],
-      "guests": [],
-      "sentiment": {},
-      "notable_moments": [],
-      "notable_mentions": []
+      "summary": "The All-In Podcast discusses the IPO comeback with CEOs Andrew Feldman and Will Marshall, covering topics such as going public, AI, space data centers, and the future of silicon. The conversation highlights the potential of space technology and AI silicon, with notable mentions of companies like Cerebras, Planet Labs, and NVIDIA. The discussion also touches on the importance of liquidity and the role of venture capital in the public markets.",
+      "takeaways": [
+        {
+          "text": "Cerebras' IPO was a challenging process due to CFIUS questions, but ultimately successful with a 50-60 billion dollar market cap",
+          "timestamp_seconds": 331
+        },
+        {
+          "text": "Planet Labs' stock has gone from $5 to $50 a share in 12 months, with 60% of revenue coming from military customers",
+          "timestamp_seconds": 692
+        },
+        {
+          "text": "Most compute will be put in space within 10 years, which will be a trillion-dollar industry",
+          "timestamp_seconds": 1062
+        },
+        {
+          "text": "Cerebras' AI silicon is 15-18 times faster than a GPU",
+          "timestamp_seconds": 1433
+        },
+        {
+          "text": "Planet Labs' investors captured 90% of the company's value after it went public",
+          "timestamp_seconds": 1523
+        },
+        {
+          "text": "Historically, more money is made after IPO than before",
+          "timestamp_seconds": 1659
+        },
+        {
+          "text": "Space-based data centers could become viable with launch costs decreasing, potentially making them cheaper than traditional data centers",
+          "timestamp_seconds": 938
+        },
+        {
+          "text": "The miniaturization of satellites has reduced costs and increased capabilities, similar to the mainframe to desktop revolution",
+          "timestamp_seconds": 766
+        }
+      ],
+      "quotes": [
+        {
+          "text": "We love solving hard problems",
+          "speaker": "Andrew Feldman",
+          "timestamp_seconds": 451
+        },
+        {
+          "text": "It's a wide variety of use cases",
+          "speaker": "Will Marshall",
+          "timestamp_seconds": 671
+        },
+        {
+          "text": "We're not good at building clusters in space",
+          "speaker": "Andrew Feldman",
+          "timestamp_seconds": 1112
+        },
+        {
+          "text": "The public markets may be shifting back to companies going public sooner",
+          "speaker": "Will Marshall",
+          "timestamp_seconds": 1782
+        }
+      ],
+      "topics": [
+        "ipo",
+        "ai",
+        "space-data-centers",
+        "silicon",
+        "satellites",
+        "space-technology",
+        "venture-capital",
+        "liquidity"
+      ],
+      "guests": [
+        "Andrew Feldman",
+        "Will Marshall",
+        "Brad Gerstner"
+      ],
+      "sentiment": {
+        "overall": "optimistic",
+        "notes": "The conversation is optimistic about the future of space technology and AI silicon, with a focus on the potential for growth and innovation in these areas."
+      },
+      "notable_moments": [
+        {
+          "timestamp_seconds": 137,
+          "description": "Introduction of Andrew Feldman and Will Marshall"
+        },
+        {
+          "timestamp_seconds": 493,
+          "description": "Discussion of Planet Labs' stock performance"
+        },
+        {
+          "timestamp_seconds": 803,
+          "description": "Discussion of space-based data centers"
+        },
+        {
+          "timestamp_seconds": 926,
+          "description": "Study on costs of data centers on the ground vs in space"
+        },
+        {
+          "timestamp_seconds": 1051,
+          "description": "Discussion on space technology and its potential impact on the industry"
+        },
+        {
+          "timestamp_seconds": 1489,
+          "description": "Conversation about the journey for investors in companies going public"
+        },
+        {
+          "timestamp_seconds": 1873,
+          "description": "Excitement about the future of AI and space technology"
+        }
+      ],
+      "notable_mentions": [
+        "Cerebras",
+        "Planet Labs",
+        "SpaceX",
+        "Starlink",
+        "OneWeb",
+        "Google",
+        "NVIDIA",
+        "AMD",
+        "EY",
+        "NYSE",
+        "Plaud",
+        "Elon Musk",
+        "Capricorn",
+        "Founders Fund"
+      ]
     },
     {
       "id": "2026-06-05-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back",
@@ -43021,6 +43648,6 @@
     ],
     "episode_count": 377
   },
-  "brief_markdown": "# Weekly Brief - 2026-06-20\n\n**Latest episode:** World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal - 2026-06-19\n\n## What this episode covered\nThe All-In Podcast discusses various topics including the formation of a new oligarchy in the US, SpaceX's record-breaking IPO, Anthropic's Fable ban, and the Iran peace deal. The hosts also touch on the importance of capitalism, free markets, and self-regulation in the AI industry. The conversation revolves around the potential risks and implications of these events and the need for a set of standards in the AI industry.\n\n## Top takeaways\n- The new oligarchs are taking control of the US economy and eroding individual liberties [▶ 2:39](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=159s)\n- Elon Musk's net worth increased due to SpaceX's IPO, but he doesn't have more cash than before [▶ 18:47](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=1127s)\n- Anthropic's Fable model was shut down due to a jailbreak, which raised security concerns [▶ 33:44](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=2024s)\n- Dario Amodei convinced key officials in the Biden administration that AI was extremely dangerous and needed to be controlled by the government [▶ 1:06:06](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=3966s)\n- Isolating dictators and waiting them out is often a better approach than starting full-scale wars [▶ 1:21:52](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=4912s)\n- The US has successfully contained North Korea for a long time [▶ 1:22:19](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=4939s)\n- Enforcing democracy in the Middle East is not feasible, and the people must lead their own revolution [▶ 1:23:03](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=4983s)\n- The Iran peace deal may not be worth the risk and cost of the conflict [▶ 1:21:15](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=4875s)\n\n## Notable quotes\n> \"The new oligarchs are taking their seats\" - David Sacks [▶ 2:39](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=159s)\n> \"Human agency is limitless\" - Chamath Palihapitiya [▶ 7:42](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=462s)\n> \"Wealth is created by building machines that make things people want\" - David Sacks [▶ 20:01](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=1201s)\n> \"Let people buy private company stock, it's crazy that we still have this rule keeping poor people poor\" - Jason Calacanis [▶ 30:26](https://www.youtube.com/watch?v=3Amlu4y94Ho&t=1826s)\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` - mentioned in 41 episodes\n- `economy` - mentioned in 40 episodes\n- `politics` - mentioned in 38 episodes\n- `us-politics` - mentioned in 28 episodes\n- `openai` - mentioned in 25 episodes\n- `big-tech` - mentioned in 23 episodes\n- `venture-capital` - mentioned in 22 episodes\n- `inflation` - mentioned in 21 episodes\n- `elon-musk` - mentioned in 20 episodes\n- `ai` - mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-06-20 from 391 episodes_",
-  "generated_at": "2026-06-20T06:52:28.138657+00:00"
+  "brief_markdown": "# Weekly Brief - 2026-06-27\n\n**Latest episode:** Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter - 2026-06-26\n\n## What this episode covered\nThe All-In Podcast discusses the socialist sweep in NYC congressional primaries, the rise of socialism in the US, and the progress of Chinese open-source AI models. The hosts also cover the future of data centers, the challenges of standing up new data centers, and the potential for orbital compute. Additionally, they talk about recent IPOs, including SpaceX and Cerebrus, and how the market will absorb the new inventory.\n\n## Top takeaways\n- Mamdani-endorsed socialists sweep congressional primaries in NYC [▶ 1:03](https://www.youtube.com/watch?v=w8ah_tA0yfg&t=63s)\n- The DSA's voting base consists of relatively wealthy, white liberals who are downwardly mobile. [▶ 18:37](https://www.youtube.com/watch?v=w8ah_tA0yfg&t=1117s)\n- China's GLM 5.2 model is now as good as the currently available models from OpenAI and Anthropic [▶ 54:41](https://www.youtube.com/watch?v=w8ah_tA0yfg&t=3281s)\n- Micron's earnings smash expectations, with revenue up 9 billion to 42 billion, and their stock is up 10x [▶ 1:02:06](https://www.youtube.com/watch?v=w8ah_tA0yfg&t=3726s)\n- Anthropic is valued at $3 trillion [▶ 1:28:30](https://www.youtube.com/watch?v=w8ah_tA0yfg&t=5310s)\n- Standing up a new data center can take 2-3 years and cost $35 billion in semiconductors and $25 billion in power and cooling equipment [▶ 1:11:53](https://www.youtube.com/watch?v=w8ah_tA0yfg&t=4313s)\n- Dario Amodei's strategy may have been to provoke the US government into regulating AI, giving Anthropic a regulatory moat [▶ 55:20](https://www.youtube.com/watch?v=w8ah_tA0yfg&t=3320s)\n- Israel has a PR problem and needs a young, fluent spokesperson [▶ 38:51](https://www.youtube.com/watch?v=w8ah_tA0yfg&t=2331s)\n\n## Notable quotes\n> \"We've lost the script\" - Chamath Palihapitiya [▶ 3:17](https://www.youtube.com/watch?v=w8ah_tA0yfg&t=197s)\n> \"AI is the greatest economic leveler\" - Chamath Palihapitiya [▶ 3:32](https://www.youtube.com/watch?v=w8ah_tA0yfg&t=212s)\n> \"I think the DSA is is dangerous\" - Gavin Baker [▶ 19:01](https://www.youtube.com/watch?v=w8ah_tA0yfg&t=1141s)\n> \"It's brain rot for real.\" - Travis Kalanick [▶ 27:06](https://www.youtube.com/watch?v=w8ah_tA0yfg&t=1626s)\n\n## Trend check across the whole archive\n**Most-discussed topics overall:**\n- `ai-safety` - mentioned in 41 episodes\n- `economy` - mentioned in 40 episodes\n- `politics` - mentioned in 38 episodes\n- `us-politics` - mentioned in 28 episodes\n- `openai` - mentioned in 25 episodes\n- `big-tech` - mentioned in 23 episodes\n- `venture-capital` - mentioned in 22 episodes\n- `inflation` - mentioned in 21 episodes\n- `elon-musk` - mentioned in 20 episodes\n- `ai` - mentioned in 19 episodes\n\n**Most frequent non-host guests:**\n- Brad Gerstner (14 appearances)\n- Gavin Baker (7 appearances)\n- Elon Musk (5 appearances)\n- Antonio Gracias (5 appearances)\n- Brian Armstrong (4 appearances)\n\n**Recent tone trajectory:**\n- 2026-05-01: mixed\n- 2026-05-08: mixed\n- 2026-05-10: optimistic\n- 2026-05-12: optimistic\n- 2026-05-15: mixed\n- 2026-05-22: mixed\n\n---\n_Generated 2026-06-27 from 393 episodes_",
+  "generated_at": "2026-06-27T06:30:43.958178+00:00"
 }
